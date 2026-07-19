@@ -1,0 +1,5 @@
+config.json
+scraper.log
+scraper.lock
+launchd.out.log
+launchd.err.log
