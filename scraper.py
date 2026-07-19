@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Escanea los diarios de La Pampa cada 5 minutos y avisa por WhatsApp (CallMeBot) las notas nuevas."""
 
+import html
 import json
 import logging
 import os
@@ -44,7 +45,6 @@ SITES = [
     {"name": "Radio Kermes", "url": "https://www.radiokermes.com/", "method": "html"},
     {"name": "En Boca de Todos HD", "url": "https://www.enbocadetodoshd.com.ar/", "method": "html"},
     {"name": "Mará Codigital", "url": "https://www.maracodigital.net/sitemap.xml", "method": "sitemap"},
-    {"name": "La Reforma", "url": "https://www.lareforma.com.ar/", "method": "html"},
 ]
 
 BAD_PATH_KEYWORDS = [
@@ -110,11 +110,11 @@ def clean_query(query):
     return urllib.parse.urlencode(kept)
 
 
-def extract_html_links(base_url, html):
+def extract_html_links(base_url, page_html):
     parser = LinkExtractor()
-    parser.feed(html)
+    parser.feed(page_html)
     site_netloc = urllib.parse.urlparse(base_url).netloc.replace("www.", "")
-    found = set()
+    found = {}
     for href in parser.hrefs:
         absolute = urllib.parse.urljoin(base_url, href)
         parsed = urllib.parse.urlparse(absolute)
@@ -123,29 +123,60 @@ def extract_html_links(base_url, html):
         if not looks_like_article(parsed.path, parsed.query):
             continue
         clean = parsed._replace(query=clean_query(parsed.query), fragment="").geturl()
-        found.add(clean)
+        found[clean] = None  # el titulo se busca al momento de enviar
     return found
 
 
 def extract_rss_links(xml_text):
-    found = set()
+    found = {}
     try:
         root = ET.fromstring(xml_text)
     except ET.ParseError:
         return found
-    for link_el in root.iter():
-        tag = link_el.tag.split("}")[-1]
-        if tag == "link":
-            text = (link_el.text or "").strip()
-            href = link_el.attrib.get("href", "").strip()
-            url = text or href
-            if not url.startswith("http"):
-                continue
-            path = urllib.parse.urlparse(url).path
-            if path.rstrip("/") in ("", "/feed", "/index.php/feed"):
-                continue  # link del canal/feed, no de una nota
-            found.add(url)
+    for item_el in root.iter():
+        tag = item_el.tag.split("}")[-1]
+        if tag not in ("item", "entry"):
+            continue
+        title = None
+        url = None
+        for child in item_el:
+            child_tag = child.tag.split("}")[-1]
+            if child_tag == "title" and child.text:
+                title = child.text.strip()
+            elif child_tag == "link":
+                url = (child.text or "").strip() or child.attrib.get("href", "").strip()
+        if not url or not url.startswith("http"):
+            continue
+        path = urllib.parse.urlparse(url).path
+        if path.rstrip("/") in ("", "/feed", "/index.php/feed"):
+            continue  # link del canal/feed, no de una nota
+        found[url] = title
     return found
+
+
+def fetch_title(url):
+    try:
+        page = fetch(url)
+    except Exception:
+        return None
+    match = re.search(
+        r'<meta[^>]+property=["\']og:title["\'][^>]+content=["\']([^"\']*)["\']', page, re.IGNORECASE
+    )
+    if not match:
+        match = re.search(
+            r'<meta[^>]+content=["\']([^"\']*)["\'][^>]+property=["\']og:title["\']', page, re.IGNORECASE
+        )
+    if match:
+        title = match.group(1)
+    else:
+        match2 = re.search(r"<title[^>]*>(.*?)</title>", page, re.IGNORECASE | re.DOTALL)
+        title = match2.group(1) if match2 else None
+    if not title:
+        return None
+    title = html.unescape(title).strip()
+    # varios sitios agregan " - Nombre del sitio" o " | Nombre del sitio" al final del <title>
+    title = re.sub(r"\s+[-|]\s+[^-|]{3,40}$", "", title).strip()
+    return title or None
 
 
 def extract_sitemap_links(url, depth=0, max_subsitemaps=5):
@@ -167,18 +198,20 @@ def extract_sitemap_links(url, depth=0, max_subsitemaps=5):
 
 
 def get_candidate_links(site):
+    """Devuelve {url: titulo_o_None}. El titulo solo viene resuelto para RSS;
+    para sitemap/html se busca despues, unicamente para los links que resulten nuevos."""
     method = site["method"]
     url = site["url"]
     if method == "html":
-        html = fetch(url)
-        return extract_html_links(url, html)
+        page_html = fetch(url)
+        return extract_html_links(url, page_html)
     if method == "rss":
         xml_text = fetch(url)
         return extract_rss_links(xml_text)
     if method == "sitemap":
         links = extract_sitemap_links(url)
-        return {u for u in links if looks_like_article(urllib.parse.urlparse(u).path)}
-    return set()
+        return {u: None for u in links if looks_like_article(urllib.parse.urlparse(u).path)}
+    return {}
 
 
 def load_json(path, default):
@@ -258,7 +291,7 @@ def main():
             is_first_run = name not in seen
             site_seen = seen.get(name, {})
             site_seen_urls = set(site_seen.keys())
-            new_links = candidates - site_seen_urls
+            new_links = set(candidates.keys()) - site_seen_urls
 
             if is_first_run:
                 logging.info("%s: baseline inicial con %d links (sin avisos)", name, len(candidates))
@@ -270,11 +303,11 @@ def main():
             else:
                 for link in sorted(new_links):
                     if link not in queued_urls:
-                        queue.append({"site": name, "url": link, "attempts": 0})
+                        queue.append({"site": name, "url": link, "title": candidates.get(link), "attempts": 0})
                         queued_urls.add(link)
                         logging.info("Encolado: %s -> %s", name, link)
 
-            for url in candidates - site_seen_urls:
+            for url in new_links:
                 site_seen[url] = now
 
             if len(site_seen) > MAX_SEEN_PER_SITE:
@@ -294,7 +327,10 @@ def main():
             if stop_sending:
                 remaining_queue.append(item)
                 continue
-            text = f"{item['site']}: {item['url']}"
+            if not item.get("title"):
+                item["title"] = fetch_title(item["url"])  # se cachea en la cola para no reintentar el fetch
+            title = item.get("title")
+            text = f"{title}\n{item['url']}" if title else f"{item['site']}: {item['url']}"
             try:
                 send_whatsapp(config, text)
                 messages_sent += 1
