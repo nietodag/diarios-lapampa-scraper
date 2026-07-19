@@ -16,6 +16,7 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent
 CONFIG_PATH = BASE_DIR / "config.json"
 SEEN_PATH = BASE_DIR / "seen_store.json"
+QUEUE_PATH = BASE_DIR / "pending_queue.json"
 LOG_PATH = BASE_DIR / "scraper.log"
 LOCK_PATH = BASE_DIR / "scraper.lock"
 
@@ -24,6 +25,11 @@ REQUEST_TIMEOUT = 12
 MAX_NEW_PER_SITE = 15  # si supera esto, se asume rediseño del sitio y se re-baselinea sin mandar mensajes
 MAX_SEEN_PER_SITE = 20000
 SEND_DELAY_SECONDS = 4  # margen entre mensajes de WhatsApp para no saturar CallMeBot
+MAX_SEND_ATTEMPTS = 20  # si un link falla siempre (no solo por limite de tasa), se descarta tras estos intentos
+
+
+class CallMeBotError(Exception):
+    pass
 
 SITES = [
     {"name": "Pampa Diario", "url": "https://www.pampadiario.com/", "method": "html"},
@@ -201,7 +207,10 @@ def send_whatsapp(config, text):
     api_url = f"https://api.callmebot.com/whatsapp.php?phone={phone}&text={message}&apikey={apikey}"
     req = urllib.request.Request(api_url, headers={"User-Agent": USER_AGENT})
     with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT) as resp:
-        return resp.read().decode("utf-8", errors="ignore")
+        body = resp.read().decode("utf-8", errors="ignore")
+    if "error" in body.lower():
+        raise CallMeBotError(body.strip())
+    return body
 
 
 def main():
@@ -231,7 +240,8 @@ def main():
         # seen[name] es {url: timestamp_primera_vez_visto} para poder recortar
         # el historico por antiguedad real (un set no preserva orden de insercion).
         seen = load_json(SEEN_PATH, {})
-        messages_sent = 0
+        queue = load_json(QUEUE_PATH, [])
+        queued_urls = {item["url"] for item in queue}
         now = time.time()
 
         for site in SITES:
@@ -259,13 +269,10 @@ def main():
                 )
             else:
                 for link in sorted(new_links):
-                    try:
-                        send_whatsapp(config, f"{name}: {link}")
-                        messages_sent += 1
-                        logging.info("Enviado: %s -> %s", name, link)
-                        time.sleep(SEND_DELAY_SECONDS)
-                    except Exception as exc:
-                        logging.warning("Error enviando WhatsApp (%s): %s", link, exc)
+                    if link not in queued_urls:
+                        queue.append({"site": name, "url": link, "attempts": 0})
+                        queued_urls.add(link)
+                        logging.info("Encolado: %s -> %s", name, link)
 
             for url in candidates - site_seen_urls:
                 site_seen[url] = now
@@ -278,8 +285,39 @@ def main():
 
             seen[name] = site_seen
 
+        # Envio de la cola: si un mensaje falla (p.ej. limite de CallMeBot alcanzado),
+        # se corta el intento por esta corrida y se reintenta en la proxima (5 min despues).
+        messages_sent = 0
+        remaining_queue = []
+        stop_sending = False
+        for item in queue:
+            if stop_sending:
+                remaining_queue.append(item)
+                continue
+            text = f"{item['site']}: {item['url']}"
+            try:
+                send_whatsapp(config, text)
+                messages_sent += 1
+                logging.info("Enviado: %s -> %s", item["site"], item["url"])
+                time.sleep(SEND_DELAY_SECONDS)
+            except Exception as exc:
+                item["attempts"] = item.get("attempts", 0) + 1
+                if item["attempts"] >= MAX_SEND_ATTEMPTS:
+                    logging.warning(
+                        "Descartado tras %d intentos fallidos (%s): %s",
+                        item["attempts"], item["url"], exc,
+                    )
+                    continue
+                logging.warning("No se pudo enviar (se reintenta despues): %s (%s)", item["url"], exc)
+                remaining_queue.append(item)
+                stop_sending = True
+
         SEEN_PATH.write_text(json.dumps(seen, ensure_ascii=False, indent=2))
-        logging.info("Corrida completa. Mensajes enviados: %d", messages_sent)
+        QUEUE_PATH.write_text(json.dumps(remaining_queue, ensure_ascii=False, indent=2))
+        logging.info(
+            "Corrida completa. Mensajes enviados: %d. En cola para despues: %d",
+            messages_sent, len(remaining_queue),
+        )
     finally:
         LOCK_PATH.unlink(missing_ok=True)
 
