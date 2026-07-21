@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/espectaculos/77509/claudia-villafane-hablo-del-llanto-de-messi--la-vivi-en-el-90",
     "title": "Claudia Villafa&ntilde;e habl&oacute; del llanto de Messi: \"La viv&iacute; en el 90?",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "site": "El Diario de La Pampa",
@@ -194,6 +194,342 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/salud/2026/7/21/advierten-por-posibles-contagios-de-sarampion-tras-los-viajes-al-mundial-120684.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=81789",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=81828",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=81831",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=81832",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/07/21/el-fiscal-remarco-que-el-empresario-acusado-de-estafar-a-una-agropecuaria-piquense-por-130-millones-de-pesos-se-desprendio-de-todos-sus-bienes-para-no-pagar/",
+    "title": "El fiscal remarcó que el  empresario acusado de estafar a una agropecuaria piquense por 130 millones de pesos: «Se desprendió de todos sus bienes para no pagar»",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/07/21/ley-de-bosques-la-provincia-entrego-nuevos-aportes-a-productores-para-el-manejo-sustentable-y-la-prevencion-de-incendios/",
+    "title": "Ley de Bosques: la Provincia entregó nuevos aportes a productores para el manejo sustentable y la prevención de incendios",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/07/21/mas-anos-mejor-movimiento-los-nuevos-abordajes-que-permiten-operar-con-exito-a-pacientes-mayores-de-90-anos/",
+    "title": "Más años, mejor movimiento: los nuevos abordajes que permiten operar con éxito a pacientes mayores de 90 años",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/la-campana-antiargentina-llego-al-congreso-de-ee-uu-impulsada-por-una-democrata-202672118530",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/venezuela-convoca-a-familiares-de-victimas-de-terremotos-para-pruebas-de-adn-202672120390",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/el-dolar-oficial-cayo-tras-cinco-jornadas-pero-se-mantuvo-cerca-de-los-1-480-202672118200",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/juez-declaro-inconstitucional-la-decision-de-caputo-de-ocultar-los-precios-de-los-combustibles-202672117210",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/la-justicia-de-eeuu-confirmo-condena-a-argentina-por-aerolineas-y-pagara-u-s-400-millones-202672119570",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/ravier-dice-que-los-salarios-crecen-pero-los-datos-del-indec-lo-desmienten-202672117370",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/abdo-participo-de-encuentro-de-seguridad-social-en-madrid-202672117480",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/catrilo-piden-al-ejecutivo-informar-sobre-los-controles-sanitarios-por-triquinosis-202672117330",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/empresa-de-logistica-de-vaca-muerta-se-instalara-en-santa-rosa-202672118140",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/investigan-presunto-incendio-intencional-de-un-auto-202672119200",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/la-fiesta-del-agricultor-se-realizara-en-dos-fines-de-semana-202672120110",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/raimundi-destaco-el-reclamo-por-malvinas-en-el-mundial-lo-de-la-bandera-fue-extraordinario-202672119270",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/vaca-muerta-un-informe-detecta-problemas-en-infraestructura-nacional-202672119370",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/doctor-de-la-region-fue-distinguido-como-maestro-de-la-patologia-202672119550",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/emitieron-alerta-meteorologica-por-nevada-para-la-region-20267211980",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/economia/vaca-muerta-el-rigi-pampa-energia-y-vista-aceleran-inversiones-us-10300-millones-n5425252",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/agustin-romo-presento-un-proyecto-arancelar-salud-y-educacion-extranjeros-buenos-aires-n5425258",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-segundo-semestre-kicillof-visita-siete-provincias-viaje-china-y-dos-temas-clave-n5425251",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/karina-milei-reunio-la-mesa-politica-una-foto-vale-mas-que-mil-palabras-n5425253",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/llega-el-embajador-del-vaticano-y-empieza-definirse-la-visita-leon-xiv-la-argentina-n5425256",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/77515/el-chiche-futurista-de-catoni--la-cybertruck-que-sorprendio-en-santa-rosa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/77516/di-napoli-y-la-llegada-de-lac--preparamos-la-ciudad-para-esto",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/77517/el-grupo-lac-se-instala-en-santa-rosa--creara-mas-de-90-puestos-de-trabajo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/77519/privatizacion-de-rutas-nacionales--22-empresas-compiten-por-quedarse-con-la-tercera-etapa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/77520/la-agencia-moodys-mejoro-la-calificacion-de-la-argentina",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/salud/77513/las-5-infusiones-que-ayudan-a-aliviar-la-tos-y-combatir-los-resfrios",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/salud/77514/la-verdad-sobre-las-bebidas-energeticas--que-le-hacen-realmente-a-tu-cuerpo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/salud/77518/psoriasis--senales-tratamiento-y-el-papel-de-la-alimentacion",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/21/abdo-expuso-en-espana-sobre-el-modelo-productivo-de-la-caja-forense-de-la-pampa/",
+    "title": "Abdo expuso en España sobre el modelo productivo de la Caja Forense de La Pampa",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/21/entregaron-fondos-a-productores-para-el-manejo-sustentable-del-bosque-nativo-2/",
+    "title": "Entregaron fondos a productores para el manejo sustentable del bosque nativo",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/21/grupo-lac-se-instalara-en-santa-rosa-y-generara-mas-de-90-puestos-de-trabajo/",
+    "title": "Grupo LAC se instalará en Santa Rosa y generará más de 90 puestos de trabajo",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/21/infantino-reconocio-a-la-seleccion-argentina-tras-el-mundial/",
+    "title": "Infantino reconoció a la Selección argentina tras el Mundial",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/21/javier-villalba-compartira-la-cultura-ranquel-en-el-museo-provincial-de-historia-natural/",
+    "title": "Javier Villalba compartirá la cultura ranquel en el Museo Provincial de Historia Natural",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/21/kueider-volvera-a-presentarse-ante-la-justicia-de-paraguay-por-presunto-lavado-de-dinero/",
+    "title": "Kueider volverá a presentarse ante la Justicia de Paraguay por “presunto lavado de dinero”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/21/la-justicia-de-ee-uu-obliga-a-la-argentina-a-pagar-usd-390-millones-por-la-nacionalizacion-de-aerolineas/",
+    "title": "La Justicia de EE. UU. obliga a la Argentina a pagar USD 390 millones por la nacionalización de Aerolíneas",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/21/vacaciones-de-invierno-llega-el-festival-crea-tu-propia-historia/",
+    "title": "Vacaciones de invierno: Llega el festival “Crea tu propia historia”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/21/vecinos-del-lowo-che-celebro-por-las-nuevas-obras-es-la-respuesta-a-una-demanda-historica/",
+    "title": "Vecinos del Lowo Che celebró por las nuevas obras: “Es la respuesta a una demanda histórica”",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/07/21/buscan-90-empleados-se-instala-empresa-de-logistica-en-santa-rosa/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/07/21/francia-aprobo-la-prohibicion-de-las-redes-sociales-a-los-menores-de-15-anos/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/07/21/lowo-che-y-las-obras-de-agua-potable-y-cloacas-la-respuesta-a-una-demanda-historica/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/07/21/ravier-tenia-las-respuestas-a-las-preguntas-y-se-equivoco-me-confundi-de-discurso/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/deportes/2026/7/21/la-nadadora-piquense-analuz-pellitero-tuvo-una-actuacion-sobresaliente-en-los-ii-juegos-parasuramericanos-en-colombia-logro-medallas-120693.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/espectaculos/2026/7/21/multicompras-ya-lanza-promos-para-el-dia-del-nino-castillo-de-princesa-52778-auto-con-munecos-24500-kit-para-armar-brazaletes-20000-video-120701.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/7/21/espectacular-choque-entre-un-auto-un-utilitario-importantes-danos-una-mujer-asistida-por-el-sem-video-120705.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/7/21/necrologicas-general-pico-120702.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/municipales/2026/7/21/ultimos-dias-para-acceder-al-30-de-descuento-en-el-plan-de-regularizacion-de-deudas-120694.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/7/21/carlos-mac-allister-le-pregunte-alexis-si-habia-pasado-algo-me-dijo-que-hablaron-de-salir-jugar-que-eso-era-lo-que-se-referia-messi-video-120704.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/7/21/el-impresionante-chiche-de-catoni-una-tesla-cybertruck-en-santa-rosa-video-120706.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/7/21/una-cabana-pampeana-volvio-imponerse-en-la-exposicion-rural-de-palermo-120699.html",
     "title": null,
     "attempts": 0
   }
