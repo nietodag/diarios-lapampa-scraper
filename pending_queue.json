@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/espectaculos/77509/claudia-villafane-hablo-del-llanto-de-messi--la-vivi-en-el-90",
     "title": "Claudia Villafa&ntilde;e habl&oacute; del llanto de Messi: \"La viv&iacute; en el 90?",
-    "attempts": 3
+    "attempts": 4
   },
   {
     "site": "El Diario de La Pampa",
@@ -620,6 +620,288 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/7/21/estamos-aqui-cumpliendo-con-la-palabra-afirmo-ziliotto-120695.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=81821",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=81830",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/07/22/alexis-mac-allister-en-la-pampa-su-madre-da-detalles-sobre-la-posible-visita/",
+    "title": "¿Alexis Mac Allister en La Pampa? Su madre da detalles sobre la posible visita",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/07/22/guillermina-tiramonti-hay-un-acuerdo-tacito-donde-unos-simulan-aprender-y-otros-simulan-ensenar/",
+    "title": "Guillermina Tiramonti: «Hay un acuerdo tácito donde unos simulan aprender y otros simulan enseñar»",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/07/22/horoscopo-de-hoy-miercoles-22-de-julio/",
+    "title": "Horóscopo de hoy, miércoles 22 de julio",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/07/22/reto-del-dia-pocos-usuarios-son-capaces-de-superar-este-acertijo-matematico-en-6-segundos-2/",
+    "title": "Reto del día: pocos usuarios son capaces de superar este acertijo matemático en 6 segundos",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/07/22/torneo-entre-amigos-en-general-pico-posiciones-finales-resultados-y-los-cruces-definitorios/",
+    "title": "Torneo Entre Amigos en General Pico: Posiciones finales, resultados y los cruces definitorios",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/el-clausura-con-arbitros-confirmados-20267220430",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/perdimos-porque-ellos-jugaron-mejor-20267220430",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/tigre-goleo-por-la-copa-sudamericana-20267220430",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/violento-ataque-a-hinchas-de-tigre-en-uruguay-20267227300",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/polemica-mundial-los-por-que-de-la-campana-anti-argentina-20267229550",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/una-pareja-resistio-mas-de-24-horas-en-una-camioneta-a-22-grados-bajo-cero-20267221050",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/estaba-profugo-por-una-estafa-millonaria-pero-se-entrego-pago-la-deuda-y-quedo-libre-20267229270",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/los-concejales-de-santa-rosa-tratan-en-sesion-especial-la-reforma-del-emsu-20267228560",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/alerta-meteorologica-por-nevadas-intensas-20267228100",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/el-pronostico-del-tiempo-para-hoy-en-santa-rosa-20267227300",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/mapa-interactivo-como-saber-cual-es-el-estado-de-las-rutas-en-tiempo-real-2026722990",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/termino-el-operativo-de-evacuacion-en-alta-montana-rescataron-a-42-personas-20267228350",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/la-injusta-cancelacion-la-argentina-n5425260",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/la-argentina-cancelada-no-soy-yo-sos-vos-n5425264",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/la-legislatura-neuquen-vuelve-del-receso-invernal-un-hit-y-cambios-la-justicia-n5425215",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/leonel-chiarella-y-monica-fein-cierran-filas-evitar-que-javier-milei-elimine-las-paso-n5425266",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/maximiliano-pullaro-exporta-su-modelo-carcelario-presos-alto-perfil-diez-provincias-n5425249",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/nadia-marquez-elige-polarizar-gaido-y-lo-chicanea-una-obra-clave-neuquen-capital-esta-asustado-n5425255",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/22/amanece-el-27/",
+    "title": "Amanece el 27",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/22/dato-oficial-mas-de-105-millones-de-argentinos-no-cubren-la-canasta-basica-total/",
+    "title": "Dato oficial: Más de 10,5 millones de argentinos no cubren la canasta básica total",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/22/el-concejo-trata-la-creacion-de-nuevas-gerencias-en-el-emsu/",
+    "title": "El Concejo trata la creación de nuevas gerencias en el EMSU",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/22/este-miercoles-las-cta-y-la-cgt-se-movilizan-en-defensa-de-jubilados-y-jubiladas/",
+    "title": "Este miércoles, las CTA y la CGT se movilizan en defensa de jubilados y jubiladas",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/22/la-cgt-las-cta-y-movimientos-sociales-marchan-al-congreso-junto-a-los-jubilados/",
+    "title": "La CGT, las CTA y movimientos sociales marchan al Congreso junto a los jubilados",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/22/milei-nombro-a-12-nuevos-jueces-6-conjueces-y-9-vocales/",
+    "title": "Milei nombró a 12 nuevos jueces, 6 conjueces y 9 vocales",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/22/paritaria-sectorial-reclaman-adicionales-para-un-area-y-el-uso-de-licencias-para-defensa-civil/",
+    "title": "Paritaria sectorial: Reclaman adicionales para un área y el uso de licencias para Defensa Civil",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/07/22/el-gobierno-prepara-una-ley-bases-ii-que-sectores-se-desregularian/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/07/22/impulsan-un-club-el-trueque-en-santa-rosa-este-sabado-reunion-en-la-plaza-san-martin/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/07/22/santa-rosa-el-concejo-deliberante-trata-en-sesion-especial-la-reforma-integral-del-emsu/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/30944-las-centrales-obreras-salen-a-la-calle-contra-el-ajuste-y-la-reforma-laboral",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/30945-se-instala-en-santa-rosa-una-gran-empresa-de-logistica",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/30946-ravier-hizo-agua-errores-contradicciones-y-un-relato-desmentido",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/30947-bananeada-de-ravier-el-vocero-se-desmintio-a-si-mismo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/30948-el-sindicato-grafico-busca-salir-de-la-crisis",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/30949-impulsan-un-club-del-trueque-en-santa-rosa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/30950-la-construccion-atraviesa-una-fuerte-caida-y-la-pampa-resiste-con-poca-obra-publica",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/espectaculos/2026/7/22/quevilac-bajo-el-pollo-la-caja-de-20-kg-67-mil-la-picada-de-pollo-20kg-34-mil-maples-de-huevos-por-30-mil-120710.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/mundo/2026/7/22/penso-que-hablaba-con-kevin-costner-le-transfirio-mas-de-36-millones-120713.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/7/22/caza-ilegal-doce-detenidos-30-galgos-rescatados-del-maltrato-120714.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/7/22/alexis-mac-allister-podria-visitar-la-pampa-mira-120717.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/7/22/lowo-che-celebro-las-obras-de-agua-potable-cloacas-la-respuesta-una-demanda-historica-120707.html",
     "title": null,
     "attempts": 0
   }
