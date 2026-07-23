@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/espectaculos/77509/claudia-villafane-hablo-del-llanto-de-messi--la-vivi-en-el-90",
     "title": "Claudia Villafa&ntilde;e habl&oacute; del llanto de Messi: \"La viv&iacute; en el 90?",
-    "attempts": 9
+    "attempts": 10
   },
   {
     "site": "El Diario de La Pampa",
@@ -2474,6 +2474,258 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/7/23/se-fortalece-la-infraestructura-sanitaria-con-el-avance-de-la-tercera-celda-de-residuos-biopatogenicos-en-toay-120748.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=81853",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/07/23/general-pico-piden-respetar-el-cronograma-de-recoleccion-especial-y-no-arrojar-basura-en-la-via-publica/",
+    "title": "General Pico: Piden respetar el cronograma de recolección especial y no arrojar basura en la vía pública",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/07/23/unilpa-destaco-el-apoyo-financiero-del-gobierno-para-fortalecer-a-las-pymes-y-sostener-el-empleo/",
+    "title": "UNILPa destacó el apoyo financiero del Gobierno para fortalecer a las PyMEs y sostener el empleo",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/07/23/yesica-chiqui-cantelmi-se-prepara-para-la-vuelta-ballenas-2026-es-una-experiencia-unica/",
+    "title": "Yesica “Chiqui” Cantelmi se prepara para la Vuelta Ballenas 2026: “Es una experiencia única”",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/fallecio-el-loco-santorelli-202672317380",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/ante-el-abandono-de-nacion-el-municipio-de-catriel-realiza-un-nuevo-bacheo-en-la-151-202672314240",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/ante-la-retirada-de-nacion-la-pampa-financia-becas-de-residentes-202672314360",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/asfalto-en-villa-parque-la-obra-presenta-un-avance-que-supera-el-30-202672316590",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/ceballos-presentaron-proyecto-de-presupuesto-participativo-20267231480",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/cierran-actividades-vacacionales-en-santa-isabel-202672314160",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/deudas-la-pampa-sigue-como-la-de-menor-morosidad-con-un-9-1-20267231440",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/recesion-con-milei-la-pampa-sufrio-una-caida-del-8-3-en-la-recaudacion-202672317180",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/una-joven-llevaba-drogas-en-un-bolso-y-fue-descubierta-por-la-policia-202672314300",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/el-dibu-martinez-disfruta-sus-vacaciones-familiares-en-las-sierras-202672314340",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/conurbano/intendentes-bonaerenses-reactivan-el-reclamo-la-crisis-economica-los-municipios-n5425301",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/horacio-marin-impulsa-un-split-acciones-e-ypf-luz-avanza-cotizar-wall-street-n5425288",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/opinion/una-nueva-boleta-unica-santa-fe-un-nuevo-equilibrio-institucional-n5425303",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/alberto-weretilneck-quiere-eliminar-ingresos-brutos-los-turistas-que-lleguen-rio-negro-n5425295",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/con-la-nueva-ley-toto-caputo-podria-sumarse-al-club-inocentes-fiscales-n5425300",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/encuesta-cuatro-cada-diez-personas-rechazan-javier-milei-y-al-peronismo-igual-n5425302",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/jorge-ferraresi-arranco-la-carrera-la-gobernacion-larroque-como-primer-aliado-n5425299",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/paritarias-santa-fe-ate-y-upcn-aceptaron-la-propuesta-pullaro-y-los-gremios-docentes-van-el-rechazo-n5425304",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/77625/conflicto-entre-correa-river-y-tigres-que-incluye-a-amenazas",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/77619/corte-de-luz-en-villa-santillan-por-una-poda-particular",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/77624/el-municipio-asfalta-villa-parque-y-renueva-la-plaza",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/77620/la-confianza-del-consumidor-se-desplomo-mas-de-12-en-porciento--en-julio",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/77621/caputo-enfrio-las-expectativas-sobre-un-anuncio-en-la-baja-de-las-retenciones-en-la-rural",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/77622/guerra-estados-unidos-iran--el-riesgo-pais-se-mantiene-al-alza-y-ya-supera-los-430-puntos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/77623/record--mas-de-1400000-turistas-visitaron-argentina-en-el-primer-semestre",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/23/derogacion-de-la-ley-del-libro-quieren-beneficiar-a-los-amigos-del-poder-y-a-las-grandes-empresas/",
+    "title": "Derogación de la ley del libro: “quieren beneficiar a los amigos del poder y a las grandes empresas”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/23/etcheverry-remonto-y-sello-su-boleto-a-semifinales-del-atp-de-kitzbuhel/",
+    "title": "Etcheverry remontó y selló su boleto a semifinales del ATP de Kitzbühel",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/23/mas-de-mil-familias-seran-beneficiadas-con-las-obras-de-infraestructura-en-villa-parque/",
+    "title": "Más de mil familias serán beneficiadas con las obras de infraestructura en Villa Parque",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/23/urbanismo-y-diseno-se-vienen-las-jornadas-de-arquitectura-pampeana/",
+    "title": "Urbanismo y diseño: Se vienen las Jornadas de Arquitectura Pampeana",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/07/23/nacion-se-retiro-pero-la-provincia-cubrira-las-becas-de-nuevos-residentes-en-medicina-y-enfermeria/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/30970-vialidad-advirtio-por-el-deterioro-de-las-rutas-provinciales-ante-el-aumento-del-transito-pesado",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/30971-skay-y-los-fakires-llegan-a-santa-rosa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/30972-hoteleros-y-gastronomicos-advierten-que-la-crisis-se-profundiza-en-la-pampa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/30973-solicitan-colaboracion-para-encontrar-a-emelyn-robles",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/7/23/tu-gusto-se-expande-hoy-2000-horas-inaugura-pizzeria-en-20-e-7-pedila-en-min-tenes-tu-pizza-video-120764.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/7/23/viral-una-banda-de-alta-gracia-fue-invitada-tocar-en-una-pena-termino-dando-un-show-para-un-solo-espectador-video-120758.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/7/23/importante-operativo-antidrogas-en-el-centro-de-pico-una-persona-demorada-cocaina-secuestrada-mira-120760.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/7/23/robo-de-us-250000-en-general-pico-galvagno-confirmo-que-regresaron-al-pais-los-dos-imputados-que-faltaban-presentarse-ya-se-pusieron-disposicion-de-la-justicia-120765.html",
     "title": null,
     "attempts": 0
   }
