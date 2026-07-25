@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/espectaculos/77509/claudia-villafane-hablo-del-llanto-de-messi--la-vivi-en-el-90",
     "title": "Claudia Villafa&ntilde;e habl&oacute; del llanto de Messi: \"La viv&iacute; en el 90?",
-    "attempts": 15
+    "attempts": 16
   },
   {
     "site": "El Diario de La Pampa",
@@ -4268,6 +4268,102 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/salud/2026/7/24/urgente-general-pico-piden-dadores-de-sangre-cadena-de-oracion-para-ezequiel-chirino-120818.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/07/24/extienden-la-convocatoria-para-el-iv-salon-de-arte-infantil-y-juvenil-de-general-pico/",
+    "title": "Extienden la convocatoria para el IV Salón de Arte Infantil y Juvenil de General Pico",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/07/24/la-pampa-es-finalista-en-la-categoria-sub-17-del-campeonato-argentino-de-cestoball/",
+    "title": "La Pampa es finalista en la categoría Sub 17 del Campeonato Argentino de Cestoball",
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/77710/francisco-labriola-en-el-grand-prix-ii",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/77711/racing-festejo-ante-gimnasia",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/77712/diplomaron-la-promocion-2026-de-guardavidas",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/77714/la-pampa-en-la-final-de-cadetes",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/77707/allanamientos-positivos-por-robos-de-bicicletas-de-alta-gama-en-santa-rosa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/77708/anunciaron-un-calendario-de-travesias-en-defensa-de-los-rios-pampeanos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/77709/casamientos-del-viernes-24-de-julio-por-la-noche-en-santa-rosa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/24/ravier-destaco-que-ee-uu-mantuvo-a-la-argentina-en-el-nivel-arancelario-mas-bajo-de-la-region/",
+    "title": "Ravier destacó que EE.UU. mantuvo a la Argentina en el nivel arancelario más bajo de la región",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/07/24/la-camara-del-libro-rechazo-el-proyecto-para-derogar-la-ley-de-defensa-de-la-actividad-librera/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/7/25/fatal-accidente-en-una-localidad-de-la-ruta-5-un-camionero-murio-al-ser-atropellado-por-su-vehiculo-120824.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/7/25/inhumano-golpearon-brutalmente-un-matrimonio-de-jubilados-les-robaron-todos-sus-ahorros-me-molieron-palos-video-120826.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/7/24/video-retiraron-la-amarok-que-permanecia-sumergida-tras-el-siniestro-vial-en-el-bajo-giuliani-120819.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/7/25/crece-el-rechazo-nuevos-peajes-en-la-ruta-mientras-sigue-pendiente-la-autovia-120823.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/7/25/vialidad-nacional-realizara-una-nueva-revision-del-puente-entre-la-adela-rio-colorado-120825.html",
     "title": null,
     "attempts": 0
   }
