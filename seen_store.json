@@ -128,7 +128,11 @@
     "https://www.pampadiario.com/single-post.php?id=81928": 1785339279.7935073,
     "https://www.pampadiario.com/single-post.php?id=81907": 1785339279.7935073,
     "https://www.pampadiario.com/single-post.php?id=81930": 1785350641.2495956,
-    "https://www.pampadiario.com/single-post.php?id=81929": 1785350641.2495956
+    "https://www.pampadiario.com/single-post.php?id=81929": 1785350641.2495956,
+    "https://www.pampadiario.com/single-post.php?id=81918": 1785361360.3664236,
+    "https://www.pampadiario.com/single-post.php?id=81921": 1785361360.3664236,
+    "https://www.pampadiario.com/single-post.php?id=81938": 1785361360.3664236,
+    "https://www.pampadiario.com/single-post.php?id=81941": 1785361360.3664236
   },
   "Info Pico": {
     "https://www.infopico.com/2026/07/18/musica-e-inclusion-una-fundacion-de-la-pampa-organiza-un-show-con-total-accesibilidad-en-buenos-aires/": 1784416721.202942,
@@ -333,7 +337,12 @@
     "https://www.infopico.com/2026/07/29/torneo-entre-amigos-se-definieron-los-semifinalistas-en-las-tres-categorias-tras-una-intensa-jornada-de-cuartos-de-final/": 1785339279.7935073,
     "https://www.infopico.com/2026/07/29/impulsan-un-plan-para-la-regularizacion-de-cooperativas-y-mutuales-de-colectividades-en-la-pampa/": 1785350641.2495956,
     "https://www.infopico.com/2026/07/29/con-30-conciertos-en-26-localidades-comienza-una-nueva-edicion-del-coral-de-la-pampa/": 1785350641.2495956,
-    "https://www.infopico.com/2026/07/29/condenan-a-un-policia-de-toay-por-darle-una-paliza-a-un-detenido-dentro-de-la-comisaria/": 1785350641.2495956
+    "https://www.infopico.com/2026/07/29/condenan-a-un-policia-de-toay-por-darle-una-paliza-a-un-detenido-dentro-de-la-comisaria/": 1785350641.2495956,
+    "https://www.infopico.com/2026/07/29/tragedia-en-san-juan-cayo-un-helicoptero-que-se-dirigia-a-combatir-incendios-y-murieron-siete-personas/": 1785361360.3664236,
+    "https://www.infopico.com/2026/07/29/la-pampa-incorporara-educacion-financiera-en-el-secundario-es-importante-para-planificar-sus-proyectos-personales/": 1785361360.3664236,
+    "https://www.infopico.com/2026/07/29/ampliacion-del-alumbrado-publico-en-general-pico-es-de-cobro-obligatorio-aclaran-desde-corpico/": 1785361360.3664236,
+    "https://www.infopico.com/2026/07/29/educacion-convoca-a-inscripcion-para-cubrir-un-cargo-de-instructor-en-formacion-profesional-en-santa-rosa/": 1785361360.3664236,
+    "https://www.infopico.com/2026/07/29/fifa-abre-expediente-contra-la-afa-y-varios-jugadores-tras-la-final-del-mundial-2026/": 1785361360.3664236
   },
   "La Arena": {
     "https://www.laarena.com.ar/deportes/basquet-ferro-igualo-la-serie-ante-all-boys-20267188490": 1784416721.202942,
@@ -1254,7 +1263,19 @@
     "https://www.laarena.com.ar/la-pampa/con-30-conciertos-llega-la-24-edicion-del-coral-de-la-pampa-202672913210": 1785350641.2495956,
     "https://www.laarena.com.ar/la-pampa/capacitaron-a-agentes-publicos-en-salud-mental-202672913390": 1785350641.2495956,
     "https://www.laarena.com.ar/audio/leonardo-santesteban-en-el-aire-de-la-manana-del-29-07-202672912510": 1785350641.2495956,
-    "https://www.laarena.com.ar/la-pampa/convocan-a-un-paro-nacional-docente-para-el-proximo-lunes-202672914120": 1785350641.2495956
+    "https://www.laarena.com.ar/la-pampa/convocan-a-un-paro-nacional-docente-para-el-proximo-lunes-202672914120": 1785350641.2495956,
+    "https://www.laarena.com.ar/la-pampa/la-escuela-agrotecnica-de-acha-otra-vez-victima-de-un-caso-de-abigeato-202672916120": 1785361360.3664236,
+    "https://www.laarena.com.ar/la-pampa/un-piquense-detenido-por-varios-robos-en-general-villegas-202672917390": 1785361360.3664236,
+    "https://www.laarena.com.ar/la-pampa/formalizaron-al-empresario-acusado-de-estafa-tras-ofrecer-una-reparacion-de-us-100-mil-202672918320": 1785361360.3664236,
+    "https://www.laarena.com.ar/el-pais/el-senado-debatira-la-proxima-semana-el-super-rigi-20267291850": 1785361360.3664236,
+    "https://www.laarena.com.ar/deportes/fifa-investiga-a-afa-por-la-bandera-de-malvinas-exhibida-tras-el-triunfo-ante-inglaterra-20267291610": 1785361360.3664236,
+    "https://www.laarena.com.ar/el-pais/a-la-directora-del-fmi-le-digo-que-el-petroleo-que-fue-a-ver-es-argentino-202672916290": 1785361360.3664236,
+    "https://www.laarena.com.ar/la-region/una-exclusividad-mundial-podes-disfrutar-de-las-termas-mientras-ver-caer-la-nieve-202672918220": 1785361360.3664236,
+    "https://www.laarena.com.ar/el-pais/un-helicoptero-para-tareas-de-control-de-incendios-forestales-sufrio-un-siniestro-202672916550": 1785361360.3664236,
+    "https://www.laarena.com.ar/la-pampa/presentaron-a-jurados-del-festival-nacional-de-cine-202672918120": 1785361360.3664236,
+    "https://www.laarena.com.ar/el-pais/el-dolar-oficial-cayo-luego-de-11-jornadas-20267291770": 1785361360.3664236,
+    "https://www.laarena.com.ar/el-mundo/escala-el-conflicto-en-oriente-medio-arabia-saudita-se-suma-a-ataques-e-iran-responde-202672916500": 1785361360.3664236,
+    "https://www.laarena.com.ar/la-pampa/marin-impulsa-un-proyecto-para-que-el-salario-minimo-iguale-la-canasta-basica-202672917270": 1785361360.3664236
   },
   "LetraP": {
     "https://www.letrap.com.ar/politica/santiago-del-estero-el-pro-se-concentra-la-capital-y-la-banda-no-sucumbir-la-avanzada-libertaria-n5425166": 1784416721.202942,
@@ -1491,7 +1512,21 @@
     "https://www.letrap.com.ar/politica/maximo-kirchner-volvio-postular-cfk-queremos-que-sea-candidata-n5425416": 1785350641.2495956,
     "https://www.letrap.com.ar/economia/inmobiliarias-llamas-rosario-registra-el-mayor-numero-locales-comerciales-vacios-la-era-milei-n5425411": 1785350641.2495956,
     "https://www.letrap.com.ar/politica/patagonia-lejos-vaca-muerta-el-boom-poblacional-empuja-una-nueva-urbanizacion-puerto-madryn-n5425385": 1785350641.2495956,
-    "https://www.letrap.com.ar/politica/alberto-weretilneck-esperan-un-llamado-la-casa-rosada-el-traspaso-las-rutas-22-y-151-n5425414": 1785350641.2495956
+    "https://www.letrap.com.ar/politica/alberto-weretilneck-esperan-un-llamado-la-casa-rosada-el-traspaso-las-rutas-22-y-151-n5425414": 1785350641.2495956,
+    "https://www.letrap.com.ar/politica/un-fondo-buitre-aleman-reabre-una-batalla-judicial-que-axel-kicillof-daba-saldada-buenos-aires-n5425417": 1785361360.3664236,
+    "https://www.letrap.com.ar/politica/cristina-candidata-que-cfk-recurre-la-onu-poder-competir-las-elecciones-n5425423": 1785361360.3664236,
+    "https://www.letrap.com.ar/region-centro/santa-fe-un-scrum-intendentes-liberos-del-pj-quiere-tallar-la-interna-y-pelear-la-gobernacion-n5425380": 1785361360.3664236,
+    "https://www.letrap.com.ar/economia/metalfor-encendio-la-alarma-pero-la-industria-la-maquinaria-agricola-funciona-dos-velocidades-cordoba-n5425394": 1785361360.3664236,
+    "https://www.letrap.com.ar/politica/axel-kicillof-banca-el-reclamo-cfk-la-onu-pero-advierte-que-hablar-candidatura-es-prematuro-n5425420": 1785361360.3664236,
+    "https://www.letrap.com.ar/politica/karina-milei-organiza-un-congreso-lanzar-una-plataforma-electoral-bonaerense-n5425408": 1785361360.3664236,
+    "https://www.letrap.com.ar/politica/cordoba-capilla-del-monte-activa-su-agenda-el-congreso-conseguir-su-primera-fiesta-nacional-n5425419": 1785361360.3664236,
+    "https://www.letrap.com.ar/politica/cfk-2027-javier-milei-dice-que-compite-contra-si-mismo-pero-apuesta-la-division-del-peronismo-n5425418": 1785361360.3664236,
+    "https://www.letrap.com.ar/politica/para-la-fundacion-pensar-la-estabilizacion-economica-ya-no-alcanza-el-crecimiento-debe-llegar-la-poblacion-n5425424": 1785361360.3664236,
+    "https://www.letrap.com.ar/politica/encuesta-pba-axel-kicillof-supera-javier-milei-26-puntos-un-mano-mano-n5425415": 1785361360.3664236,
+    "https://www.letrap.com.ar/politica/los-intendentes-del-peronismo-tienden-puentes-organizar-el-2027-n5425413": 1785361360.3664236,
+    "https://www.letrap.com.ar/economia/clickie-lleva-su-plataforma-inteligencia-artificial-la-plata-y-prepara-su-llegada-rosario-n5425395": 1785361360.3664236,
+    "https://www.letrap.com.ar/economia/telecom-argentina-designo-cfo-manuel-garcia-diez-la-espera-la-fusion-personal-movistar-n5425409": 1785361360.3664236,
+    "https://www.letrap.com.ar/politica/tambores-guerra-jujuy-carolina-moises-se-planta-contra-todos-la-presidencia-del-pj-n5425421": 1785361360.3664236
   },
   "El Diario de La Pampa": {
     "https://www.eldiariodelapampa.com.ar/pais/77403/morosidad-en-alza--se-agrava-el-problema-y-1-de-cada-3-argentinos-con-deuda-no-puede-pagar": 1784416721.202942,
@@ -2031,7 +2066,18 @@
     "https://www.eldiariodelapampa.com.ar/la-pampa/77935/formadores-policiales-se-capacitan": 1785350641.2495956,
     "https://www.eldiariodelapampa.com.ar/la-pampa/77934/el-plan-de-alumbrado-desembarco-en-la-adela": 1785350641.2495956,
     "https://www.eldiariodelapampa.com.ar/la-pampa/77937/esta-bien-lo-que-hace-feito-no-me-gusta-que-se-hable-de-traiciones": 1785350641.2495956,
-    "https://www.eldiariodelapampa.com.ar/pais/77936/viento-blanco-panico-y-un-rescate-epico-de-mas-de-120-turistas": 1785350641.2495956
+    "https://www.eldiariodelapampa.com.ar/pais/77936/viento-blanco-panico-y-un-rescate-epico-de-mas-de-120-turistas": 1785350641.2495956,
+    "https://www.eldiariodelapampa.com.ar/pais/77949/el-senado-debatira-el-super-rigi-la-proxima-semana": 1785361360.3664236,
+    "https://www.eldiariodelapampa.com.ar/pais/77940/los-detalles-de-la-agenda-de-javier-milei-entre-el-bcra-y-corea-del-sur": 1785361360.3664236,
+    "https://www.eldiariodelapampa.com.ar/pais/77943/los-docentes-anunciaron-un-plan-de-lucha-desde-el-lunes-proximo": 1785361360.3664236,
+    "https://www.eldiariodelapampa.com.ar/pais/77944/la-morosidad-entre-jubilados-casi-se-triplico-en-un-ano-y-ya-afecta-a-450000-personas": 1785361360.3664236,
+    "https://www.eldiariodelapampa.com.ar/pais/77947/palermo--operativo-por-una-amenaza-de-bomba-en-la-embajada-de-estados-unidos": 1785361360.3664236,
+    "https://www.eldiariodelapampa.com.ar/la-pampa/77945/un-motociclista-herido-por-un-choque-en-santa-rosa": 1785361360.3664236,
+    "https://www.eldiariodelapampa.com.ar/pais/77942/por-que-bajan-las-tasas-de-los-depositos-pero-las-de-los-prestamos-no-aflojan": 1785361360.3664236,
+    "https://www.eldiariodelapampa.com.ar/pais/77950/el-helicoptero-de-la-tragedia-realizo-un-tour-con-periodistas-el-dia-anterior": 1785361360.3664236,
+    "https://www.eldiariodelapampa.com.ar/pais/77948/quienes-son-las-victimas-fatales-del-helicoptero-caido-en-san-juan": 1785361360.3664236,
+    "https://www.eldiariodelapampa.com.ar/mundo/77941/se-mantiene-igual--la-reserva-federal-dejo-sin-cambios-la-tasa-de-interes": 1785361360.3664236,
+    "https://www.eldiariodelapampa.com.ar/pais/77946/-san-juan--cayo-un-helicoptero-y-hay-7-muertos-": 1785361360.3664236
   },
   "Dos Bases": {
     "https://www.dosbases.com.ar/2019/01/dinosaurios-vivos-el-fiscal-aguero-alerto-sobre-un-boom-de-estafas-a-telefonicas-y-recomienda-que-el-blp-no-permita-a-jubilados-transferencias-de-montos-altos-por-cajero/": 1784416721.202942,
@@ -8494,7 +8540,9 @@
     "https://diariotextual.com/inicio/index.php/2026/07/29/ingenieria-de-la-unlpam-abrio-las-inscripciones-al-curso-gratuito-de-matematica-preuniversitaria/": 1785339279.7935073,
     "https://diariotextual.com/inicio/index.php/2026/07/29/endeudamiento-familiar-alarmante-renuncian-a-sus-empleos-en-blanco-para-que-las-deudas-no-les-absorban-el-salario/": 1785339279.7935073,
     "https://diariotextual.com/inicio/index.php/2026/07/29/el-blp-ya-refinancio-deudas-a-407-clientes-por-2-200-millones/": 1785339279.7935073,
-    "https://diariotextual.com/inicio/index.php/2026/07/29/transmision-del-mundial-2026-cpetel-acompano-las-nuevas-formas-de-consumo/": 1785339279.7935073
+    "https://diariotextual.com/inicio/index.php/2026/07/29/transmision-del-mundial-2026-cpetel-acompano-las-nuevas-formas-de-consumo/": 1785339279.7935073,
+    "https://diariotextual.com/inicio/index.php/2026/07/29/sugestiva-banca-de-adriana-garcia-al-partido-que-quieren-crear-manu-feito-y-funcionarios-de-luciano/": 1785361360.3664236,
+    "https://diariotextual.com/inicio/index.php/2026/07/29/un-helicoptero-que-viajaba-a-combatir-incendios-cayo-en-san-juan-murieron-los-7-tripulantes/": 1785361360.3664236
   },
   "Radio Kermes": {
     "https://www.radiokermes.com/noticias/30889-el-partido-argentina-enfrenta-a-inglaterra-y-busca-la-final-mundial": 1784416721.202942,
@@ -9076,7 +9124,16 @@
     "https://www.enbocadetodoshd.com.ar/policiales/2026/7/29/urgente-piquense-fue-detenido-tras-cometer-varios-delitos-en-villegas-mira-120988.html": 1785350641.2495956,
     "https://www.enbocadetodoshd.com.ar/provinciales/2026/7/29/gobierno-entrego-prestamos-rucalhue-para-familias-de-arata-120976.html": 1785350641.2495956,
     "https://www.enbocadetodoshd.com.ar/policiales/2026/7/29/el-empresario-puntano-que-tiene-cheques-rechazados-por-400-millones-de-pesos-llego-un-acuerdo-con-fedea-pago-us20000-quedo-en-libertad-con-tres-pagos-pendientes-video-120986.html": 1785350641.2495956,
-    "https://www.enbocadetodoshd.com.ar/locales/2026/7/29/aparecio-el-hombre-de-83-anos-que-era-intensamente-buscado-esta-en-buen-estado-de-salud-junto-su-hija-en-el-hospital-120987.html": 1785350641.2495956
+    "https://www.enbocadetodoshd.com.ar/locales/2026/7/29/aparecio-el-hombre-de-83-anos-que-era-intensamente-buscado-esta-en-buen-estado-de-salud-junto-su-hija-en-el-hospital-120987.html": 1785350641.2495956,
+    "https://www.enbocadetodoshd.com.ar/locales/2026/7/29/urgente-chocaron-dos-coches-que-iban-en-el-mismo-sentido-en-21-entre-24-26-un-nino-fue-trasladado-al-hospital-video-121000.html": 1785361360.3664236,
+    "https://www.enbocadetodoshd.com.ar/nacionales/2026/7/29/orgullo-nacional-estudiantes-argentinos-ganaron-el-mundial-de-ingenieria-aeroespacial-respaldado-por-la-nasa-video-120985.html": 1785361360.3664236,
+    "https://www.enbocadetodoshd.com.ar/provinciales/2026/7/29/voraz-incendio-destruyo-una-combi-en-castex-video-120989.html": 1785361360.3664236,
+    "https://www.enbocadetodoshd.com.ar/municipales/2026/7/29/transporte-viviendas-obras-publicas-los-temas-que-debatira-este-jueves-el-concejo-deliberante-de-general-pico-120998.html": 1785361360.3664236,
+    "https://www.enbocadetodoshd.com.ar/mundo/2026/7/29/hito-medico-en-italia-una-mujer-recupera-la-vista-tras-cinco-anos-de-ceguera-con-una-cirugia-inedita-120992.html": 1785361360.3664236,
+    "https://www.enbocadetodoshd.com.ar/nacionales/2026/7/29/tras-reavivar-el-conflicto-con-lula-da-silva-milei-volvio-apuntar-contra-pedro-sanchez-120996.html": 1785361360.3664236,
+    "https://www.enbocadetodoshd.com.ar/nacionales/2026/7/29/todos-fallecieron-un-helicoptero-con-siete-ocupantes-cayo-en-san-juan-video-120999.html": 1785361360.3664236,
+    "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/7/29/barrio-rucci-me-robaron-la-bicicleta-compartan-por-favor-necesito-recuperarla-es-mi-unica-movilidad-120991.html": 1785361360.3664236,
+    "https://www.enbocadetodoshd.com.ar/provinciales/2026/7/29/la-estreno-ayer-hoy-termino-hecha-un-acordeon-tras-un-impactante-triple-choque-con-dos-camiones-de-la-pampa-120993.html": 1785361360.3664236
   },
   "Mará Codigital": {
     "http://www.maracodigital.net/En-un-ano-los-vuelos-baratos-tuvieron-un-millon-de-pasajeros.html": 1784416721.202942,
