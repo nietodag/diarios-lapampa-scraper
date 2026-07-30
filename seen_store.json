@@ -132,7 +132,11 @@
     "https://www.pampadiario.com/single-post.php?id=81918": 1785361360.3664236,
     "https://www.pampadiario.com/single-post.php?id=81921": 1785361360.3664236,
     "https://www.pampadiario.com/single-post.php?id=81938": 1785361360.3664236,
-    "https://www.pampadiario.com/single-post.php?id=81941": 1785361360.3664236
+    "https://www.pampadiario.com/single-post.php?id=81941": 1785361360.3664236,
+    "https://www.pampadiario.com/single-post.php?id=81936": 1785396220.2720113,
+    "https://www.pampadiario.com/single-post.php?id=81939": 1785396220.2720113,
+    "https://www.pampadiario.com/single-post.php?id=81944": 1785396220.2720113,
+    "https://www.pampadiario.com/single-post.php?id=81940": 1785396220.2720113
   },
   "Info Pico": {
     "https://www.infopico.com/2026/07/18/musica-e-inclusion-una-fundacion-de-la-pampa-organiza-un-show-con-total-accesibilidad-en-buenos-aires/": 1784416721.202942,
@@ -342,7 +346,13 @@
     "https://www.infopico.com/2026/07/29/la-pampa-incorporara-educacion-financiera-en-el-secundario-es-importante-para-planificar-sus-proyectos-personales/": 1785361360.3664236,
     "https://www.infopico.com/2026/07/29/ampliacion-del-alumbrado-publico-en-general-pico-es-de-cobro-obligatorio-aclaran-desde-corpico/": 1785361360.3664236,
     "https://www.infopico.com/2026/07/29/educacion-convoca-a-inscripcion-para-cubrir-un-cargo-de-instructor-en-formacion-profesional-en-santa-rosa/": 1785361360.3664236,
-    "https://www.infopico.com/2026/07/29/fifa-abre-expediente-contra-la-afa-y-varios-jugadores-tras-la-final-del-mundial-2026/": 1785361360.3664236
+    "https://www.infopico.com/2026/07/29/fifa-abre-expediente-contra-la-afa-y-varios-jugadores-tras-la-final-del-mundial-2026/": 1785361360.3664236,
+    "https://www.infopico.com/2026/07/29/prorrogan-la-inscripcion-para-cubrir-cargos-de-formacion-profesional-en-la-pampa/": 1785396220.2720113,
+    "https://www.infopico.com/2026/07/29/impactante-choque-en-cadena-en-la-ruta-33-involucro-a-dos-camiones-pampeanos-y-una-camioneta/": 1785396220.2720113,
+    "https://www.infopico.com/2026/07/29/escandalo-en-mar-del-plata-denuncian-a-un-empleado-de-un-geriatrico-por-maltratar-a-dos-adultas-mayores/": 1785396220.2720113,
+    "https://www.infopico.com/2026/07/29/aumento-para-estatales-el-gobierno-provincial-aseguro-que-los-salarios-superan-la-inflacion-y-la-linea-de-pobreza/": 1785396220.2720113,
+    "https://www.infopico.com/2026/07/29/el-concejo-deliberante-de-general-pico-tratara-el-aumento-del-boleto-obras-y-un-convenio-de-viviendas/": 1785396220.2720113,
+    "https://www.infopico.com/2026/07/29/avanza-el-plan-de-iluminacion-eficiente-en-la-adela-fuerte-inversion-deportiva-y-desarrollo-industrial/": 1785396220.2720113
   },
   "La Arena": {
     "https://www.laarena.com.ar/deportes/basquet-ferro-igualo-la-serie-ante-all-boys-20267188490": 1784416721.202942,
@@ -1275,7 +1285,45 @@
     "https://www.laarena.com.ar/la-pampa/presentaron-a-jurados-del-festival-nacional-de-cine-202672918120": 1785361360.3664236,
     "https://www.laarena.com.ar/el-pais/el-dolar-oficial-cayo-luego-de-11-jornadas-20267291770": 1785361360.3664236,
     "https://www.laarena.com.ar/el-mundo/escala-el-conflicto-en-oriente-medio-arabia-saudita-se-suma-a-ataques-e-iran-responde-202672916500": 1785361360.3664236,
-    "https://www.laarena.com.ar/la-pampa/marin-impulsa-un-proyecto-para-que-el-salario-minimo-iguale-la-canasta-basica-202672917270": 1785361360.3664236
+    "https://www.laarena.com.ar/la-pampa/marin-impulsa-un-proyecto-para-que-el-salario-minimo-iguale-la-canasta-basica-202672917270": 1785361360.3664236,
+    "https://www.laarena.com.ar/la-pampa/el-salario-de-los-estatales-pampeanos-aumento-19-20267300520": 1785396220.2720113,
+    "https://www.laarena.com.ar/la-pampa/el-municipio-de-catrilo-avanza-con-un-nuevo-sistema-de-separacion-de-residuos-202672919320": 1785396220.2720113,
+    "https://www.laarena.com.ar/la-region/un-satelite-construido-en-una-universidad-nacional-va-camino-hacia-el-espacio-202672921540": 1785396220.2720113,
+    "https://www.laarena.com.ar/el-pais/los-bonos-volvieron-a-caer-2026730140": 1785396220.2720113,
+    "https://www.laarena.com.ar/la-pampa/conhello-alto-stock-y-concentracion-2026730130": 1785396220.2720113,
+    "https://www.laarena.com.ar/la-pampa/formalizan-a-empresario-acusado-de-estafa-2026730130": 1785396220.2720113,
+    "https://www.laarena.com.ar/la-pampa/cooperativa-esteban-piacenza-esta-en-proceso-de-reconversion-2026730130": 1785396220.2720113,
+    "https://www.laarena.com.ar/la-region/emitieron-alerta-amarilla-por-lluvia-nevada-y-viento-para-la-region-202672919310": 1785396220.2720113,
+    "https://www.laarena.com.ar/la-pampa/se-viene-un-nuevo-aprender-a-gobernar-ya-estan-abiertas-las-inscripciones-202672918530": 1785396220.2720113,
+    "https://www.laarena.com.ar/la-pampa/salarios-estatales-aumento-total-del-19-en-el-primer-semestre-de-2026-202672919530": 1785396220.2720113,
+    "https://www.laarena.com.ar/el-pais/el-conicet-se-moviliza-por-los-despidos-2026730140": 1785396220.2720113,
+    "https://www.laarena.com.ar/la-pampa/en-una-argentina-atravesada-por-la-polarizacion-politica-la-seleccion-nacional-aparece-como-uno-de-los-pocos-espacios-capaces-de-generar-emociones-compartidas-senalo-gonzalo-taboada-politologo-y-director-de-cuentas-y-analisis-politico-de-la-consultora-la-sastreria-durante-una-entrevista-con-radio-noticias-en-la-que-ademas-trazo-un-diagnostico-sobre-el-escenario-politico-de-cara-a-las-elecciones-presidenciales-de-2027-taboada-explico-que-la-consultora-realizo-una-encuesta-nacional-de-1-200-casos-durante-mayo-cuando-comenzaba-a-instalarse-la-idea-de-que-el-mundial-no-despertaba-demasiado-entusiasmo-entre-los-argentinos-nos-llamo-la-atencion-porque-nosotros-intentamos-entender-al-argentino-y-esa-idea-no-cerraba-con-lo-que-conocemos-de-nuestra-sociedad-explico-el-estudio-confirmo-lo-contrario-tres-de-cada-cuatro-consultados-creian-que-la-seleccion-llegaria-a-la-final-y-el-futbol-aparecio-con-casi-el-40-de-las-respuestas-espontaneas-como-la-principal-pasion-nacional-sin-embargo-el-politologo-sostuvo-que-el-hallazgo-mas-importante-fue-otro-la-pasion-argentina-siempre-esta-vinculada-con-compartir-el-mate-el-asado-el-futbol-son-rituales-colectivos-donde-nuestra-individualidad-se-licua-en-algo-mucho-mas-grande-emocion-antes-que-ideas-a-partir-de-ese-diagnostico-taboada-traslado-el-analisis-al-terreno-politico-y-afirmo-que-la-dirigencia-deberia-tomar-nota-de-lo-que-ocurre-con-la-seleccion-esta-seleccion-demostro-que-podemos-ser-un-equipo-capaz-cuando-hay-trabajo-actitud-y-una-familia-detras-eso-demuestra-que-es-posible-representar-a-la-sociedad-desde-una-emocion-compartida-senalo-en-ese-sentido-sostuvo-que-la-politica-enfrenta-hoy-un-problema-profundo-de-representacion-y-que-los-dirigentes-deberian-dejar-de-priorizar-las-disputas-permanentes-la-obligacion-de-la-politica-es-entender-que-primero-tiene-que-emocionar-y-despues-convencer-las-ideas-vienen-despues-de-la-emocion-si-no-emocionas-nadie-te-presta-atencion-afirmo-taboada-para-el-consultor-esa-desconexion-se-refleja-en-un-dato-que-considera-determinante-hoy-tenemos-un-25-de-argentinos-que-cuando-les-preguntamos-con-que-espacio-politico-se-sienten-identificados-responden-con-ninguno-ese-porcentaje-se-mantiene-desde-hace-meses-explico-nuevos-liderazgos-ese-cuarto-del-electorado-sin-representacion-abre-segun-taboada-la-posibilidad-de-que-aparezcan-nuevos-referentes-de-cara-a-2027-hay-un-espacio-disponible-para-alguien-distinto-no-necesariamente-un-outsider-como-fue-javier-milei-pero-tampoco-alguien-tan-tradicional-de-la-politica-argentina-analizo-el-especialista-remarco-que-el-nuevo-sistema-de-boleta-unica-papel-y-el-peso-creciente-de-las-redes-sociales-modificaron-por-completo-las-campanas-electorales-hoy-ya-no-necesitas-el-despliegue-territorial-que-se-requeria-hace-veinte-anos-milei-gano-en-muchos-lugares-sin-haber-estado-nunca-las-campanas-son-distintas-y-permiten-instalar-liderazgos-en-mucho-menos-tiempo-explico-no-obstante-aclaro-que-quien-pretenda-ocupar-ese-lugar-primero-debera-construir-una-representacion-emocional-si-logra-emocionar-e-interpelar-despues-vendran-las-ideas-primero-la-gente-tiene-que-sentir-que-esa-persona-entiende-lo-que-le-pasa-aseguro-el-politologo-crisis-de-representacion-durante-la-entrevista-taboada-tambien-advirtio-sobre-el-creciente-desinteres-por-la-politica-y-recordo-los-altos-niveles-de-ausentismo-registrados-en-las-ultimas-elecciones-eso-no-es-un-dato-menor-es-un-sintoma-de-una-crisis-de-representacion-cuando-una-parte-importante-de-la-sociedad-deja-de-sentirse-representada-en-argentina-nunca-nos-quedamos-quietos-siempre-termina-apareciendo-algo-nuevo-sostuvo-aunque-indico-que-todavia-falta-mas-de-un-ano-para-las-elecciones-presidenciales-considero-que-el-escenario-permanece-abierto-hoy-solamente-veo-dos-candidaturas-realmente-instaladas-javier-milei-que-seguramente-buscara-la-reeleccion-y-miriam-bregman-que-viene-creciendo-sostenidamente-en-imagen-despues-hay-mucho-espacio-para-que-aparezcan-nuevos-liderazgos-dijo-para-taboada-la-principal-ensenanza-que-deja-el-fenomeno-de-la-seleccion-es-que-todavia-es-posible-construir-consensos-amplios-la-politica-deberia-aprender-que-si-se-puede-representar-de-manera-transversal-la-seleccion-lo-hizo-ahora-le-toca-a-la-politica-demostrar-que-tambien-puede-hacerlo-concluyo-20267300520": 1785396220.2720113,
+    "https://www.laarena.com.ar/la-pampa/astroturismo-en-lihuel-calel-2026730130": 1785396220.2720113,
+    "https://www.laarena.com.ar/el-pais/proscripcion-cfk-lleva-su-caso-a-la-onu-20267300520": 1785396220.2720113,
+    "https://www.laarena.com.ar/la-pampa/inicia-juicio-oral-ante-el-jurado-de-enjuiciamiento-20267300520": 1785396220.2720113,
+    "https://www.laarena.com.ar/la-pampa/lanzaron-nueva-edicion-de-aprender-a-gobernar-2026730130": 1785396220.2720113,
+    "https://www.laarena.com.ar/la-pampa/con-el-foco-en-santa-rosa-utelpa-va-a-las-urnas-20267300520": 1785396220.2720113,
+    "https://www.laarena.com.ar/el-pais/quienes-eran-las-siete-victimas-del-helicoptero-que-se-estrello-en-san-juan-202672919430": 1785396220.2720113,
+    "https://www.laarena.com.ar/la-region/venezolanos-rindieron-emotivo-homenaje-a-bomberos-de-la-region-202672920280": 1785396220.2720113,
+    "https://www.laarena.com.ar/la-pampa/asamblea-de-fepamco-ratifico-a-la-conduccion-2026730130": 1785396220.2720113,
+    "https://www.laarena.com.ar/el-mundo/de-nuestro-lado-no-se-va-a-romper-2026730140": 1785396220.2720113,
+    "https://www.laarena.com.ar/la-pampa/golpeo-a-un-nino-e-ira-a-prision-2026730130": 1785396220.2720113,
+    "https://www.laarena.com.ar/la-pampa/gil-dominguez-sobre-recurso-de-cfk-ante-la-onu-la-sentencia-podria-quedar-sin-efectos-202672921400": 1785396220.2720113,
+    "https://www.laarena.com.ar/la-pampa/se-capacitaron-mas-de-50-personas-2026730130": 1785396220.2720113,
+    "https://www.laarena.com.ar/la-pampa/la-pampa-cobrara-peaje-a-camiones-de-vaca-muerta-20267300520": 1785396220.2720113,
+    "https://www.laarena.com.ar/la-pampa/el-departamento-conhello-tiene-alto-stock-ganadero-y-concentracion-de-cabanas-202672921260": 1785396220.2720113,
+    "https://www.laarena.com.ar/deportes/tomas-quinteros-fue-el-mejor-de-junio-20267300520": 1785396220.2720113,
+    "https://www.laarena.com.ar/el-mundo/genocidio-israeli-mas-de-60-000-ninos-en-gaza-perdieron-a-uno-o-ambos-progenitores-202672920560": 1785396220.2720113,
+    "https://www.laarena.com.ar/la-pampa/asfaltaron-17-cuadras-de-las-79-previstas-2026730130": 1785396220.2720113,
+    "https://www.laarena.com.ar/el-pais/murieron-siete-tripulantes-20267300520": 1785396220.2720113,
+    "https://www.laarena.com.ar/la-pampa/la-cooperativa-esteban-piacenza-esta-en-proceso-de-reconversion-20267292160": 1785396220.2720113,
+    "https://www.laarena.com.ar/la-pampa/se-afianza-el-cooperativismo-escolar-2026730130": 1785396220.2720113,
+    "https://www.laarena.com.ar/la-pampa/la-sentencia-podria-quedar-sin-efecto-2026730130": 1785396220.2720113,
+    "https://www.laarena.com.ar/la-pampa/convocan-a-paro-nacional-docente-el-3-de-agosto-la-confederacion-de-trabajadores-de-la-educacion-de-la-republica-argentina-ctera-convoco-a-un-paro-nacional-docente-para-el-proximo-lunes-3-de-agosto-en-el-marco-del-plan-de-lucha-definido-por-su-congreso-en-reclamo-de-la-convocatoria-a-la-paritaria-nacional-docente-y-de-una-recomposicion-salarial-frente-a-la-perdida-del-poder-adquisitivo-la-medida-de-fuerza-tambien-apunta-contra-el-desfinanciamiento-del-sistema-educativo-y-cuestiona-distintas-politicas-impulsadas-por-el-gobierno-nacional-entre-ellas-el-incumplimiento-en-la-restitucion-del-fondo-nacional-de-incentivo-docente-fonid-y-de-otros-fondos-destinados-a-la-educacion-desde-utelpa-gremio-de-base-de-ctera-senalaron-que-la-decision-responde-a-la-permanente-negativa-del-gobierno-nacional-de-convocar-a-la-paritaria-nacional-docente-un-ambito-previsto-por-la-legislacion-vigente-para-discutir-salarios-condiciones-laborales-formacion-docente-e-inversion-educativa-ademas-sostuvieron-que-el-ajuste-sobre-el-sistema-educativo-se-refleja-en-la-caida-del-salario-real-de-las-y-los-docentes-y-en-la-reduccion-de-los-recursos-nacionales-destinados-a-las-provincias-entre-los-principales-reclamos-figura-la-convocatoria-urgente-a-la-paritaria-nacional-un-aumento-salarial-que-permita-recuperar-el-poder-adquisitivo-perdido-y-la-restitucion-inmediata-del-fonid-suspendido-por-el-gobierno-nacional-desde-el-inicio-de-su-gestion-20267300520": 1785396220.2720113,
+    "https://www.laarena.com.ar/la-pampa/argentina-va-a-contramano-del-mundo-en-el-marco-del-debate-por-el-proyecto-impulsado-por-el-gobierno-nacional-que-modifica-distintas-normas-vinculadas-a-la-propiedad-de-la-tierra-el-integrante-del-centro-pampeano-de-estudios-sociales-y-politicos-cpesyp-francisco-babinec-afirmo-que-la-denominada-ley-de-inviolabilidad-de-la-propiedad-privada-que-se-tratara-proximo-6-de-agosto-en-el-senado-de-la-nacion-va-a-contramano-de-lo-que-ocurre-en-gran-parte-del-mundo-y-advirtio-sobre-las-consecuencias-que-podria-tener-una-mayor-flexibilizacion-para-la-compra-de-tierras-por-parte-de-extranjeros-en-dialogo-con-radio-noticias-babinec-explico-que-el-trabajo-elaborado-junto-a-daniel-bedotti-surgio-a-partir-de-la-necesidad-de-analizar-el-fenomeno-de-la-extranjerizacion-de-la-tierra-en-un-contexto-mas-amplio-no-es-una-problematica-particular-de-la-argentina-lo-que-quisimos-mostrar-es-que-muchos-paises-regulan-la-compra-de-tierras-por-parte-de-extranjeros-y-ejercen-distintos-niveles-de-control-senalo-como-ejemplo-menciono-que-brasil-mantiene-limites-concretos-para-la-adquisicion-de-tierras-rurales-y-que-uruguay-si-bien-permite-las-operaciones-aplica-estrictos-mecanismos-de-fiscalizacion-tambien-recordo-que-varios-paises-europeos-cuentan-con-regulaciones-especificas-y-remarco-que-estados-unidos-restringe-la-compra-de-tierras-por-parte-de-inversores-provenientes-de-otros-paises-esto-no-tiene-nada-que-ver-con-estar-en-contra-del-capitalismo-o-de-la-propiedad-privada-son-herramientas-que-utilizan-paises-plenamente-capitalistas-para-proteger-recursos-estrategicos-afirmo-2026730130": 1785396220.2720113,
+    "https://www.laarena.com.ar/el-pais/en-contraste-con-milei-tierra-del-fuego-impulsa-una-ley-para-proteger-areas-estrategicas-202672918520": 1785396220.2720113,
+    "https://www.laarena.com.ar/deportes/river-perdio-en-su-visita-a-gimnasia-y-sumo-su-tercera-derrota-seguida-202672921380": 1785396220.2720113,
+    "https://www.laarena.com.ar/el-pais/defensa-pide-a-la-onu-suspender-la-inhabilitacion-2026730140": 1785396220.2720113
   },
   "LetraP": {
     "https://www.letrap.com.ar/politica/santiago-del-estero-el-pro-se-concentra-la-capital-y-la-banda-no-sucumbir-la-avanzada-libertaria-n5425166": 1784416721.202942,
@@ -1526,7 +1574,12 @@
     "https://www.letrap.com.ar/politica/los-intendentes-del-peronismo-tienden-puentes-organizar-el-2027-n5425413": 1785361360.3664236,
     "https://www.letrap.com.ar/economia/clickie-lleva-su-plataforma-inteligencia-artificial-la-plata-y-prepara-su-llegada-rosario-n5425395": 1785361360.3664236,
     "https://www.letrap.com.ar/economia/telecom-argentina-designo-cfo-manuel-garcia-diez-la-espera-la-fusion-personal-movistar-n5425409": 1785361360.3664236,
-    "https://www.letrap.com.ar/politica/tambores-guerra-jujuy-carolina-moises-se-planta-contra-todos-la-presidencia-del-pj-n5425421": 1785361360.3664236
+    "https://www.letrap.com.ar/politica/tambores-guerra-jujuy-carolina-moises-se-planta-contra-todos-la-presidencia-del-pj-n5425421": 1785361360.3664236,
+    "https://www.letrap.com.ar/politica/que-es-la-liga-intendentes-bonaerenses-n5425429": 1785396220.2720113,
+    "https://www.letrap.com.ar/politica/entre-rios-los-diez-cambios-mas-importantes-que-introduce-la-reforma-previsional-n5425405": 1785396220.2720113,
+    "https://www.letrap.com.ar/congreso/justicia-mahiques-busca-firmas-nombrar-dos-candidatos-que-fueron-vinculados-la-afa-n5425422": 1785396220.2720113,
+    "https://www.letrap.com.ar/economia/toto-caputo-le-pone-un-techo-al-dolar-mayorista-que-busca-mantenerlo-debajo-1500-n5425425": 1785396220.2720113,
+    "https://www.letrap.com.ar/politica/rogelio-frigerio-asumio-la-presidencia-la-region-centro-las-claves-la-agenda-que-viene-n5425426": 1785396220.2720113
   },
   "El Diario de La Pampa": {
     "https://www.eldiariodelapampa.com.ar/pais/77403/morosidad-en-alza--se-agrava-el-problema-y-1-de-cada-3-argentinos-con-deuda-no-puede-pagar": 1784416721.202942,
@@ -2077,7 +2130,11 @@
     "https://www.eldiariodelapampa.com.ar/pais/77950/el-helicoptero-de-la-tragedia-realizo-un-tour-con-periodistas-el-dia-anterior": 1785361360.3664236,
     "https://www.eldiariodelapampa.com.ar/pais/77948/quienes-son-las-victimas-fatales-del-helicoptero-caido-en-san-juan": 1785361360.3664236,
     "https://www.eldiariodelapampa.com.ar/mundo/77941/se-mantiene-igual--la-reserva-federal-dejo-sin-cambios-la-tasa-de-interes": 1785361360.3664236,
-    "https://www.eldiariodelapampa.com.ar/pais/77946/-san-juan--cayo-un-helicoptero-y-hay-7-muertos-": 1785361360.3664236
+    "https://www.eldiariodelapampa.com.ar/pais/77946/-san-juan--cayo-un-helicoptero-y-hay-7-muertos-": 1785361360.3664236,
+    "https://www.eldiariodelapampa.com.ar/la-pampa/77952/salarios-estatales--el-aumento-del-primer-semestre-alcanzo-el-19-en-porciento-": 1785396220.2720113,
+    "https://www.eldiariodelapampa.com.ar/la-pampa/77953/otro-intendente-respalda-a-fuerza-pampa--no-me-parece-mal-dijo-ariel-mauna": 1785396220.2720113,
+    "https://www.eldiariodelapampa.com.ar/linea-abierta/77956/mensajes-30-7-2026": 1785396220.2720113,
+    "https://www.eldiariodelapampa.com.ar/pais/77951/cadena-nacional--milei-presenta-el-proyecto-para-blindar-la-autonomia-del-bcra": 1785396220.2720113
   },
   "Dos Bases": {
     "https://www.dosbases.com.ar/2019/01/dinosaurios-vivos-el-fiscal-aguero-alerto-sobre-un-boom-de-estafas-a-telefonicas-y-recomienda-que-el-blp-no-permita-a-jubilados-transferencias-de-montos-altos-por-cajero/": 1784416721.202942,
@@ -7349,7 +7406,17 @@
     "https://www.planbnoticias.com.ar/index.php/2026/07/29/conoce-la-agenda-cultural-con-cine-musica-y-nuevas-propuestas/": 1785350641.2495956,
     "https://www.planbnoticias.com.ar/index.php/2026/07/29/educacion-financiera-sera-un-contenido-especifico-de-la-materia-de-economia/": 1785350641.2495956,
     "https://www.planbnoticias.com.ar/index.php/2026/07/29/el-coral-de-la-pampa-inicia-su-24a-edicion-con-30-conciertos-en-26-localidades/": 1785350641.2495956,
-    "https://www.planbnoticias.com.ar/index.php/2026/07/29/invitan-a-una-nueva-edicion-del-ciclo-de-conversaciones-verse-la-jeta/": 1785350641.2495956
+    "https://www.planbnoticias.com.ar/index.php/2026/07/29/invitan-a-una-nueva-edicion-del-ciclo-de-conversaciones-verse-la-jeta/": 1785350641.2495956,
+    "https://www.planbnoticias.com.ar/index.php/2026/07/29/milei-reaviva-la-tension-con-espana-y-apunto-contra-pedro-sanchez/": 1785396220.2720113,
+    "https://www.planbnoticias.com.ar/index.php/2026/07/29/convocan-a-un-relevamiento-participativo-del-arbolado-urbano-de-santa-rosa/": 1785396220.2720113,
+    "https://www.planbnoticias.com.ar/index.php/2026/07/29/capacitaron-en-prevencion-y-promocion-de-la-salud-mental/": 1785396220.2720113,
+    "https://www.planbnoticias.com.ar/index.php/2026/07/29/maximo-kirchner-insistio-en-que-el-pj-quiere-a-cristina-como-candidata-en-2027/": 1785396220.2720113,
+    "https://www.planbnoticias.com.ar/index.php/2026/07/29/messi-volvio-a-entrenarse-con-el-inter-miami/": 1785396220.2720113,
+    "https://www.planbnoticias.com.ar/index.php/2026/07/29/la-lista-2-gano-la-eleccion-en-el-consejo-de-manualistas/": 1785396220.2720113,
+    "https://www.planbnoticias.com.ar/index.php/2026/07/29/san-juan-siete-muertos-al-caer-un-helicoptero-de-control-de-incendios/": 1785396220.2720113,
+    "https://www.planbnoticias.com.ar/index.php/2026/07/29/los-salarios-estatales-acumulan-un-aumento-del-19-en-el-primer-semestre/": 1785396220.2720113,
+    "https://www.planbnoticias.com.ar/index.php/2026/07/29/dos-camiones-de-santa-rosa-involucrados-en-un-choque-en-cadena-sobre-la-ruta-33/": 1785396220.2720113,
+    "https://www.planbnoticias.com.ar/index.php/2026/07/29/aprender-a-gobernar-se-hara-en-casa-de-gobierno/": 1785396220.2720113
   },
   "Infotec Realicó": {
     "https://infotecrealico.com.ar/contenido/86896/la-provincia-no-aprobo-el-informe-final-ambiental-de-el-medanito-y-remitio-un-in": 1784416721.202942,
@@ -8542,7 +8609,14 @@
     "https://diariotextual.com/inicio/index.php/2026/07/29/el-blp-ya-refinancio-deudas-a-407-clientes-por-2-200-millones/": 1785339279.7935073,
     "https://diariotextual.com/inicio/index.php/2026/07/29/transmision-del-mundial-2026-cpetel-acompano-las-nuevas-formas-de-consumo/": 1785339279.7935073,
     "https://diariotextual.com/inicio/index.php/2026/07/29/sugestiva-banca-de-adriana-garcia-al-partido-que-quieren-crear-manu-feito-y-funcionarios-de-luciano/": 1785361360.3664236,
-    "https://diariotextual.com/inicio/index.php/2026/07/29/un-helicoptero-que-viajaba-a-combatir-incendios-cayo-en-san-juan-murieron-los-7-tripulantes/": 1785361360.3664236
+    "https://diariotextual.com/inicio/index.php/2026/07/29/un-helicoptero-que-viajaba-a-combatir-incendios-cayo-en-san-juan-murieron-los-7-tripulantes/": 1785361360.3664236,
+    "https://diariotextual.com/inicio/index.php/2026/07/29/convocatoria-a-relevar-el-arbolado-urbano-de-santa-rosa/": 1785396220.2720113,
+    "https://diariotextual.com/inicio/index.php/2026/07/29/abrieron-las-inscripciones-para-aprender-a-gobernar-2026-el-proyecto-ganador-recibira-25-millones/": 1785396220.2720113,
+    "https://diariotextual.com/inicio/index.php/2026/07/29/ctera-convoco-a-un-paro-nacional-docente-para-este-lunes-3/": 1785396220.2720113,
+    "https://diariotextual.com/inicio/index.php/2026/07/29/ziliotto-reitero-a-santilli-el-pedido-de-traspaso-de-las-rutas-nacionales/": 1785396220.2720113,
+    "https://diariotextual.com/inicio/index.php/2026/07/29/intendentes-de-la-ucr-le-dieron-un-fuerte-respaldo-a-berhongaray-en-su-carrera-a-la-gobernacion/": 1785396220.2720113,
+    "https://diariotextual.com/inicio/index.php/2026/07/29/salarios-estatales-aumento-del-primer-semestre-alcanzo-el-19-y-le-gano-a-la-inflacion/": 1785396220.2720113,
+    "https://diariotextual.com/inicio/index.php/2026/07/29/agenda-cultural-las-actividades-para-cerrar-julio-y-comenzar-agosto/": 1785396220.2720113
   },
   "Radio Kermes": {
     "https://www.radiokermes.com/noticias/30889-el-partido-argentina-enfrenta-a-inglaterra-y-busca-la-final-mundial": 1784416721.202942,
@@ -8714,7 +8788,12 @@
     "https://www.radiokermes.com/noticias/31029-utelpa-renueva-autoridades-y-el-oficialismo-apuesta-a-consolidar-su-proyecto": 1785339279.7935073,
     "https://www.radiokermes.com/noticias/31026-georgieva-fue-a-ver-sus-dolares-a-vaca-muerta": 1785339279.7935073,
     "https://www.radiokermes.com/noticias/31027-cristina-llevo-su-condena-a-la-onu-y-apunto-contra-los-jueces-argentinos": 1785339279.7935073,
-    "https://www.radiokermes.com/noticias/31025-marisel-seltzer-narradora-pampeana-representara-al-pais-en-un-encuentro-en-colombia": 1785339279.7935073
+    "https://www.radiokermes.com/noticias/31025-marisel-seltzer-narradora-pampeana-representara-al-pais-en-un-encuentro-en-colombia": 1785339279.7935073,
+    "https://www.radiokermes.com/noticias/31036-tragedia-cayo-un-helicoptero-que-iba-a-apagar-incendios": 1785396220.2720113,
+    "https://www.radiokermes.com/noticias/31034-la-lista-2-gano-la-eleccion-en-el-consejo-de-manualistas": 1785396220.2720113,
+    "https://www.radiokermes.com/opinion/31038-cfk-y-la-denuncia-ante-el-comite-de-derechos-humanos-de-la-onu": 1785396220.2720113,
+    "https://www.radiokermes.com/noticias/31033-la-intendenta-adriana-garcia-le-hizo-un-guino-a-fuerza-pampa": 1785396220.2720113,
+    "https://www.radiokermes.com/opinion/31037-la-reforma-del-banco-central-y-el-financiamiento-del-desarrollo-argentino": 1785396220.2720113
   },
   "En Boca de Todos HD": {
     "https://www.enbocadetodoshd.com.ar/provinciales/2026/7/18/malestar-tension-en-bomberos-voluntarios-de-acha-por-la-conducta-de-un-integrante-120596.html": 1784416721.202942,
@@ -9133,7 +9212,25 @@
     "https://www.enbocadetodoshd.com.ar/nacionales/2026/7/29/tras-reavivar-el-conflicto-con-lula-da-silva-milei-volvio-apuntar-contra-pedro-sanchez-120996.html": 1785361360.3664236,
     "https://www.enbocadetodoshd.com.ar/nacionales/2026/7/29/todos-fallecieron-un-helicoptero-con-siete-ocupantes-cayo-en-san-juan-video-120999.html": 1785361360.3664236,
     "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/7/29/barrio-rucci-me-robaron-la-bicicleta-compartan-por-favor-necesito-recuperarla-es-mi-unica-movilidad-120991.html": 1785361360.3664236,
-    "https://www.enbocadetodoshd.com.ar/provinciales/2026/7/29/la-estreno-ayer-hoy-termino-hecha-un-acordeon-tras-un-impactante-triple-choque-con-dos-camiones-de-la-pampa-120993.html": 1785361360.3664236
+    "https://www.enbocadetodoshd.com.ar/provinciales/2026/7/29/la-estreno-ayer-hoy-termino-hecha-un-acordeon-tras-un-impactante-triple-choque-con-dos-camiones-de-la-pampa-120993.html": 1785361360.3664236,
+    "https://www.enbocadetodoshd.com.ar/provinciales/2026/7/29/la-pampa-impulsa-la-regularizacion-de-mutuales-cooperativas-de-colectividades-120978.html": 1785396220.2720113,
+    "https://www.enbocadetodoshd.com.ar/provinciales/2026/7/29/salarios-estatales-el-aumento-del-primer-semestre-alcanzo-el-19-121004.html": 1785396220.2720113,
+    "https://www.enbocadetodoshd.com.ar/municipales/2026/7/29/la-ucr-presento-dos-proyectos-la-reconstruccion-del-puente-del-parque-delfin-perez-un-pedido-de-senalizacion-en-el-barrio-rucci-mira-121001.html": 1785396220.2720113,
+    "https://www.enbocadetodoshd.com.ar/provinciales/2026/7/29/el-plan-de-iluminacion-eficiente-en-espacios-deportivos-fortalece-la-infraestructura-de-una-institucion-adelense-120994.html": 1785396220.2720113,
+    "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/7/30/necrologicas-general-pico-121013.html": 1785396220.2720113,
+    "https://www.enbocadetodoshd.com.ar/provinciales/2026/7/29/inscriben-para-el-aprender-gobernar-2026-que-se-realizara-en-casa-de-gobierno-121005.html": 1785396220.2720113,
+    "https://www.enbocadetodoshd.com.ar/nacionales/2026/7/29/las-ultimas-imagenes-del-helicoptero-antes-de-la-tragedia-en-san-juan-participaba-de-una-capacitacion-contra-incendios-video-121010.html": 1785396220.2720113,
+    "https://www.enbocadetodoshd.com.ar/nacionales/2026/7/29/el-gobierno-de-san-juan-decreto-tres-dias-de-duelo-por-el-accidente-del-helicoptero-121008.html": 1785396220.2720113,
+    "https://www.enbocadetodoshd.com.ar/nacionales/2026/7/29/horror-denuncian-brutal-maltrato-dos-abuelas-en-un-geriatrico-por-que-no-te-moris-vieja-hija-de-put-video-121002.html": 1785396220.2720113,
+    "https://www.enbocadetodoshd.com.ar/nacionales/2026/7/30/horror-encontraron-un-bebe-muerto-entre-restos-de-basura-121016.html": 1785396220.2720113,
+    "https://www.enbocadetodoshd.com.ar/espectaculos/2026/7/29/regresa-la-jam-en-el-viejo-galpon-con-una-noche-dedicada-al-jazz-el-ska-los-ritmos-latinos-120970.html": 1785396220.2720113,
+    "https://www.enbocadetodoshd.com.ar/nacionales/2026/7/29/tragedia-en-san-juan-quienes-eran-los-siete-ocupantes-del-helicoptero-que-se-estrello-121003.html": 1785396220.2720113,
+    "https://www.enbocadetodoshd.com.ar/nacionales/2026/7/30/un-hombre-perdio-la-casa-que-le-habia-dado-el-estado-tras-una-denuncia-de-su-expareja-por-violencia-de-genero-121015.html": 1785396220.2720113,
+    "https://www.enbocadetodoshd.com.ar/provinciales/2026/7/29/agentes-publicos-se-capacitaron-en-prevencion-promocion-de-la-salud-mental-en-el-ambito-laboral-120995.html": 1785396220.2720113,
+    "https://www.enbocadetodoshd.com.ar/nacionales/2026/7/29/un-pueblo-argentino-regalo-oro-para-impulsar-el-turismo-invernal-la-propuesta-fue-un-exito-video-120990.html": 1785396220.2720113,
+    "https://www.enbocadetodoshd.com.ar/provinciales/2026/7/29/video-que-es-vaca-muerta-121012.html": 1785396220.2720113,
+    "https://www.enbocadetodoshd.com.ar/nacionales/2026/7/29/denuncian-un-empleado-de-un-geriatrico-por-presunto-maltrato-dos-adultas-mayores-los-repudiables-videos-121011.html": 1785396220.2720113,
+    "https://www.enbocadetodoshd.com.ar/policiales/2026/7/29/crece-la-preocupacion-por-una-serie-de-robos-en-un-barrio-de-general-acha-120983.html": 1785396220.2720113
   },
   "Mará Codigital": {
     "http://www.maracodigital.net/En-un-ano-los-vuelos-baratos-tuvieron-un-millon-de-pasajeros.html": 1784416721.202942,
