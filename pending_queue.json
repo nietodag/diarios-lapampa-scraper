@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/pais/77562/la-economia-sufrio-su-segunda-caida-mensual-al-hilo-en-mayo",
     "title": "La econom&iacute;a sufri&oacute; su segunda ca&iacute;da mensual al hilo en mayo",
-    "attempts": 2
+    "attempts": 3
   },
   {
     "site": "El Diario de La Pampa",
@@ -9020,6 +9020,186 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/7/30/la-pampa-avanza-con-un-proyecto-para-cobrar-peaje-camiones-que-circulen-hacia-vaca-muerta-121033.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=81954",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=81955",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/07/30/contundente-triunfo-de-la-lista-celeste-violeta-en-las-elecciones-de-utelpa/",
+    "title": "Contundente triunfo de la Lista Celeste Violeta en las elecciones de UTELPa",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/07/30/despliegan-un-amplio-operativo-por-un-incendio-de-pastizales-en-el-barrio-la-loma/",
+    "title": "Despliegan un amplio operativo por un incendio de pastizales en el barrio La Loma",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/07/30/el-concejo-deliberante-de-general-pico-aprobo-el-aumento-del-boleto-urbano-y-trato-una-amplia-agenda-de-temas/",
+    "title": "El Concejo Deliberante de General Pico aprobó el aumento del boleto urbano de $800 a $1000 pesos",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/07/30/fuerte-inversion-en-salud-la-pampa-destina-mas-de-1-500-millones-para-equipar-hospitales/",
+    "title": "Fuerte inversión en salud: La Pampa destina más de $1.500 millones para equipar hospitales",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/07/30/la-pampa-busca-potenciar-el-valor-turistico-y-productivo-de-sus-salinas-con-jornadas-de-capacitacion/",
+    "title": "La Pampa busca potenciar el valor turístico y productivo de sus salinas con jornadas de capacitación",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/07/30/un-adolescente-de-17-anos-fue-hospitalizado-tras-ser-atropellado-en-calles-32-y-103/",
+    "title": "Un adolescente de 17 años fue hospitalizado tras ser atropellado en calles 32 y 103",
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/congreso/banco-central-la-peruana-el-gobierno-apura-el-debate-tener-la-ley-antes-tratar-el-presupuesto-n5425458",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/javier-milei-presento-la-reforma-del-banco-central-y-acuso-cfk-robarle-10-mil-millones-dolares-la-entidad-n5425461",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/santa-fe-unidos-arranca-la-rosca-diputados-y-quiere-consensuar-la-reforma-electoral-antes-del-20-agosto-n5425457",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78005/el-gobierno-provincial-invirtio-mas-de-1500-millones-de-pesos-para-salud-publica-en-la-pampa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/linea-abierta/78019/mensajes-31-7-2026",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/78004/nuevo-golpe-a-la-cultura--el-gobierno-elimino-por-decreto-el-coro-nacional-de-ninos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/30/berhongaray-reaparecio-la-camara-y-se-reunio-con-diputados/",
+    "title": "Berhongaray reapareció en la Cámara y se reunió con diputados",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/30/impulsan-proyecto-para-cobrar-un-peaje-a-camiones-que-van-a-vaca-muerta-por-rutas-pampeanas/",
+    "title": "Impulsan proyecto para cobrar un peaje a camiones que van a Vaca Muerta por rutas pampeanas",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/30/la-rosa-y-verde-reconocio-el-triunfo-de-la-celeste-violeta-en-la-seccional-santa-rosa-de-utelpa/",
+    "title": "La Rosa y Verde reconoció el triunfo de la Celeste Violeta en la Seccional Santa Rosa de UTELPa",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/30/milei-busca-reformar-la-carta-organica-del-banco-central-pone-fin-a-la-estafa-de-falsificar-dinero/",
+    "title": "Milei busca reformar la Carta Orgánica del Banco Central: “Pone fin a la estafa de falsificar dinero”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/30/promueven-un-protocolo-unificado-para-prevenir-la-violencia-laboral/",
+    "title": "Promueven un protocolo unificado para prevenir la violencia laboral",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/30/se-viene-astroturismo-en-lihue-calel/",
+    "title": "Se viene astroturismo en Lihué Calel",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/30/utelpa-la-celeste-violeta-se-impuso-en-toda-la-pampa-y-supero-el-60-de-los-votos-en-santa-rosa/",
+    "title": "UTELPa: La Celeste Violeta se impuso en toda La Pampa y superó el 60% de los votos en Santa Rosa",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/30/ziliotto-autorizo-inversion-millonaria-para-fortalecer-el-sistema-publico-de-salud/",
+    "title": "Ziliotto autorizó una inversión millonaria para fortalecer el sistema público de salud",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/07/30/boleto-de-transporte-urbano-de-general-pico-costara-mil-pesos/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/07/30/el-intendente-de-rolon-se-despego-de-luciano-el-supuesto-acompanamiento-a-fuerza-pampa-es-falso/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/07/30/elecciones-en-utelpa-el-oficialismo-retuvo-la-seccional-santa-rosa/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/07/30/la-provincia-invierte-1-500-millones-en-equipamiento-para-hospitales/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/07/30/rige-un-alerta-por-tormentas-para-gran-parte-de-la-pampa/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/07/30/villarruel-y-la-salud-de-milei-tengo-genuina-preocupacion-por-su-estado/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/07/30/violencia-laboral-el-gobierno-provincial-avanza-en-crear-un-protocolo-unificado/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31052-contundente-victoria-de-la-conduccion-del-gremio-docente",
     "title": null,
     "attempts": 0
   }
