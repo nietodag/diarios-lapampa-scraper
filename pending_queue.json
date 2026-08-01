@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/pais/77562/la-economia-sufrio-su-segunda-caida-mensual-al-hilo-en-mayo",
     "title": "La econom&iacute;a sufri&oacute; su segunda ca&iacute;da mensual al hilo en mayo",
-    "attempts": 8
+    "attempts": 9
   },
   {
     "site": "El Diario de La Pampa",
@@ -10268,6 +10268,414 @@
   {
     "site": "Diario Textual",
     "url": "https://diariotextual.com/inicio/index.php/2026/08/01/la-ucr-busca-impedir-que-el-gobierno-provincial-incorpore-personal-al-estado-en-el-ano-electoral/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=81980",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=81985",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/01/bomberos-voluntarios-realizaran-simulacros-con-el-hidroelevador-en-distintos-edificios-de-general-pico/",
+    "title": "Bomberos Voluntarios realizarán simulacros con el Hidroelevador en distintos edificios de General Pico",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/01/fuerte-choque-en-la-ruta-provincial-4-cerca-del-cruce-con-la-35-cuatro-personas-hospitalizadas/",
+    "title": "Fuerte choque en la Ruta Provincial 4 cerca del cruce con la 35: cuatro personas hospitalizadas",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/01/general-pico-lanzan-un-plan-para-pagar-deudas-municipales-con-descuentos-de-hasta-el-45-y-12-cuotas/",
+    "title": "General Pico: lanzan un plan para pagar deudas municipales con descuentos de hasta el 20% y 12 cuotas",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/01/la-provincia-avanza-en-la-creacion-de-un-protocolo-unificado-contra-la-violencia-laboral/",
+    "title": "La Provincia avanza en la creación de un protocolo unificado contra la violencia laboral",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/01/por-una-milanesa-a-prision-por-golpear-y-empujar-a-su-hijastro-de-9-anos-contra-un-cactus/",
+    "title": "Por una milanesa: a prisión por golpear y empujar a su hijastro de 9 años contra un cactus",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/01/reto-del-dia-si-eres-un-genio-en-numeros-trata-de-resolver-este-ejercicio-en-solo-7-segundos-3/",
+    "title": "Reto del día: si eres un genio en números, trata de resolver este ejercicio en sólo 7 segundos",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/01/reves-para-la-provincia-la-justicia-ordeno-reconocer-como-profesional-a-una-obstetra-que-cobraba-como-tecnica/",
+    "title": "Revés para la Provincia: la Justicia ordenó reconocer como profesional a una obstetra que cobraba como técnica",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/espana-al-menos-57-migrantes-muertos-2026810130",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/suman-67-los-muertos-en-ceuta-por-la-crisis-fronteriza-con-marruecos-2026811160",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/un-proyectil-impacto-contra-un-petrolero-en-ormuz-y-escalo-la-tension-belica-2026819100",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/las-intensas-lluvias-en-la-plata-dejaron-zonas-totalmente-anegadas-2026818540",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/los-patentamientos-de-autos-0km-se-derrumbo-mas-de-30-anual-en-julio-2026819160",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/ruta-192-siete-muertos-por-el-choque-frontal-entre-un-auto-y-un-camion-20268110340",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/conducia-alcoholizada-y-le-secuestraron-el-automovil-20268110460",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/incendiaron-un-automovil-en-el-barrio-pueblos-originarios-2026819590",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/salud-publica-equiparara-el-valor-de-sus-prestaciones-al-de-las-clinicas-privadas-202681910",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/economia/conicet-pleno-ajuste-casi-380-cientificos-pierden-su-beca-y-el-recorte-ya-llega-2700-trabajadores-n5425473",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/economia/toto-caputo-y-un-trabajo-clave-cortarle-las-alas-al-dolar-2027-n5425486",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/economia/vaca-muerta-denuncian-que-hay-mas-personas-intoxicadas-la-desregulacion-del-gas-javier-milei-n5425455",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/francisco-azcue-va-busca-del-voto-peronista-asegurar-su-reeleccion-concordia-n5425478",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/intendentes-la-gobernacion-n5425472",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/javier-milei-busca-del-prime-politico-perdido-n5425482",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/justicia-federal-cordoba-llamas-los-desafios-los-nuevos-camaristas-que-asumiran-dos-meses-n5425489",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/la-provincia-buenos-aires-puede-ser-mucho-mas-n5425480",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/moises-va-la-interna-el-pj-jujuy-contra-un-combo-todas-las-tribus-apadrinado-rivarola-n5425484",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/rutas-la-pampa-ziliotto-trama-un-peaje-el-transporte-vaca-muerta-y-le-mete-presion-santilli-n5425488",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/santa-cruz-jairo-guzman-acelera-el-armado-la-libertad-avanza-y-se-prueba-el-traje-claudio-vidal-n5425430",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/santiago-del-estero-zamora-busca-ratificar-su-dominio-los-municipios-frente-una-oposicion-desperdigada-n5425468",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78082/el-gobierno-actualizo-el-cobro-a-las-prepagas-por-la-atencion-en-hospitales-publicos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78083/el-stj-rechazo-revisar-la-condena-a-12-anos-de-prision-por-abuso-sexual-y-amenazas",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78084/la-municipalidad-de-general-pico-y-flacso-fortalecen-politicas-de-primera-infancia",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78085/ratificaron-la-condena-de-14-anos-de-prision-por-abuso-sexual-para-el-exdirectivo-de-apap",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78086/motociclista-choco-huyo-y-dejo-a-su-hijastro-fracturado",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78087/investigan-el-incendio-de-un-auto-en-la-zona-sur-de-santa-rosa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78088/se-viene-la-feria-de-las-infancias-en-pico",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78089/inaugura-el-iv-salon-de-arte-infantil-y-juvenil-en-medano-",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78090/ordenan-restituir-a-dos-dirigentes-desplazados-en-ate-de-general-pico",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78091/por-que-el-estado-le-teme-al-amor--el-caso-rancul-y-la-urgencia-de-humanizar-la-ley",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78092/radicales-ya-se-lanzan-por-la-intendencia-de-pico",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78093/via-tac-devolvera-los-pasajes-a-barrientos-y-sancionara-al-chofer-que-impidio-el-viaje",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78094/hacia-maniobras-peligrosas-por-la-avenida-luro-y-la-detuvieron-con-205-de-alcohol",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78095/marin-presento-proyectos-de-mecenazgo-y-desendeudamiento-en-general-acha",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/01/508648/",
+    "title": "Los patentamientos de autos 0 km cayeron más de 30% anual en julio",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/01/agosto-se-inicia-con-un-dia-soleado-y-viento-norte-por-la-tarde/",
+    "title": "Agosto se inicia con un día soleado y viento norte por la tarde",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/01/crece-la-polemica-por-el-endeudamiento-y-la-morosidad-y-denuncian-el-vicio-de-prestar-caro/",
+    "title": "Crece la polémica por el endeudamiento y la morosidad y denuncian el “vicio de prestar caro”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/01/cuatro-personas-fueron-hospitalizadas-luego-de-un-choque-en-la-ruta-provincial-4/",
+    "title": "Cuatro personas fueron hospitalizadas luego de un choque en la Ruta Provincial 4",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/01/investigan-el-incendio-de-un-automovil-en-el-barrio-pueblos-originarios/",
+    "title": "Investigan el incendio de un automóvil en el barrio Pueblos Originarios",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/01/larroude-la-corrida-de-las-termas-busca-duplicar-sus-participantes/",
+    "title": "Larroudé: la Corrida de las Termas busca duplicar sus participantes",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/01/pico-lanzo-un-plan-de-regularizacion-de-deudas-municipales-20-de-descuento-y-12-cuotas/",
+    "title": "Pico lanzó un plan de regularización de deudas municipales: 20% de descuento y 12 cuotas",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/01/ruta-192-siete-muertos-entre-ellos-tres-menores-por-el-choque-frontal-entre-un-auto-y-un-camion/",
+    "title": "Ruta 192: siete muertos, entre ellos tres menores, por el choque frontal entre un auto y un camión",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/01/un-proyectil-impacto-contra-un-petrolero-en-ormuz-y-escalo-la-tension-belica/",
+    "title": "Un proyectil impactó contra un petrolero en Ormuz y escaló la tensión bélica",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/01/siete-muertos-entre-ellos-tres-menores-por-el-choque-frontal-entre-un-auto-y-un-camion-en-provincia-de-buenos-aires/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/01/suman-67-los-muertos-en-ceuta-por-la-crisis-fronteriza-con-marruecos/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/conversaciones/31066-el-teatro-sigue-vivo-porque-es-aqui-y-ahora",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/deportes/2026/8/1/el-torneo-provincial-de-futbol-comenzara-el-27-de-septiembre-121108.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/1/como-cada-de-agosto-visitamos-farmacia-galeria-somos-el-lugar-de-la-cana-con-ruda-en-pico-una-forma-de-ahuyentar-los-espiritus-las-malas-energias-video-121112.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/8/1/bomberos-voluntarios-de-general-pico-realizaran-una-practica-con-el-hidroelevador-en-distintos-edificios-de-la-ciudad-121114.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/1/brutal-crimen-en-mendoza-un-chico-de-15-anos-fue-asesinado-por-vecinos-con-un-machete-una-bomba-molotov-121100.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/1/crece-la-polemica-por-el-endeudamiento-la-morosidad-denuncian-el-vicio-de-prestar-caro-121101.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/1/el-rol-del-dolar-en-la-economia-argentina-por-domingo-cavallo-121103.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/1/el-ultimo-timbre-emotiva-despedida-un-profesor-que-se-jubilo-entre-aplausos-video-121110.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/1/tragedia-en-ruta-192-siete-muertos-tras-un-choque-frontal-entre-un-auto-un-camion-video-121111.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/8/1/cuatro-personas-hospitalizadas-tras-un-fuertisimo-choque-en-la-ruta-provincial-4-cerca-del-cruce-con-la-35-mira-121115.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/7/31/nuevas-lineas-financieras-para-fortalecer-la-insercion-de-empresas-pampeanas-en-mercados-externos-121051.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/1/bernardo-larroude-el-intendente-jose-luis-gallotti-recibio-los-chicos-de-la-escuela-n-20-que-crearon-folletos-turisticos-para-promocionar-la-localidad-mira-121104.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/1/la-provincia-sostiene-la-obra-publica-en-rolon-con-inversiones-que-potencian-la-salud-el-turismo-el-desarrollo-local-121094.html",
     "title": null,
     "attempts": 0
   }
