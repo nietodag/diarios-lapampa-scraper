@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/pais/77562/la-economia-sufrio-su-segunda-caida-mensual-al-hilo-en-mayo",
     "title": "La econom&iacute;a sufri&oacute; su segunda ca&iacute;da mensual al hilo en mayo",
-    "attempts": 6
+    "attempts": 7
   },
   {
     "site": "El Diario de La Pampa",
@@ -10112,6 +10112,48 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/7/31/la-intensa-niebla-obligo-cancelar-los-vuelos-de-aerolineas-argentinas-en-la-pampa-121082.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/07/31/esclarecen-el-robo-del-motor-de-una-motocicleta-en-parera-ya-habia-sido-vendido-y-colocado-en-otro-rodado/",
+    "title": "Esclarecen el robo del motor de una motocicleta en Parera: ya había sido vendido y colocado en otro rodado",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/31/coirco-extienden-el-plazo-para-participar-de-los-concursos-por-su-50-aniversario/",
+    "title": "COIRCO: Extienden el plazo para participar de los concursos por su 50° aniversario",
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/espectaculos/2026/8/1/presentaron-la-10-edicion-del-festival-nacional-de-cine-en-general-pico-arrancamos-entre-tres-personas-hoy-tenemos-un-equipo-de-trabajo-enorme-esta-considerado-entre-los-cinco-mejores-festivales-del-pais-video-121096.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/7/31/locura-total-en-pico-choco-dejo-al-hijastro-de-11-anos-abandonado-fracturado-con-un-fuerte-golpe-en-la-cabeza-se-dio-la-fuga-video-121084.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/1/locura-total-en-pico-detuvieron-al-hombre-que-choco-se-dio-la-fuga-abandonando-su-hijastro-de-11-anos-fracturado-mira-121097.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/1/horror-discutio-con-su-vecino-regreso-armado-mato-un-joven-de-29-anos-en-un-campo-121098.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/1/tras-haber-sido-detenido-luego-liberado-el-cuidador-que-maltrato-dos-jubiladas-en-un-geriatrico-se-presento-ante-la-justicia-video-121099.html",
     "title": null,
     "attempts": 0
   }
