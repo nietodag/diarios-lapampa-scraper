@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/pais/77562/la-economia-sufrio-su-segunda-caida-mensual-al-hilo-en-mayo",
     "title": "La econom&iacute;a sufri&oacute; su segunda ca&iacute;da mensual al hilo en mayo",
-    "attempts": 13
+    "attempts": 14
   },
   {
     "site": "El Diario de La Pampa",
@@ -11354,6 +11354,264 @@
   {
     "site": "Diario Textual",
     "url": "https://diariotextual.com/inicio/index.php/2026/08/02/los-docentes-hacen-paro-durante-este-lunes-pese-a-las-amenazas-de-sanciones-de-nacion/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=81998",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=81999",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82000",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/02/el-palomar-la-loma-brillo-en-la-septima-fecha-del-campeonato-de-colombofilia-piquense/",
+    "title": "El palomar “La Loma” brilló en la séptima fecha del campeonato de colombofilia piquense",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/02/federal-a-costa-brava-inicia-su-camino-en-la-revalida-con-la-mirada-puesta-en-el-ascenso-y-la-permanencia/",
+    "title": "Federal A: Costa Brava inicia su camino en la Reválida con la mirada puesta en el ascenso y la permanencia",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/02/la-tecnologia-supera-en-velocidad-a-las-normas-presentan-proyecto-para-reformar-el-codigo-contravencional-de-la-pampa/",
+    "title": "«La tecnología supera en velocidad a las normas»: presentan proyecto para reformar el Código Contravencional de La Pampa",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/02/liga-pampeana-de-futbol-programacion-horarios-y-arbitros-para-la-jornada-del-domingo/",
+    "title": "Liga Pampeana de Fútbol: programación, horarios y árbitros para la jornada del domingo",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/02/reto-del-dia-son-capaces-de-resolver-este-calculo-matematico-en-6-segundos/",
+    "title": "Reto del día: ¿Son capaces de resolver este cálculo matemático en 6 segundos?",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/02/robaron-dos-motos-de-alto-valor-economico-en-la-zona-centrica-de-general-pico/",
+    "title": "Robaron dos motos de alto valor económico en la zona céntrica de General Pico",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/02/un-auto-despisto-en-la-curva-de-trebolares-sobre-la-ruta-1-y-el-conductor-resulto-ileso/",
+    "title": "Un auto despistó en la curva de Trebolares sobre la Ruta 1 y el conductor resultó ileso",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/caldenia/chinche-molle-presenta-pasionaria-202682900",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/caldenia/se-vienen-los-premios-emmy-2026821200",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/el-gobierno-redoblo-la-persecucion-2026820170",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/escrache-a-senadora-libertaria-vende-tu-shopping-no-la-argentina-2026821150",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/fuerte-caida-la-venta-de-autos-usados-bajaron-mas-del-12-en-julio-20268212280",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/las-familias-bajan-el-consumo-por-el-mayor-pago-de-impuestos-y-servicios-20268210270",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/ley-de-tierras-advierten-por-el-aumento-de-los-precios-2026820170",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/avanza-obra-del-parque-2026820180",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/equipararan-valores-con-clinicas-privadas-2026820180",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/ministerio-de-produccion-impulsa-agenda-para-fortalecer-desarrollo-2026820180",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/musica-para-el-alma-habra-conciertos-en-instituciones-2026820180",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/pendientes-de-la-gente-no-de-internas-2026820180",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/un-joven-demorado-por-romper-una-puerta-para-entrar-a-robar-y-lesionar-a-un-policia-2026821060",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/el-pronostico-del-tiempo-para-hoy-en-santa-rosa-2026828540",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/economia/autos-chinos-si-camiones-no-toto-caputo-y-sturzenegger-rechazaron-bajar-impuestos-renovar-la-flota-n5425439",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/economia/privatizacion-vial-un-consorcio-tomo-la-ruta-hace-un-mes-aumento-el-peaje-y-amaga-devolverla-n5425474",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/javier-milei-pone-prueba-su-poder-la-ley-tierras-n5425492",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/la-quinta-pata/javier-milei-eterno-n5425485",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-dia-despues-ricardo-quintela-n5425497",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/enrique-angelelli-el-martir-que-el-peronismo-disputa-y-la-iglesia-se-resiste-partidizar-n5425470",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/era-abajo-el-curioso-metodo-axel-kicillof-meter-un-pie-santa-fe-n5425491",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/la-cuenta-regresiva-gustavo-melella-n5425493",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/la-ultima-oportunidad-del-kirchnerismo-cordoba-n5425495",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/que-tiene-axel-kicillof-la-cabeza-n5425490",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/02/carta-abierta-a-huala-y-kroneberger-le-piden-no-acompanar-la-reforma-sobre-tierras-rurales/",
+    "title": "Carta abierta a Huala y Kroneberger: Le piden no acompañar la reforma sobre tierras rurales",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/02/crearan-la-mesa-permanente-de-mujeres-en-el-pj-santa-rosa/",
+    "title": "Crearán la Mesa Permanente de Mujeres en el PJ Santa Rosa",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/02/el-mst-realizo-un-banderazo-en-santa-rosa-contra-el-proyecto-la-ley-de-tierras/",
+    "title": "El MST realizó un banderazo en Santa Rosa contra el proyecto la Ley de Tierras",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/02/el-papa-leon-xiv-expreso-su-preocupacion-por-la-crisis-migratoria-en-ceuta/",
+    "title": "El papa León XIV expresó su preocupación por la crisis migratoria en Ceuta",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/02/fuerte-choque-entre-dos-motos-dos-jovenes-fueron-hospitalizadas/",
+    "title": "Fuerte choque entre dos motos: Dos jóvenes fueron hospitalizadas",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/02/la-ucr-tambien-avanza-con-un-proyecto-para-gravar-el-transito-pesado-hacia-vaca-muerta/",
+    "title": "La UCR también avanza con un proyecto para gravar el tránsito pesado hacia Vaca Muerta",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/02/musica-para-el-alma-llega-a-la-pampa-con-conciertos-gratuitos-en-hospitales-y-hogares/",
+    "title": "“Música para el Alma” llega a La Pampa con conciertos gratuitos en hospitales y hogares",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/02/castex-familiares-el-difunto-se-pelearon-y-hubo-que-suspender-el-velorio/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/02/fuerte-caida-de-la-venta-de-autos-usados-en-julio-en-la-pampa-las-razones/",
     "title": null,
     "attempts": 0
   }
