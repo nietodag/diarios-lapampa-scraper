@@ -193,7 +193,10 @@
     "https://www.pampadiario.com/single-post.php?id=82021": 1785783505.2531846,
     "https://www.pampadiario.com/single-post.php?id=82019": 1785783505.2531846,
     "https://www.pampadiario.com/single-post.php?id=82012": 1785783505.2531846,
-    "https://www.pampadiario.com/single-post.php?id=82013": 1785783505.2531846
+    "https://www.pampadiario.com/single-post.php?id=82013": 1785783505.2531846,
+    "https://www.pampadiario.com/single-post.php?id=82018": 1785796604.058946,
+    "https://www.pampadiario.com/single-post.php?id=82027": 1785796604.058946,
+    "https://www.pampadiario.com/single-post.php?id=82017": 1785796604.058946
   },
   "Info Pico": {
     "https://www.infopico.com/2026/07/18/musica-e-inclusion-una-fundacion-de-la-pampa-organiza-un-show-con-total-accesibilidad-en-buenos-aires/": 1784416721.202942,
@@ -502,7 +505,12 @@
     "https://www.infopico.com/2026/08/03/amplio-operativo-policial-y-de-bomberos-en-general-pico-para-hallar-a-romina-albornoz/": 1785783505.2531846,
     "https://www.infopico.com/2026/08/03/paro-de-estatales-y-docentes-los-companeros-se-dan-cuenta-que-los-enganaron-y-les-mintieron/": 1785783505.2531846,
     "https://www.infopico.com/2026/08/03/robaron-un-auto-en-la-matanza-y-quedaron-filmados-mientras-planeaban-nuevos-asaltos-si-encontras-otro-coche-frenale-gato/": 1785783505.2531846,
-    "https://www.infopico.com/2026/08/03/el-fiscal-pellegrino-confirmo-que-el-cuerpo-hallado-en-el-canal-de-desague-pertenece-a-romina-albornoz/": 1785783505.2531846
+    "https://www.infopico.com/2026/08/03/el-fiscal-pellegrino-confirmo-que-el-cuerpo-hallado-en-el-canal-de-desague-pertenece-a-romina-albornoz/": 1785783505.2531846,
+    "https://www.infopico.com/2026/08/03/no-es-una-carrera-facil-la-facultad-de-ciencias-de-la-salud-prepara-su-segundo-ano-con-edificio-propio-en-camino/": 1785796604.058946,
+    "https://www.infopico.com/2026/08/03/macota-espada-advierte-subestimar-el-dolor-en-adolescentes-puede-ser-muy-peligroso/": 1785796604.058946,
+    "https://www.infopico.com/2026/08/03/concejales-de-la-ucr-impulsan-proyectos-para-restaurar-el-puente-del-parque-delfin-perez-y-mejorar-la-senalizacion-en-barrio-rucci/": 1785796604.058946,
+    "https://www.infopico.com/2026/08/03/santa-rosa-sera-sede-de-la-semifinal-de-la-copa-robotica-educabot-2026/": 1785796604.058946,
+    "https://www.infopico.com/2026/08/03/general-pico-se-prepara-para-la-tercera-fecha-del-campeonato-de-running-km-y-pico/": 1785796604.058946
   },
   "La Arena": {
     "https://www.laarena.com.ar/deportes/basquet-ferro-igualo-la-serie-ante-all-boys-20267188490": 1784416721.202942,
@@ -1783,7 +1791,24 @@
     "https://www.laarena.com.ar/deportes/uefa-amenaza-con-demandar-a-fifa-por-el-fallido-plan-para-privatizar-ingresos-del-mundial-20268315540": 1785783505.2531846,
     "https://www.laarena.com.ar/audio/leonardo-santesteban-en-el-aire-de-la-manana-del-01-08-20268313130": 1785783505.2531846,
     "https://www.laarena.com.ar/deportes/valentin-lucero-de-all-boys-de-trenel-a-debutar-en-river-20268310150": 1785783505.2531846,
-    "https://www.laarena.com.ar/la-region/presentaron-un-queso-de-mil-kilos-que-sera-subastado-con-fines-solidarios-20268314360": 1785783505.2531846
+    "https://www.laarena.com.ar/la-region/presentaron-un-queso-de-mil-kilos-que-sera-subastado-con-fines-solidarios-20268314360": 1785783505.2531846,
+    "https://www.laarena.com.ar/el-pais/ley-de-tierras-el-gobierno-negocia-fijar-un-limite-de-compra-por-provincia-20268317380": 1785796604.058946,
+    "https://www.laarena.com.ar/la-pampa/luan-toro-diez-vecinos-estudian-carreras-universitarias-en-la-unlpam-20268318200": 1785796604.058946,
+    "https://www.laarena.com.ar/la-pampa/el-municipio-de-uriburu-puso-en-marcha-el-corredor-sanitario-visual-pampeano-20268316120": 1785796604.058946,
+    "https://www.laarena.com.ar/la-region/jabalies-aparecen-con-mayor-frecuencia-por-las-calles-y-se-alimentan-de-tachos-de-basura-20268318170": 1785796604.058946,
+    "https://www.laarena.com.ar/la-pampa/llega-el-agua-en-la-pampa-a-la-programacion-de-la-cpe-tv-20268318350": 1785796604.058946,
+    "https://www.laarena.com.ar/el-pais/estudiantes-entrerrianas-desarrollaron-una-receta-de-mortadela-de-jabali-20268318430": 1785796604.058946,
+    "https://www.laarena.com.ar/la-pampa/presentan-proyecto-para-reactivar-la-junta-municipal-de-defensa-civil-en-catrilo-20268317470": 1785796604.058946,
+    "https://www.laarena.com.ar/el-mundo/ceuta-estima-en-mas-de-860-los-menores-migrantes-que-siguen-bajo-tutela-en-la-ciudad-2026831610": 1785796604.058946,
+    "https://www.laarena.com.ar/la-pampa/el-parque-lineal-avanza-con-mas-senderos-y-espacios-publicos-20268318280": 1785796604.058946,
+    "https://www.laarena.com.ar/la-pampa/entregan-kits-a-participantes-de-la-copa-robotica-provincial-2026831770": 1785796604.058946,
+    "https://www.laarena.com.ar/el-pais/el-gobernador-de-neuquen-se-desmarca-del-gobierno-con-un-proyecto-propio-20268319230": 1785796604.058946,
+    "https://www.laarena.com.ar/el-pais/el-dolar-inicio-agosto-con-otra-suba-y-el-mayorista-rozo-los-1-500-20268316270": 1785796604.058946,
+    "https://www.laarena.com.ar/deportes/la-seleccion-argentina-planifica-el-primer-amistoso-en-el-pais-tras-el-mundial-20268316590": 1785796604.058946,
+    "https://www.laarena.com.ar/la-pampa/chakra-raiz-pidio-al-gobierno-frenar-el-desalojo-y-abrir-una-mesa-de-dialogo-20268316350": 1785796604.058946,
+    "https://www.laarena.com.ar/la-pampa/pampetrol-convoca-empresas-para-generar-energia-solar-en-13-localidades-20268319270": 1785796604.058946,
+    "https://www.laarena.com.ar/el-mundo/trump-asegura-que-esta-es-la-ultima-oportunidad-de-iran-para-firmar-un-acuerdo-20268318110": 1785796604.058946,
+    "https://www.laarena.com.ar/la-region/emitieron-alerta-amarilla-por-tormenta-para-la-region-2026831970": 1785796604.058946
   },
   "LetraP": {
     "https://www.letrap.com.ar/politica/santiago-del-estero-el-pro-se-concentra-la-capital-y-la-banda-no-sucumbir-la-avanzada-libertaria-n5425166": 1784416721.202942,
@@ -2121,7 +2146,17 @@
     "https://www.letrap.com.ar/politica/maximiliano-pullaro-sumo-cordoba-y-rios-su-pelea-milei-el-tarifazo-electrico-la-industria-n5425506": 1785783505.2531846,
     "https://www.letrap.com.ar/politica/la-pampa-kroneberger-se-anota-pelearle-berhongaray-la-candidatura-radical-la-gobernacion-n5425459": 1785783505.2531846,
     "https://www.letrap.com.ar/el-futuro-segun-toto-caputo-n5425505": 1785783505.2531846,
-    "https://www.letrap.com.ar/congreso/ley-tierras-presion-aliados-el-gobierno-cede-y-bullrich-negocia-subir-el-tope-compra-al-25-n5425507": 1785783505.2531846
+    "https://www.letrap.com.ar/congreso/ley-tierras-presion-aliados-el-gobierno-cede-y-bullrich-negocia-subir-el-tope-compra-al-25-n5425507": 1785783505.2531846,
+    "https://www.letrap.com.ar/economia/deuda-la-mora-llega-su-techo-pero-el-credito-sigue-aparecer-y-complica-la-reactivacion-n5425511": 1785796604.058946,
+    "https://www.letrap.com.ar/politica/encuesta-cordoba-la-imagen-javier-milei-cayo-15-puntos-siete-meses-y-martin-llaryora-le-saca-ventaja-n5425514": 1785796604.058946,
+    "https://www.letrap.com.ar/conurbano/reeleccion-intendentes-sergio-massa-reactiva-la-comision-reforma-politica-del-senado-bonaerense-n5425517": 1785796604.058946,
+    "https://www.letrap.com.ar/politica/paro-marcha-al-congreso-y-san-cayetano-se-reactiva-la-calle-la-protesta-contra-javier-milei-n5425509": 1785796604.058946,
+    "https://www.letrap.com.ar/politica/hugo-passalacqua-renuncio-encuentro-misionero-y-formalizo-su-ruptura-carlos-rovira-n5425516": 1785796604.058946,
+    "https://www.letrap.com.ar/politica/kicillof-2027-como-sigue-el-proceso-expansion-territorial-del-gobernador-bonaerense-n5425508": 1785796604.058946,
+    "https://www.letrap.com.ar/politica/universidad-cordoba-boretto-arranco-un-nuevo-ciclo-reclamos-milei-y-fuerte-respaldo-del-circulo-rojo-n5425515": 1785796604.058946,
+    "https://www.letrap.com.ar/politica/la-estrategia-karina-milei-y-los-menem-derrapo-santiago-del-estero-lla-logro-tres-concejales-194-n5425520": 1785796604.058946,
+    "https://www.letrap.com.ar/karina-milei-definio-una-hoja-ruta-consolidar-el-crecimiento-lla-chaco-n5425519": 1785796604.058946,
+    "https://www.letrap.com.ar/politica/mensaje-san-jose-1111-gustavo-saenz-se-quedo-el-partido-justicialista-salta-n5425521": 1785796604.058946
   },
   "El Diario de La Pampa": {
     "https://www.eldiariodelapampa.com.ar/pais/77403/morosidad-en-alza--se-agrava-el-problema-y-1-de-cada-3-argentinos-con-deuda-no-puede-pagar": 1784416721.202942,
@@ -2874,7 +2909,10 @@
     "https://www.eldiariodelapampa.com.ar/la-pampa/78180/fuerte-operativo-para-hallar-a-romina-albornoz": 1785783505.2531846,
     "https://www.eldiariodelapampa.com.ar/pais/78176/milei-sobre-las-familias-con-deudas--nadie-les-puso-una-pistola-en-la-cabeza": 1785783505.2531846,
     "https://www.eldiariodelapampa.com.ar/deportes/78175/valentin-lucero-hizo-historia-con-su-debut-en-river": 1785783505.2531846,
-    "https://www.eldiariodelapampa.com.ar/deportes/78177/sueldo-y-reyes-dominadores-en-hilario-lagos": 1785783505.2531846
+    "https://www.eldiariodelapampa.com.ar/deportes/78177/sueldo-y-reyes-dominadores-en-hilario-lagos": 1785783505.2531846,
+    "https://www.eldiariodelapampa.com.ar/la-pampa/78190/pampetrol-convoca-a-empresas-para-generar-535-mw-de-energia-solar-en-13-localidades": 1785796604.058946,
+    "https://www.eldiariodelapampa.com.ar/la-pampa/78189/parque-lineal--colocan-adoquinado-y-suman-nuevos-senderos": 1785796604.058946,
+    "https://www.eldiariodelapampa.com.ar/pais/78188/iban-a-buscar-a-su-hija-por-su-cumple-de-15-cayo-un-arbol-sobre-la-camioneta-y-murieron": 1785796604.058946
   },
   "Dos Bases": {
     "https://www.dosbases.com.ar/2019/01/dinosaurios-vivos-el-fiscal-aguero-alerto-sobre-un-boom-de-estafas-a-telefonicas-y-recomienda-que-el-blp-no-permita-a-jubilados-transferencias-de-montos-altos-por-cajero/": 1784416721.202942,
@@ -8272,7 +8310,17 @@
     "https://www.planbnoticias.com.ar/index.php/2026/08/03/abuso-de-la-hija-de-su-pareja-diez-anos-de-carcel/": 1785783505.2531846,
     "https://www.planbnoticias.com.ar/index.php/2026/08/03/utelpa-aseguro-que-el-paro-docente-alcanzo-un-95-de-adhesion-en-la-pampa/": 1785783505.2531846,
     "https://www.planbnoticias.com.ar/index.php/2026/08/03/femulpa-reeligio-a-genoni-y-ratifico-la-defensa-del-mutualismo-pampeano/": 1785783505.2531846,
-    "https://www.planbnoticias.com.ar/index.php/2026/08/03/el-bmx-de-santa-rosa-puso-primera-mas-de-45-pilotos/": 1785783505.2531846
+    "https://www.planbnoticias.com.ar/index.php/2026/08/03/el-bmx-de-santa-rosa-puso-primera-mas-de-45-pilotos/": 1785783505.2531846,
+    "https://www.planbnoticias.com.ar/index.php/2026/08/03/entregan-kits-a-instituciones-que-participaran-en-la-copa-robotica-provincial-en-el-colegio-marcelino-catron/": 1785796604.058946,
+    "https://www.planbnoticias.com.ar/index.php/2026/08/03/avanza-la-segunda-etapa-del-parque-lineal-los-adoquines-ya-llegan-hasta-raul-b-diaz/": 1785796604.058946,
+    "https://www.planbnoticias.com.ar/index.php/2026/08/03/mandinga-llega-a-la-6-edicion-de-la-ruta-del-tentempie/": 1785796604.058946,
+    "https://www.planbnoticias.com.ar/index.php/2026/08/03/pampetrol-convoca-empresas-para-generar-energia-solar-en-13-localidades-por-535-mw/": 1785796604.058946,
+    "https://www.planbnoticias.com.ar/index.php/2026/08/03/llega-el-agua-en-la-pampa-a-la-senal-televisiva-de-la-cpe/": 1785796604.058946,
+    "https://www.planbnoticias.com.ar/index.php/2026/08/03/general-pico-hallaron-el-cuerpo-de-romina-albornoz-en-un-canal-de-desague/": 1785796604.058946,
+    "https://www.planbnoticias.com.ar/index.php/2026/08/03/ape-rechazo-el-proyecto-de-ley-que-que-elimina-los-limites-a-la-venta-de-tierras-a-extranjeros/": 1785796604.058946,
+    "https://www.planbnoticias.com.ar/index.php/2026/08/03/tres-arroyos-paraliza-sus-plantas-en-agosto-los-trabajadores-aun-cobran-salarios-en-10-cuotas-y-no-recibieron-el-aguinaldo/": 1785796604.058946,
+    "https://www.planbnoticias.com.ar/index.php/2026/08/03/ley-de-tierras-lla-hace-concesiones-para-lograr-apoyo-de-senadores-aliados/": 1785796604.058946,
+    "https://www.planbnoticias.com.ar/index.php/2026/08/03/llega-al-teatro-tkq-la-colchoneta-azul/": 1785796604.058946
   },
   "Infotec Realicó": {
     "https://infotecrealico.com.ar/contenido/86896/la-provincia-no-aprobo-el-informe-final-ambiental-de-el-medanito-y-remitio-un-in": 1784416721.202942,
@@ -9537,7 +9585,14 @@
     "https://diariotextual.com/inicio/index.php/2026/08/03/entregan-kits-a-escuelas-pampeanas-que-competiran-en-la-semifinal-de-la-copa-robotica-2026/": 1785783505.2531846,
     "https://diariotextual.com/inicio/index.php/2026/08/03/encuentran-muerta-a-una-mujer-en-pico-investigan-si-se-trata-de-la-mujer-que-estaba-desaparecida/": 1785783505.2531846,
     "https://diariotextual.com/inicio/index.php/2026/08/03/crisis-del-comercio-pampeano-el-713-de-los-negocios-registro-caidas-en-sus-ventas-interanuales/": 1785783505.2531846,
-    "https://diariotextual.com/inicio/index.php/2026/08/03/condena-en-santa-rosa-10-anos-de-carcel-por-abusar-de-la-hija-de-su-pareja/": 1785783505.2531846
+    "https://diariotextual.com/inicio/index.php/2026/08/03/condena-en-santa-rosa-10-anos-de-carcel-por-abusar-de-la-hija-de-su-pareja/": 1785783505.2531846,
+    "https://diariotextual.com/inicio/index.php/2026/08/03/genoni-ratificado-en-la-conduccion-de-la-federacion-de-mutualidades-de-la-pampa/": 1785796604.058946,
+    "https://diariotextual.com/inicio/index.php/2026/08/03/documental-el-agua-en-la-pampa-se-transmitira-por-cpe-tv/": 1785796604.058946,
+    "https://diariotextual.com/inicio/index.php/2026/08/03/no-los-dejaron-pasar-inspectores-de-nacion-no-pudieron-verificar-el-cumplimiento-del-75-en-la-pampa/": 1785796604.058946,
+    "https://diariotextual.com/inicio/index.php/2026/08/03/se-estrena-el-mato-a-un-motociclista-alcoholizado-un-thriller-psicologico-filmado-en-la-pampa/": 1785796604.058946,
+    "https://diariotextual.com/inicio/index.php/2026/08/03/pampetrol-convoco-a-empresas-para-generar-energia-solar-en-13-localidades-por-535-mw/": 1785796604.058946,
+    "https://diariotextual.com/inicio/index.php/2026/08/03/mas-concesiones-para-que-no-se-caiga-el-proyecto-sobre-tierras-lla-introduce-cambios-con-guinos-a-aliados/": 1785796604.058946,
+    "https://diariotextual.com/inicio/index.php/2026/08/03/financiamiento-universitario-finocchiaro-santilli-milei-y-alvarez-mintieron/": 1785796604.058946
   },
   "Radio Kermes": {
     "https://www.radiokermes.com/noticias/30889-el-partido-argentina-enfrenta-a-inglaterra-y-busca-la-final-mundial": 1784416721.202942,
@@ -9762,7 +9817,11 @@
     "https://www.radiokermes.com/noticias/31082-hay-una-intencion-de-perjudicar-a-los-gremios-docentes": 1785783505.2531846,
     "https://www.radiokermes.com/noticias/31085-general-pico-se-prepara-para-la-decima-edicion-de-su-festival-nacional-de-cine": 1785783505.2531846,
     "https://www.radiokermes.com/noticias/31084-el-futbol-femenino-volvio-con-goleadas-empates-y-nuevos-desafios": 1785783505.2531846,
-    "https://www.radiokermes.com/noticias/31078-el-trueque-volvio-a-santa-rosa-empujado-por-las-deudas-y-la-necesidad-de-comer": 1785783505.2531846
+    "https://www.radiokermes.com/noticias/31078-el-trueque-volvio-a-santa-rosa-empujado-por-las-deudas-y-la-necesidad-de-comer": 1785783505.2531846,
+    "https://www.radiokermes.com/noticias/31088-hallaron-en-pico-el-cadaver-de-romina-albornoz": 1785796604.058946,
+    "https://www.radiokermes.com/noticias/31090-sigue-el-derrumbe-de-ventas-en-el-comercio-local": 1785796604.058946,
+    "https://www.radiokermes.com/noticias/31089-genoni-sigue-al-frente-de-la-federacion-de-mutualidades": 1785796604.058946,
+    "https://www.radiokermes.com/noticias/31091-pampetrol-licita-energia-solar-para-13-localidades": 1785796604.058946
   },
   "En Boca de Todos HD": {
     "https://www.enbocadetodoshd.com.ar/provinciales/2026/7/18/malestar-tension-en-bomberos-voluntarios-de-acha-por-la-conducta-de-un-integrante-120596.html": 1784416721.202942,
@@ -10371,7 +10430,17 @@
     "https://www.enbocadetodoshd.com.ar/locales/2026/8/3/urgente-hermetismo-total-intensa-busqueda-en-un-canal-de-desage-trabajan-bomberos-personal-policial-121186.html": 1785783505.2531846,
     "https://www.enbocadetodoshd.com.ar/espectaculos/2026/8/3/menu-del-dia-en-nova-pizza-mira-121185.html": 1785783505.2531846,
     "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/3/un-muerto-dos-heridos-tras-un-choque-entre-un-camion-un-automovil-en-la-avenida-circunvalacion-121182.html": 1785783505.2531846,
-    "https://www.enbocadetodoshd.com.ar/locales/2026/8/3/comisario-inspector-lucas-rinaldi-la-mujer-encontrada-esta-identificada-video-121189.html": 1785783505.2531846
+    "https://www.enbocadetodoshd.com.ar/locales/2026/8/3/comisario-inspector-lucas-rinaldi-la-mujer-encontrada-esta-identificada-video-121189.html": 1785783505.2531846,
+    "https://www.enbocadetodoshd.com.ar/municipales/2026/8/3/iv-salon-de-arte-infantil-juvenil-pretendemos-que-se-apropien-de-estos-espacios-que-los-valoren-los-defiendan-participando-dijo-fernanda-alonso-121176.html": 1785796604.058946,
+    "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/3/labraron-dos-actas-por-caza-furtiva-en-el-departamento-conhello-121199.html": 1785796604.058946,
+    "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/3/personal-policial-de-rancul-investigan-la-muerte-de-un-perro-las-lesiones-sufridas-por-otro-tras-presuntos-disparos-121196.html": 1785796604.058946,
+    "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/3/10-anos-de-prision-por-abusar-de-la-hija-de-su-pareja-121191.html": 1785796604.058946,
+    "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/3/invitan-un-nuevo-encuentro-del-ciclo-mujeres-que-impulsan-121192.html": 1785796604.058946,
+    "https://www.enbocadetodoshd.com.ar/espectaculos/2026/8/3/en-el-marco-del-10-festival-de-cine-de-general-pico-se-dictara-el-taller-flores-taipei-121195.html": 1785796604.058946,
+    "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/3/rutas-en-estado-critico-cuestionan-la-falta-de-inversion-pese-la-recaudacion-del-impuesto-los-combustibles-121172.html": 1785796604.058946,
+    "https://www.enbocadetodoshd.com.ar/mundo/2026/8/3/la-antartida-registro-la-temperatura-mas-baja-del-planeta-en-mas-de-una-decada-121197.html": 1785796604.058946,
+    "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/3/familias-de-luan-toro-recibieron-creditos-rucalhue-para-aplicar-mejoras-en-sus-casas-121174.html": 1785796604.058946,
+    "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/3/arranca-la-formacion-tecnologica-de-mas-de-80-talentos-en-cuatro-especialidades-de-alta-demanda-121175.html": 1785796604.058946
   },
   "Mará Codigital": {
     "http://www.maracodigital.net/En-un-ano-los-vuelos-baratos-tuvieron-un-millon-de-pasajeros.html": 1784416721.202942,
