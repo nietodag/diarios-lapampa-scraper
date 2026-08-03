@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/pais/77562/la-economia-sufrio-su-segunda-caida-mensual-al-hilo-en-mayo",
     "title": "La econom&iacute;a sufri&oacute; su segunda ca&iacute;da mensual al hilo en mayo",
-    "attempts": 17
+    "attempts": 18
   },
   {
     "site": "El Diario de La Pampa",
@@ -12338,6 +12338,450 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/3/ate-la-pampa-confirmo-su-adhesion-al-paro-nacional-con-movilizacion-de-este-lunes-121173.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82012",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82013",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82019",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82021",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82022",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/03/a-la-carcel-irrumpio-en-la-casa-de-su-ex-la-manoseo-y-la-golpeo-por-celos/",
+    "title": "A la cárcel: irrumpió en la casa de su ex, la manoseó y la golpeó por celos",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/03/amplio-operativo-policial-y-de-bomberos-en-general-pico-para-hallar-a-romina-albornoz/",
+    "title": "Amplio operativo policial y de bomberos en General Pico para hallar a Romina Albornoz",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/03/el-fiscal-pellegrino-confirmo-que-el-cuerpo-hallado-en-el-canal-de-desague-pertenece-a-romina-albornoz/",
+    "title": "El fiscal Pellegrino confirmó que el cuerpo hallado en el canal de desagüe pertenece a Romina Albornoz",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/03/general-pico-inauguro-el-iv-salon-de-arte-infantil-y-juvenil-con-foco-en-la-cultura-local/",
+    "title": "General Pico inauguró el IV Salón de Arte Infantil y Juvenil con foco en la cultura local",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/03/hallaron-el-cuerpo-de-una-mujer-en-un-canal-de-general-pico-el-fiscal-pellegrino-brindo-detalles-del-operativo/",
+    "title": "Hallaron el cuerpo de una mujer en un canal de General Pico: el fiscal Pellegrino brindó detalles del operativo",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/03/hallaron-un-cuerpo-en-el-canal-de-desague-de-la-calle-9-y-avenida-brunengo/",
+    "title": "Hallaron un cuerpo en el canal de desagüe de la calle 9 y avenida Brunengo",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/03/operativos-contra-la-caza-furtiva-en-rucanelo-secuestran-armas-y-20-liebres-europeas/",
+    "title": "Operativos contra la caza furtiva en Rucanelo: secuestran armas y 20 liebres europeas",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/03/paro-de-estatales-y-docentes-los-companeros-se-dan-cuenta-que-los-enganaron-y-les-mintieron/",
+    "title": "Paro de estatales y docentes: «Los compañeros se dan cuenta que los engañaron y les mintieron»",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/03/presentaron-la-10-corrida-de-las-termas-en-larroude-con-el-objetivo-de-reunir-150-atletas/",
+    "title": "Presentaron la 10° Corrida de las Termas en Larroudé con el objetivo de reunir 150 atletas",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/03/robaron-un-auto-en-la-matanza-y-quedaron-filmados-mientras-planeaban-nuevos-asaltos-si-encontras-otro-coche-frenale-gato/",
+    "title": "Robaron un auto en La Matanza y quedaron filmados mientras planeaban nuevos asaltos: “Si encontrás otro coche, frenale gato”",
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/congreso/ley-tierras-presion-aliados-el-gobierno-cede-y-bullrich-negocia-subir-el-tope-compra-al-25-n5425507",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/el-futuro-segun-toto-caputo-n5425505",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/opinion/extranjerizacion-la-tierra-el-senado-la-soberania-no-se-delega-n5425510",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/javier-milei-suma-millas-el-exterior-consolidar-un-bloque-ultraderecha-alineado-donald-trump-n5425502",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/la-crisis-del-pami-presiona-el-sistema-salud-rosario-pero-la-cupula-libertaria-esta-muteada-n5425499",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/la-pampa-kroneberger-se-anota-pelearle-berhongaray-la-candidatura-radical-la-gobernacion-n5425459",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/mas-100-organizaciones-piden-al-senado-rechazar-la-ley-tierras-y-el-super-rigi-n5425503",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/maximiliano-pullaro-sumo-cordoba-y-rios-su-pelea-milei-el-tarifazo-electrico-la-industria-n5425506",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/rolando-figueroa-envia-la-legislatura-una-ley-que-las-tierras-neuquen-queden-manos-argentinas-n5425501",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/un-centenar-organizaciones-elevan-la-presion-el-senado-la-ley-tierras-y-el-super-rigi-n5425504",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/78175/valentin-lucero-hizo-historia-con-su-debut-en-river",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/78177/sueldo-y-reyes-dominadores-en-hilario-lagos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78178/lo-condenaron-a-10-anos-de-prision-por-abusar-de-la-hija-de-su-pareja-",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78180/fuerte-operativo-para-hallar-a-romina-albornoz",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78181/fuerte-caida-de-las-ventas--el-713-en-porciento--de-los-comercios-pampeanos-registro-retrocesos-de-un-ano-a-otro",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78182/la-pampa-la-segunda-que-mas-transferencias-no-automaticas-recibio-en-julio-",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78183/el-municipio-habilita-el-pago-de-tasas-por-mercado-pago",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78185/entregaron-kits-a-instituciones-que-participaran-en-la-copa-robotica-provincial",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78186/las-camaras-de-seguridad-clave-para-el-hallazgo-del-cuerpo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/78176/milei-sobre-las-familias-con-deudas--nadie-les-puso-una-pistola-en-la-cabeza",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/78179/ley-de-tierras--el-oficialismo-cede-y-propone-elevar-del-15-en-porciento--al-25-en-porciento--el-limite-para-extranjeros",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/78184/ctera-rechazo-los-salarios-y-advirto-que-la-argentina-quedara-sin-maestros",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/03/abuso-de-la-hija-de-su-pareja-diez-anos-de-carcel/",
+    "title": "Abusó de la hija de su pareja: Diez años de cárcel",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/03/chakra-raiz-pidio-que-no-se-ejecute-el-desalojo/",
+    "title": "Chakra Raíz pidió que no se ejecute el desalojo",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/03/eduardo-castex-vibrara-con-una-noche-de-tributos-a-la-renga-y-riff/",
+    "title": "Eduardo Castex vibrará con una noche de tributos a La Renga y Riff",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/03/el-bmx-de-santa-rosa-puso-primera-mas-de-45-pilotos/",
+    "title": "El BMX de Santa Rosa puso primera: Más de 45 pilotos",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/03/este-miercoles-corte-de-luz-en-villa-germinal-2/",
+    "title": "Este miércoles corte de luz en Villa Germinal",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/03/femulpa-reeligio-a-genoni-y-ratifico-la-defensa-del-mutualismo-pampeano/",
+    "title": "Femulpa reeligió a Genoni y ratificó la defensa del mutualismo pampeano",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/03/la-crisis-golpea-al-comercio-pampeano-siete-de-cada-diez-negocios-vendieron-menos/",
+    "title": "La crisis golpea al comercio pampeano: siete de cada diez negocios vendieron menos",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/03/la-intersindical-convoco-a-un-paro-contra-el-proyecto-de-la-ley-de-tierras/",
+    "title": "La Intersindical convocó a un paro contra el proyecto de la Ley de Tierras",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/03/milei-relativizo-el-endeudamiento-de-las-familias-argentinas/",
+    "title": "Milei relativizó el endeudamiento de las familias argentinas",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/03/utelpa-aseguro-que-el-paro-docente-alcanzo-un-95-de-adhesion-en-la-pampa/",
+    "title": "UTELPa aseguró que el paro docente alcanzó un 95% de adhesión en La Pampa",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/03/condena-en-santa-rosa-10-anos-de-carcel-por-abusar-de-la-hija-de-su-pareja/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/03/crisis-del-comercio-pampeano-el-713-de-los-negocios-registro-caidas-en-sus-ventas-interanuales/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/03/encuentran-muerta-a-una-mujer-en-pico-investigan-si-se-trata-de-la-mujer-que-estaba-desaparecida/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/03/entregan-kits-a-escuelas-pampeanas-que-competiran-en-la-semifinal-de-la-copa-robotica-2026/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/03/milei-aviso-que-no-habra-ayuda-a-los-morosos-nadie-les-puso-una-pistola-en-la-cabeza-para-endeudarse/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31078-el-trueque-volvio-a-santa-rosa-empujado-por-las-deudas-y-la-necesidad-de-comer",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31079-trapaglia-respaldo-a-marita-mcallister-y-pidio-una-alianza-para-gobernar-la-pampa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31080-trapaglia-denuncio-condiciones-insalubres-para-trabajadores-de-salud-publica",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31081-la-intersindical-convoco-a-un-paro-contra-la-ley-de-tierras",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31082-hay-una-intencion-de-perjudicar-a-los-gremios-docentes",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31083-ate-reivindico-el-paro-y-llamo-a-frenar-la-ley-de-tierras",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31084-el-futbol-femenino-volvio-con-goleadas-empates-y-nuevos-desafios",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31085-general-pico-se-prepara-para-la-decima-edicion-de-su-festival-nacional-de-cine",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31086-alto-acatamiento-al-paro-docente-con-respaldo-de-ate",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31087-rossi-la-tierra-sigue-siendo-el-nucleo-de-la-disputa-geopolitica",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/deportes/2026/8/3/anotate-en-la-tercera-carrera-de-campeonato-km-pico-121180.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/espectaculos/2026/8/3/menu-del-dia-en-nova-pizza-mira-121185.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/3/comisario-inspector-lucas-rinaldi-la-mujer-encontrada-esta-identificada-video-121189.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/3/el-fiscal-pellegrino-confirmo-que-el-cuerpo-hallado-en-el-canal-de-desage-pertenece-romina-albornoz-121190.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/3/fiscal-juan-pellegrino-hallamos-el-cuerpo-sin-vida-de-una-mujer-video-121188.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/3/urgente-comenzo-la-tarea-de-bomberos-la-busqueda-estaria-relacionada-con-la-desaparicion-de-romina-albornoz-video-121187.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/3/urgente-hermetismo-total-intensa-busqueda-en-un-canal-de-desage-trabajan-bomberos-personal-policial-121186.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/3/el-intenso-frio-congelo-parcialmente-el-lago-frias-en-el-parque-nacional-nahuel-huapi-121184.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/3/informe-del-centro-de-almaceneros-de-cordoba-mas-de-la-mitad-de-las-familias-no-logro-cubrir-la-canasta-basica-alimentaria-121181.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/3/un-muerto-dos-heridos-tras-un-choque-entre-un-camion-un-automovil-en-la-avenida-circunvalacion-121182.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/3/zamora-arraso-en-las-elecciones-municipales-de-santiago-del-estero-con-el-66-de-los-votos-121183.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/3/tragedia-en-la-ruta-2-un-camionero-de-winifreda-se-vio-involucrado-en-un-choque-fatal-121171.html",
     "title": null,
     "attempts": 0
   }
