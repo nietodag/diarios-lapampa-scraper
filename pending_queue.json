@@ -1,231 +1,9 @@
 [
   {
     "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/pais/77562/la-economia-sufrio-su-segunda-caida-mensual-al-hilo-en-mayo",
-    "title": "La econom&iacute;a sufri&oacute; su segunda ca&iacute;da mensual al hilo en mayo",
-    "attempts": 19
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/pais/77567/el-gobierno-presento-un-proyecto-para-arancelar-la-universidad-y-la-salud-para-extranjeros",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/pais/77568/caputo-envio-un-nuevo-proyecto-de-inocencia-fiscal-al-congreso",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Plan B Noticias",
-    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/22/buscan-a-una-adolescente-de-17-anos-desaparecida-en-santa-rosa/",
-    "title": "Buscan a una adolescente de 17 años desaparecida en Santa Rosa",
-    "attempts": 0
-  },
-  {
-    "site": "Plan B Noticias",
-    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/22/editorial-voces-se-extiende-la-cpe-y-la-cosma-firmaron-convenios/",
-    "title": "Editorial Voces se extiende: la CPE y la COSMA firmaron convenios",
-    "attempts": 0
-  },
-  {
-    "site": "Plan B Noticias",
-    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/22/la-afa-desmintio-que-la-justicia-de-estados-unidos-citara-al-chiqui-tapia-y-le-secuestrara-el-celular/",
-    "title": "La AFA desmintió que la Justicia de Estados Unidos citara al “Chiqui” Tapia y le secuestrara el celular",
-    "attempts": 0
-  },
-  {
-    "site": "Plan B Noticias",
-    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/22/la-economia-sufrio-su-segunda-caida-mensual/",
-    "title": "La economía sufrió su segunda caída mensual",
-    "attempts": 0
-  },
-  {
-    "site": "Plan B Noticias",
-    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/22/mas-de-680-policias-se-capacitaron-en-la-pampa/",
-    "title": "Más de 680 policías se capacitaron en La Pampa",
-    "attempts": 0
-  },
-  {
-    "site": "Plan B Noticias",
-    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/22/refuerzan-la-seguridad-laboral-con-nueva-ropa-y-calzado-para-cuadrillas-municipales/",
-    "title": "Refuerzan la seguridad laboral con nueva ropa y calzado para cuadrillas municipales",
-    "attempts": 0
-  },
-  {
-    "site": "Plan B Noticias",
-    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/22/se-moviliza-la-cgt-y-las-cta-en-defensa-de-jubilados-y-jubiladas/",
-    "title": "La CGT y las CTA se movilizaron en defensa de jubilados y jubiladas",
-    "attempts": 0
-  },
-  {
-    "site": "Diario Textual",
-    "url": "https://diariotextual.com/inicio/index.php/2026/07/22/cta-cgt-y-jubilados-marcharon-en-santa-rosa-contra-la-politica-economica-de-milei/",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Diario Textual",
-    "url": "https://diariotextual.com/inicio/index.php/2026/07/22/mas-de-680-policias-pampeanos-se-capacitaron-durante-el-primer-semestre-de-2026/",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Radio Kermes",
-    "url": "https://www.radiokermes.com/noticias/30960-chinche-molle-presenta-su-primer-disco-en-el-teatro-espanol",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Radio Kermes",
-    "url": "https://www.radiokermes.com/noticias/30961-masiva-marcha-contra-mieli-el-gobierno-se-puso-la-gorra",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/municipales/2026/7/21/este-sabado-25-llega-ateneo-cultural-con-otra-edicion-de-rock-en-el-galpon-120681.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/municipales/2026/7/22/ultimos-dias-para-participar-del-iv-salon-de-arte-infantil-juvenil-2026-120726.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/7/22/disputa-por-el-ipcva-la-mesa-de-enlace-entidades-frigorificas-rechazan-un-cambio-que-impulsa-el-gobierno-120725.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/7/22/tiene-10-anos-es-la-unica-alumna-de-una-escuela-rural-lleva-adelante-un-proyecto-de-hidroponia-video-120724.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/7/22/tigre-goleo-nacional-exhibio-una-bandera-por-las-islas-malvinas-tras-el-partido-video-120716.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/7/22/tragedia-en-ruta-14-dos-personas-fallecieron-otras-dos-resultaron-heridas-tras-un-violento-choque-video-120738.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/7/22/video-salio-armado-frenar-la-poda-de-un-arbol-termino-detenido-120727.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/7/22/urgente-buscan-una-adolescente-de-17-anos-desaparecida-en-santa-rosa-piden-colaborar-con-la-difusion-120737.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/7/22/una-odontologa-de-quemu-recibio-el-primer-desembolso-del-credito-llegar-casa-para-construir-su-vivienda-120732.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/salud/2026/7/22/alarmante-brote-de-triquinosis-en-la-provincia-de-buenos-aires-lincoln-la-ciudad-mas-afectada-120723.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Pampa Diario",
-    "url": "https://www.pampadiario.com/single-post.php?id=81842",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Pampa Diario",
-    "url": "https://www.pampadiario.com/single-post.php?id=81843",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Pampa Diario",
-    "url": "https://www.pampadiario.com/single-post.php?id=81844",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Pampa Diario",
-    "url": "https://www.pampadiario.com/single-post.php?id=81845",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Pampa Diario",
-    "url": "https://www.pampadiario.com/single-post.php?id=81846",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/07/22/encontraron-una-granada-militar-con-un-detector-de-metales-a-metros-del-hospital-de-intendente-alvear/",
-    "title": "Encontraron una granada militar con un detector de metales a metros del hospital de Intendente Alvear",
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/07/22/oscar-atienza-siete-de-cada-diez-ninos-no-estan-vacunados-en-argentina/",
-    "title": "Oscar Atienza: «Siete de cada diez niños no están vacunados en Argentina»",
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/07/22/otorgan-pensiones-graciables-a-bomberos-voluntarios-de-seis-localidades-pampeanas/",
-    "title": "Otorgan pensiones graciables a bomberos voluntarios de seis localidades pampeanas",
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/07/22/programa-cuidar-vidas-controlaron-mas-de-11-600-vehiculos-y-22-900-personas-en-la-primera-semana-del-operativo-en-la-pampa/",
-    "title": "Programa Cuidar Vidas: controlaron más de 11.600 vehículos y 22.900 personas en la primera semana del operativo en La Pampa",
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/07/23/trasladaron-de-urgencia-en-un-vuelo-sanitario-a-una-nena-piquense-que-vacacionaba-en-mendoza/",
-    "title": "Trasladaron de urgencia en un vuelo sanitario a una nena piquense que vacacionaba en Mendoza",
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/economia/con-la-actividad-planchada-toto-caputo-refuerza-la-inocencia-fiscal-conseguir-los-dolares-del-colchon-n5425284",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/economia/privatizacion-rutas-cristobal-lopez-juega-ganador-y-hubo-una-propuesta-cobrar-peajes-1-peso-n5425283",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/politica/marcha-testimonial-la-cgt-junto-los-jubilados-frente-al-congreso-n5425285",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/deportes/77576/riquelme--ya-cumplio-su-sentencia",
-    "title": null,
-    "attempts": 0
+    "title": "Riquelme: \"Ya cumpli&oacute; su sentencia\"",
+    "attempts": 1
   },
   {
     "site": "El Diario de La Pampa",
@@ -13094,6 +12872,156 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/3/rutas-en-estado-critico-cuestionan-la-falta-de-inversion-pese-la-recaudacion-del-impuesto-los-combustibles-121172.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82020",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82028",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/03/a-la-carcel-un-peon-rural-fue-condenado-por-golpear-brutalmente-a-su-pareja-y-fracturarle-la-cara-a-su-jefe/",
+    "title": "A la cárcel: un peón rural fue condenado por golpear brutalmente a su pareja y fracturarle la cara a su jefe",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/03/caso-romina-albornoz-el-fiscal-pellegrino-adelanto-que-por-el-momento-no-hay-indicios-de-la-intervencion-de-terceros/",
+    "title": "Caso Romina Albornoz: el fiscal Pellegrino adelantó que por el momento no hay indicios de la intervención de terceros",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/03/choque-y-fuga-en-general-pico-un-motociclista-impacto-contra-un-auto-y-abandono-a-su-acompanante-herido/",
+    "title": "Choque y fuga en General Pico: un motociclista impactó contra un auto y abandonó a su acompañante herido",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/03/dejo-a-un-nino-con-fractura-tirado-en-la-calle-para-evitar-que-le-secuestren-la-moto-en-general-pico-prision-preventiva/",
+    "title": "Dejó a un niño con fractura tirado en la calle para evitar que le secuestren la moto en General Pico: prisión preventiva",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/03/la-pampa-busca-inversores-para-desarrollar-nuevos-proyectos-de-energia-renovable-en-13-nodos-prioritarios/",
+    "title": "La Pampa busca inversores para desarrollar nuevos proyectos de energía renovable en 13 nodos prioritarios",
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/ley-tierras-la-ucr-tiene-los-votos-decisivos-y-estira-la-definicion-n5425524",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/santa-fe-la-vieja-guardia-la-corte-volteo-el-tope-las-jubilaciones-privilegio-que-impulso-pullaro-n5425523",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/78200/el-tc-2000-llega-al-autodromo-de-toay",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/78201/victoria-de-velez-sobre-independiente",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78192/forzaron-un-tractor-en-un-predio-rural-y-se-llevaron-valiosas-herramientas-de-trabajo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/linea-abierta/78204/mensajes-4-8-2026",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/03/estrenan-en-el-tkq-la-colchoneta-azul-un-unipersonal-sobre-discapacidad-e-identidad/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/03/picadas-cortafuegos-en-la-pampa-creditos-de-hasta-30-millones-de-pesos/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/galerias/31093-unidad-de-los-trabajadores",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31092-amenaza-de-desalojo-chakra-raiz-reclamo-que-intervenga-la-provincia",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/opinion/31094-kroneberger-se-anota-para-pelearle-a-berhongaray-la-candidatura-radical",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/3/hallazgo-de-romina-albornoz-los-primeros-peritajes-descartan-la-participacion-de-terceros-la-hipotesis-de-femicidio-121202.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/3/las-imagenes-de-videovigilancia-orientaron-el-operativo-que-culmino-con-el-hallazgo-del-cuerpo-video-121201.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/2/tragedia-entraron-robar-una-ferreteria-el-dueno-intento-defenderse-lo-mataron-de-un-disparo-en-el-pecho-121159.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/3/en-el-primer-semestre-de-2026-se-registraron-153-femicidios-en-argentina-segun-mumala-121198.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/4/tragedia-en-la-ruta-14-iban-un-encuentro-de-motos-chocaron-con-un-camion-murieron-121203.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/3/eduardo-castex-se-prepara-para-una-noche-puro-rock-tributos-la-renga-riff-el-proximo-de-septiembre-121193.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/4/pampetrol-convoca-empresas-para-generar-energia-solar-en-13-localidades-por-535-mw-121200.html",
     "title": null,
     "attempts": 0
   }
