@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/deportes/77576/riquelme--ya-cumplio-su-sentencia",
     "title": "Riquelme: \"Ya cumpli&oacute; su sentencia\"",
-    "attempts": 4
+    "attempts": 5
   },
   {
     "site": "El Diario de La Pampa",
@@ -13946,6 +13946,324 @@
   {
     "site": "Radio Kermes",
     "url": "https://www.radiokermes.com/noticias/31103-la-provincia-crea-unidad-de-gestion-por-el-fenomeno-el-nino",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82014",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82040",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82044",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82049",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/05/crisis-diplomatica-sin-precedentes-brasil-retira-a-su-embajador-de-argentina-tras-los-ataques-de-milei/",
+    "title": "Crisis diplomática sin precedentes: Brasil retira a su embajador de Argentina tras los ataques de Milei",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/05/historico-el-papa-leon-xiv-visitara-la-argentina-en-noviembre/",
+    "title": "Histórico: el papa León XIV visitará la Argentina en noviembre",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/05/horoscopo-de-hoy-miercoles-5-de-agosto/",
+    "title": "Horóscopo de hoy, miércoles 5 de agosto",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/05/jorge-paez-presidente-de-fepamco-la-gente-hace-un-esfuerzo-gigantesco-para-poder-cumplir-e-igual-no-alcanza/",
+    "title": "Jorge Páez, presidente de FEPAMCO: «La gente hace un esfuerzo gigantesco para poder cumplir, e igual no alcanza»",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/05/tarde-de-furia-en-santa-rosa-fue-a-reclamar-plata-apunalo-a-un-hombre-y-termino-a-los-tiros-contra-una-casa/",
+    "title": "Tarde de furia en Santa Rosa: fue a reclamar plata, apuñaló a un hombre y terminó a los tiros contra una casa",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/alonso-triunfo-en-arata-2026850160",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/boca-recibe-a-estudiantes-en-huracan-2026850160",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/una-final-que-paraliza-a-dos-pueblos-2026850160",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/educacion-pampeana/despues-de-ganar-todos-nos-pusimos-manos-a-la-obra-202685080",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/el-papa-leon-xiv-visitara-argentina-estara-en-lujan-buenos-aires-y-cordoba-2026858130",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/provincia-impidio-que-inspectores-de-nacion-entren-a-las-escuelas-202685080",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/recuperaron-una-moto-robada-en-santa-rosa-202685960",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/salas-pidio-frenar-la-reforma-de-la-ley-de-tierras-que-amplia-los-limites-a-la-propiedad-extranjera-2026858420",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/alerta-meteorologica-por-lluvias-nevadas-intensas-viento-y-zonda-2026858160",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/debuto-con-su-canal-de-streaming-y-se-murio-de-un-infarto-en-la-transmision-2026858400",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/el-pronostico-del-tiempo-para-hoy-en-santa-rosa-2026857400",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/america-latina-milei-y-lula-n5425556",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/america/america-latina-lula-da-silva-y-javier-milei-n5425561",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/sergio-checho-basile-el-proyecto-la-ciudad-santa-fe-tiene-que-estar-alineado-pullaro-n5425518",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78272/multaron-al-consorcio-del-edificio-pampa-por-irregularidades-en-una-obra-en-construccion",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78273/gremios-pidieron-que-los-cambios-en-las-licencias-se-discutan-en-paritarias",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78274/empatel-e-ingenieria-acuerdan-practicas-profesionales",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78275/avanzan-obras-estrategicas-en-el-oste-provincial",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78276/detectan-un-nuevo-caso-de-triquinosis-proveniente-de-la-actividad-cinegetica",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78277/recuperan-en-santa-rosa-una-moto-robada-en-junio-",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78278/el-frejupa-revelo-que-oficinas-funcionaran-en-el-inmueble-alquilado-a-marinelli",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78280/kroneberger-confirmo-que-votara-en-contra-de-la-reforma-de-la-ley-de-tierras",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78281/la-utt-hara-un-yerbatazo-en-santa-rosa-en-defensa-de-la-ley-de-tierras",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/78279/confirmaron-la-visita-del-papa-leon-xiv-para-noviembre-a-la-argentina",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/05/boca-recibe-a-estudiantes-de-la-plata-en-busca-de-su-primera-victoria-en-el-torneo-clausura/",
+    "title": "Boca recibe a Estudiantes de La Plata, en busca de su primera victoria en el Torneo Clausura",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/05/canal-financiado-por-el-gobierno-de-milei-propone-construir-un-muro-en-el-conurbano-y-esterilizar-a-las-mujeres/",
+    "title": "Canal financiado por el gobierno de Milei propone construir un muro en el conurbano y esterilizar a las mujeres",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/05/el-vaticano-confirmo-que-el-papa-leon-xiv-visitara-la-argentina-en-noviembre/",
+    "title": "El Vaticano confirmó que el Papa León XIV visitará la Argentina en noviembre",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/05/facundo-moyano-quedo-en-libertad-tras-ser-indagado-esta-todo-aclarado/",
+    "title": "Facundo Moyano quedó en libertad tras ser indagado: “Está todo aclarado”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/05/la-carrera-de-ingenieria-agronomica-de-la-unlpam-fue-acreditada-por-coneau-con-la-maxima-calificacion/",
+    "title": "La carrera de Ingeniería Agronómica de la UNLPam fue acreditada por CONEAU con la máxima calificación",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/05/la-comision-de-banca-de-la-mujer-se-manifesto-en-contra-de-la-ley-de-falsas-denuncias/",
+    "title": "La Comisión de Banca de la Mujer se manifestó en contra de la Ley de Falsas Denuncias",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/05/ley-de-tierras-el-oficialismo-confia-en-aprobar-la-ley-y-confirman-que-se-elevaria-la-posibilidad-de-extranjerizacion-a-25/",
+    "title": "Ley de Tierras: el oficialismo confía en aprobar la ley y confirman que se elevaría la posibilidad de extranjerización a 25%",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/05/ley-de-tierras-huala-expone-amenazas-en-redes-y-alimenta-suspicacias-sobre-su-voto/",
+    "title": "Ley de Tierras: Huala expone amenazas en redes y alimenta suspicacias sobre su voto",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/05/por-los-insultos-de-milei-brasil-retira-a-su-embajador-de-la-argentina-y-se-profundiza-la-crisis/",
+    "title": "Por los insultos de Milei, Brasil retira a su embajador de la Argentina y se profundiza la crisis",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/05/por-unanimidad-avanzo-el-proyecto-de-celeste-rivas-para-reparar-el-colegio-mariano-acha/",
+    "title": "Por unanimidad, avanzó el proyecto de Celeste Rivas para reparar el Colegio Mariano Acha",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/05/confirmaron-la-visita-del-papa-leon-xiv-para-noviembre-a-la-argentina/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/05/diputados-impulsan-una-ley-para-instalar-balanzas-inteligentes-y-frenar-el-deterioro-de-las-rutas-pampeanas/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/05/kroneberger-a-diario-textual-voy-a-votar-en-contra-de-los-cambios-a-la-ley-de-tierras/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/05/la-pampa-caida-interanual-del-258-en-los-patentamientos-de-autos-durante-julio/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/05/ziliotto-vinculo-la-menor-mora-del-pais-con-las-paritarias-y-los-salarios-no-es-casualidad/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31104-kroneberger-no-vota-la-ley-de-tierras-huala-deshoja-la-margarita",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31105-confirman-visita-del-papa-leon-xiv-a-la-argentina",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/8/5/necrologicas-general-pico-121251.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/8/5/urgente-violento-episodio-en-calles-302-303-dejo-un-hombre-apunalado-en-el-gluteo-tras-una-feroz-pelea-121257.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/salud/2026/8/5/los-papas-de-tyrone-un-bebe-de-17-dias-que-sera-operado-del-corazon-solicitan-ayuda-urgente-121254.html",
     "title": null,
     "attempts": 0
   }
