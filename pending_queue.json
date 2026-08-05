@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/deportes/77576/riquelme--ya-cumplio-su-sentencia",
     "title": "Riquelme: \"Ya cumpli&oacute; su sentencia\"",
-    "attempts": 5
+    "attempts": 6
   },
   {
     "site": "El Diario de La Pampa",
@@ -14264,6 +14264,384 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/salud/2026/8/5/los-papas-de-tyrone-un-bebe-de-17-dias-que-sera-operado-del-corazon-solicitan-ayuda-urgente-121254.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82051",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82052",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82053",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/05/alerta-por-triquinosis-detectan-un-jabali-infectado-en-un-torneo-de-caza-en-santa-rosa/",
+    "title": "Alerta por triquinosis: detectan un jabalí infectado en un torneo de caza en Santa Rosa",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/05/ante-el-pronostico-de-un-el-nino-intenso-la-pampa-crea-una-unidad-para-la-gestion-de-contingencias/",
+    "title": "Ante el pronóstico de un “El Niño” intenso, La Pampa crea una unidad para la gestión de contingencias",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/05/buscan-en-la-pampa-una-familia-para-adoptar-a-una-nena-de-10-anos/",
+    "title": "Buscan en La Pampa una familia para adoptar a una nena de 10 años",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/05/con-una-inversion-de-12-000-millones-ziliotto-presento-un-plan-de-emergencia-en-salud-mental-y-adicciones/",
+    "title": "Con una inversión de $12.000 millones, Ziliotto presentó un plan de emergencia en salud mental y adicciones",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/05/los-padres-jovenes-no-han-visto-las-enfermedades-y-por-eso-no-vacunan-el-desafio-de-concientizar-sobre-la-importancia-de-las-vacunas/",
+    "title": "«Los padres jóvenes no han visto las enfermedades y por eso no vacunan»: el desafío de concientizar sobre la importancia de las vacunas",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/05/reto-del-dia-te-animas-a-realizar-este-ejercicio-en-6-segundos-4/",
+    "title": "Reto del día: ¿te animás a realizar este ejercicio en 6 segundos?",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/05/torneo-entre-amigos-se-definieron-los-finalistas-y-ya-esta-programada-la-jornada-de-definiciones/",
+    "title": "Torneo Entre Amigos: se definieron los finalistas y ya está programada la jornada de definiciones",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/05/ziliotto-llamo-a-la-unidad-del-peronismo-aca-no-sobra-nadie/",
+    "title": "Ziliotto llamó a la unidad del peronismo: “Acá no sobra nadie”",
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/congreso/ley-tierras-los-aliados-se-rebelan-y-patricia-bullrich-no-consigue-los-votos-la-reforma-n5425565",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/economia/el-banco-central-renueva-el-swap-china-cinco-anos-y-suma-margen-quitarle-presion-al-dolar-2027-n5425568",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/economia/el-campo-confia-los-avances-el-gobierno-y-apuesta-tener-ley-semillas-el-corto-plazo-n5425563",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/economia/marcelo-mindlin-el-zar-del-rigi-us-11000-millones-proyectos-propios-y-sociedades-clave-vaca-muerta-n5425538",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/opinion/era-javier-milei-el-salario-real-los-docentes-su-nivel-mas-los-ultimos-20-anos-n5425548",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/candidatura-suspenso-maximo-kirchner-sale-gira-las-provincias-la-consigna-cristina-jefa-n5425557",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-minuto-minuto-del-debate-la-ley-tierras-el-senado-n5425566",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-papa-leon-xiv-viene-argentina-n5422020",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/entre-rios-la-ucr-patea-otra-vez-su-interna-y-elige-la-fecha-acomodar-la-disputa-las-listas-2027-n5425527",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/fernando-espinoza-cruzo-javier-milei-el-proyecto-tierras-y-hablo-otras-malvinas-n5425512",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/la-pampa-el-pro-instala-la-candidatura-marita-mac-allister-y-aprovecha-el-desconcierto-ravier-y-la-ucr-n5425543",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/que-tiene-malo-extranjerizar-nuestras-tierras-spoiler-todo-tiene-malo-n5425570",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/rio-negro-washington-weretilneck-busca-cerrar-un-acuerdo-el-bid-us-145-millones-n5425562",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/santa-fe-un-grupo-intendentes-le-marca-la-cancha-la-conduccion-del-pj-y-pide-una-alternativa-amplia-n5425560",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/torres-elimina-chubut-los-descuentos-financieras-estatales-no-vamos-ser-complices-la-usura-n5425564",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/05/aumenta-el-costo-de-registrar-patentamientos-y-transferencias-de-autos-y-motos/",
+    "title": "Aumenta el costo de registrar patentamientos y transferencias de autos y motos",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/05/convocatoria-provincial-para-adoptar-una-nina-de-10-anos/",
+    "title": "Convocatoria provincial para adoptar una niña de 10 años",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/05/dano-total-se-quemo-mientras-circulaba-video/",
+    "title": "Daño total: se quemó mientras circulaba (video)",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/05/emergencia-en-salud-mental-ampliaran-servicios-sumaran-profesionales-y-construiran-nuevos-centros/",
+    "title": "Emergencia en Salud Mental: ampliarán servicios, sumarán profesionales y construirán nuevos centros",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/05/kroneberger-votara-en-contra-de-la-modificacion-a-la-ley-de-tierras/",
+    "title": "Kroneberger votará en contra de la modificación a la Ley de Tierras",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/05/la-final-del-torneo-clausura-2026-tiene-fecha-y-sede-confirmada/",
+    "title": "La final del Torneo Clausura 2026 tiene fecha y sede confirmada",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/05/no-seas-una-aborigen-ladina-vota-en-contra-de-la-moficacion-a-la-ley-de-tierras/",
+    "title": "“No seas una aborigen ladina, votá en contra” de la moficación a la ley de tierras",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/05/organizan-jornada-nacional-de-psicologia-sobre-infancias-y-adolescencias/",
+    "title": "Organizan jornada nacional de psicología sobre infancias y adolescencias",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/05/tras-seis-anos-de-lucha-legal-el-partido-justicialista-recupero-la-sede-de-la-unidad-basica-de-villa-parque/",
+    "title": "Tras seis años de lucha legal, el Partido Justicialista recuperó la sede de la Unidad Básica de Villa Parque",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/05/ziliotto-si-seguimos-teniendo-vocacion-de-poder-estaremos-todos-unidos/",
+    "title": "Ziliotto: “Si seguimos teniendo vocación de poder, estaremos todos unidos”",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/05/compras-al-exterior-desde-santa-rosa-movieron-16-millones-de-dolares-en-el-primer-semestre/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/05/convocan-a-familias-en-la-pampa-para-adoptar-a-una-nena-de-10-anos/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/05/la-pampa-el-595-de-los-alumnos-de-4-grado-logra-una-comprension-lectora-satisfactoria-o-avanzada/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/05/la-pampa-puso-en-marcha-el-plan-provincial-de-emergencia-en-salud-mental-con-una-inversion-de-12-000-millones/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/05/la-secretaria-electoral-habilito-a-fuerza-pampa-el-partido-de-feito-y-funcionarios-de-di-napoli/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/05/las-autoridades-electas-de-utelpa-dicen-que-el-principal-desafio-sera-representar-tambien-a-quienes-votaron-otra-opcion/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/05/procrear-ziliotto-confirmo-que-nacion-cedera-a-la-pampa-las-636-viviendas-abandonadas/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/05/ziliotto-y-un-mensaje-que-parece-dirigido-a-di-napoli-nadie-tiene-las-puertas-cerradas-al-pj/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31106-mis-hijos-me-preguntan-cuando-nos-va-a-tocar-la-casa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31107-la-ucr-quiere-apurar-el-rejunte-y-acelera-el-llamado-a-la-convencion",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31108-el-peronismo-de-villa-parque-recupero-su-sede",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31109-chinche-molle-presenta-pasionaria-en-el-teatro-espanol",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31110-zona-norte-festeja-el-dia-de-las-infancias-con-espectaculos-y-sorteos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31111-la-soberana-una-yerba-nacida-de-la-lucha-por-la-tierra-en-misiones",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/espectaculos/2026/8/5/estan-re-locos-en-toximania-2-otra-vez-el-viernes-sabado-todos-los-cortes-de-carne-13899-las-viandas-siguen-partir-de-8000-video-121224.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/5/dia-del-veterinario-en-la-aguada-es-hermoso-tener-un-dia-para-celebrar-esta-apasionante-profesion-estamos-orgullosos-de-nuestra-facultad-de-veterinarias-de-general-pico-video-121271.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/5/eva-nuevamente-al-frente-de-las-actividades-de-la-escuela-de-formacion-del-barrio-rucci-video-121141.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/5/la-amargura-de-sergio-se-podria-haber-evitado-fue-una-mala-maniobra-mia-video-121264.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/5/por-una-mala-maniobra-de-un-utilitario-freno-de-golpe-cayo-fue-hospitalizada-video-121262.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/8/5/menu-del-dia-en-nova-pizza-costeletas-de-cerdo-la-mostaza-con-guarnicion-limonada-postre-de-vainilla-16000-mira-121265.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/8/5/roma-calzados-zapatillas-para-adultos-desde-30000-para-ninos-partir-de-25000-rompevientos-chalecos-desde-25000-video-121268.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/mundo/2026/8/5/matan-balazos-influencer-mientras-transmitia-en-vivo-video-121269.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/mundo/2026/8/5/preocupacion-por-la-salud-de-ruben-rada-por-que-fue-hospitalizado-en-las-ultimas-horas-121263.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/opinion/2026/8/5/kroneberger-voy-votar-en-contra-de-los-cambios-la-ley-de-tierras-121261.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/8/5/desesperacion-en-general-pico-una-adolescente-de-16-anos-intento-atentar-contra-su-vida-en-un-puente-dos-jovenes-la-hicieron-desistir-termino-hospitalizada-tras-tropezar-en-las-escaleras-video-121270.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/4/cuidar-vidas-75000-personas-fiscalizadas-casi-800-infracciones-detectadas-121239.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/5/el-pj-logro-recuperar-la-sede-de-la-unidad-basica-de-villa-parque-121266.html",
     "title": null,
     "attempts": 0
   }
