@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/deportes/77576/riquelme--ya-cumplio-su-sentencia",
     "title": "Riquelme: \"Ya cumpli&oacute; su sentencia\"",
-    "attempts": 18
+    "attempts": 19
   },
   {
     "site": "El Diario de La Pampa",
@@ -16724,6 +16724,12 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/municipales/2026/8/8/presentaran-el-libro-aula-interna-de-la-licenciada-maria-laura-riboyra-en-la-biblioteca-estrada-121379.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/8/8/intendente-alvear-denuncio-que-su-vecino-mato-su-perro-tiros-la-policia-secuestro-una-carabina-calibre-22-121388.html",
     "title": null,
     "attempts": 0
   }
