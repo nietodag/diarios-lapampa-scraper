@@ -3,7 +3,7 @@
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/7/23/ravier-volvio-quedar-en-el-centro-de-la-polemica-tras-un-nuevo-error-en-conferencia-de-prensa-120729.html",
     "title": "Ravier volvió a quedar en el centro de la polémica tras un nuevo error en conferencia de prensa",
-    "attempts": 3
+    "attempts": 4
   },
   {
     "site": "En Boca de Todos HD",
@@ -16574,6 +16574,390 @@
   {
     "site": "Diario Textual",
     "url": "https://diariotextual.com/inicio/index.php/2026/08/08/reves-para-un-politico-rechazan-apelacion-y-sigue-vigente-la-suspension-de-desalojos-en-el-oeste-pampeano/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82111",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82112",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82113",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82114",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82115",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/08/choque-multiple-en-la-ruta-nacional-5-un-camion-impacto-contra-vehiculos-detenidos-y-dejo-a-varias-personas-hospitalizadas/",
+    "title": "Choque múltiple en la Ruta Nacional 5: un camión impactó contra vehículos detenidos y dejó a varias personas hospitalizadas",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/08/costa-brava-busca-el-primer-triunfo-como-local-ante-germinal-de-rawson/",
+    "title": "Costa Brava busca el primer triunfo como local ante Germinal de Rawson",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/08/cronograma-de-recoleccion-de-residuos-de-poda-para-las-zonas-3-y-7-de-general-pico/",
+    "title": "Cronograma de recolección de residuos de poda para las zonas 3 y 7 de General Pico",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/08/fallecio-el-conductor-de-la-kangoo-tras-el-choque-frontal-en-la-ruta-provincial-101/",
+    "title": "Falleció el conductor de la Kangoo tras el choque frontal en la ruta provincial 101",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/08/fallecio-jorge-messi-el-padre-y-pilar-fundamental-en-la-carrera-de-lionel/",
+    "title": "Falleció Jorge Messi, el padre y pilar fundamental en la carrera de Lionel",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/08/reto-del-dia-te-animas-a-resolver-este-calculo-sin-calculadora-2/",
+    "title": "Reto del día: ¿te animás a resolver este cálculo sin calculadora?",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/08/voraz-incendio-destruyo-las-oficinas-de-lartirigoyen-en-general-pico-la-estructura-de-madera-fue-consumida-por-completo-senalo-fabio-fernandez/",
+    "title": "Voraz incendio destruyó las oficinas de Lartirigoyen en General Pico: “La estructura de madera fue consumida por completo”, señaló Fabio Fernández",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/murio-jorge-messi-a-los-68-anos-20268810180",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/represion-denuncian-a-autoridades-politicas-policias-y-agentes-federales-2026888150",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-arena-del-campo/la-oferta-pobre-no-impulso-al-consumo-2026880350",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-arena-del-campo/la-pampa-monitorea-el-avance-de-el-nino-2026880250",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-arena-del-campo/menor-amplitud-termica-por-la-nubosidad-2026880350",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/choque-en-cadena-en-la-ruta-nacional-5-2026889300",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/dia-de-lucha-por-el-atuel-a-la-pampa-le-robaron-un-rio-2026888190",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/el-municipio-entrego-indumentaria-2026880350",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/otra-victima-fatal-por-el-choque-en-la-101-murio-conductor-de-utilitario-2026889330",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/pronostican-un-fin-de-semana-ventoso-y-frio-2026889170",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/restituyen-a-dos-menores-en-general-acha-2026880350",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/trueque-de-libros-en-el-lowo-che-2026880350",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/van-a-quedar-muy-pocos-comercios-2026880350",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/economia/javier-milei-elon-musk-y-starlink-conectar-escuelas-rurales-costara-casi-el-triple-lo-que-cobra-arsat-n5425583",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/economia/reactivacion-del-consumo-con-que-pesos-n5425649",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/cordoba-una-intendenta-se-atrinchero-ser-desplazada-y-desato-una-crisis-politica-santa-cruz-del-lago-n5425645",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/deportes-y-algo-mas-que-tiene-la-carta-del-pro-rafaela-pelear-2027-n5425593",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-plan-axel-kicillof-retener-el-poder-buenos-aires-n5425567",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/en-la-sociedad-rural-rios-pereda-saca-ventaja-su-pelea-grande-contra-pino-n5425628",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/gustavo-saenz-raul-jalil-y-jaldo-el-trio-del-norte-grande-que-busca-su-destino-milei-y-el-peronismo-n5425644",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/hugo-passalacqua-resetea-el-poder-misiones-se-quedo-la-mayoria-la-legislatura-n5425635",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/la-profesionalizacion-la-mesa-politica-javier-milei-n5425642",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/marcos-juarez-cambia-laboratorio-alianzas-nacionales-la-formula-una-politica-marcas-n5425651",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/rio-negro-libertarios-y-peronistas-cipolletti-ensayan-candidaturas-y-le-cuentan-las-costillas-buteler-n5425650",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/region-patagonia/el-credo-del-cura-molina-unidad-del-peronismo-santa-cruz-penitencia-vidal-y-una-plegaria-2027-n5425653",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/78448/asi-sera-el-formato-de-la-clasificacion-del-tc2000-en-toay",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/78449/moto3--perrone-sorprendio-en-silverstone",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/78450/los-pumas-se-prueban-ante-sudafrica",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78444/voraz-incendio-en-el-predio-de-la-firma-lartirigoyen-en-general-pico",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78446/murio-uno-de-los-heridos-en-el-choque-de-la-ruta-provincial-101",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78447/varinia-marin-y-legisladores-provinciales-recorrieron-la-adela",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78451/sabado-frio-ventoso-y-con-alerta-por-rafagas-en-el-oeste-pampeano",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78452/perez-araujo-por-el-atuel--somos-lucha-que-no-cesa-ni-hoy-ni-nunca",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78453/produccion-y-senasa-coordinan-controles-para-las-cadenas-lactea-y-apicola",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78454/seis-heridos-por-un-choque-en-cadena-en-la-ruta-5-",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/78445/murio-el-padre-de-lionel-messi",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/08/catedra-del-che-dario-balvidares-disertara-sobre-educacion-y-colonialidad/",
+    "title": "Cátedra del Che: Darío Balvidares disertará sobre educación y colonialidad",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/08/choque-en-la-ruta-101-murio-uno-de-los-heridos/",
+    "title": "Choque en la Ruta 101: Murió uno de los heridos",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/08/fin-de-semana-frio-se-esperan-minimas-bajo-cero-en-santa-rosa/",
+    "title": "Fin de semana frío: Se esperan mínimas bajo cero en Santa Rosa",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/08/impulsan-controles-y-nuevas-herramientas-para-las-cadenas-apicola-y-lactea/",
+    "title": "Impulsan controles y nuevas herramientas para las cadenas apícola y láctea",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/08/murio-jorge-messi/",
+    "title": "Murió Jorge Messi",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/08/ordenan-nuevas-medidas-en-la-causa-afa-por-la-mansion-de-pilar/",
+    "title": "Ordenan nuevas medidas en la causa AFA por la mansión de Pilar",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/08/rosario-central-remonto-ante-aldosivi/",
+    "title": "Rosario Central remontó ante Aldosivi",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/08/choque-en-cadena-en-la-5-de-un-camion-combi-y-autos-6-heridos-entre-ellos-chicos-con-discapacidad/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/08/murio-jorge-messi-el-papa-de-lionel-messi/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/08/ya-son-dos-las-victimas-fatales-murio-el-conductor-de-la-kangoo-por-el-choque-en-la-101/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/espectaculos/2026/8/8/ricardo-merlo-presidente-del-maie-queremos-lograr-la-ciudadania-italiana-sin-restricciones-ahora-que-europa-es-invadida-por-inmigrantes-ilegales-los-argentinos-deberian-ponernos-una-alfombra-roja-para-ingresar-video-121384.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/7/no-doy-mas-maria-cobra-una-pension-por-discapacidad-apenas-le-alcanza-para-pagar-el-alquiler-video-121354.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/8/fallecio-otro-de-los-involucrados-en-el-grave-accidente-en-la-curva-de-speluzzi-murio-tito-griva-el-comisionista-de-embajador-martini-121390.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/8/terrible-incendio-en-lartirigoyen-trabajamos-mas-de-30-bomberos-se-quemo-una-cabana-que-era-oficina-paso-al-galpon-donde-habia-agroquimicos-video-121387.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/8/murio-jorge-messi-el-papa-de-lionel-messi-121391.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/8/7/robaron-un-auto-en-alta-italia-fueron-detenidos-en-general-pico-mira-121352.html",
     "title": null,
     "attempts": 0
   }
