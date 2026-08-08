@@ -3,7 +3,7 @@
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/7/23/ravier-volvio-quedar-en-el-centro-de-la-polemica-tras-un-nuevo-error-en-conferencia-de-prensa-120729.html",
     "title": "Ravier volvió a quedar en el centro de la polémica tras un nuevo error en conferencia de prensa",
-    "attempts": 9
+    "attempts": 10
   },
   {
     "site": "En Boca de Todos HD",
@@ -17306,6 +17306,114 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/8/con-mas-de-300-inscriptos-la-facultad-de-ingenieria-puso-en-marcha-una-nueva-edicion-del-curso-de-matematica-preuniversitaria-121395.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82072",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82116",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82117",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/08/cuanto-cobran-los-profesionales-de-la-salud-por-guardia-en-los-hospitales-pampeanos/",
+    "title": "Cuánto cobran los profesionales de la salud por guardia en los hospitales pampeanos",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/08/despiste-y-vuelco-camino-hacia-la-laguna-dos-ocupantes-fueron-asistidos-por-el-sem/",
+    "title": "Despiste y vuelco camino hacia la laguna: dos ocupantes fueron asistidos por el SEM",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/la-ops-emitio-una-alerta-epidemiologica-por-el-sarampion-en-america-2026881860",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/avanza-la-pavimentacion-de-la-ruta-9-una-obra-clave-para-el-norte-provincial-20268818450",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/un-automovil-despisto-y-volco-camino-a-la-laguna-20268818370",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78467/mas-de-500-estudiantes-participaran-en-las-ferias-provinciales-de-ciencias-arte-y-tecnologia",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78468/el-coro-de-las-infancias-incorpora-nuevas-voces",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78470/despiste-y-vuelco-en-un-camino-vecinal-de-pico",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/78469/el-gobierno-proyecta-mas-de-usd-50000-millones-en-exportaciones-energeticas-y-mineras",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/78471/mate-vino-y-asado--el-reflejo-de-la-crisis-en-3-consumos-clasicos-de-los-argentinos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/08/con-mas-de-300-inscriptos-comenzo-el-curso-de-matematica-preuniversitaria/",
+    "title": "Con más de 300 inscriptos, comenzó el Curso de Matemática Preuniversitaria",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/08/con-ravier-lla-lanzo-su-escuela-de-formacion-politica-en-santa-rosa/",
+    "title": "Con Ravier, LLA lanza su Escuela de Formación Política en Santa Rosa",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/08/los-pumas-perdieron-frente-a-sudafrica-en-el-jose-amalfitani/",
+    "title": "Los Pumas perdieron frente a Sudáfrica en el José Amalfitani",
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/espectaculos/2026/8/8/matias-condito-de-terrorifico-films-el-terror-siempre-cuenta-algo-mas-de-lo-que-estas-viendo-video-121382.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/8/economia-en-dos-velocidades-crece-el-agro-la-energia-pero-se-deterioran-el-empleo-el-consumo-121408.html",
     "title": null,
     "attempts": 0
   }
