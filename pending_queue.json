@@ -3,7 +3,7 @@
     "site": "LetraP",
     "url": "https://www.letrap.com.ar/politica/adrian-ravier-mes-1-una-voceria-varios-errores-no-forzados-del-pais-bananero-al-dolar-1800-n5425316",
     "title": "Adrián Ravier, mes 1 de una vocería con errores no forzados: del país bananero al dólar a $1800",
-    "attempts": 2
+    "attempts": 3
   },
   {
     "site": "LetraP",
@@ -16604,6 +16604,84 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/9/urgente-incendio-en-un-deposito-que-esta-pegado-un-geriatrico-video-121438.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82132",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82133",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/09/reclaman-obras-urgentes-de-seguridad-vial-en-el-tramo-urbano-de-la-ruta-nacional-35-en-santa-rosa/",
+    "title": "Reclaman obras urgentes de seguridad vial en el tramo urbano de la Ruta Nacional 35 en Santa Rosa",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/boca-oficializo-la-llegada-de-enner-valencia-20268918130",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/en-los-penales-all-boys-festejo-en-el-clasico-y-grito-otra-vez-campeon-20268918110",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/el-emotivo-mensaje-de-rosario-a-messi-y-su-familia-tras-la-muerte-de-jorge-20268918450",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/principio-de-incendio-en-un-geriatrico-de-zona-sur-20268918540",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/78505/tremendo-accidente-en-la-final-del-tc2000",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78504/principio-de-incendio-en-un-asilo-en-general-pico",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/09/empieza-el-juicio-politico-al-juez-federal-diaz-lacava-definen-si-lo-echan/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/9/los-abuelos-estan-re-bien-el-incendio-comenzo-en-un-freezer-que-esta-dentro-del-galpon-video-121440.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/9/el-peronismo-tomo-aire-en-el-senado-ante-un-oficialismo-cada-dia-mas-complicado-121431.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/9/ravier-encabezo-el-lanzamiento-de-la-escuela-de-formacion-politica-de-lla-la-pampa-121441.html",
     "title": null,
     "attempts": 0
   }
