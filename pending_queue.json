@@ -3,7 +3,7 @@
     "site": "LetraP",
     "url": "https://www.letrap.com.ar/politica/adrian-ravier-mes-1-una-voceria-varios-errores-no-forzados-del-pais-bananero-al-dolar-1800-n5425316",
     "title": "Adrián Ravier, mes 1 de una vocería con errores no forzados: del país bananero al dólar a $1800",
-    "attempts": 5
+    "attempts": 6
   },
   {
     "site": "LetraP",
@@ -16946,6 +16946,54 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/9/la-pampa-pide-un-sistema-de-alertas-tempranas-en-la-cuenca-del-cirhnop-121450.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/opinion/78521/la-pelea-por-la-soberania-y-un-barrio-popular-en-riesgo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/10/comerse-el-sapo-tierno-ya-esta-adentro-de-la-alianza-anti-pj-de-la-mano-de-ravier/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/10/el-dinero-para-las-rutas-en-la-mesa-de-dinero-mas-de-1-billon-en-inversiones-financieras/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/10/la-pampa-2027-la-llave-la-trampa-pocas-certezas-y-un-mar-de-indefiniciones/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/10/salud-mental-ocho-obras-estrategicas-mas-profesionales-y-articulacion-permanente/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31150-20-anos-de-redpar-hemos-perdido-muchas-voces-feministas-en-los-medios",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/opinion/31151-violencia-digital-y-perspectiva-de-genero-un-desafio-cultural-y-legal",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/opinion/31152-la-rural-de-palermo-y-el-referente-ausente-un-grito-transfeminista-y-antiespecista",
     "title": null,
     "attempts": 0
   }
