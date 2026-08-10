@@ -3,7 +3,7 @@
     "site": "LetraP",
     "url": "https://www.letrap.com.ar/politica/adrian-ravier-mes-1-una-voceria-varios-errores-no-forzados-del-pais-bananero-al-dolar-1800-n5425316",
     "title": "Adrián Ravier, mes 1 de una vocería con errores no forzados: del país bananero al dólar a $1800",
-    "attempts": 9
+    "attempts": 10
   },
   {
     "site": "LetraP",
@@ -17834,6 +17834,222 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/10/la-humada-se-vistio-de-blanco-intensa-nevada-en-el-oeste-pampeano-fotos-121462.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82141",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82142",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82151",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/10/intendente-alvear-impulsan-la-declaracion-de-emergencia-hidrica-por-el-impacto-de-las-lluvias-en-la-zona-rural/",
+    "title": "Intendente Alvear: impulsan la declaración de emergencia hídrica por el impacto de las lluvias en la zona rural",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/10/un-gran-salto-para-el-deporte-local-la-piquense-martina-ochoa-fue-convocada-por-river-plate-en-handball/",
+    "title": "Un gran salto para el deporte local: la piquense Martina Ochoa fue convocada por River Plate en handball",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/colombia-suspendio-el-futbol-por-el-terremoto-y-hay-incertidumbre-por-el-partido-de-river-202681017470",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/terremoto-en-colombia-reportan-111-muertos-y-buscan-personas-entre-los-escombros-202681016140",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/el-dolar-mayorista-toco-los-1-500-pero-cerro-por-debajo-de-ese-umbral-202681016320",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/convocan-a-familiares-de-personas-desaparecidas-para-aportar-muestras-de-adn-202681016230",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/defensa-del-consumidor-advierte-sobre-el-hostigamiento-durante-el-cobro-de-deudas-202681016170",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/detienen-a-motociclista-por-intentar-evadir-control-en-catrilo-202681017290",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/di-napoli-cruzo-a-ravier-la-plata-para-las-rutas-esta-y-decidieron-que-esperen-20268101740",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/otro-encuentro-rodantero-en-realico-esperan-a-200-vehiculos-de-15-provincias-20268101600",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/se-incendio-un-deposito-en-embajador-martini-20268101800",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/se-realizara-una-campana-documentaria-en-anguil-202681016440",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/ya-se-instalo-el-65-de-la-red-de-cloacas-en-villa-germinal-202681017270",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/por-que-es-record-el-cierre-del-cristo-redentor-en-mendoza-202681017540",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/economia/las-sociedades-rurales-santa-fe-defienden-el-aporte-al-instituto-la-carne-que-quiere-eliminar-milei-n5425679",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/opinion/seis-falsedades-una-reforma-laboral-regresiva-n5421292",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/axel-kicillof-la-morosidad-record-argentina-la-culpa-es-milei-n5425678",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/tierra-del-fuego-se-adelantan-los-tiempos-electorales-y-tolhuin-discute-la-re-re-harrington-n5425662",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/una-reforma-laboral-inspirada-la-dictadura-militar-n5421767",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/roscapalooza-porteno-olmos-angelici-y-la-foto-del-poder-la-legislatura-n5425683",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78545/la-plata-para-las-rutas-esta-pero-prefieren-guardarla-para-sostener-el-superavit",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78546/el-emsu-busca-incorporar-personal-para-agua-la-nueva-gerencia-municipal",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/10/becas-progresar-abren-la-segunda-convocatoria-del-ano/",
+    "title": "Becas Progresar: abren la segunda convocatoria del año",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/10/came-cruzo-a-galperin-y-ratifico-el-derrumbe-del-consumo-compara-dos-universos-no-comparables/",
+    "title": "CAME cruzó a Galperin y ratificó el derrumbe del consumo: “Compara dos universos no comparables”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/10/convocan-a-familiares-de-personas-desaparecidas-para-aportar-muestras-de-adn/",
+    "title": "Convocan a familiares de personas desaparecidas para aportar muestras de ADN",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/10/cpetel-por-tareas-programadas-habra-interrupciones-en-internet-en-la-madrugada-del-martes/",
+    "title": "CPEtel: por tareas programadas, habrá interrupciones en Internet en la madrugada del martes",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/10/di-napoli-a-ravier-no-es-que-no-hay-plata-para-las-rutas-decidieron-que-las-rutas-esperen/",
+    "title": "Di Nápoli a Ravier: “No es que no hay plata para las rutas, decidieron que las rutas esperen”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/10/paro-nacional-universitario-el-miercoles-12-de-agosto-no-habra-transporte-ni-comedor/",
+    "title": "Paro nacional universitario: el miércoles 12 de agosto no habrá transporte ni comedor",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/10/di-napoli-cruzo-a-ravier-la-plata-esta-y-decidieron-que-las-rutas-esperen/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/10/pascual-fernandez-cuestiono-a-ravier-se-timbean-la-plata-que-es-para-las-rutas/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/espectaculos/2026/8/9/manuelita-se-presento-en-el-festival-de-cine-de-general-pico-121454.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/8/10/iba-en-contramano-con-una-menor-en-moto-termino-chocando-contra-un-auto-121469.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/municipales/2026/8/10/presupuesto-participativo-2026-continua-abierta-la-instancia-de-presentacion-de-ideas-121468.html",
     "title": null,
     "attempts": 0
   }
