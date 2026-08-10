@@ -3,7 +3,7 @@
     "site": "LetraP",
     "url": "https://www.letrap.com.ar/politica/adrian-ravier-mes-1-una-voceria-varios-errores-no-forzados-del-pais-bananero-al-dolar-1800-n5425316",
     "title": "Adrián Ravier, mes 1 de una vocería con errores no forzados: del país bananero al dólar a $1800",
-    "attempts": 10
+    "attempts": 11
   },
   {
     "site": "LetraP",
@@ -18050,6 +18050,294 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/municipales/2026/8/10/presupuesto-participativo-2026-continua-abierta-la-instancia-de-presentacion-de-ideas-121468.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82152",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82153",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82154",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/10/accidente-fatal-en-ruta-101-el-fiat-siena-perdio-el-control-e-invadio-el-carril-contrario/",
+    "title": "Accidente fatal en Ruta 101: «El Fiat Siena perdió el control e invadió el carril contrario»",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/10/agosto-llega-con-un-feriado-largo-y-un-dia-no-laborable-en-la-pampa/",
+    "title": "Agosto llega con un feriado largo y un día no laborable en La Pampa",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/10/importante-hallazgo-paleontologico-y-arqueologico-en-la-laguna-de-guatrache-tras-el-aviso-de-un-vecino/",
+    "title": "Importante hallazgo paleontológico y arqueológico en la Laguna de Guatraché tras el aviso de un vecino",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/tras-el-terremoto-se-suspendio-el-partido-de-river-en-colombia-por-la-sudamericana-20268102000",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/casi-el-80-de-los-hogares-argentinos-pertenece-a-las-clases-baja-y-media-baja-202681018100",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/presentan-proyectos-para-combatir-el-sobreendeudamiento-con-billeteras-virtuales-202681018400",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/convocan-a-nueva-asamblea-del-frigorifico-pico-en-medio-de-denuncias-de-vaciamiento-20268101960",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/demoraron-a-siete-furtivos-en-dos-procedimientos-en-general-acha-202681019450",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/el-acto-central-en-la-provincia-por-el-17-de-agosto-se-realizara-en-ataliva-roca-202681018480",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/el-emsu-busca-personal-para-trabajar-en-agua-la-nueva-gerencia-municipal-202681018270",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/hallazgo-arqueologico-y-paleontologico-en-la-laguna-de-guatrache-202681019170",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/oficializan-feriado-y-dia-no-laborable-en-agosto-202681019300",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/terremoto-en-colombia-dramatico-testimonio-a-la-arena-202681018570",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/ziliotto-destina-13-000-millones-para-garantizar-medicamentos-en-el-sistema-publico-de-salud-202681019220",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/el-premio-a-la-labor-librera-de-la-fed-fue-para-una-libreria-de-la-region-202681018500",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/nuevo-record-nacional-presentaron-un-salame-de-mas-de-500-metros-de-largo-20268101870",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/por-tierra-y-aire-intentan-apagar-un-incendio-de-gran-magnitud-en-punilla-202681019330",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/economia/miren-mercado-libre-el-comercio-electronico-vuela-pero-representa-apenas-10-del-consumo-n5425682",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/opinion/cuando-la-politica-elige-el-atajo-la-irresponsabilidad-lo-facilista-n5421772",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/region-centro/del-bcra-macri-al-milei-sandleris-respaldo-la-reforma-la-carta-organica-la-entidad-monetaria-n5425697",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78547/rutas--los-dichos-de-ravier-a-el-diario-derivaron-en-una-denuncia-penal",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78548/el-gobierno-provincial-invertira-13000-millones-en-medicamentos-para-salud-publica",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78549/hallaron-restos-paleontologicos-de-entre-5-y-7-millones-de-anos-y-piezas-arqueologicas-en-la-laguna-de-guatrache",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/10/el-acto-central-provincial-por-el-17-de-agosto-se-realizara-en-ataliva-roca/",
+    "title": "El acto central provincial por el 17 de agosto se realizará en Ataliva Roca",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/10/fin-de-semana-largo-y-jornada-no-laborable-el-calendario-pampeano-para-agosto/",
+    "title": "Fin de semana largo y jornada no laborable: el calendario pampeano para agosto",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/10/la-pampa-reclamo-el-respeto-de-las-autonomias-provinciales-en-el-consejo-federal-del-trabajo/",
+    "title": "La Pampa reclamó el respeto de las autonomías provinciales en el Consejo Federal del Trabajo",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/10/oportunidad-laboral-el-emsu-busca-operario-maquinista-y-capataz-de-obra/",
+    "title": "Oportunidad laboral: el EMSU busca operario, maquinista y capataz de obra",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/10/recuperaron-fosiles-de-hasta-7-millones-de-anos-y-restos-arqueologicos-en-la-laguna-de-guatrache/",
+    "title": "Recuperaron fósiles de hasta 7 millones de años y restos arqueológicos en la Laguna de Guatraché",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/10/salud-publica-la-pampa-destina-13-000-millones-para-asegurar-medicamentos-en-toda-la-provincia/",
+    "title": "Salud pública: La Pampa destina $13.000 millones para asegurar medicamentos en toda la provincia",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/10/sigue-la-caida-de-ventas-de-materiales-para-la-construccion/",
+    "title": "Sigue la caída de ventas de materiales para la construcción",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/10/cobro-de-deudas-defensa-del-consumidor-advierte-por-hostigamientos/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/10/el-gobierno-de-ziliotto-destina-13-000-millones-para-garantizar-medicamentos-en-los-hospitales/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/10/mercado-libre-recibio-68-mil-millones-en-subsidios-del-estado-en-seis-meses/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/10/paro-universitario-este-miercoles-sin-servicio-de-transporte-y-comedor-en-la-unlpam/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/10/presupuesto-participativo-en-pico-presentacion-de-ideas-hasta-el-lunes-31/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/10/recuperaron-piezas-paleontologicas-y-arqueologicas-en-la-laguna-de-guatrache/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31165-malversacion-libertaria-di-napoli-al-cruce-de-la-confesion-de-ravier",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31166-cpe-advierte-interrupciones-en-el-servicio-de-internet",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31167-la-trama-de-la-desposesion-educacion-y-colonialidad",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31168-consejo-del-trabajo-la-pampa-reclamo-respeto-a-las-autonomias-provinciales",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/mundo/2026/8/10/momento-de-tension-asi-vivieron-los-soldados-el-terremoto-de-74-en-colombia-121472.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/municipales/2026/8/10/alerta-sobre-estafas-mira-121475.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/8/10/robo-dario-videla-de-50-mil-dolares-millones-de-pesos-el-peugeot-408-las-camaras-una-patente-el-comisario-jimenez-revelo-como-la-investigacion-llego-hasta-luis-correa-video-121471.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/8/10/robo-de-los-250-mil-dolares-vamos-requerir-el-cotejo-de-adn-si-las-circunstancias-continuan-como-hoy-pediremos-extender-la-prision-preventiva-video-121470.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/10/ziliotto-destina-13000-millones-para-garantizar-medicamentos-en-el-sistema-publico-de-salud-121473.html",
     "title": null,
     "attempts": 0
   }
