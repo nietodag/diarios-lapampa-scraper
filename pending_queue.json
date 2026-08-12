@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/mundo/77824/lula-minimizo-los-ataques-de-milei--quien-es-ese-tipo",
     "title": "Lula minimiz&oacute; los ataques de Milei: \"&iquest;Qui&eacute;n es ese tipo?\"",
-    "attempts": 4
+    "attempts": 5
   },
   {
     "site": "Plan B Noticias",
@@ -17306,6 +17306,306 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/mundo/2026/8/12/marcelo-de-ambrosio-tenemos-data-center-en-un-sexto-piso-en-medellin-se-movio-todo-el-equipamiento-por-el-terremoto-por-suerte-la-gente-esta-bien-video-121538.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82177",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82178",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82179",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/12/dijo-ser-pobre-para-no-pagar-la-cuota-alimentaria-de-sus-nietos-pero-la-justicia-descubrio-que-se-compro-un-auto-nuevo/",
+    "title": "Dijo ser pobre para no pagar la cuota alimentaria de sus nietos, pero la Justicia descubrió que se compró un auto nuevo",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/12/terremotos-en-sudamerica-se-sabe-donde-va-a-ocurrir-pero-no-cuando/",
+    "title": "Terremotos en Sudamérica: «Se sabe dónde va a ocurrir, pero no cuándo»",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/12/utelpa-reclamo-una-pauta-salarial-por-encima-de-la-inflacion-en-la-reanudacion-de-las-paritarias/",
+    "title": "UTELPa reclamó una pauta salarial por encima de la inflación en la reanudación de las paritarias",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/con-rutas-sin-obras-ni-mantenimiento-sturzenegger-habilita-camiones-con-mayor-peso-202681217500",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/el-dolar-oficial-subir-otra-vez-tras-cuatro-jornadas-202681216450",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/hallan-avioneta-abandonada-en-santiago-del-estero-e-investigan-presunto-vinculo-narco-202681216300",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/havanna-perdio-747-millones-y-una-caida-del-9-7-en-ventas-202681215560",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/milei-modifica-el-calculo-jubilatorio-pero-deja-sin-aumento-a-7-millones-de-jubilados-202681217340",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/22-anos-manteniendo-en-movimiento-maquinaria-vial-20268121600",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/allanaron-un-campo-cerca-de-chamaico-y-secuestraron-armas-y-13-aves-silvestres-202681216200",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/condenado-a-10-anos-de-carcel-por-abusar-de-su-hija-y-de-una-sobrina-de-su-pareja-202681217110",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/gobierno-fortalece-el-abastecimiento-electrico-del-parque-agroalimentario-de-santa-rosa-202681218210",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/provincia-y-unlpam-se-unen-para-recuperar-50-anos-de-historia-sobre-agua-y-desarrollo-202681218180",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/soledad-pastorutti-se-presentara-en-la-fiesta-de-la-tradicion-en-lonquimay-202681216480",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/un-espacio-de-escucha-y-dialogo-con-nuestros-jovenes-20268121720",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/llego-un-tren-con-600-toneladas-de-sal-para-evitar-accidentes-en-la-calle-20268121870",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/sufrieron-el-terremoto-en-colombia-se-sintio-como-si-fuera-el-fin-del-mundo-202681217250",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/como-es-la-propuesta-joaquin-la-torre-separar-el-conurbano-buenos-aires-n5425779",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/diego-santilli-tuvo-su-foto-los-gobernadores-del-norte-grande-pero-no-hablaron-del-fin-las-paso-n5425782",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-quiebre-politico-misiones-pone-jaque-la-eliminacion-las-paso-n5425780",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/la-cgt-toma-la-bandera-los-endeudados-y-marcha-economia-levantar-el-perfil-contra-milei-n5425776",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78654/paritaria--utelpa-pidio-que-la-pauta-se-otorgue-por-arriba-del-ipc-",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78661/dos-perros-dogos-atacaron-a-un-chicos-de-16-anos--lo-mordieron-en-la-cabeza-y-el-cuerpo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78663/soledad-pastorutti-se-presentara-en-la-fiesta-de-la-tradicion-en-lonquimay",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/78655/caputo--argentina-ha-sido-arrasada-en-los-ultimos-25-anos-y-hoy-necesitamos-reconstruir-este-pais",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/78656/embargan-el-departamento-de-san-jose-1111-donde-cristina-kirchner-esta-en-prision-domiciliaria",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/78657/inocencia-fiscal-ll--lla-consiguio-dictamen-y-funcionarios-no-tendran-los-beneficios",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/78658/el-gobierno-gasto-1-de-cada-3-pesos-en-obras-hidricas-y-destino-el-resto-a-finanzas",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/78659/el-gobierno-se-prepara-para-enfrentar-un-dato-negativo-de-inflacion--en-cuanto-se-ubicaria",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/salud/78660/que-debes-hacer-si-tienes-una-una-encarnada-(y-que-no)",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/salud/78662/cuales-son-los-habitos-cotidianos-que-favorecen-la-perdida-de-la-audicion",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/12/caputo-argentina-fue-arrasada-en-los-ultimos-25-anos-y-hoy-necesitamos-reconstruir-este-pais/",
+    "title": "Caputo: “Argentina fue arrasada en los últimos 25 años y hoy necesitamos reconstruir este país”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/12/cine-musica-y-danza-las-propuestas-culturales-en-santa-rosa/",
+    "title": "Cine, música y danza, las propuestas culturales en Santa Rosa",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/12/cristiano-ronaldo-envio-un-mensaje-a-messi-por-el-fallecimiento-de-su-padre/",
+    "title": "Cristiano Ronaldo envió un mensaje a Messi por el fallecimiento de su padre",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/12/cuarto-intermedio-en-la-paritaria-docente-utelpa-pidio-aumentos-por-encima-del-ipc-y-una-suma-fija/",
+    "title": "Cuarto intermedio en la paritaria docente: UTELPa pidió aumentos por encima del IPC y una suma fija",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/12/embargan-el-departamento-de-cristina-donde-esta-en-prision-domiciliaria/",
+    "title": "Embargan el departamento de Cristina donde está en prisión domiciliaria",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/12/hombres-de-hierro-la-historia-de-los-trabajadores-que-sostuvieron-la-historica/",
+    "title": "“Hombres de Hierro”: la historia de los trabajadores que sostuvieron La Histórica",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/12/se-viene-la-expo-carreras-en-la-unlpam/",
+    "title": "Se viene la Expo Carreras en la UNLPam",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/12/caputo-argentina-ha-sido-arrasada-en-los-ultimos-25-anos-y-hoy-necesitamos-reconstruir-este-pais/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/12/pablo-rivero-maldonado-presenta-hombres-de-hierro-un-ensayo-sobre-la-lucha-de-los-trabajadores-de-la-historica/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/12/dia-del-nino-en-indumentaria-gp2-con-emocion-jose-maria-anuncio-el-sorteo-de-bicicletas-sin-obligacion-de-compra-quiero-que-participen-todos-los-chicos-video-121539.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/12/estados-unidos-retiro-casi-13600-kilos-de-carne-argentina-etiquetada-bajo-la-marca-del-frigorifico-gorina-saic-121544.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/8/12/se-perdio-simba-cerca-de-un-campo-de-la-ruta-que-va-metileo-ofrecen-100000-de-recompensa-es-como-mi-hijo-121540.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/12/trataron-dady-brieva-de-pedofilo-al-aire-la-justicia-los-condeno-121526.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/12/un-genio-con-tonada-un-loro-cordobes-fue-retado-respondio-con-una-frase-que-se-hizo-viral-video-121533.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/8/12/general-pico-condenaron-10-anos-de-carcel-un-hombre-que-abuso-sexualmente-de-su-hija-menor-otra-nina-mira-121543.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/12/es-peor-que-adorni-el-vocero-ravier-dio-una-nota-un-diario-pampeano-admitio-que-estan-desviando-fondos-video-121532.html",
     "title": null,
     "attempts": 0
   }
