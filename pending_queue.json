@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/mundo/77824/lula-minimizo-los-ataques-de-milei--quien-es-ese-tipo",
     "title": "Lula minimiz&oacute; los ataques de Milei: \"&iquest;Qui&eacute;n es ese tipo?\"",
-    "attempts": 7
+    "attempts": 8
   },
   {
     "site": "Plan B Noticias",
@@ -18026,6 +18026,12 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/12/educacion-justicia-estudiantes-de-colegios-secundarios-del-instituto-superior-de-policia-asistieron-dos-jornadas-de-debate-oral-en-general-pico-121542.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/el-mercado-desconfia-del-plan-milei-2027-n5425796",
     "title": null,
     "attempts": 0
   }
