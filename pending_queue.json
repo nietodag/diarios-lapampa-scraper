@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/mundo/77824/lula-minimizo-los-ataques-de-milei--quien-es-ese-tipo",
     "title": "Lula minimiz&oacute; los ataques de Milei: \"&iquest;Qui&eacute;n es ese tipo?\"",
-    "attempts": 9
+    "attempts": 10
   },
   {
     "site": "Plan B Noticias",
@@ -18212,6 +18212,366 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/13/un-reclamo-que-la-pampa-sostiene-desde-2025-ahora-coincide-con-un-fallo-que-obliga-nacion-reparar-rutas-121560.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82075",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82186",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82188",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/13/educacion-confirma-nuevas-evaluaciones-en-octubre-y-noviembre-para-estudiantes-primarios/",
+    "title": "Educación confirma nuevas evaluaciones en octubre y noviembre para estudiantes primarios",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/13/hallaron-sin-vida-a-un-hombre-de-65-anos-que-era-intensamente-buscado-en-eduardo-castex/",
+    "title": "Hallaron sin vida a un hombre de 65 años que era intensamente buscado en Eduardo Castex",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/13/horoscopo-de-hoy-jueves-13-de-agosto/",
+    "title": "Horóscopo de hoy, jueves 13 de agosto",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/13/impulsan-un-plan-de-forestacion-en-escuelas-pampeanas-para-promover-la-educacion-ambiental/",
+    "title": "Impulsan un plan de forestación en escuelas pampeanas para promover la educación ambiental",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/13/peleadores-de-mma-que-convirtieron-el-contraataque-durante-la-salida-de-la-reja-en-su-sistema-principal/",
+    "title": "Peleadores de MMA que convirtieron el contraataque durante la salida de la reja en su sistema principal",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/13/rechazan-recurso-de-la-fiscalia-y-habilitan-recalculo-de-pena-en-un-caso-de-prision-perpetua/",
+    "title": "Rechazan recurso de la fiscalía y habilitan recálculo de pena en un caso de prisión perpetua",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/13/reto-del-dia-podras-resolver-correctamente-esta-operacion-matematica-en-7-segundos-2/",
+    "title": "Reto del día: ¿podrás resolver correctamente esta operación matemática en 7 segundos?",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/13/the-local-side-of-online-betting-in-argentina/",
+    "title": "The Local Side of Online Betting in Argentina",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/como-en-el-caso-kueider-cada-ley-tenia-su-precio-denuncio-pagano-20268139190",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/ya-son-13-las-que-mate-investigan-si-un-adolescente-asesino-a-una-chica-por-encargo-de-su-novia-202681310240",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/con-apoyo-del-frejupa-el-pro-se-quedo-con-el-cuerpo-de-relatores-20268131250",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/detectaron-tres-conductores-alcoholizados-en-el-puesto-de-catrilo-202681311160",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/hallaron-muerto-a-un-hombre-en-los-desagues-en-eduardo-castex-202681311280",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/le-devolveran-lo-cobrado-de-mas-a-un-ahorrista-pampeano-20268131100",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/ruptura-de-la-oposicion-bongiovanni-propuesta-por-el-pro-y-el-frejupa-es-la-nueva-jefa-del-cuerpo-de-relatores-202681310510",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/tdec-el-25-del-personal-de-planta-fue-pasante-universitario-20268131190",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/alerta-meteorologica-por-nevadas-intensas-20268139490",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/detectan-juguetes-importados-que-son-nocivos-para-la-salud-20268139150",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/manejaba-tomaba-whisky-manejando-por-ruta-2-y-se-burlo-de-la-situacion-202681311480",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/record-se-cumple-un-mes-del-cierre-del-paso-fronterizo-a-chile-202681310460",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/economia/javier-milei-2027-los-mercados-manifiestan-sintomas-incertidumbre-elector-n5425801",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/economia/lo-que-dejo-idea-rosario-el-circulo-rojo-se-aferro-al-rumbo-milei-y-le-da-tiempo-al-plan-economico-n5425800",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/el-costo-javier-milei-la-economia-argentina-n5425803",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/judiciales/la-corte-suprema-reactivo-la-causa-la-apropiacion-manuel-goncalves-granada-la-dictadura-n5425797",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-obispo-angel-rossi-quiere-llevar-leon-xiv-fadea-y-obliga-javier-milei-mirar-la-crisis-la-fabrica-n5425766",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/giuliano-y-monteverde-consolidan-su-sociedad-santa-fe-viaje-mexico-y-mirada-2027-n5425792",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/jujuy-ruben-rivarola-se-juega-un-ultimo-recurso-y-denuncio-penalmente-la-junta-electoral-del-pj-n5425790",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/region-patagonia/santa-cruz-se-encamina-votar-boleta-unica-todo-lo-demas-esta-debate-n5425799",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78702/intendentes-reiteraron-su-preocupacion-por-el-abandono-de-la-ruta-nacional-151",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78703/tres-licencias-apocrifas-y-tres-casos-de-alcoholemia-en-el-puesto-caminero-catrilo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78704/estatales-advierten-que-los-aumentos-no-alcanzaron-y-reclaman-una-recuperacion-salarial",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78705/oddi-respondio-a-la-ucr--la-unidad-no-significa-siempre-votar-de-acuerdo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78706/el-tdec-destaco-el-vinculo-con-la-unlpam--el-25-en-porciento--del-personal-fue-pasante-universitario",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78707/-camargo-acuso-al-pj-y-al-pro-de-arrebatarr-a-la-ucr-del-cuerpo-de-relatores",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78708/castex--en-un-desague-hallaron-el-cuerpo-de-un-hombre-de-65-anos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/13/anguil-realizaron-106-tramites-de-dni-en-una-nueva-campana-gratuita/",
+    "title": "Anguil: realizaron 106 trámites de DNI en una nueva campaña gratuita",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/13/camargo-critico-al-pro-nos-sacan-de-las-manos-la-jefatura-del-cuerpo-de-relatores/",
+    "title": "Camargo criticó al PRO: “Nos sacan de las manos la Jefatura del Cuerpo de Relatores”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/13/el-pro-y-el-oficialismo-se-unieron-para-designar-la-jefa-del-cuerpo-de-relatores/",
+    "title": "El PRO y el oficialismo se unieron para designar la Jefa del Cuerpo de Relatores",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/13/fernanda-oddi-critico-a-la-ucr-cedimos-dos-anos-y-medio-no-cedemos-mas/",
+    "title": "Fernanda Oddi criticó a la UCR: “Cedimos dos años y medio, no cedemos más”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/13/los-recursos-nacionales-a-provincias-retroceden-1-acumulado-en-2026/",
+    "title": "Los recursos nacionales a provincias retroceden 1% acumulado en 2026",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/13/santa-rosa-ciudad-de-memorias-estudiantes-locales-y-de-vertiz-recorrieron-espacios-historicos-y-de-memoria/",
+    "title": "Santa Rosa, Ciudad de Memorias: estudiantes locales y de Vértiz recorrieron espacios históricos y de memoria",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/13/la-pampa-solo-54-de-cada-100-estudiantes-llegan-al-final-de-la-primaria-en-tiempo-y-en-forma/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/13/santa-rosa-tendra-su-circuito-maradoniano/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/13/vinculo-entre-el-tdec-y-la-unlpam-el-25-del-personal-de-planta-fue-pasante-universitario/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/espectaculos/2026/8/13/angelucci-destaco-el-crecimiento-del-festival-nacional-de-cine-no-es-un-gasto-en-cultura-es-una-inversion-anuncio-laedicion-del-2027-que-sera-del-19-al-26-de-agosto-video-121567.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/espectaculos/2026/8/13/todos-los-ganadores-del-10-festival-nacional-de-cine-de-general-pico-mira-los-videos-en-en-boca-de-todos-hd-121574.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/13/la-ilusion-de-la-fortuna-duro-poco-en-pico-se-equivocaron-en-varios-ceros-eran-dos-premios-de-mas-de-54-millones-de-pesos-terminaron-siendo-de-poco-mas-de-5000-video-121583.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/8/13/en-nova-pizza-tenes-tu-vianda-hoy-milanesa-eleccion-pure-mira-121582.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/13/eduardo-veterano-de-malvinas-pedro-volvi-para-cumplir-la-promesa-que-te-hice-hace-44-anos-video-121576.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/13/el-gobierno-reglamento-nuevas-condiciones-para-registrar-silenciadores-miras-nocturnas-otros-dispositivos-para-armas-121570.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/13/hoy-el-indec-da-conocer-el-dato-de-inflacion-de-julio-que-adelantan-las-consultoras-121562.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/13/no-tengo-para-comer-jubilado-de-73-anos-fue-sorprendido-intentando-llevarse-alimentos-de-un-supermercado-121571.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/13/video-un-ladron-entro-robar-un-kiosco-dos-empleadas-le-tiraron-agua-caliente-lo-echaron-los-golpes-121575.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/8/13/recordaron-adriel-torres-el-joven-asesinado-en-quemu-basta-de-privilegios-para-asesinos-tomas-patino-brian-patino-los-burgos-video-121565.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/8/13/urgente-hallaron-sin-vida-un-hombre-en-los-desages-video-121568.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/13/conclave-pj-para-ordenar-2027-kicillof-massa-maximo-kirchner-ziliotto-otros-gobernadores-armaron-una-mesa-politica-121566.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/13/descarrilo-un-tren-de-cargas-hubo-demoras-en-la-ruta-nacional-la-altura-de-catrilo-121564.html",
     "title": null,
     "attempts": 0
   }
