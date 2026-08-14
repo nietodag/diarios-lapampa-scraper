@@ -1,273 +1,9 @@
 [
   {
     "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/mundo/77824/lula-minimizo-los-ataques-de-milei--quien-es-ese-tipo",
-    "title": "Lula minimiz&oacute; los ataques de Milei: \"&iquest;Qui&eacute;n es ese tipo?\"",
-    "attempts": 19
-  },
-  {
-    "site": "Plan B Noticias",
-    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/27/carlos-verna-y-alicia-mayoral-arrancaron-juntos-hermosa-semana/",
-    "title": "Carlos Verna y Alicia Mayoral arrancaron juntos: “Hermosa semana”",
-    "attempts": 0
-  },
-  {
-    "site": "Plan B Noticias",
-    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/27/ciclo-sobre-patrimonio-cultural-invitan-a-recorrer-la-casa-museo-olga-orozco/",
-    "title": "Ciclo sobre patrimonio cultural: invitan a recorrer la Casa Museo Olga Orozco",
-    "attempts": 0
-  },
-  {
-    "site": "Plan B Noticias",
-    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/27/tierras-el-77-de-los-argentinos-pide-que-haya-limites-a-la-venta-a-extranjeros/",
-    "title": "Tierras: El 77% de los argentinos quiere límites a la venta a extranjeros",
-    "attempts": 0
-  },
-  {
-    "site": "Plan B Noticias",
-    "url": "https://www.planbnoticias.com.ar/index.php/2026/07/27/tras-la-reunion-entre-ziliotto-y-santilli-nacion-reanudo-los-pagos-a-la-caja-previsional/",
-    "title": "Tras la reunión entre Ziliotto y Santilli, Nación reanudó los pagos a la Caja Previsional",
-    "attempts": 0
-  },
-  {
-    "site": "Diario Textual",
-    "url": "https://diariotextual.com/inicio/index.php/2026/07/27/ardohain-pidio-a-nacion-bajar-las-retenciones-y-le-pego-de-paso-a-ziliotto-y-kicillof/",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Diario Textual",
-    "url": "https://diariotextual.com/inicio/index.php/2026/07/27/diputada-del-pro-volvio-a-reclamar-el-tratamiento-del-proyecto-de-narcotest-para-funcionarios-en-la-pampa/",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Diario Textual",
-    "url": "https://diariotextual.com/inicio/index.php/2026/07/27/mes-de-las-infancias-dafas-lanzo-el-concurso-dibujemos-el-arte-callejero-de-la-pampa/",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Diario Textual",
-    "url": "https://diariotextual.com/inicio/index.php/2026/07/27/nacion-gasto-mas-de-dos-mil-millones-de-pesos-durante-2025-en-reprimir-a-jubilados/",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Diario Textual",
-    "url": "https://diariotextual.com/inicio/index.php/2026/07/27/nacion-reanudo-el-envio-de-fondos-previsionales-a-la-pampa-luego-de-la-reunion-entre-ziliotto-y-santilli/",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Diario Textual",
-    "url": "https://diariotextual.com/inicio/index.php/2026/07/27/paso-el-mundial-y-reaparecio-verna-el-mensaje-politico-detras-de-la-foto-con-mayoral/",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Diario Textual",
-    "url": "https://diariotextual.com/inicio/index.php/2026/07/27/tucuman-la-primera-provincia-en-desdoblar-las-elecciones-votara-el-9-de-mayo/",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Diario Textual",
-    "url": "https://diariotextual.com/inicio/index.php/2026/07/27/turismo-brindara-nuevo-recurso-para-capacitarse-como-guia-de-sitio/",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Radio Kermes",
-    "url": "https://www.radiokermes.com/noticias/31012-una-buena-manera-de-comenzar-la-semana",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Radio Kermes",
-    "url": "https://www.radiokermes.com/noticias/31013-nacion-desembolso-10-000-millones-de-fondos-previsionales",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Radio Kermes",
-    "url": "https://www.radiokermes.com/noticias/31014-el-santa-rosa-cubea-un-gran-encuentro-de-la-pibada",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Radio Kermes",
-    "url": "https://www.radiokermes.com/noticias/31015-red-par-celebra-dos-decadas-de-impulso-a-una-comunicacion-con-perspectiva-de-genero",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Pampa Diario",
-    "url": "https://www.pampadiario.com/single-post.php?id=81859",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Pampa Diario",
-    "url": "https://www.pampadiario.com/single-post.php?id=81889",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Pampa Diario",
-    "url": "https://www.pampadiario.com/single-post.php?id=81904",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/07/28/anunciaron-los-festejos-por-el-144-aniversario-de-general-acha/",
-    "title": "Anunciaron los festejos por el 144° aniversario de General Acha",
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/07/28/claudia-calderon-candidata-a-conducir-utelpa-necesitamos-que-los-docentes-recuperen-el-tiempo-de-descanso-y-el-tiempo-para-ensenar/",
-    "title": "Claudia Calderón, candidata a conducir Utelpa: «Necesitamos que los docentes recuperen el tiempo de descanso y el tiempo para enseñar»",
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/07/28/con-el-foco-en-la-permanencia-se-conocio-el-fixture-para-el-debut-de-costa-brava-en-la-revalida-del-federal-a/",
-    "title": "Con el foco en la permanencia: se conoció el fixture para el debut de Costa Brava en la Reválida del Federal A",
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/07/28/el-ciclo-luces-de-invierno-convoco-a-700-espectadores-e-impulso-la-actividad-teatral-y-turistica-en-la-pampa/",
-    "title": "El ciclo “Luces de Invierno” convocó a 700 espectadores e impulsó la actividad teatral y turística en La Pampa",
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/07/28/horoscopo-de-hoy-martes-28-de-julio/",
-    "title": "Horóscopo de hoy, martes 28 de julio",
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/07/28/reto-del-dia-pocos-usuarios-son-capaces-de-superar-este-acertijo-matematico-en-6-segundos-3/",
-    "title": "Reto del día: pocos usuarios son capaces de superar este acertijo matemático en 6 segundos",
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/07/28/siete-demorados-en-rancul-por-tala-ilegal-y-robo-de-28-toneladas-de-madera-de-calden/",
-    "title": "Siete demorados en Rancul por tala ilegal y robo de 28 toneladas de madera de caldén",
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/economia/los-ganaderos-santa-fe-celebran-los-precios-pero-temen-una-caida-del-consumo-que-no-tiene-piso-n5425372",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/georgieva-y-milei-todo-prestamo-es-politico-n5425379",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/los-regalitos-ocultos-del-super-rigi-n5425376",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/politica/entre-rios-el-pj-federal-apuesta-al-regreso-gerardo-chapino-desafiar-alicia-oviedo-n5425342",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/politica/rosario-lista-unica-ratner-va-la-reeleccion-y-sumara-16-anos-al-frente-del-sindicato-municipales-n5425367",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/politica/tambalea-el-minella-mar-del-plata-us-40-millones-brasilenos-fuga-y-un-chiquitapista-guardado-n5425381",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/campo/77848/el-fierro-que-espera--prudencia-de-tasas-cosecha-de-paciencia",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/77845/el-juego-oficial-arranco-en-alza--distribuyo-mas-de-1812-millones-",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/77846/acha-recibira-el-selectivo-del-nacional-de-malambo-femenino",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/77849/prision-preventiva-para-dos-acusados-de-integrar-la-banda-de-los-250-mil-dolares",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/77850/el-festival-de-cine-de-general-pico-ya-tiene-sus-jurados-para-la-decima-edicion",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/77851/ingresaron-con-un-camion-a-un-campo-de-rancul-para-talar-caldenes",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/77852/ziliotto-inaugura-este-martes-un-frigorifico-en-winifreda",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/77853/una-estufa-a-lena-provoco-un-incendio-en-una-vivienda-rural-cerca-de-metileo",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/77854/las-ventas-de-combustibles-en-la-pampa-cayeron-071-en-porciento--en-junio",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/77855/fuerza-pampa-la-sombra-de-verna-y-el-eterno-bucle-del-pj--renovacion-o-rosca-para-2027",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/77856/tierra-y-vivienda--organizaciones-llevaran-sus-reclamos-al-municipio-de-santa-rosa",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/pais/77847/milei-adelanto-su-viaje-a-lima-para-la-asuncion-de-keiko-fujimori",
-    "title": null,
-    "attempts": 0
+    "title": "Milei adelant&oacute; su viaje a Lima para la asunci&oacute;n de Keiko Fujimori",
+    "attempts": 1
   },
   {
     "site": "Plan B Noticias",
@@ -20486,6 +20222,84 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/14/hinchas-chilenos-identificados-tras-provocar-disturbios-robar-mercaderia-en-una-estacion-de-servicio-de-25-de-mayo-121619.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82206",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82207",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/14/expo-carreras-2026-los-chicos-van-por-el-mundo-de-la-tecnologia/",
+    "title": "Expo Carreras 2026: «Los chicos van por el mundo de la tecnología»",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/el-mes-de-las-infancias-se-vive-en-santa-rosa-202681417540",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/fin-de-semana-largo-la-municipalidad-informo-como-funcionaran-los-servicios-202681417420",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/78759/el-empleo-registrado-cayo-por-tercer-mes-consecutivo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/14/choque-entre-tres-vehiculos-en-argentino-valle-y-marquez/",
+    "title": "Choque entre tres vehículos en Argentino Valle y Márquez",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/14/este-sabado-abre-el-mercado-municipal-4/",
+    "title": "Este sábado abre el Mercado Municipal",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/14/ypf-exportaremos-10-000-millones-de-dolares-por-ano-y-se-generaran-20-000-puestos-de-trabajo/",
+    "title": "YPF: “Exportaremos 10.000 millones de dólares por año y se generarán 20.000 puestos de trabajo”",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/14/abrieron-la-inscripcion-para-una-capacitacion-sobre-atencion-presencial-al-cliente/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/14/colombia-la-cifra-de-muertos-por-el-terremoto-asciende-a-287/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/14/en-pico-ninguna-esquina-se-salva-de-un-accidente-ahora-en-10-103-el-sem-asiste-un-motociclista-video-121629.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/8/14/fin-de-semana-de-locos-en-tuccsol-2x1-en-productos-seleccionados-desde-sprite-de-225-litros-coca-cola-sin-azucar-de-15-litros-hasta-papas-alfajores-fideos-mucho-mas-121630.html",
     "title": null,
     "attempts": 0
   }
