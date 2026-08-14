@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/mundo/77824/lula-minimizo-los-ataques-de-milei--quien-es-ese-tipo",
     "title": "Lula minimiz&oacute; los ataques de Milei: \"&iquest;Qui&eacute;n es ese tipo?\"",
-    "attempts": 14
+    "attempts": 15
   },
   {
     "site": "Plan B Noticias",
@@ -19580,6 +19580,30 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/13/anunciaron-convocatoria-abierta-para-capacitarse-en-atencion-presencial-al-cliente-121603.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/elecciones-la-vista-revive-el-peronismo-n5425833",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/14/rosario-central-desaprovecho-la-localia-y-empato-con-corinthians-en-la-copa-libertadores-2026/",
+    "title": "Rosario Central desaprovechó la localía y empató con Corinthians en la Copa Libertadores 2026",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/14/cambio-de-estrategia-el-pj-pampeano-ahora-pone-en-duda-el-desdoblamiento-electoral/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/14/unidos-por-el-espanto-la-gran-alianza-anti-pj-muestra-sus-grietas-en-la-pampa/",
     "title": null,
     "attempts": 0
   }
