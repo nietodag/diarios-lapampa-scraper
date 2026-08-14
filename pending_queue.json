@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/mundo/77824/lula-minimizo-los-ataques-de-milei--quien-es-ese-tipo",
     "title": "Lula minimiz&oacute; los ataques de Milei: \"&iquest;Qui&eacute;n es ese tipo?\"",
-    "attempts": 17
+    "attempts": 18
   },
   {
     "site": "Plan B Noticias",
@@ -20168,6 +20168,180 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/14/14-de-agosto-dia-de-la-mujer-policia-121612.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82204",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/14/educacion-de-la-pampa-abre-la-inscripcion-para-una-nueva-propuesta-de-formacion-docente/",
+    "title": "Educación de La Pampa abre la inscripción para una nueva propuesta de formación docente",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/14/general-pico-declaro-de-interes-el-encuentro-abrazo-de-cuenca-por-la-defensa-del-agua-y-los-territorios/",
+    "title": "General Pico declaró de interés el encuentro “Abrazo de Cuenca” por la defensa del agua y los territorios",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/14/liga-pampeana-martin-gubar-sera-el-arbitro-de-la-final-de-ida-entre-ferro-de-pico-y-costa-brava/",
+    "title": "Liga Pampeana: Martín Gubar será el árbitro de la final de ida entre Ferro de Pico y Costa Brava",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/audio/leonardo-santesteban-en-el-aire-de-la-manana-del-14-08-202681413110",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/aldo-umazano-y-sus-charlas-de-domingo-202681414350",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/con-polemica-trasladan-en-rancul-el-basurero-municipal-202681413490",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/hinchas-de-coquimbo-robaron-mercaderia-de-una-ypf-de-la-pampa-202681412100",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/las-paso-y-el-futuro-del-gobierno-seran-clave-para-definir-el-cronograma-electoral-20268141490",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/nacion-solo-ejecuto-el-30-del-fondo-hidrico-20268141200",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/premiaron-al-programa-semillitas-para-los-oidos-202681413300",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/promueven-capacitaciones-de-gestion-de-residuos-y-compostaje-en-victorica-202681410300",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/del-diseno-modular-a-los-parques-nacionales-los-nuevos-refugios-202681412260",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/la-fiesta-del-chocolate-entrada-gratis-y-actividades-para-toda-la-familia-202681413540",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/presentan-un-proyecto-para-sembrar-al-costado-de-rutas-nacionales-202681413200",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/una-nueva-oportunidad-para-30-felinos-varados-en-el-ex-zoologico-de-lujan-202681414470",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/chubut-gaiman-va-las-urnas-el-13-diciembre-elegir-al-sucesor-dario-james-n5425845",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78759/el-empleo-registrado-cayo-por-tercer-mes-consecutivo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78760/rejunte-opositor--en-la-ucr-avisan-que-tierno-choca-todo-lo-que-le-dan",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78761/casamiento-de-luis-y-camila-del-viernes-14-de-agosto-por-la-manana-en-santa-rosa-",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/14/a-nacion-no-le-importan-los-danos-y-solo-busca-recaudar/",
+    "title": "“A Nación no le importan los daños y sólo busca recaudar”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/14/como-funcionaran-los-servicios-durante-el-fin-de-semana-largo/",
+    "title": "¿Cómo funcionarán los servicios durante el fin de semana largo?",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/14/desvio-de-fondos-para-obras-hidricas-a-nacion-no-le-importan-los-danos-y-solo-busca-recaudar/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31222-agenda-cultural-kermesera-25",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/deportes/2026/8/14/el-gallego-sierro-el-basquet-adaptado-en-esta-etapa-de-mi-vida-lo-siento-como-un-premio-video-121609.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/espectaculos/2026/8/13/tango-para-tres-llega-general-pico-121594.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/14/el-sem-asiste-una-ciclista-luego-de-impactar-contra-un-auto-en-14-27-video-121625.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/municipales/2026/8/14/por-condiciones-climaticas-se-reprogramara-el-festival-de-las-infancias-121618.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/8/14/detuvieron-un-gol-con-cuatro-cazadores-ilegales-perros-un-jabali-121623.html",
     "title": null,
     "attempts": 0
   }
