@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/77978/el-fraude-empezo-antes-del-escrutinio-afirmo-la-lista-rosa-y-verde",
     "title": "\"El fraude empez&oacute; antes del escrutinio\", afirm&oacute; la lista Rosa y Verde",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "site": "El Diario de La Pampa",
@@ -18903,6 +18903,30 @@
     "site": "Radio Kermes",
     "url": "https://www.radiokermes.com/conversaciones/31223-la-atmosfera-es-un-constante-caos-buscando-el-equilibrio",
     "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/15/avanza-la-investigacion-por-el-asalto-en-intendente-alvear-actuaron-con-rostros-semicubiertos-y-camaras-captaron-el-vehiculo/",
+    "title": "Avanza la investigación por el asalto en Intendente Alvear: actuaron con rostros semicubiertos y cámaras captaron el vehículo",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/dieron-de-alta-a-la-madre-de-62-anos-y-su-bebe-tras-marcar-un-record-en-el-pais-20268151600",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/15/abren-convocatoria-para-recomendar-docentes-para-el-reconocimiento-prof-natalio-fernandez/",
+    "title": "Abren convocatoria para recomendar docentes para el Reconocimiento “Prof. Natalio Fernández”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/15/educacion-universitaria-medicina-avanza-con-formacion-clinica-y-practicas-en-el-territorio/",
+    "title": "Educación universitaria: Medicina avanza con formación clínica y prácticas en el territorio",
     "attempts": 0
   }
 ]
