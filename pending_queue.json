@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/pais/77847/milei-adelanto-su-viaje-a-lima-para-la-asuncion-de-keiko-fujimori",
     "title": "Milei adelant&oacute; su viaje a Lima para la asunci&oacute;n de Keiko Fujimori",
-    "attempts": 16
+    "attempts": 17
   },
   {
     "site": "Plan B Noticias",
@@ -21182,6 +21182,54 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/14/produccion-brindo-recomendaciones-para-la-alimentacion-del-ganado-bovino-121636.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/15/confirmaron-la-identidad-de-la-vecina-de-general-pico-fallecida-en-el-tragico-choque-de-la-ruta-188/",
+    "title": "Confirmaron la identidad de la vecina de General Pico fallecida en el trágico choque de la Ruta 188",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/homenaje-en-la-ruta-nacional-5-colocaron-dos-estrellas-amarillas-202681511580",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78806/colocaron-dos-estrellas-amarillas-en-la-ruta-nacional-5-en-memoria-de-cintia-cerutti-y-gaston-rodriguez",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/78807/milei-volvera-a-presentar-el-presupuesto-en-el-congreso--sera-el-15-de-septiembre",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/15/arnaldo-andre-y-marta-gonzalez-recorren-la-pampa-con-tango-para-tres-la-magia-del-teatro-es-inigualable/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/15/tristeza-en-la-ciudad-la-empresaria-piquense-griselda-ghione-es-la-victima-fatal-del-tragico-accidente-en-la-ruta-188-121666.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/8/15/menu-del-dia-en-nova-pizza-pechugas-con-crema-de-verdeo-papas-fritas-mira-121668.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/15/el-girasol-gana-terreno-en-la-pampa-proyecta-una-fuerte-expansion-121663.html",
     "title": null,
     "attempts": 0
   }
