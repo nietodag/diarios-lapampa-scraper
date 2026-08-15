@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/pais/77847/milei-adelanto-su-viaje-a-lima-para-la-asuncion-de-keiko-fujimori",
     "title": "Milei adelant&oacute; su viaje a Lima para la asunci&oacute;n de Keiko Fujimori",
-    "attempts": 11
+    "attempts": 12
   },
   {
     "site": "Plan B Noticias",
@@ -20751,6 +20751,24 @@
     "site": "Pampa Diario",
     "url": "https://www.pampadiario.com/single-post.php?id=82208",
     "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/economia/ypf-acelera-su-apuesta-los-datos-transformar-la-gestion-del-transporte-n5425849",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/peronismo-y-oposicion-dos-andariveles-y-una-carrera-n5425844",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/15/diputados-cito-a-lamelas-tras-denuncias-de-presiones-a-una-cooperativa-neuquina-por-contratos-con-huawei/",
+    "title": "Diputados citó a Lamelas tras denuncias de presiones a una cooperativa neuquina por contratos con Huawei",
     "attempts": 0
   }
 ]
