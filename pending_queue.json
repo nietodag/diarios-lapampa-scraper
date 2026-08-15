@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/pais/77847/milei-adelanto-su-viaje-a-lima-para-la-asuncion-de-keiko-fujimori",
     "title": "Milei adelant&oacute; su viaje a Lima para la asunci&oacute;n de Keiko Fujimori",
-    "attempts": 10
+    "attempts": 11
   },
   {
     "site": "Plan B Noticias",
@@ -20738,6 +20738,18 @@
   {
     "site": "Diario Textual",
     "url": "https://diariotextual.com/inicio/index.php/2026/08/15/la-corte-desestimo-la-apelacion-y-quedo-firme-la-condena-al-cardiologo-rigutto/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82203",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82208",
     "title": null,
     "attempts": 0
   }
