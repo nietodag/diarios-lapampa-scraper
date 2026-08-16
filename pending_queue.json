@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/77978/el-fraude-empezo-antes-del-escrutinio-afirmo-la-lista-rosa-y-verde",
     "title": "\"El fraude empez&oacute; antes del escrutinio\", afirm&oacute; la lista Rosa y Verde",
-    "attempts": 18
+    "attempts": 19
   },
   {
     "site": "El Diario de La Pampa",
@@ -19473,6 +19473,18 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78827/los-taxistas-llevan-al-concejo-un-fuerte-reclamo-contra-di-napoli-por-falta-de-control-de-las-apps",
     "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/caldenia/todo-sobre-mi-madre-2026816900",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/16/el-endeudamiento-afecta-la-compra-en-los-supermercados/",
+    "title": "El endeudamiento afecta la compra en los supermercados",
     "attempts": 0
   }
 ]
