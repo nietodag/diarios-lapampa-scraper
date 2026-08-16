@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/77978/el-fraude-empezo-antes-del-escrutinio-afirmo-la-lista-rosa-y-verde",
     "title": "\"El fraude empez&oacute; antes del escrutinio\", afirm&oacute; la lista Rosa y Verde",
-    "attempts": 16
+    "attempts": 17
   },
   {
     "site": "El Diario de La Pampa",
@@ -19406,6 +19406,48 @@
   {
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/videos-de-la-semana/78826/videos-de-la-semana",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82194",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82213",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82223",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/ciudad/mientras-negocia-el-pro-karina-milei-baja-el-task-force-nacional-la-ciudad-n5425873",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/javier-milei-y-el-peronismo-iniciaron-la-batalla-2027-las-paso-n5425870",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/semana-la-dulzura-reencuentros-espejados-del-peronismo-y-karina-milei-mauricio-macri-n5425874",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/viene-leon-xiv-el-rompecabezas-del-financiamiento-la-visita-papal-n5425788",
     "title": null,
     "attempts": 0
   }
