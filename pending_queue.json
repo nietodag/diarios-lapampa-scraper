@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/77978/el-fraude-empezo-antes-del-escrutinio-afirmo-la-lista-rosa-y-verde",
     "title": "\"El fraude empez&oacute; antes del escrutinio\", afirm&oacute; la lista Rosa y Verde",
-    "attempts": 10
+    "attempts": 11
   },
   {
     "site": "El Diario de La Pampa",
@@ -19323,6 +19323,72 @@
     "site": "Info Pico",
     "url": "https://www.infopico.com/2026/08/15/investigan-de-oficio-un-apunalamiento-tras-una-violenta-pelea-en-eduardo-castex-la-victima-fue-derivada-al-hospital-centeno/",
     "title": "Investigan de oficio un apuñalamiento tras una violenta pelea en Eduardo Castex: la víctima fue derivada al Hospital Centeno",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/15/recuperaron-en-el-barrio-roca-una-motocicleta-que-habia-sido-robada-durante-la-madrugada/",
+    "title": "Recuperaron en el barrio Roca una motocicleta que había sido robada durante la madrugada",
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/la-vida-mas-alla-vaca-muerta-la-patagonia-fija-su-agenda-productiva-al-margen-del-boom-energetico-n5425872",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/las-tres-alertas-rojas-martin-llaryora-n5425871",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/una-reforma-electoral-casi-todos-adentro-santa-fe-n5425869",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/municipales/2026/8/15/foro-extraordinario-de-participacion-juvenil-eligieron-nuevos-consejeros-consejeras-de-nineces-121671.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/15/preocupante-vialidad-bachea-la-ruta-151-sin-corte-de-ruta-121672.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/16/impactante-un-cadete-de-19-anos-denuncio-que-fue-abusado-por-siete-companeros-121681.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/16/una-mujer-murio-en-el-mismo-lugar-donde-nueve-horas-antes-habia-muerto-el-joven-que-volvia-del-velorio-de-su-hermana-121679.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/15/se-incendio-una-camioneta-en-la-estacion-de-ferrocarril-de-quemu-121676.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/15/violento-asalto-en-intendente-alvear-al-menos-tres-delincuentes-entraron-la-vivienda-redujeron-al-damnificado-se-llevaron-una-importante-suma-de-dinero-en-pesos-dolares-121675.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/salud/2026/8/15/la-humada-el-centro-de-salud-suma-un-moderno-equipo-movil-de-rayos-digitalizado-121678.html",
+    "title": null,
     "attempts": 0
   }
 ]
