@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/77978/el-fraude-empezo-antes-del-escrutinio-afirmo-la-lista-rosa-y-verde",
     "title": "\"El fraude empez&oacute; antes del escrutinio\", afirm&oacute; la lista Rosa y Verde",
-    "attempts": 9
+    "attempts": 10
   },
   {
     "site": "El Diario de La Pampa",
@@ -19317,6 +19317,12 @@
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/salud/2026/8/15/salud-mental-en-alerta-preocupacion-por-el-aumento-de-casos-la-opinion-de-una-joven-psicologa-video-121655.html",
     "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/15/investigan-de-oficio-un-apunalamiento-tras-una-violenta-pelea-en-eduardo-castex-la-victima-fue-derivada-al-hospital-centeno/",
+    "title": "Investigan de oficio un apuñalamiento tras una violenta pelea en Eduardo Castex: la víctima fue derivada al Hospital Centeno",
     "attempts": 0
   }
 ]
