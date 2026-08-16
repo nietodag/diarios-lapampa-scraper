@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/77978/el-fraude-empezo-antes-del-escrutinio-afirmo-la-lista-rosa-y-verde",
     "title": "\"El fraude empez&oacute; antes del escrutinio\", afirm&oacute; la lista Rosa y Verde",
-    "attempts": 15
+    "attempts": 16
   },
   {
     "site": "El Diario de La Pampa",
@@ -19394,6 +19394,18 @@
   {
     "site": "Radio Kermes",
     "url": "https://www.radiokermes.com/opinion/31229-comunidad-ranculche-eulogio-morales-ningun-gobierno-nos-pidio-disculpas",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/caldenia/el-senor-del-rio-negro-2026816600",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/videos-de-la-semana/78826/videos-de-la-semana",
     "title": null,
     "attempts": 0
   }
