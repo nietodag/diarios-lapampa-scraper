@@ -3,7 +3,7 @@
     "site": "Pampa Diario",
     "url": "https://www.pampadiario.com/single-post.php?id=81976",
     "title": "Lettieri explicó qué hacer si llega una fotomulta de otra provincia por error y alertó sobre las estafas con enlaces falsos",
-    "attempts": 18
+    "attempts": 19
   },
   {
     "site": "Pampa Diario",
@@ -16221,6 +16221,54 @@
     "site": "Plan B Noticias",
     "url": "https://www.planbnoticias.com.ar/index.php/2026/08/17/paran-las-universidades-en-reclamo-por-la-aplicacion-de-la-ley-de-financiamiento/",
     "title": "Paran las universidades en reclamo por la aplicación de la Ley de Financiamiento",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/17/con-una-inversion-de-mas-de-48-mil-millones-finalizo-una-obra-clave-para-el-acueducto-del-rio-colorado/",
+    "title": "Con una inversión de más de $48 mil millones, finalizó una obra clave para el Acueducto del Río Colorado",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/general-san-martin-celebro-sus-125-anos-de-vida-202681720160",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/una-estrategia-sanitaria-con-recien-nacidos-marca-un-hito-a-nivel-pais-202681720100",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78897/unilpa-preocupada-por-el-aumento-de-costos-y-la-presion-impositiva",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/17/robaron-los-bancos-del-espacio-verde-en-barrio-congreso-tristeza-e-indignacion/",
+    "title": "Robaron los bancos del espacio verde en Barrio Congreso: “Tristeza e indignación”",
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/curiosidades/2026/8/17/video-el-triangulo-perfecto-una-historia-de-amor-que-tuvo-fiesta-boca-una-torta-de-tres-121738.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/17/realizaron-el-acto-por-el-176-aniversario-del-paso-la-inmortalidad-del-general-jose-de-san-martin-121741.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/municipales/2026/8/16/mas-de-180-chicas-chicos-participaron-de-un-encuentro-de-mini-voley-121703.html",
+    "title": null,
     "attempts": 0
   }
 ]
