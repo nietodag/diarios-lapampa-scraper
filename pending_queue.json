@@ -3,7 +3,7 @@
     "site": "Pampa Diario",
     "url": "https://www.pampadiario.com/single-post.php?id=81976",
     "title": "Lettieri explicó qué hacer si llega una fotomulta de otra provincia por error y alertó sobre las estafas con enlaces falsos",
-    "attempts": 15
+    "attempts": 16
   },
   {
     "site": "Pampa Diario",
@@ -16112,6 +16112,36 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/8/17/brandsen-rescatan-111-gallos-27-personas-habrian-sido-aprehendidas-por-presuntas-rinas-clandestinas-121735.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/17/la-humada-suma-un-equipo-de-rayos-x-de-ultima-generacion-para-fortalecer-la-atencion-sanitaria-en-el-oeste-pampeano/",
+    "title": "La Humada suma un equipo de rayos X de última generación para fortalecer la atención sanitaria en el oeste pampeano",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/17/villarruel-estoy-preocupada-por-los-argentinos-que-no-llegan-a-fin-de-mes/",
+    "title": "Villarruel: “Estoy preocupada por los argentinos que no llegan a fin de mes”",
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31244-el-pro-le-abre-la-puerta-de-salida-a-su-ala-rebelde",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/opinion/31245-elecciones-2027-donde-se-gana-o-se-pierde-la-pampa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/espectaculos/2026/8/17/un-festejo-inolvidable-del-dia-del-nino-en-indumentaria-gp2-mira-el-sorteode-las-bicis-121739.html",
     "title": null,
     "attempts": 0
   }
