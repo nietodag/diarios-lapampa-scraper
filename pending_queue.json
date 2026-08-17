@@ -3,7 +3,7 @@
     "site": "Pampa Diario",
     "url": "https://www.pampadiario.com/single-post.php?id=81976",
     "title": "Lettieri explicó qué hacer si llega una fotomulta de otra provincia por error y alertó sobre las estafas con enlaces falsos",
-    "attempts": 10
+    "attempts": 11
   },
   {
     "site": "Pampa Diario",
@@ -15674,6 +15674,78 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/17/dos-mujeres-resultaron-heridas-tras-caer-de-una-motocicleta-en-ingeniero-luiggi-121726.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/17/transicion-en-utelpa-claudia-calderon-asumira-como-nueva-secretaria-general-a-fines-de-esta-semana/",
+    "title": "Transición en UTELPA: Claudia Calderón asumirá como nueva secretaria general a fines de esta semana",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/expedientes-por-unos-guantes-la-fia-se-enojo-con-la-burocracia-boba-202681713390",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/fotos-y-videos-fuerte-nevada-en-el-oeste-pampeano-202681713260",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/mccaballo-querian-una-hamburguesa-y-las-pidieron-a-caballo-202681713380",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/patricia-bullrich-reconoce-una-realidad-politica-distintas-que-le-embarra-la-cancha-al-gobierno-n5425883",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78885/-pico-sumo-consejeros-infantiles-tras-la-realizacion-del-foro-extraordinario-de-participacion-juvenil",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78886/ziliotto-homenajeo-a-san-martin-con-un-fuerte-llamado-al-federalismo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78888/convocan-a-una-protesta-por-los-ninos-apartados-de-padres-o-madres-",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/78887/neuquen-fue-la-unica-provincia-que-registro-creacion-de-empresas-en-el-ultimo-ano",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/17/rancul-un-conductor-choco-contra-un-poste-y-una-columna-de-alumbrado/",
+    "title": "Rancul: Un conductor chocó contra un poste y una columna de alumbrado",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/17/solo-una-provincia-registro-creacion-de-empresas-en-el-ultimo-ano/",
+    "title": "Solo una provincia registró creación de empresas en el último año",
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/8/17/caza-furtiva-fuera-de-control-cayeron-otros-cazadores-ilegales-cerca-de-general-acha-ya-van-11-demorados-en-solo-una-semana-121722.html",
     "title": null,
     "attempts": 0
   }
