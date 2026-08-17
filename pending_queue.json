@@ -3,7 +3,7 @@
     "site": "Pampa Diario",
     "url": "https://www.pampadiario.com/single-post.php?id=81976",
     "title": "Lettieri explicó qué hacer si llega una fotomulta de otra provincia por error y alertó sobre las estafas con enlaces falsos",
-    "attempts": 9
+    "attempts": 10
   },
   {
     "site": "Pampa Diario",
@@ -15596,6 +15596,84 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/8/17/pelea-puntazo-en-la-espalda-en-castex-traslado-de-urgencia-pico-la-victima-se-nego-declarar-pero-la-justicia-actua-de-oficio-121723.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/17/el-instituto-superior-de-bellas-artes-suma-dos-nuevas-carreras-acompanante-terapeutico-y-energias-renovables/",
+    "title": "El Instituto Superior de Bellas Artes suma dos nuevas carreras: Acompañante Terapéutico y Energías Renovables",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/la-ucr-cierra-filas-detras-de-martin-berhongaray-202681712180",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/proponen-vincular-la-unlpam-con-universidades-de-taiwan-20268171210",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/ziliotto-no-hay-libertad-cuando-se-desconoce-a-las-provincias-202681712280",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/cianobacterias-hay-alerta-naranja-en-17-municipios-de-la-region-202681712370",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/clamor-pro-un-candidato-propio-hernan-lacunza-hace-bien-dice-el-jefe-amarillo-del-senado-n5425880",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/17/endeudados-organizados-marchan-al-ministerio-de-economia-el-gobierno-es-responsable/",
+    "title": "Endeudados organizados marchan al Ministerio de Economía: “el Gobierno es responsable”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/17/san-martin-entendio-que-la-libertad-del-pueblo-se-construye-con-unidad/",
+    "title": "“San Martín entendió que la libertad del pueblo se construye con unidad”",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/17/trapaglia-a-las-diputadas-rebeldes-que-se-quieren-pasar-a-lla-si-algunos-quieren-dar-un-portazo-que-lo-hagan/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/opinion/31243-un-nazareno-repta-al-cielo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/17/milei-apunto-contra-facundo-moyano-con-una-polemica-chicana-en-redes-121724.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/17/accidente-en-rancul-un-volkswagen-bora-termino-contra-un-poste-una-columna-de-alumbrado-121725.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/17/dos-mujeres-resultaron-heridas-tras-caer-de-una-motocicleta-en-ingeniero-luiggi-121726.html",
     "title": null,
     "attempts": 0
   }
