@@ -1,141 +1,9 @@
 [
   {
-    "site": "Pampa Diario",
-    "url": "https://www.pampadiario.com/single-post.php?id=81976",
-    "title": "Lettieri explicó qué hacer si llega una fotomulta de otra provincia por error y alertó sobre las estafas con enlaces falsos",
-    "attempts": 19
-  },
-  {
-    "site": "Pampa Diario",
-    "url": "https://www.pampadiario.com/single-post.php?id=82015",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Pampa Diario",
-    "url": "https://www.pampadiario.com/single-post.php?id=82030",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Pampa Diario",
-    "url": "https://www.pampadiario.com/single-post.php?id=82031",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Pampa Diario",
-    "url": "https://www.pampadiario.com/single-post.php?id=82032",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Pampa Diario",
-    "url": "https://www.pampadiario.com/single-post.php?id=82034",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Pampa Diario",
-    "url": "https://www.pampadiario.com/single-post.php?id=82035",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/08/04/condenan-a-10-anos-de-prision-a-un-hombre-por-abusar-de-la-hija-de-su-pareja/",
-    "title": "Condenan a 10 años de prisión a un hombre por abusar de la hija de su pareja",
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/08/04/el-superior-tribunal-de-justicia-rechazo-el-recurso-federal-de-un-diacono-condenado-por-abuso-sexual-en-general-pico/",
-    "title": "El Superior Tribunal de Justicia rechazó el recurso federal de un diácono condenado por abuso sexual en General Pico",
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/08/04/encontraron-sin-vida-a-la-mujer-buscada-en-general-pico-la-autopsia-determino-que-fallecio-por-asfixia-por-sumersion/",
-    "title": "Encontraron sin vida a la mujer buscada en General Pico: la autopsia determinó que falleció por asfixia por sumersión",
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/08/04/horoscopo-de-hoy-martes-4-de-agosto/",
-    "title": "Horóscopo de hoy, martes 4 de agosto",
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/08/04/la-pampa-corte-total-en-la-ruta-nacional-151-por-un-derrame-de-acido-clorhidrico-en-la-bajada-de-el-sauzal/",
-    "title": "Corte total en la Ruta Nacional 151 por un derrame de ácido clorhídrico en 25 de Mayo",
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/08/04/mas-de-80-pampeanos-inician-formacion-tech-ai-first-en-la-pampa/",
-    "title": "Más de 80 pampeanos inician formación tech AI-first en La Pampa",
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/08/04/miguel-osio-quieren-poner-que-las-droguerias-compitan-con-sus-propios-clientes-es-una-cosa-de-locos/",
-    "title": "Miguel Osio: «Quieren poner que las droguerías compitan con sus propios clientes, es una cosa de locos»",
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/08/04/reconstruccion-del-caso-romina-albornoz-la-cronologia-del-tragico-hecho-en-general-pico/",
-    "title": "Reconstrucción del caso Romina Albornoz: la cronología del trágico hecho en General Pico que quedó grabado en un video",
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/08/04/reto-del-dia-solo-el-3-desarrollo-esta-prueba-mental-en-7-segundos-7/",
-    "title": "Reto del día: solo el 3% desarrolló esta prueba mental en 7 segundos",
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/08/04/speluzzi-prepara-una-gran-feria-para-celebrar-el-dia-del-nino-con-musica-y-shows-en-vivo/",
-    "title": "Speluzzi prepara una gran feria para celebrar el Día del Niño con música y shows en vivo",
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/economia/la-batalla-naval-del-coloso-contra-quienes-cargo-federico-sturzenegger-y-paralizo-el-comercio-exterior-n5425530",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/el-plan-b-javier-milei-vuelve-el-loco-rabioso-n5425533",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/federico-sturzenegger-fue-contra-los-baqueanos-del-rio-y-el-mar-y-paralizo-el-comercio-exterior-n5425525",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/milei-asi-2027-como-2023-n5425526",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/politica/el-consejo-la-magistratura-cordoba-define-quien-sera-el-nuevo-juez-electoral-hay-dos-favoritos-n5425529",
-    "title": null,
-    "attempts": 0
-  },
-  {
     "site": "LetraP",
     "url": "https://www.letrap.com.ar/politica/javier-milei-dijo-que-fue-un-error-elegir-villarruel-como-vice-y-le-envio-un-gesto-acercamiento-macri-n5425536",
-    "title": null,
-    "attempts": 0
+    "title": "Javier Milei dijo que fue “un error” elegir a Villarruel como vice y le envió un gesto de acercamiento a Macri",
+    "attempts": 1
   },
   {
     "site": "LetraP",
@@ -16268,6 +16136,48 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/municipales/2026/8/16/mas-de-180-chicas-chicos-participaron-de-un-encuentro-de-mini-voley-121703.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/un-grave-choque-en-cadena-en-una-carrera-regional-dejo-dos-pilotos-heridos-202681720450",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78900/reconocieron-al-artista-pampeano-miguel-garcia-en-prestigioso-premio-federal-de-pintura",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78901/el-canto-colectivo-abre-sus-puertas-a-nuevas-infancias",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/78898/villarruel-volvio-a-diferenciarse-del-gobierno--estoy-preocupada-por-los-argentinos-que-no-llegan-a-fin-de-mes",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/78899/el-gobierno-nacional-inicia-las-reuniones-organizativas-por-la-visita-del-papa-leon-xiv-",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/17/san-rafael-volco-una-camioneta-en-una-zona-con-nieve-posible-hielo-121745.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/17/tragedia-en-mendoza-murio-un-arbitro-de-futbol-tras-un-choque-frontal-121744.html",
     "title": null,
     "attempts": 0
   }
