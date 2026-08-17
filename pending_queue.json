@@ -3,7 +3,7 @@
     "site": "Pampa Diario",
     "url": "https://www.pampadiario.com/single-post.php?id=81976",
     "title": "Lettieri explicó qué hacer si llega una fotomulta de otra provincia por error y alertó sobre las estafas con enlaces falsos",
-    "attempts": 12
+    "attempts": 13
   },
   {
     "site": "Pampa Diario",
@@ -15825,6 +15825,66 @@
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/8/17/necrologicas-general-pico-121728.html",
     "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/17/construcciones-antisismicas-e-investigacion-cientifica-las-claves-para-prevenir-tragedias-en-argentina/",
+    "title": "Construcciones antisísmicas e investigación científica: las claves para prevenir tragedias en Argentina",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/milei-encabezo-el-acto-en-homenaje-a-san-martin-202681716150",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/catrilo-vivio-una-jornada-especial-por-el-dia-del-nino-20268171600",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/rancul-perdio-el-control-del-auto-y-choco-contra-dos-columnas-20268171570",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/milei-volvio-monocorde-y-novedades-batalla-cultural-y-abrazo-jorge-macri-plena-rosca-el-pro-n5425884",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78889/pro-la-pampa--ardohain-invito-al-sector-de-maquieyra-a-irse-a-lla",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78890/estrellas-amarillas-reclamo-mas-controles-en-las-rutas",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78891/avanza-la-segunda-etapa-del-parque-lineal-con-nuevos-juegos-y-un-sector-gastronomico",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/78892/milei-homenajeo-a-san-martin--tenemos-la-libertad-como-mandato-y-seguir-el-camino-de-nuestro-padre-fundador",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/17/juegos-deporte-y-gastronomia-asi-crece-el-parque-lineal-de-santa-rosa/",
+    "title": "Juegos, deporte y gastronomía: así crece el Parque Lineal de Santa Rosa",
     "attempts": 0
   }
 ]
