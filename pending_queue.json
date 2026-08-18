@@ -3,7 +3,7 @@
     "site": "Info Pico",
     "url": "https://www.infopico.com/2026/08/06/un-error-en-las-fechas-de-la-fiscalia-derivo-en-la-absolucion-de-un-acusado-de-abuso/",
     "title": "Un error en las fechas de la fiscalía derivó en la absolución de un acusado de abuso",
-    "attempts": 11
+    "attempts": 12
   },
   {
     "site": "Plan B Noticias",
@@ -15086,6 +15086,24 @@
   {
     "site": "La Arena",
     "url": "https://www.laarena.com.ar/la-region/un-arbitro-y-dos-hermanas-murieron-en-un-terrible-choque-frontal-202681814390",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/18/apicultura-la-pampa-participo-de-un-encuentro-nacional-para-trazar-el-futuro-del-sector/",
+    "title": "Apicultura: La Pampa participó de un encuentro nacional para trazar el futuro del sector",
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/ciudad/toto-caputo-blindado-las-recorridas-la-libertad-avanza-la-ciudad-arrancaron-puertas-cerradas-n5425896",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/quienes-tienen-los-dolares-la-reeleccion-javier-milei-n5425900",
     "title": null,
     "attempts": 0
   }
