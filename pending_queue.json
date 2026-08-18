@@ -3,7 +3,7 @@
     "site": "LetraP",
     "url": "https://www.letrap.com.ar/politica/javier-milei-dijo-que-fue-un-error-elegir-villarruel-como-vice-y-le-envio-un-gesto-acercamiento-macri-n5425536",
     "title": "Javier Milei dijo que fue “un error” elegir a Villarruel como vice y le envió un gesto de acercamiento a Macri",
-    "attempts": 17
+    "attempts": 18
   },
   {
     "site": "LetraP",
@@ -16443,6 +16443,36 @@
     "site": "Plan B Noticias",
     "url": "https://www.planbnoticias.com.ar/index.php/2026/08/18/este-martes-jornada-artistica-de-reflexion-sobre-la-figura-de-san-martin/",
     "title": "Este martes,  jornada artística de reflexión sobre la figura de San Martín.",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/18/el-deporte-como-motor-economico-lo-que-mueve-en-la-pampa-es-gigantesco/",
+    "title": "El deporte como motor económico: «Lo que mueve en La Pampa es gigantesco»",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/despues-de-34-dias-por-fin-reabre-el-paso-cristo-redentor-2026818820",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/78918/boca-busca-la-clasificacion-en-paraguay",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/78919/estudiantes-se-juega-su-futuro-ante-universidad-catolica-en-chile",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31248-nueva-semana-de-paro-de-la-comunidad-universitaria",
+    "title": null,
     "attempts": 0
   }
 ]
