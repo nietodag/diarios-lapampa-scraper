@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78405/adu-advirtio-por-un-exodo-de-docentes-de-la-unlpam-hacia-el-nivel-secundario",
     "title": "ADU advirti&oacute; por un \"&eacute;xodo\" de docentes de la UNLPam hacia el nivel secundario",
-    "attempts": 3
+    "attempts": 4
   },
   {
     "site": "El Diario de La Pampa",
@@ -15008,6 +15008,54 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/municipales/2026/8/18/corpico-la-comunitaria-organizan-un-gran-festejo-para-los-mas-chicos-con-shows-juegos-para-toda-la-familia-121780.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82260",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/18/el-consejo-provincial-del-pj-se-reunio-en-la-pampa-informe-nacional-de-ziliotto-y-normalizacion-de-la-juventud/",
+    "title": "El PJ de La Pampa proyecta su futuro: cumbre liderada por Ziliotto, análisis nacional y masiva campaña de afiliación juvenil",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/bajara-la-provision-del-agua-durante-tres-dias-por-obras-en-el-acueducto-del-colorado-202681819350",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/se-reunio-consejo-provincial-del-pj-avanza-normalizacion-de-la-juventud-peronista-202681819430",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/opinion/ecuador-la-democracia-persecucion-n5425912",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/18/el-acueducto-saldra-de-servicio-por-obras-y-habra-una-merma-temporal-en-el-suministro/",
+    "title": "El Acueducto saldrá de servicio por obras y habrá una merma temporal en el suministro",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/18/lo-que-faltaba-milei-elimino-el-dia-del-respeto-a-la-diversidad-cultural/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/18/consejo-del-pj-ziliotto-informo-sobre-el-escenario-nacional-definieron-normalizar-la-juventud-peronista-121786.html",
     "title": null,
     "attempts": 0
   }
