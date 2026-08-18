@@ -3,7 +3,7 @@
     "site": "Info Pico",
     "url": "https://www.infopico.com/2026/08/06/un-error-en-las-fechas-de-la-fiscalia-derivo-en-la-absolucion-de-un-acusado-de-abuso/",
     "title": "Un error en las fechas de la fiscalía derivó en la absolución de un acusado de abuso",
-    "attempts": 10
+    "attempts": 11
   },
   {
     "site": "Plan B Noticias",
@@ -15074,6 +15074,18 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/opinion/2026/8/18/leonardo-videla-cta-a-pico-puede-molestar-que-sea-joven-pero-la-idea-es-dar-oportunidad-los-jovenes-sobre-la-acusacion-de-campos-no-estoy-al-tanto-de-eso-video-121769.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/upcn-inaugura-una-muestra-fotografica-sobre-su-historia-gremial-202681814360",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/un-arbitro-y-dos-hermanas-murieron-en-un-terrible-choque-frontal-202681814390",
     "title": null,
     "attempts": 0
   }
