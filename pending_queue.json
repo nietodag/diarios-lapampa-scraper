@@ -3,7 +3,7 @@
     "site": "Info Pico",
     "url": "https://www.infopico.com/2026/08/06/un-error-en-las-fechas-de-la-fiscalia-derivo-en-la-absolucion-de-un-acusado-de-abuso/",
     "title": "Un error en las fechas de la fiscalía derivó en la absolución de un acusado de abuso",
-    "attempts": 2
+    "attempts": 3
   },
   {
     "site": "Plan B Noticias",
@@ -14648,6 +14648,108 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/18/orgullo-dos-escuelas-pampeanas-disputaran-la-final-nacional-de-la-copa-robotica-121759.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/18/gestion-del-rio-v-la-pampa-propondra-a-buenos-aires-obras-coordinadas-para-prevenir-inundaciones/",
+    "title": "Gestión del Río V: La Pampa propondrá a Buenos Aires obras coordinadas para prevenir inundaciones",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/el-dt-de-la-seleccion-de-egipto-se-desmayo-en-medio-de-la-pelea-entre-sus-dos-esposas-202681810180",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/universidades-publicas-inicia-semana-de-paro-20268180140",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/sorpresa-total-encontraron-un-aguara-guazu-corriendo-por-las-calles-20268181060",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/entre-rios-juntos-define-su-juego-gualeguay-la-reeleccion-bogdan-y-el-regreso-berisso-n5425680",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/rosario-el-titular-la-procunar-encabeza-una-terna-pesada-la-jefatura-fiscales-federales-n5425889",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78929/la-pampa-acumulo-la-perdida-de-417-empresas-en-los-ultimos-dos-anos-y-medio",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78930/paro-universitario--la-unlpam-afronta-una-semana-de-protesta-docente",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/78928/detuvieron-a-fernando-cerimedo-en-bolivia--investigan-un-atentado-contra-una-mujer",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/18/continua-el-xxiv-coral-de-la-pampa-con-cuatro-presentaciones-para-el-fin-de-semana/",
+    "title": "Continúa el XXIV Coral de La Pampa con cuatro presentaciones para el fin de semana",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/18/realizaron-protesta-por-la-ninez-y-contra-falsas-denuncias/",
+    "title": "Realizaron protesta por la Niñez y contra falsas denuncias",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/18/boca-visita-a-recoleta-con-el-objetivo-de-clasificar-a-cuartos-de-final-de-la-sudamericana/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31251-lo-colectivo-es-lo-que-tarde-o-temprano-genera-resistencia",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31252-el-presidente-de-la-cpe-aseguro-que-usuarios-que-se-fueron-estan-volviendo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31253-el-gobierno-metio-a-la-argentina-en-una-red-global-antiderechos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/deportes/2026/8/18/san-martin-fue-escenario-de-un-gran-torneo-relampago-de-futbol-femenino-121752.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/18/detuvieron-fernando-cerimedo-en-bolivia-tras-un-ataque-de-sicarios-contra-su-expareja-121762.html",
     "title": null,
     "attempts": 0
   }
