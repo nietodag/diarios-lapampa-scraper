@@ -3,7 +3,7 @@
     "site": "LetraP",
     "url": "https://www.letrap.com.ar/politica/javier-milei-dijo-que-fue-un-error-elegir-villarruel-como-vice-y-le-envio-un-gesto-acercamiento-macri-n5425536",
     "title": "Javier Milei dijo que fue “un error” elegir a Villarruel como vice y le envió un gesto de acercamiento a Macri",
-    "attempts": 15
+    "attempts": 16
   },
   {
     "site": "LetraP",
@@ -16364,6 +16364,30 @@
   {
     "site": "Diario Textual",
     "url": "https://diariotextual.com/inicio/index.php/2026/08/18/karina-milei-encabezara-este-martes-la-primera-reunion-organizativa-para-la-visita-del-papa-leon-xiv/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/18/fallo-judicial-obliga-a-pedidos-ya-a-reconocer-los-derechos-laborales-de-los-repartidores/",
+    "title": "Fallo judicial obliga a Pedidos Ya a reconocer los derechos laborales de los repartidores",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/18/la-inflacion-acumulada-de-milei-seria-15-puntos-mayor-a-la-publicada-por-el-indec/",
+    "title": "La inflación acumulada de Milei sería 15 puntos mayor a la publicada por el INDEC",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/18/ravier-estuvo-en-el-acto-en-homenaje-a-san-martin/",
+    "title": "Ravier estuvo en el acto en homenaje a San Martín",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/18/la-fia-fijo-limites-a-los-sumarios-por-bienes-perdidos-investigaron-la-desaparicion-de-un-par-de-guantes/",
     "title": null,
     "attempts": 0
   }
