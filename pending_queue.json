@@ -3,7 +3,7 @@
     "site": "LetraP",
     "url": "https://www.letrap.com.ar/politica/javier-milei-dijo-que-fue-un-error-elegir-villarruel-como-vice-y-le-envio-un-gesto-acercamiento-macri-n5425536",
     "title": "Javier Milei dijo que fue “un error” elegir a Villarruel como vice y le envió un gesto de acercamiento a Macri",
-    "attempts": 18
+    "attempts": 19
   },
   {
     "site": "LetraP",
@@ -16472,6 +16472,66 @@
   {
     "site": "Radio Kermes",
     "url": "https://www.radiokermes.com/noticias/31248-nueva-semana-de-paro-de-la-comunidad-universitaria",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82249",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/convocan-a-una-movilizacion-por-la-suba-del-endeudamiento-casi-la-mitad-del-pais-20268188250",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/esa-historia-necesita-ser-verificada-20268180140",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/fuerte-choque-en-rancul-20268180140",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/las-cooperativas-electricas-de-cordoba-estan-en-alerta-20268180140",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/alerta-y-respuesta-anticipada-asi-se-prepara-la-argentina-para-el-nino-20268188320",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/campo/78920/raices-para-recibir-a-el-nino",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78921/avance-genetico-permitira-devolver-a-los-caldenales-a-los-cardenales-amarillos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/18/conoce-los-cortes-de-transito-por-obras-previstos-para-esta-semana/",
+    "title": "Conocé los cortes de tránsito por obras previstos para esta semana",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/18/construir-una-casa-de-100-metros-cuadrados-en-la-pampa-puede-costar-hasta-277-millones/",
     "title": null,
     "attempts": 0
   }
