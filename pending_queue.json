@@ -3,7 +3,7 @@
     "site": "Info Pico",
     "url": "https://www.infopico.com/2026/08/06/un-error-en-las-fechas-de-la-fiscalia-derivo-en-la-absolucion-de-un-acusado-de-abuso/",
     "title": "Un error en las fechas de la fiscalía derivó en la absolución de un acusado de abuso",
-    "attempts": 4
+    "attempts": 5
   },
   {
     "site": "Plan B Noticias",
@@ -14804,6 +14804,54 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/18/reclaman-por-la-falta-de-fondos-para-el-mantenimiento-de-las-rutas-nacionales-en-la-pampa-121765.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/18/granada-en-alerta-un-nuevo-sismo-de-4-7-y-una-serie-de-replicas-dejan-tres-heridos-y-danos-materiales/",
+    "title": "Granada en alerta: un nuevo sismo de 4.7 y una serie de réplicas dejan tres heridos y daños materiales",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/fundador-de-la-derecha-diario-detuvieron-a-un-asesor-de-milei-tras-un-ataque-de-sicarios-contra-su-expareja-202681811340",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/18/barrio-congreso-creyeron-que-se-los-habian-robado-pero-los-llevaron-para-mejorar-el-parque/",
+    "title": "Barrio Congreso: Creyeron que se los habían robado, pero los llevaron para mejorar el parque",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/18/detienen-a-exasesor-de-milei-sospechado-de-planificar-ataque-a-balazos-a-su-expareja/",
+    "title": "Detienen a exasesor de Milei sospechado de planificar ataque a balazos a su expareja",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/18/el-miercoles-y-el-viernes-cortes-programados-en-barrios-del-sureste/",
+    "title": "El miércoles y el viernes, cortes programados en barrios del Sureste",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/18/este-miercoles-corte-programado-en-zonas-lindantes-al-cementerio-parque/",
+    "title": "Este miércoles, corte programado en zonas lindantes al cementerio Parque",
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31255-lucy-patane-y-paula-maffia-llegan-a-santa-rosa-con-lesbian-drama",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/18/un-ex-puma-cerro-su-fabrica-lanzo-una-fuerte-advertencia-piensen-quien-votan-mira-121766.html",
     "title": null,
     "attempts": 0
   }
