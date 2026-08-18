@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78405/adu-advirtio-por-un-exodo-de-docentes-de-la-unlpam-hacia-el-nivel-secundario",
     "title": "ADU advirti&oacute; por un \"&eacute;xodo\" de docentes de la UNLPam hacia el nivel secundario",
-    "attempts": 2
+    "attempts": 3
   },
   {
     "site": "El Diario de La Pampa",
@@ -14942,6 +14942,72 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/18/el-78-de-los-hogares-argentinos-son-clase-baja-121778.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82259",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/historico-desplome-del-consumo-de-carne-cayo-12-en-julio-202681818200",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/tiene-sindrome-de-down-y-salio-subcampeon-del-mundo-en-judo-202681819360",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/axel-kicillof-federal-el-gobernador-lleva-su-proyecto-presidencial-chaco-n5425905",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/oceba-la-mira-el-apagon-la-plata-n5425906",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/rolando-figueroa-le-lleva-santilli-el-reclamo-zonas-frias-medio-del-lobby-gobernadores-del-norte-n5425910",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78965/cortaran-el-acueducto-del-rio-colorado-por-tres-dias-para-conectar-nuevas-obras",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/18/acueducto-del-colorado-disminuira-provision-de-agua-por-puesta-en-marcha-de-nueva-estacion-de-bombeo/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/18/paula-rivero-presenta-una-muestra-retrospectiva-en-santa-rosa/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/18/protesta-contra-mercado-libre-en-rechazo-a-las-altas-tasas-de-interes/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/municipales/2026/8/18/corpico-la-comunitaria-organizan-un-gran-festejo-para-los-mas-chicos-con-shows-juegos-para-toda-la-familia-121780.html",
     "title": null,
     "attempts": 0
   }
