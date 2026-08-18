@@ -3,7 +3,7 @@
     "site": "Info Pico",
     "url": "https://www.infopico.com/2026/08/06/un-error-en-las-fechas-de-la-fiscalia-derivo-en-la-absolucion-de-un-acusado-de-abuso/",
     "title": "Un error en las fechas de la fiscalía derivó en la absolución de un acusado de abuso",
-    "attempts": 13
+    "attempts": 14
   },
   {
     "site": "Plan B Noticias",
@@ -15158,6 +15158,54 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/18/miel-pampeana-consolida-su-llegada-neuquen-traves-del-centro-de-negocios-de-la-pampa-121772.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/el-dolar-mayorista-registro-su-mayor-suba-en-dos-semanas-202681816260",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/la-inflacion-mayorista-fue-de-0-8-en-julio-y-acumulo-31-1-en-12-meses-202681816320",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78944/clinicas-y-sanatorios-de-la-pampa-no-atenderan-a-afiliados-del-pami-por-24-horas-",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/78941/la-bandera-argentina-volvio-a-flamear-en-las-islas-malvinas-tras-44-anos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/78942/denunciaron-a-alberto-fernandez-y-fabiola-yanez-por-celebrar-una-fiesta-en-el-tango-01",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/78943/la-inflacion-mayorista-en-julio-fue-de-08-en-porciento--y-acumulo-311-en-porciento--en-los-ultimos-12-meses",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/18/ravier-y-el-desvio-de-fondos-de-los-impuestos-a-las-naftas-no-hay-delito/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/18/chocan-dos-motos-en-5-el-sem-asiste-una-de-las-conductoras-video-121773.html",
     "title": null,
     "attempts": 0
   }
