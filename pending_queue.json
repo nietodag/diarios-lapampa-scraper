@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78456/comenzo-la-decima-edicion-del-festival-nacional-de-cine",
     "title": "Comenz&oacute; la d&eacute;cima edici&oacute;n&nbsp;del Festival Nacional de Cine",
-    "attempts": 15
+    "attempts": 16
   },
   {
     "site": "El Diario de La Pampa",
@@ -14799,6 +14799,12 @@
     "site": "Plan B Noticias",
     "url": "https://www.planbnoticias.com.ar/index.php/2026/08/19/ruidazo-de-no-docentes-estamos-ahogados/",
     "title": "Ruidazo de no docentes: “estamos ahogados”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/19/la-iglesia-catolica-de-la-pampa-hace-una-colecta-por-la-visita-del-papa-leon-xiv-a-la-argentina/",
+    "title": "La Iglesia Católica de La Pampa hace una colecta por la visita del Papa León XIV a la Argentina",
     "attempts": 0
   }
 ]
