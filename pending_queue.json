@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78456/comenzo-la-decima-edicion-del-festival-nacional-de-cine",
     "title": "Comenz&oacute; la d&eacute;cima edici&oacute;n&nbsp;del Festival Nacional de Cine",
-    "attempts": 9
+    "attempts": 10
   },
   {
     "site": "El Diario de La Pampa",
@@ -14540,6 +14540,36 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/8/19/menu-del-dia-en-nova-pizza-hoy-bifes-la-criolla-con-guarnicion-mira-121815.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/dos-detenidos-en-toay-por-robos-y-violacion-de-domicilio-202681911470",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/la-pampa-farmea-aura-organizaron-en-la-provincia-las-primeras-batallas-que-ya-son-tendencia-202681912140",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/cuales-son-las-boyas-que-vencen-a-las-cianobacterias-202681911560",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79000/dos-detenidos-en-toay-tras-un-raid-de-robos-y-fugas--",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79001/entregan-especies-nativas-por-el-dia-del-arbol",
     "title": null,
     "attempts": 0
   }
