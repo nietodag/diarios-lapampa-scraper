@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78405/adu-advirtio-por-un-exodo-de-docentes-de-la-unlpam-hacia-el-nivel-secundario",
     "title": "ADU advirti&oacute; por un \"&eacute;xodo\" de docentes de la UNLPam hacia el nivel secundario",
-    "attempts": 9
+    "attempts": 10
   },
   {
     "site": "El Diario de La Pampa",
@@ -15213,6 +15213,60 @@
     "site": "Plan B Noticias",
     "url": "https://www.planbnoticias.com.ar/index.php/2026/08/18/boca-goleo-a-recoleta-y-se-metio-en-los-cuartos-de-final-de-la-copa-sudamericana/",
     "title": "Boca goleó a Recoleta y se metió en los cuartos de final de la Copa Sudamericana",
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/78977/independiente-rivadavia-afuera",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/78978/estudiantes-esta-en-cuartos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/78979/presentaron-los-juegos-de-la-araucania",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/78980/guidi-gano-la-fecha-de-adultos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/linea-abierta/78971/mensajes-19-8-2026",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/18/tragedia-en-ruta-8-cuatro-personas-murieron-tras-choque-frontal-entre-un-camion-una-camioneta-121783.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/19/el-reclamo-de-la-familia-del-adolescente-de-16-anos-asesinado-por-un-comerciante-en-mar-del-plata-no-conocen-su-historia-121794.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/18/alerta-comercial-en-la-pampa-el-786-de-los-comercios-registro-caidas-en-sus-ventas-por-el-dia-del-nino-121781.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/salud/2026/8/18/sempre-actualizo-los-valores-de-medicamentos-121792.html",
+    "title": null,
     "attempts": 0
   }
 ]
