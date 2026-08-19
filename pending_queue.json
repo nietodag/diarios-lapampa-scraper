@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78456/comenzo-la-decima-edicion-del-festival-nacional-de-cine",
     "title": "Comenz&oacute; la d&eacute;cima edici&oacute;n&nbsp;del Festival Nacional de Cine",
-    "attempts": 5
+    "attempts": 6
   },
   {
     "site": "El Diario de La Pampa",
@@ -14120,6 +14120,150 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/espectaculos/2026/8/19/murio-jose-luis-pucho-ponce-historico-bajista-de-los-tekis-121798.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/19/horoscopo-de-hoy-miercoles-19-de-agosto/",
+    "title": "Horóscopo de hoy, miércoles 19 de agosto",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/19/obras-en-el-acueducto-del-rio-colorado-cortaran-el-suministro-durante-tres-dias-y-piden-un-uso-racional-del-agua/",
+    "title": "Obras en el Acueducto del Río Colorado: cortarán el suministro durante tres días y piden un uso racional del agua",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/river-se-enfrenta-a-independiente-santa-fe-hora-tv-y-detalles-20268198250",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/casi-4-de-10-chicos-del-pais-no-puede-comprar-ropa-ni-calzado-20268199220",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/tras-el-cuarto-intermedio-el-gobierno-y-los-gremios-se-reunen-en-una-nueva-negociacion-paritaria-20268199120",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/nueva-marcha-contra-envenenamientos-de-perros-seis-casos-en-15-dias-20268198550",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/nuevos-radares-la-ruta-2-suma-cuatro-radares-en-tramos-clave-20268199320",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/opinion/dos-grandes-que-atravesaron-montanas-20268198580",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/ni-javier-milei-ni-el-peronismo-la-indiferencia-al-poder-n5425917",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/reforma-electoral-santa-fe-contrarreloj-negocian-como-elegiran-estatuyentes-las-ciudades-autonomas-n5425909",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/rio-negro-marcos-castro-reacomoda-su-gabinete-viedma-la-idea-fija-la-reeleccion-n5425914",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78994/el-786-en-porciento--de-los-comercios-pampeanos-registro-caidas-de-ventas-por-el-dia-de-las-infancias",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78995/la-convencion-de-la-ucr-se-hace-el-5-de-setiembre-para-definir-la-politica-de-alianzas",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/19/inscriben-para-cubrir-espacio-curricular-en-isfd-general-acha/",
+    "title": "Inscriben para cubrir espacio curricular en ISFD General Acha",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/19/familias-que-no-pueden-sostener-un-alquiler-y-se-van-a-vivir-con-familiares-ahora-se-ve-la-emergencia/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31257-el-peronismo-encara-una-campana-de-afiliacion-juvenil",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31258-mas-de-20-mil-personas-esperan-una-solucion-habitacional-en-la-pampa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31259-el-ipav-denuncio-una-perdida-anualizada-de-3-200-millones-para-vivienda",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31261-interna-peronista-no-se-trata-de-personas-se-trata-de-un-proyecto",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/deportes/2026/8/19/impresionante-accidente-multiple-en-la-formula-uno-de-acas-dos-pilotos-hospitalizados-video-121803.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/19/marcelo-martinez-2do-jefe-de-bomberos-les-pedimos-que-nos-sigan-acompanando-como-hasta-ahora--video-121796.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/19/aparecio-sana-salva-la-nena-de-anos-buscada-en-san-luis-estaba-dormida-en-un-descampado-metros-de-su-casa-video-121800.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/19/una-mujer-fue-detenida-luego-de-que-le-encontraran-71-bolsas-de-cocaina-su-hijo-en-el-jardin-121801.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/19/durante-la-puesta-en-marcha-de-las-nuevas-obras-del-acueducto-mermara-la-provision-de-agua-121789.html",
     "title": null,
     "attempts": 0
   }
