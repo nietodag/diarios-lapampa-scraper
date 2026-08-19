@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78405/adu-advirtio-por-un-exodo-de-docentes-de-la-unlpam-hacia-el-nivel-secundario",
     "title": "ADU advirti&oacute; por un \"&eacute;xodo\" de docentes de la UNLPam hacia el nivel secundario",
-    "attempts": 7
+    "attempts": 8
   },
   {
     "site": "El Diario de La Pampa",
@@ -15140,6 +15140,48 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/18/el-riesgo-pais-volvio-los-500-puntos-las-acciones-argentinas-en-wall-street-cayeron-hasta-6-121779.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/18/activaron-el-alerta-sofia-para-encontrar-a-la-nina-nancy-aitana-isabella-ibarra/",
+    "title": "Activaron el Alerta Sofía para encontrar a la niña Nancy Aitana Isabella Ibarra",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/18/guatrache-la-escuela-no-113-celebro-sus-100-anos-de-historia-con-un-emotivo-acto/",
+    "title": "Guatraché: la Escuela Nº 113 celebró sus 100 años de historia con un emotivo acto",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/intendente-pampeano-denuncio-en-diputados-el-deterioro-de-la-ruta-nacional-151-202681821290",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/habilitaron-el-cristo-redentor-pero-particulares-y-micros-todavia-no-pueden-pasar-202681821420",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/congreso/hugo-passalacqua-intervino-los-bloques-legislativos-y-sondea-un-frente-del-norte-presionar-milei-n5425913",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/economia/toto-caputo-les-prometio-gobernadores-del-norte-subsidios-la-luz-destrabar-el-ajuste-zonas-frias-n5425911",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/78969/el-gobierno-comenzo-a-organizar-con-la-iglesia-la-visita-del-papa-leon-xiv-a-la-argentina",
     "title": null,
     "attempts": 0
   }
