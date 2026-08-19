@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78456/comenzo-la-decima-edicion-del-festival-nacional-de-cine",
     "title": "Comenz&oacute; la d&eacute;cima edici&oacute;n&nbsp;del Festival Nacional de Cine",
-    "attempts": 2
+    "attempts": 3
   },
   {
     "site": "El Diario de La Pampa",
@@ -13976,6 +13976,36 @@
   {
     "site": "Diario Textual",
     "url": "https://diariotextual.com/inicio/index.php/2026/08/19/el-impactante-dato-de-la-realidad-economica-casi-cuatro-de-cada-diez-chicos-no-pueden-comprarse-ropa/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78984/la-escuela-n-113-de-guatrache-festejo-su-centenario",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78985/cierra-la-inscripcion-para-la-ronda-de-negocios",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/19/culpable-de-ser-un-hombre-comun-que-tomo-una-valiente-decision/",
+    "title": "Culpable de ser un hombre común que tomó una valiente decisión",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/19/otra-vez-pami-cortan-el-servicio-en-la-pampa-y-el-resto-de-la-patagonia/",
+    "title": "Otra vez PAMI: cortan el servicio en La Pampa y el resto de la Patagonia",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/19/estatales-se-reunieron-las-paritarias-y-el-gobierno-pidio-una-semana-para-hacer-una-oferta/",
     "title": null,
     "attempts": 0
   }
