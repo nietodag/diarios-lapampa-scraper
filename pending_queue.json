@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78405/adu-advirtio-por-un-exodo-de-docentes-de-la-unlpam-hacia-el-nivel-secundario",
     "title": "ADU advirti&oacute; por un \"&eacute;xodo\" de docentes de la UNLPam hacia el nivel secundario",
-    "attempts": 18
+    "attempts": 19
   },
   {
     "site": "El Diario de La Pampa",
@@ -15272,6 +15272,18 @@
   {
     "site": "LetraP",
     "url": "https://www.letrap.com.ar/objetivo-2027-la-indiferencia-al-asalto-n5425895",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/19/en-medio-de-la-quietud-de-la-gestion-el-anticipado-escenario-electoral-copa-la-agenda-del-gobierno-nacional/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/19/ravier-hace-agua-como-vocero-y-hasta-milei-admite-que-esta-decepcionado-por-su-trabajo/",
     "title": null,
     "attempts": 0
   }
