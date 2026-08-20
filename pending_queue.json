@@ -3,7 +3,7 @@
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/espectaculos/2026/8/8/matias-condito-terrorifico-films-el-festival-de-cine-de-pico-tiene-una-identidad-propia-te-hace-vivir-una-experiencia-unica-hay-peliculas-de-terror-que-te-cuentan-mucho-mas-de-lo-que-ves-video-121382.html",
     "title": "Matías Condito, Terrorífico Films: “El Festival de Cine de Pico tiene una identidad propia y te hace vivir una experiencia única... Hay películas de terror que te cuentan mucho más de lo que ves\"-Video",
-    "attempts": 7
+    "attempts": 8
   },
   {
     "site": "En Boca de Todos HD",
@@ -15302,6 +15302,30 @@
   {
     "site": "Radio Kermes",
     "url": "https://www.radiokermes.com/noticias/31276-el-agro-crece-pero-con-mas-concentracion-y-trabajo-precarizado",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/20/noelia-viara-nos-quieren-echar-por-no-avalar-conductas-que-ellos-quieren-imponer/",
+    "title": "Noelia Viara: «Nos quieren echar por no avalar conductas que ellos quieren imponer»",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/alerta-meteorologica-por-lluvias-intensas-y-vientos-severos-20268207550",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/20/en-el-gobierno-admiten-que-un-triunfo-de-flavio-bolsonaro-en-brasil-podria-eclipsar-la-figura-de-milei/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31277-marcha-contra-milei-por-el-endeudamiento-familiar",
     "title": null,
     "attempts": 0
   }
