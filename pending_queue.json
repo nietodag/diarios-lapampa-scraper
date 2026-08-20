@@ -3,7 +3,7 @@
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/espectaculos/2026/8/8/matias-condito-terrorifico-films-el-festival-de-cine-de-pico-tiene-una-identidad-propia-te-hace-vivir-una-experiencia-unica-hay-peliculas-de-terror-que-te-cuentan-mucho-mas-de-lo-que-ves-video-121382.html",
     "title": "Matías Condito, Terrorífico Films: “El Festival de Cine de Pico tiene una identidad propia y te hace vivir una experiencia única... Hay películas de terror que te cuentan mucho más de lo que ves\"-Video",
-    "attempts": 5
+    "attempts": 6
   },
   {
     "site": "En Boca de Todos HD",
@@ -15195,6 +15195,48 @@
     "site": "Pampa Diario",
     "url": "https://www.pampadiario.com/single-post.php?id=82273",
     "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82272",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/19/ziliotto-designo-al-nuevo-representante-docente-en-el-iss/",
+    "title": "Ziliotto designó al nuevo representante docente en el ISS",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/20/la-cgt-junto-con-las-dos-cta-y-movimientos-sociales-marchan-contra-el-endeudamiento-familiar/",
+    "title": "La CGT junto con las dos CTA y movimientos sociales marchan contra el endeudamiento familiar",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/20/noche-de-jazz-vinos-en-pico-una-propuesta-para-disfrutar-de-la-musica-y-momentos-unicos/",
+    "title": "Noche de Jazz & Vinos en Pico: una propuesta para disfrutar de la música y momentos únicos",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/20/paula-rivero-se-presenta-en-el-ciclo-retrospectivo-del-cmc/",
+    "title": "Paula Rivero se presenta en el “Ciclo Retrospectivo” del CMC",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/20/se-reactiva-la-mesa-dante-gebel-presidente/",
+    "title": "Se reactiva la mesa “Dante Gebel Presidente”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/20/upcn-renueva-su-representacion-provincial-de-base-tenemos-un-gobierno-nacional-que-va-contra-los-sindicatos/",
+    "title": "UPCN renueva su representación provincial de base: “Tenemos un gobierno nacional que va contra los sindicatos”",
     "attempts": 0
   }
 ]
