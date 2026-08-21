@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/espectaculos/78607/tini-stoessel-confirmo-su-casamiento-con-rodrigo-de-paul",
     "title": "Tini Stoessel confirm&oacute; su casamiento con Rodrigo de Paul",
-    "attempts": 4
+    "attempts": 5
   },
   {
     "site": "El Diario de La Pampa",
@@ -12710,6 +12710,18 @@
   {
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/deportes/79105/central-se-despidio-de-la-libertadores",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/79106/el-duro-camino-para-llegar-al-federal-a",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/79107/tirante-no-pudo-hacer-nada",
     "title": null,
     "attempts": 0
   }
