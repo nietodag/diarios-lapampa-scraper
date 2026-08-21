@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/espectaculos/78607/tini-stoessel-confirmo-su-casamiento-con-rodrigo-de-paul",
     "title": "Tini Stoessel confirm&oacute; su casamiento con Rodrigo de Paul",
-    "attempts": 12
+    "attempts": 13
   },
   {
     "site": "El Diario de La Pampa",
@@ -12728,6 +12728,24 @@
   {
     "site": "LetraP",
     "url": "https://www.letrap.com.ar/milei-acelera-un-horizonte-incierto-n5425964",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/21/el-algoritmo-de-yrigoyen/",
+    "title": "El algoritmo de Yrigoyen",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/21/hugo-cachorro-godoy-fue-reelecto-al-frente-de-la-conduccion-nacional-de-la-cta-autonoma-con-el-93-de-los-votos/",
+    "title": "Hugo “Cachorro” Godoy fue reelecto al frente de la conducción nacional de la CTA Autónoma con el 93% de los votos",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/21/papelon-de-ravier-anuncio-una-obra-en-pico-que-ziliotto-negocio-y-logro-reactivar-con-nacion/",
     "title": null,
     "attempts": 0
   }
