@@ -3,7 +3,7 @@
     "site": "Pampa Diario",
     "url": "https://www.pampadiario.com/single-post.php?id=82196",
     "title": "De la ilusión millonaria al baldazo de agua fría: el error de Dafas que revolucionó Pico",
-    "attempts": 3
+    "attempts": 4
   },
   {
     "site": "Info Pico",
@@ -10119,6 +10119,12 @@
     "site": "Plan B Noticias",
     "url": "https://www.planbnoticias.com.ar/index.php/2026/08/22/santa-rosa-amanecio-bajo-cero-como-seguira-el-clima/",
     "title": "Santa Rosa amaneció bajo cero: ¿Cómo seguirá el clima?",
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79161/dos-menores-detenidos-con-marihuana-en-zona-norte",
+    "title": null,
     "attempts": 0
   }
 ]
