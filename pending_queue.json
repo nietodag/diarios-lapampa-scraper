@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/pais/78715/causa-cuadernos--un-testigo-apunto-contra-jaime-y-hablo-del-dinero-que-le-daba-a-kirchner",
     "title": "Causa Cuadernos: un testigo apunt&oacute; contra Jaime y habl&oacute; del dinero que le daba a Kirchner",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "site": "El Diario de La Pampa",
@@ -10376,6 +10376,36 @@
   {
     "site": "Radio Kermes",
     "url": "https://www.radiokermes.com/noticias/31297-toay-recibe-la-segunda-fecha-de-la-liga-provincial-de-boccia",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/21/domingo-23-de-0100-a-0800-horas-por-mantenimiento-no-se-podra-usar-la-tarjeta-de-debito-y-otros-servicios-del-banco-de-la-pampa/",
+    "title": "Domingo 23 por la madrugada: por mantenimiento no se podrá usar la tarjeta de débito y otros servicios del Banco de La pampa",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/aplicaron-multa-de-casi-20-millones-a-comerciante-que-tenia-mas-de-1-500-productos-vencidos-202682121200",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79149/debera-pagarle-a-su-expareja-por-el-desequilibrio-economico-tras-la-ruptura",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79153/una-falla-en-el-tren-provoco-el-corte-de-transito-en-el-cruce-de-la-ruta-nacional-5-y-la-provincial-1",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/21/escandalo-en-francia-la-alcaldia-de-paris-pide-investigar-santiago-muzio-nombrado-por-milei-al-frente-de-la-casa-argentina-de-paris-video-121910.html",
     "title": null,
     "attempts": 0
   }
