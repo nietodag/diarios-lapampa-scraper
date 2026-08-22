@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78747/el-festival-nacional-de-cine-cerro-su-10-edicion-con-una-gala-de-premiacion",
     "title": "El Festival Nacional de Cine cerr&oacute; su 10&deg; edici&oacute;n con una gala de premiaci&oacute;n",
-    "attempts": 8
+    "attempts": 9
   },
   {
     "site": "El Diario de La Pampa",
@@ -10538,6 +10538,36 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/22/trasladaron-una-carcel-de-mujeres-la-joven-acusada-de-matar-su-hijo-121951.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/22/la-pampa-impulsan-la-lactancia-materna-como-un-escudo-protector-para-la-infancia/",
+    "title": "La Pampa: Impulsan la lactancia materna como un “escudo protector” para la infancia",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/lula-encabeza-primer-mitin-de-campana-en-rio-de-janeiro-para-consolidar-alianzas-202682218280",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/denuncian-descarte-de-cemento-detras-del-barrio-los-hornos-202682218250",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/22/endeudamiento-familiar-advierten-por-tasas-de-hasta-29-000-anual-e-incitan-a-una-intervencion-del-estado/",
+    "title": "Endeudamiento familiar: advierten por tasas de hasta 29.000% anual e incitan a una intervención del Estado",
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/8/22/urgente-terrible-arrebato-en-pleno-centro-de-pico-sem-asiste-una-mujer-video-121953.html",
     "title": null,
     "attempts": 0
   }
