@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78747/el-festival-nacional-de-cine-cerro-su-10-edicion-con-una-gala-de-premiacion",
     "title": "El Festival Nacional de Cine cerr&oacute; su 10&deg; edici&oacute;n con una gala de premiaci&oacute;n",
-    "attempts": 15
+    "attempts": 16
   },
   {
     "site": "El Diario de La Pampa",
@@ -10736,6 +10736,36 @@
   {
     "site": "Radio Kermes",
     "url": "https://www.radiokermes.com/noticias/31298-acueducto-comenzo-a-bombear-la-nueva-estacion-y-se-normalizaria-el-servicio",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82317",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/nadia-beller-fue-dada-de-alta-y-la-policia-de-bolivia-reforzo-su-custodia-202682220560",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79187/el-hospital-del-barrio-federal-tendra-guardia-activa-y-pico-suma-dos-centros-publicos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79188/triple-choque-con-varios-heridos-ahora-cerca-de-uriburu",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31299-macri-banco-a-marita-mac-allister",
     "title": null,
     "attempts": 0
   }
