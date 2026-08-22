@@ -3,7 +3,7 @@
     "site": "Pampa Diario",
     "url": "https://www.pampadiario.com/single-post.php?id=82196",
     "title": "De la ilusión millonaria al baldazo de agua fría: el error de Dafas que revolucionó Pico",
-    "attempts": 12
+    "attempts": 13
   },
   {
     "site": "Info Pico",
@@ -10545,6 +10545,12 @@
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/22/violento-choque-entre-un-auto-un-camion-en-ruta-108-dos-personas-fueron-hospitalizadas-121943.html",
     "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/22/por-resolucion-de-la-corte-anses-restituyo-la-liquidacion-de-la-pension-a-cristina/",
+    "title": "Por resolución de la Corte, Anses restituyó la liquidación de la pensión a Cristina",
     "attempts": 0
   }
 ]
