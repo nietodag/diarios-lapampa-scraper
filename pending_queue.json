@@ -3,7 +3,7 @@
     "site": "Pampa Diario",
     "url": "https://www.pampadiario.com/single-post.php?id=82196",
     "title": "De la ilusión millonaria al baldazo de agua fría: el error de Dafas que revolucionó Pico",
-    "attempts": 7
+    "attempts": 8
   },
   {
     "site": "Info Pico",
@@ -10412,6 +10412,18 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/municipales/2026/8/21/inscribite-un-nuevo-taller-de-orientacion-laboral-en-medano-121921.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/22/fernanda-alonso-en-la-capacitacion-sobre-primera-infancia-es-una-politica-que-esta-en-agenda-desde-hace-muchisimo-tiempo/",
+    "title": "Fernanda Alonso en la capacitación sobre primera infancia: “Es una política que está en agenda desde hace muchísimo tiempo”",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/toay-robo-una-carniceria-y-fue-demorado-202682210540",
     "title": null,
     "attempts": 0
   }
