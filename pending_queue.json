@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78747/el-festival-nacional-de-cine-cerro-su-10-edicion-con-una-gala-de-premiacion",
     "title": "El Festival Nacional de Cine cerr&oacute; su 10&deg; edici&oacute;n con una gala de premiaci&oacute;n",
-    "attempts": 7
+    "attempts": 8
   },
   {
     "site": "El Diario de La Pampa",
@@ -10520,6 +10520,24 @@
   {
     "site": "Diario Textual",
     "url": "https://diariotextual.com/inicio/index.php/2026/08/22/la-super-gripe-alcanzo-en-argentina-el-record-de-contagios-de-la-ultima-decada/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/endeudamiento-familiar-piden-intervencion-estatal-ante-tasas-de-hasta-29-000-anual-20268221880",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/79183/las-leonas-ya-estan-en-semifinales-del-mundial",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/22/trasladaron-una-carcel-de-mujeres-la-joven-acusada-de-matar-su-hijo-121951.html",
     "title": null,
     "attempts": 0
   }
