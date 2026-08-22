@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/pais/78715/causa-cuadernos--un-testigo-apunto-contra-jaime-y-hablo-del-dinero-que-le-daba-a-kirchner",
     "title": "Causa Cuadernos: un testigo apunt&oacute; contra Jaime y habl&oacute; del dinero que le daba a Kirchner",
-    "attempts": 17
+    "attempts": 18
   },
   {
     "site": "El Diario de La Pampa",
@@ -10484,6 +10484,18 @@
   {
     "site": "Pampa Diario",
     "url": "https://www.pampadiario.com/single-post.php?id=82308",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82307",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/javier-milei-la-quinta-olivos-menos-visitas-y-domingos-opera-aforo-reducido-n5425930",
     "title": null,
     "attempts": 0
   }
