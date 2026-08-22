@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78747/el-festival-nacional-de-cine-cerro-su-10-edicion-con-una-gala-de-premiacion",
     "title": "El Festival Nacional de Cine cerr&oacute; su 10&deg; edici&oacute;n con una gala de premiaci&oacute;n",
-    "attempts": 2
+    "attempts": 3
   },
   {
     "site": "El Diario de La Pampa",
@@ -10340,6 +10340,60 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/22/emocionante-una-locomotora-de-1927-volvio-recorrer-las-vias-llego-dolores-video-121941.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/franco-colapinto-largara-en-el-puesto-14-la-final-del-gp-de-paises-bajos-20268221670",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/un-robot-chino-batio-el-record-mundial-de-los-100-metros-en-apenas-9-32-segundos-202682216200",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/fentanilo-contaminado-nelida-bisio-ampliara-su-declaracion-este-lunes-20268221690",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/79172/anses-restituyo-en-forma-provisoria-la-liquidacion-de-la-pension-a-cristina-kirchner",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/79173/advierten-por-tasas-de-hasta-29000-en-porciento--anual-e-incitan-a-una-intervencion-del-estado",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/79174/los-proyectos-para-paliar-el-endeudamiento-avanzan-en-el-congreso-y-tensionan-al-gobierno",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/79175/eeuu-volvio-a-instar-a-los-paises-de-la-region-a-que-no-contraten-tecnologias-china",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/22/se-extiende-hasta-el-15-de-septiembre-la-temporada-de-quema-de-bosque/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/salud/2026/8/22/urgente-tyrone-fue-operado-del-corazon-su-familia-pide-cadena-de-oracion-colaboracion-para-afrontar-gastos-traves-de-una-rifa-mira-121945.html",
     "title": null,
     "attempts": 0
   }
