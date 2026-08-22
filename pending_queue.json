@@ -3,7 +3,7 @@
     "site": "Pampa Diario",
     "url": "https://www.pampadiario.com/single-post.php?id=82196",
     "title": "De la ilusión millonaria al baldazo de agua fría: el error de Dafas que revolucionó Pico",
-    "attempts": 17
+    "attempts": 18
   },
   {
     "site": "Info Pico",
@@ -10610,6 +10610,24 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/espectaculos/2026/8/22/maniacas-llega-al-estreno-comercial-este-sabado-domingo-19-horas-diego-garcia-invita-vivir-una-historia-de-suenos-humor-nostalgia-video-121944.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/22/corpico-anuncia-cortes-de-energia-programados-para-este-domingo-por-tareas-de-mantenimiento/",
+    "title": "Corpico anuncia cortes de energía programados para este domingo por tareas de mantenimiento",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/22/violento-tiroteo-en-la-matanza-una-pareja-de-policias-abatio-a-tres-delincuentes-en-un-intento-de-robo/",
+    "title": "Violento tiroteo en La Matanza: una pareja de policías abatió a tres delincuentes en un intento de robo",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/rabinovich-sobre-la-ciencia-sepan-que-estamos-en-peligro-202682214250",
     "title": null,
     "attempts": 0
   }
