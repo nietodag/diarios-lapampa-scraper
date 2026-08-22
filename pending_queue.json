@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78747/el-festival-nacional-de-cine-cerro-su-10-edicion-con-una-gala-de-premiacion",
     "title": "El Festival Nacional de Cine cerr&oacute; su 10&deg; edici&oacute;n con una gala de premiaci&oacute;n",
-    "attempts": 10
+    "attempts": 11
   },
   {
     "site": "El Diario de La Pampa",
@@ -10580,6 +10580,42 @@
   {
     "site": "LetraP",
     "url": "https://www.letrap.com.ar/politica/axel-kicillof-apuesta-pescar-la-pecera-la-juventud-desencantada-javier-milei-n5426027",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/el-concejo-de-catrilo-pide-explicaciones-por-un-corte-en-la-carpeta-asfaltica-202682218570",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/organizan-recital-solidario-para-recaudar-fondos-para-musico-pampeano-20268221920",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79184/choque-frontal-en-la-ruta-35-al-sur-de-eduardo-castex-deja-varios-heridos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/22/25-de-mayo-impulsan-proyecto-como-polo-de-produccion-y-exportacion-de-alfalfa/",
+    "title": "25 de Mayo: impulsan proyecto como polo de producción y exportación de alfalfa",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/22/general-acha-suma-una-doble-conexion-de-internet-y-empatel-avanza-con-acuerdos-con-proveedores-locales/",
+    "title": "General Acha suma una doble conexión de Internet y EMPATEL avanza con acuerdos con proveedores locales",
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/mundo/2026/8/22/cinco-dias-encerrada-desaparecida-policia-rescata-en-brasil-emiliane-tamara-nunes-joven-de-24-anos-retenida-presuntamente-por-su-exesposo-video-121955.html",
     "title": null,
     "attempts": 0
   }
