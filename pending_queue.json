@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78747/el-festival-nacional-de-cine-cerro-su-10-edicion-con-una-gala-de-premiacion",
     "title": "El Festival Nacional de Cine cerr&oacute; su 10&deg; edici&oacute;n con una gala de premiaci&oacute;n",
-    "attempts": 12
+    "attempts": 13
   },
   {
     "site": "El Diario de La Pampa",
@@ -10640,6 +10640,30 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/22/plaza-san-martin-no-farmean-aura-escuchan-pop-tailandes-son-canciones-mas-de-amor-ternura-video-121950.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/operativo-en-la-ruta-102-decomisaron-350-kilos-de-carne-vacuna-y-porcina-202682219550",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/79185/inflacion-y-precios--el-dato-mayorista-de-julio-alienta-al-gobierno-pero-el-petroleo-abre-dudas",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/22/inscriben-para-cubrir-espacio-curricular-en-isba-general-pico/",
+    "title": "Inscriben para cubrir espacio curricular en ISBA General Pico",
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/22/brutal-choque-frontal-en-ruta-35-ocho-personas-fueron-hospitalizadas-entre-ellas-una-menor-mira-121959.html",
     "title": null,
     "attempts": 0
   }
