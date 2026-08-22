@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78747/el-festival-nacional-de-cine-cerro-su-10-edicion-con-una-gala-de-premiacion",
     "title": "El Festival Nacional de Cine cerr&oacute; su 10&deg; edici&oacute;n con una gala de premiaci&oacute;n",
-    "attempts": 13
+    "attempts": 14
   },
   {
     "site": "El Diario de La Pampa",
@@ -10664,6 +10664,48 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/22/brutal-choque-frontal-en-ruta-35-ocho-personas-fueron-hospitalizadas-entre-ellas-una-menor-mira-121959.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/acueducto-ya-bombea-la-nueva-estacion-y-en-12-horas-se-normalizaria-el-servicio-202682220120",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79186/comenzo-a-bombear-la-nueva-estacion-del-acueducto-y-estiman-su-normalizacion-en-12-horas",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/22/acueducto-comenzo-a-bombear-la-nueva-estacion-y-en-12-horas-se-normalizaria-el-servicio/",
+    "title": "Acueducto: comenzó a bombear la nueva estación y en 12 horas se normalizaría el servicio",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/22/milei-se-desligo-de-cerimedo-y-confirmo-que-ira-por-la-reeleccion-es-futuro-contra-pasado/",
+    "title": "Milei se desligó de Cerimedo y confirmó que irá por la reelección: “Es futuro contra pasado”",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/22/acueducto-comenzo-a-bombear-la-nueva-estacion-y-este-domingo-se-normalizaria-el-servicio/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/22/triple-choque-en-la-ruta-nacional-5-hay-heridos-cerca-de-uriburu/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/8/22/javier-testigo-del-arrebato-en-20-le-arrebata-la-cartera-la-tira-al-piso-lo-salgo-corriendo-pero-sube-un-vw-passat-que-lo-estaba-esperando-video-121958.html",
     "title": null,
     "attempts": 0
   }
