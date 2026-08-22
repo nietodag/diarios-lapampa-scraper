@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78747/el-festival-nacional-de-cine-cerro-su-10-edicion-con-una-gala-de-premiacion",
     "title": "El Festival Nacional de Cine cerr&oacute; su 10&deg; edici&oacute;n con una gala de premiaci&oacute;n",
-    "attempts": 11
+    "attempts": 12
   },
   {
     "site": "El Diario de La Pampa",
@@ -10616,6 +10616,30 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/mundo/2026/8/22/cinco-dias-encerrada-desaparecida-policia-rescata-en-brasil-emiliane-tamara-nunes-joven-de-24-anos-retenida-presuntamente-por-su-exesposo-video-121955.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/22/con-un-golazo-olimpico-costa-brava-festejo-en-otamendi-y-sumo-su-primer-triunfo-de-visitante/",
+    "title": "Con un golazo olímpico, Costa Brava festejó en Otamendi y sumó su primer triunfo de visitante",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/choque-frontal-en-la-ruta-35-al-sur-de-eduardo-castex-202682219220",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/22/kicillof-lanzo-mdf-juventudes-los-problemas-nacionales-no-tienen-soluciones-provinciales/",
+    "title": "Kicillof lanzó MDF Juventudes: “Los problemas nacionales no tienen soluciones provinciales”",
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/22/plaza-san-martin-no-farmean-aura-escuchan-pop-tailandes-son-canciones-mas-de-amor-ternura-video-121950.html",
     "title": null,
     "attempts": 0
   }
