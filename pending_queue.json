@@ -3,7 +3,7 @@
     "site": "Pampa Diario",
     "url": "https://www.pampadiario.com/single-post.php?id=82196",
     "title": "De la ilusión millonaria al baldazo de agua fría: el error de Dafas que revolucionó Pico",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "site": "Info Pico",
@@ -10035,6 +10035,48 @@
     "site": "LetraP",
     "url": "https://www.letrap.com.ar/politica/javier-milei-la-quinta-olivos-menos-visitas-y-domingos-opera-aforo-reducido-n5425930",
     "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/22/fabian-bruna-el-98-de-los-pampeanos-recibe-servicios-publicos-de-cooperativas/",
+    "title": "Fabián Bruna: «El 98% de los pampeanos recibe servicios públicos de cooperativas»",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/bolivia-ordeno-prision-preventiva-para-fernando-cerimedo-y-amplia-la-investigacion-20268228220",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/el-pronostico-del-tiempo-para-santa-rosa-este-fin-de-semana-20268228100",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79157/la-recaudacion-da-senales-de-deterioro--ingresos-brutos-cayo-2-en-porciento--en-la-pampa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79158/condenaron-a-un-hombre-por-abusar-de-una-sobrina",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/22/bolivia-ordenan-la-preventiva-para-cerimedo-y-amplian-investigacion-por-intento-de-femicidio-y-presunto-lavado/",
+    "title": "Bolivia: ordenan la preventiva para Cerimedo y amplían investigación por intento de femicidio y presunto lavado",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/22/milei-nego-que-la-morosidad-sea-alta-no-hay-elementos-para-culpar-a-la-politica-del-gobierno/",
+    "title": "Milei negó que la morosidad sea alta: “No hay elementos para culpar a la política del Gobierno”",
     "attempts": 0
   }
 ]
