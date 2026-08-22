@@ -3,7 +3,7 @@
     "site": "Pampa Diario",
     "url": "https://www.pampadiario.com/single-post.php?id=82196",
     "title": "De la ilusión millonaria al baldazo de agua fría: el error de Dafas que revolucionó Pico",
-    "attempts": 6
+    "attempts": 7
   },
   {
     "site": "Info Pico",
@@ -10382,6 +10382,36 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/22/vuelco-en-ruta-provincial-34-tres-personas-involucradas-121936.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/aniversario/el-valor-de-tener-presencia-202682210470",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/desde-que-asumio-milei-se-perdieron-mas-de-241-mil-empleos-privados-202682210290",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/judiciales/la-justicia-habilito-al-gobierno-rios-continuar-la-transformacion-del-programa-alimentario-escolar-n5426022",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/22/se-extiende-hasta-el-15-de-septiembre-la-temporada-de-quema-de-bosque/",
+    "title": "Se extiende hasta el 15 de septiembre la temporada de quema de bosque",
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/municipales/2026/8/21/inscribite-un-nuevo-taller-de-orientacion-laboral-en-medano-121921.html",
     "title": null,
     "attempts": 0
   }
