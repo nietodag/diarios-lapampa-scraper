@@ -3,7 +3,7 @@
     "site": "Pampa Diario",
     "url": "https://www.pampadiario.com/single-post.php?id=82196",
     "title": "De la ilusión millonaria al baldazo de agua fría: el error de Dafas que revolucionó Pico",
-    "attempts": 8
+    "attempts": 9
   },
   {
     "site": "Info Pico",
@@ -10424,6 +10424,54 @@
   {
     "site": "La Arena",
     "url": "https://www.laarena.com.ar/la-pampa/toay-robo-una-carniceria-y-fue-demorado-202682210540",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82313",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/la-super-gripe-alcanzo-en-argentina-el-record-de-contagios-de-la-ultima-decada-202682211260",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79169/robo-en-una-carniceria-quedo-registrado-en-las-camaras-y-lo-atraparon",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79170/la-intersindicla-advierte-que-no-firmara-un-acuerdo-por-40-mil-pesos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/22/la-super-gripe-alcanzo-en-argentina-el-record-de-contagios-de-la-ultima-decada/",
+    "title": "La “súper gripe” alcanzó en Argentina el récord de contagios de la última década",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/22/salvar-vidas-estrellas-amarillas-y-provincia-de-buenos-aires-plantearon-una-agenda-conjunta/",
+    "title": "Salvar vidas: Estrellas Amarillas y provincia de Buenos Aires plantearon una agenda conjunta",
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/8/22/robo-de-los-250-mil-dolares-prada-no-quiere-arreglar-por-menos-quiere-el-total-que-le-devuelvan-todo-continuamos-con-esto-video-121937.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/22/los-salarios-estan-bajos-malestar-entre-gendarmes-de-general-acha-por-los-bajos-sueldos-121894.html",
     "title": null,
     "attempts": 0
   }
