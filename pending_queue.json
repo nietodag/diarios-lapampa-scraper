@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78747/el-festival-nacional-de-cine-cerro-su-10-edicion-con-una-gala-de-premiacion",
     "title": "El Festival Nacional de Cine cerr&oacute; su 10&deg; edici&oacute;n con una gala de premiaci&oacute;n",
-    "attempts": 6
+    "attempts": 7
   },
   {
     "site": "El Diario de La Pampa",
@@ -10496,6 +10496,30 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/22/condenan-tres-empresas-pagar-59-millones-por-fallas-reiteradas-en-una-camioneta-km-121948.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/kicillof-lanzo-mdf-juventudes-y-llamo-a-recuperar-los-suenos-de-una-generacion-202682217300",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/79181/milei-hablo-sobre-la-situacion-actual-del-pais-y-confirmo-que-ira-por-la-reeleccion",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/79182/lacteos-veronica-fue-al-concurso-de-acreedores-para-evitar-la-quiebra",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/22/la-super-gripe-alcanzo-en-argentina-el-record-de-contagios-de-la-ultima-decada/",
     "title": null,
     "attempts": 0
   }
