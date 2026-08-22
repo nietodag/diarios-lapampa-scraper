@@ -3,7 +3,7 @@
     "site": "Pampa Diario",
     "url": "https://www.pampadiario.com/single-post.php?id=82196",
     "title": "De la ilusión millonaria al baldazo de agua fría: el error de Dafas que revolucionó Pico",
-    "attempts": 2
+    "attempts": 3
   },
   {
     "site": "Info Pico",
@@ -10077,6 +10077,48 @@
     "site": "Plan B Noticias",
     "url": "https://www.planbnoticias.com.ar/index.php/2026/08/22/milei-nego-que-la-morosidad-sea-alta-no-hay-elementos-para-culpar-a-la-politica-del-gobierno/",
     "title": "Milei negó que la morosidad sea alta: “No hay elementos para culpar a la política del Gobierno”",
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82311",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/formula-1-colapinto-finalizo-12-en-la-sprint-de-paises-bajos-20268228300",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/convocan-al-salon-de-artes-20268220460",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/upcn-prepara-eleccion-de-delegados-20268220460",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/79160/colapinto-finalizo-12-en-la-sprint-de-paises-bajos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/79159/prision-preventiva-de-6-meses-para-cerimedo-por-la-tentativa-de-femicidio",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/22/santa-rosa-amanecio-bajo-cero-como-seguira-el-clima/",
+    "title": "Santa Rosa amaneció bajo cero: ¿Cómo seguirá el clima?",
     "attempts": 0
   }
 ]
