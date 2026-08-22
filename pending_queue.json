@@ -3,7 +3,7 @@
     "site": "Pampa Diario",
     "url": "https://www.pampadiario.com/single-post.php?id=82196",
     "title": "De la ilusión millonaria al baldazo de agua fría: el error de Dafas que revolucionó Pico",
-    "attempts": 9
+    "attempts": 10
   },
   {
     "site": "Info Pico",
@@ -10472,6 +10472,24 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/22/los-salarios-estan-bajos-malestar-entre-gendarmes-de-general-acha-por-los-bajos-sueldos-121894.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/aniversario/utedyc-resalto-el-rol-periodistico-el-diario-tiene-un-valor-diferente-202682211490",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/22/lacteos-veronica-fue-al-concurso-de-acreedores-para-evitar-la-quiebra/",
+    "title": "Lácteos Verónica fue al concurso de acreedores para evitar la quiebra",
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/8/22/perdio-su-celular-apela-la-solidaridad-de-los-vecinos-de-pico-para-encontrarlo-121938.html",
     "title": null,
     "attempts": 0
   }
