@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78747/el-festival-nacional-de-cine-cerro-su-10-edicion-con-una-gala-de-premiacion",
     "title": "El Festival Nacional de Cine cerr&oacute; su 10&deg; edici&oacute;n con una gala de premiaci&oacute;n",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "site": "El Diario de La Pampa",
@@ -10329,6 +10329,18 @@
     "site": "Info Pico",
     "url": "https://www.infopico.com/2026/08/22/falucho-se-prepara-para-vivir-la-15a-edicion-de-la-cabalgata-encuentro-de-reservados-y-jinetes/",
     "title": "Falucho se prepara para vivir la 15ª edición de la cabalgata “Encuentro de Reservados y Jinetes”",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/un-auto-choco-el-lateral-de-un-camion-en-el-cruce-de-las-rutas-35-y-1-202682215520",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/22/emocionante-una-locomotora-de-1927-volvio-recorrer-las-vias-llego-dolores-video-121941.html",
+    "title": null,
     "attempts": 0
   }
 ]
