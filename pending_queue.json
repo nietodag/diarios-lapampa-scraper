@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/pais/78715/causa-cuadernos--un-testigo-apunto-contra-jaime-y-hablo-del-dinero-que-le-daba-a-kirchner",
     "title": "Causa Cuadernos: un testigo apunt&oacute; contra Jaime y habl&oacute; del dinero que le daba a Kirchner",
-    "attempts": 2
+    "attempts": 3
   },
   {
     "site": "El Diario de La Pampa",
@@ -10406,6 +10406,48 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/21/escandalo-en-francia-la-alcaldia-de-paris-pide-investigar-santiago-muzio-nombrado-por-milei-al-frente-de-la-casa-argentina-de-paris-video-121910.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/21/condenaron-a-diez-anos-de-prision-a-un-hombre-en-general-pico-por-abusar-de-su-hija-y-su-sobrina/",
+    "title": "Condenaron a diez años de prisión a un hombre en General Pico por abusar de su hija y su sobrina",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/ya-son-321-las-victimas-por-el-sismo-en-colombia-202682121490",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/nuevas-fotos-de-las-heridas-de-la-ex-pareja-de-cerimedo-que-dios-te-perdone-fernando-202682121570",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/tucuman-separaron-a-cuatro-empleados-del-hospital-investigado-por-presunto-cambio-de-bebes-202682121510",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/asumieron-las-autoridades-de-utelpa-202682121420",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/una-aparicion-inesperada-frente-a-la-costa-argentina-sorprendio-a-todos-202682122100",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/79154/javier-milei--no-hay-elementos-para-culpar-a-la-politica-del-gobierno-por-la-morosidad",
     "title": null,
     "attempts": 0
   }
