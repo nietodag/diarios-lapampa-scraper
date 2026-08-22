@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78747/el-festival-nacional-de-cine-cerro-su-10-edicion-con-una-gala-de-premiacion",
     "title": "El Festival Nacional de Cine cerr&oacute; su 10&deg; edici&oacute;n con una gala de premiaci&oacute;n",
-    "attempts": 5
+    "attempts": 6
   },
   {
     "site": "El Diario de La Pampa",
@@ -10430,6 +10430,72 @@
   {
     "site": "La Arena",
     "url": "https://www.laarena.com.ar/el-pais/anses-restituyo-en-forma-provisoria-la-liquidacion-de-la-pension-a-cfk-20268221600",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82315",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/22/deporte-y-soberania-hidrica-el-ciclo-4-rios-un-desafio-original-se-traslada-al-norte-pampeano/",
+    "title": "Deporte y soberanía hídrica: el ciclo “4 Ríos, Un Desafío Original” se traslada al norte pampeano",
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79178/movida-solidaria-para-un-musico-que-enfrenta-un-costoso-tratamiento-medico",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79179/lactancia-materna--un-derecho-fundamental-de-las-infancias-y-de-las-madres",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79180/se-extiende-hasta-el-15-de-septiembre-la-temporada-de-quema-de-bosque",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/22/tiktok-pagara-400-millones-de-dolares-en-ee-uu-por-violar-la-privacidad-de-los-ninos/",
+    "title": "TikTok pagará 400 millones de dólares en EE.UU. por violar la privacidad de los niños",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/22/un-robot-chino-batio-el-record-mundial-de-los-100-metros-en-apenas-932-segundos/",
+    "title": "Un robot chino batió el récord mundial de los 100 metros en apenas 9,32 segundos",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/22/anses-restituyo-en-forma-provisoria-la-liquidacion-de-la-pension-a-cristina-kirchner/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/22/estados-unidos-redoblo-las-advertencias-por-vaca-muerta-alerto-sobre-riesgos-de-espionaje-por-tecnologia-china/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/22/lorenzo-bautista-llegaron-por-la-batalla-de-aura-terminaron-mandando-saludos-sus-abuelos-tini-coco-video-121947.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/22/condenan-tres-empresas-pagar-59-millones-por-fallas-reiteradas-en-una-camioneta-km-121948.html",
     "title": null,
     "attempts": 0
   }
