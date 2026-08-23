@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78755/cta-autonoma-presento-su-lista-en-la-pampa-y-va-a-elecciones-el-20-de-agosto",
     "title": "CTA Aut&oacute;noma present&oacute; su lista en La Pampa y va a elecciones el 20 de agosto",
-    "attempts": 9
+    "attempts": 10
   },
   {
     "site": "El Diario de La Pampa",
@@ -10688,6 +10688,24 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/22/lactancia-materna-un-derecho-fundamental-de-las-infancias-de-las-madres-121927.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82314",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82319",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/caldenia/juan-falu-la-pampa-es-muy-importante-en-mi-vida-2026823600",
     "title": null,
     "attempts": 0
   }
