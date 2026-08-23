@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78755/cta-autonoma-presento-su-lista-en-la-pampa-y-va-a-elecciones-el-20-de-agosto",
     "title": "CTA Aut&oacute;noma present&oacute; su lista en La Pampa y va a elecciones el 20 de agosto",
-    "attempts": 17
+    "attempts": 18
   },
   {
     "site": "El Diario de La Pampa",
@@ -10779,6 +10779,54 @@
     "site": "Plan B Noticias",
     "url": "https://www.planbnoticias.com.ar/index.php/2026/08/23/se-derrumbo-el-credito-hipotecario-en-lo-que-va-del-ano/",
     "title": "Se derrumbó el crédito hipotecario en lo que va del año",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/23/abren-convocatoria-docente-para-el-profesorado-de-educacion-inicial/",
+    "title": "Abren convocatoria docente para el Profesorado de Educación Inicial",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/caldenia/la-juan-d-arienzo-siempre-tuvimos-el-espiritu-de-pasarla-bien-2026823900",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/un-52-de-los-argentinos-se-identifica-como-opositor-20268230120",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/el-pronostico-del-tiempo-para-hoy-en-santa-rosa-2026823930",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/79199/anguilense-y-centro-oeste-a-todo-o-nada",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/23/doblas-volvio-a-ser-el-epicentro-de-la-apicultura/",
+    "title": "Doblas volvió a ser el epicentro de la apicultura",
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/19/facultad-de-ingenieria-aca-tenemos-la-tecnicatura-en-telecomunicaciones-ingenieria-electromecanica-mecatronica-que-es-una-de-las-estrellas-video-121826.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/8/23/necrologicas-general-pico-121968.html",
+    "title": null,
     "attempts": 0
   }
 ]
