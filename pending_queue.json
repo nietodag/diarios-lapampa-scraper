@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78747/el-festival-nacional-de-cine-cerro-su-10-edicion-con-una-gala-de-premiacion",
     "title": "El Festival Nacional de Cine cerr&oacute; su 10&deg; edici&oacute;n con una gala de premiaci&oacute;n",
-    "attempts": 16
+    "attempts": 17
   },
   {
     "site": "El Diario de La Pampa",
@@ -10766,6 +10766,132 @@
   {
     "site": "Radio Kermes",
     "url": "https://www.radiokermes.com/noticias/31299-macri-banco-a-marita-mac-allister",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82318",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/22/acueducto-comenzo-a-bombear-la-nueva-estacion-y-en-12-horas-se-normalizaria-el-servicio/",
+    "title": "Acueducto: comenzó a bombear la nueva estación y en 12 horas se normalizaría el servicio",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/22/historico-para-general-pico-el-hospital-del-barrio-federal-habilita-su-guardia-24-horas-y-suma-internacion/",
+    "title": "Histórico para General Pico: el Hospital del Barrio Federal habilita su guardia 24 horas y suma internación",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/22/noche-accidentada-en-el-centro-de-general-pico-tres-personas-hospitalizadas-tras-dos-siniestros-viales/",
+    "title": "Noche accidentada en el centro de General Pico: tres personas hospitalizadas tras dos siniestros viales",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/22/tres-demorados-tras-el-violento-robo-a-una-jubilada-en-pleno-centro-de-general-pico/",
+    "title": "Tres demorados tras el violento robo a una jubilada en pleno centro de General Pico",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/22/violento-arrebato-en-pleno-centro-de-general-pico-tiraron-a-una-mujer-al-piso-y-huyeron-en-auto/",
+    "title": "Violento arrebato en pleno centro de General Pico: tiraron a una mujer al piso y huyeron en auto",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/independiente-empato-con-independiente-rivadavia-por-el-torneo-clausura-202682221230",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/25-de-mayo-work-men-apuesta-a-la-produccion-de-alfalfa-para-exportacion-20268222190",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/operativo-en-la-caminera-de-catrilo-recuperan-un-camion-con-pedido-de-secuestro-202682221400",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79189/secuestran-un-camion-durante-un-control-vehicular-en-catrilo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/videos-de-la-semana/79190/videos-de-la-semana",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/22/durante-todo-el-ano-pico-tendra-dos-guardias-activas-en-el-subsector-publico-de-salud/",
+    "title": "Durante todo el año: Pico tendrá dos guardias activas en el subsector público de salud",
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31300-leonas-en-semifinales",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31301-los-leones-vencieron-a-inglaterra-en-el-mundial",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31302-expo-apicola-con-el-crecimiento-estamos-todos-alineados",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31303-el-embajador-de-ee-uu-refuerza-el-apriete-por-vaca-muerta",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/22/los-leones-derrotaron-3-1-inglaterra-dieron-un-paso-clave-en-el-mundial-de-hockey-sobre-cesped-121952.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/22/marcelo-bonelli-respondio-milei-tras-los-fuertes-insultos-cuide-su-vocabulario-video-121954.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/22/acueducto-comenzo-bombear-la-nueva-estacion-en-12-horas-se-normalizaria-el-servicio-121963.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/22/impactante-triple-choque-en-ruta-5-varios-heridos-cerca-de-uriburu-mira-121964.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/salud/2026/8/22/historico-se-suma-el-federal-pico-tendra-dos-guardias-activas-en-el-subsector-publico-todo-el-ano-121965.html",
     "title": null,
     "attempts": 0
   }
