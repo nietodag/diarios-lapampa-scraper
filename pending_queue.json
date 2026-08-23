@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78755/cta-autonoma-presento-su-lista-en-la-pampa-y-va-a-elecciones-el-20-de-agosto",
     "title": "CTA Aut&oacute;noma present&oacute; su lista en La Pampa y va a elecciones el 20 de agosto",
-    "attempts": 16
+    "attempts": 17
   },
   {
     "site": "El Diario de La Pampa",
@@ -10767,6 +10767,18 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/numeros-de-la-semana/79194/numeros-de-la-semana",
     "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/79198/costa-brava-y-ferro-van-por-toda-la-gloria",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/23/se-derrumbo-el-credito-hipotecario-en-lo-que-va-del-ano/",
+    "title": "Se derrumbó el crédito hipotecario en lo que va del año",
     "attempts": 0
   }
 ]
