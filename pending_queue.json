@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78747/el-festival-nacional-de-cine-cerro-su-10-edicion-con-una-gala-de-premiacion",
     "title": "El Festival Nacional de Cine cerr&oacute; su 10&deg; edici&oacute;n con una gala de premiaci&oacute;n",
-    "attempts": 18
+    "attempts": 19
   },
   {
     "site": "El Diario de La Pampa",
@@ -10898,6 +10898,48 @@
   {
     "site": "Radio Kermes",
     "url": "https://www.radiokermes.com/noticias/31304-festiva-asuncion-de-las-nuevas-autoridades-de-la-utelpa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-nuevo-circulo-rojo-martin-llaryora-n5426021",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/la-rosca-que-viene-unidos-la-reforma-electoral-n5426015",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/23/pleno-centro-de-pico-chocan-un-taxi-un-auto-el-sem-hospitalizo-la-pasajera-video-121962.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/8/23/necrologicas-general-pico-121967.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/municipales/2026/8/21/tiempo-de-mujeres-gracias-por-asumir-un-compromiso-con-una-tematica-que-nos-preocupa-ocupa-dijo-fernanda-alonso-121924.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/22/auto-choco-contra-un-acoplado-en-el-cruce-de-las-rutas-35-121960.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/22/lactancia-materna-un-derecho-fundamental-de-las-infancias-de-las-madres-121927.html",
     "title": null,
     "attempts": 0
   }
