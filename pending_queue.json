@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78984/la-escuela-n-113-de-guatrache-festejo-su-centenario",
     "title": "La Escuela N&deg; 113 de Guatrach&eacute; festej&oacute; su centenario",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "site": "El Diario de La Pampa",
@@ -6230,6 +6230,72 @@
   {
     "site": "Radio Kermes",
     "url": "https://www.radiokermes.com/noticias/31314-all-boys-gano-el-clasico-y-sigue-firme-en-el-clausura-femenino",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82321",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/24/general-pico-inicio-una-capacitacion-para-fortalecer-a-emprendedores-y-comerciantes-locales/",
+    "title": "General Pico: Inició una capacitación para fortalecer a emprendedores y comerciantes locales",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/cuando-vuelven-a-jugar-los-argentinos-en-libertadores-y-sudamericana-202682412550",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/despues-de-45-dias-milei-volvio-a-la-casa-rosada-para-encabezar-una-reunion-de-gabinete-202682413120",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/la-pampa-hara-un-nuevo-puente-y-remodelara-la-travesia-urbana-20268241320",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/entre-rios-zambon-abraza-un-pacto-lla-retener-la-gestion-del-corazon-arrocero-la-provincia-n5425820",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79244/realizaron-62-tramites-de-dni-gratis-en-general-pico",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/79243/robo-un-colectivo-levanto-pasajeros-y-lo-detuvieron--queria-cumplir-mi-sueno",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/24/adelanto-denuncian-a-la-clinica-regional-de-pico-por-una-sobrefacturacion-de-800-millones-de-pesos/",
+    "title": "Adelanto: Denuncian a la Clínica Regional de Pico por una sobrefacturación de 800 millones de pesos",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/24/la-sinfonica-presentara-musica-de-camara-en-teatro-espanol/",
+    "title": "La Banda Sinfónica presentará Música de Cámara en el Teatro Español",
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/curiosidades/2026/8/24/supero-notre-dame-florencia-la-catedral-argentina-elegida-como-la-mas-linda-del-mundo-122006.html",
     "title": null,
     "attempts": 0
   }
