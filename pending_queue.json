@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78984/la-escuela-n-113-de-guatrache-festejo-su-centenario",
     "title": "La Escuela N&deg; 113 de Guatrach&eacute; festej&oacute; su centenario",
-    "attempts": 4
+    "attempts": 5
   },
   {
     "site": "El Diario de La Pampa",
@@ -6368,6 +6368,24 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/salud/2026/8/24/pami-denuncio-la-clinica-regional-de-general-pico-por-una-presunta-sobrefacturacion-de-mas-de-800-millones-122009.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/24/el-horror-puertas-adentro-la-deuda-de-la-sociedad-con-las-infancias-que-expone-la-justicia-piquense/",
+    "title": "El horror puertas adentro: la deuda de la sociedad con las infancias que expone la Justicia piquense",
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/cheppi-el-candidato-sergio-massa-disputar-la-intendencia-mar-del-plata-n5426032",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/24/isef-en-la-expo-carreras-se-acompana-mucho-al-estudiante-no-se-lo-deja-solo-durante-la-carrera--video-121824.html",
     "title": null,
     "attempts": 0
   }
