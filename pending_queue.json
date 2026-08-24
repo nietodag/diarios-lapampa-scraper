@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78984/la-escuela-n-113-de-guatrache-festejo-su-centenario",
     "title": "La Escuela N&deg; 113 de Guatrach&eacute; festej&oacute; su centenario",
-    "attempts": 9
+    "attempts": 10
   },
   {
     "site": "El Diario de La Pampa",
@@ -6602,6 +6602,42 @@
   {
     "site": "Diario Textual",
     "url": "https://diariotextual.com/inicio/index.php/2026/08/24/nacion-le-transfirio-a-rio-negro-la-gestion-de-las-rutas-nacionales-22-y-151/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/peregrinacion-mensual-en-colonia-san-jose-con-una-misa-dedicada-a-los-jovenes-202682417550",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/javier-milei-crecio-64-la-confianza-el-gobierno-agosto-n5426045",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/marcos-juarez-entra-el-sprint-final-campanas-austeras-figuras-y-mucho-mano-mano-n5426020",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/24/supero-a-notre-dame-y-florencia-la-catedral-de-la-plata-fue-elegida-como-la-mas-linda-del-mundo/",
+    "title": "Superó a Notre Dame y Florencia: la Catedral de La Plata fue elegida como la más linda del mundo",
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/24/tristeza-fallecio-ricardo-balduzzi-ex-jefe-de-bomberos-voluntarios-de-general-pico-122010.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/24/persecucion-tiros-en-chaco-recuperaron-dos-camionetas-robadas-hay-dos-detenidos-122011.html",
     "title": null,
     "attempts": 0
   }
