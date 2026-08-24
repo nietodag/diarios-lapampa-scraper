@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78984/la-escuela-n-113-de-guatrache-festejo-su-centenario",
     "title": "La Escuela N&deg; 113 de Guatrach&eacute; festej&oacute; su centenario",
-    "attempts": 10
+    "attempts": 11
   },
   {
     "site": "El Diario de La Pampa",
@@ -6638,6 +6638,60 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/24/persecucion-tiros-en-chaco-recuperaron-dos-camionetas-robadas-hay-dos-detenidos-122011.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/24/por-que-se-sienten-temblores-en-la-pampa-si-estamos-lejos-de-la-cordillera-un-geologo-lo-explica/",
+    "title": "Por qué se sienten temblores en La Pampa si estamos lejos de la cordillera: un geólogo lo explica",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/cerimedo-visito-la-rosada-12-veces-en-2024-dos-fueron-a-la-secretaria-de-presidencia-202682418210",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/la-uba-y-un-crossover-del-poder-una-legisladora-portena-es-la-nueva-decana-la-facultad-medicina-n5426038",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/rolando-figueroa-expuso-su-modelo-buenos-aires-ya-iniciamos-la-transformacion-neuquen-n5426044",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/24/en-su-gala-de-agosto-la-banda-sinfonica-presentara-musica-de-camara/",
+    "title": "En su gala de agosto, la Banda Sinfónica presentará “Música de Cámara”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/24/la-patagonia-game-jam-tendra-su-instancia-presencial-de-santa-rosa-y-eduardo-castex/",
+    "title": "La “Patagonia Game Jam” tendrá su instancia presencial de Santa Rosa y Eduardo Castex",
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31316-la-federacion-de-bomberos-avanza-con-capacitacion-y-un-nuevo-centro-de-entrenamiento",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/8/24/incendio-de-un-renault-en-barrio-roca-mira-cuando-un-vecino-sofocalas-llamas-con-un-matafuego-video-122012.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/24/brinkmann-intento-defender-un-joven-termino-hospitalizado-tras-una-violenta-agresion-122013.html",
     "title": null,
     "attempts": 0
   }
