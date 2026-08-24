@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78984/la-escuela-n-113-de-guatrache-festejo-su-centenario",
     "title": "La Escuela N&deg; 113 de Guatrach&eacute; festej&oacute; su centenario",
-    "attempts": 2
+    "attempts": 3
   },
   {
     "site": "El Diario de La Pampa",
@@ -6297,6 +6297,36 @@
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/curiosidades/2026/8/24/supero-notre-dame-florencia-la-catedral-argentina-elegida-como-la-mas-linda-del-mundo-122006.html",
     "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82330",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/24/acuerdo-paritario-el-gobierno-provincial-y-la-mesa-intersindical-cerraron-un-aumento-que-garantiza-salarios-por-encima-de-la-inflacion/",
+    "title": "Acuerdo paritario: el Gobierno provincial y la Mesa Intersindical cerraron un aumento que garantiza salarios por encima de la inflación",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/el-gobierno-y-los-estatales-llegaron-a-un-acuerdo-el-minimo-garantizado-acumula-un-aumento-del-32-en-2026-202682414150",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/la-super-gripe-alcanzo-un-record-de-contagios-en-la-ultima-decada-20268241450",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/24/con-disidencias-la-intersindical-acordo-el-3-de-aumento-y-clausula-gatillo/",
+    "title": "Con disidencias, la Intersindical acordó el 3 % de aumento y cláusula gatillo",
     "attempts": 0
   }
 ]
