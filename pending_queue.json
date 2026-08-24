@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78984/la-escuela-n-113-de-guatrache-festejo-su-centenario",
     "title": "La Escuela N&deg; 113 de Guatrach&eacute; festej&oacute; su centenario",
-    "attempts": 5
+    "attempts": 6
   },
   {
     "site": "El Diario de La Pampa",
@@ -6386,6 +6386,30 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/24/isef-en-la-expo-carreras-se-acompana-mucho-al-estudiante-no-se-lo-deja-solo-durante-la-carrera--video-121824.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82271",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/con-santilli-y-toto-caputo-weretilneck-puso-el-gancho-y-rio-negro-se-hara-cargo-las-rutas-22-y-151-n5426033",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/79246/el-gobierno-le-transfirio-a-rio-negro-dos-rutas-nacionales-clave-para-vaca-muerta",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31315-paritaria-estatal-el-gobierno-tambien-acordo-con-la-intersindical",
     "title": null,
     "attempts": 0
   }
