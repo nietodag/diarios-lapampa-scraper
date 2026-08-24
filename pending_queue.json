@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78984/la-escuela-n-113-de-guatrache-festejo-su-centenario",
     "title": "La Escuela N&deg; 113 de Guatrach&eacute; festej&oacute; su centenario",
-    "attempts": 3
+    "attempts": 4
   },
   {
     "site": "El Diario de La Pampa",
@@ -6327,6 +6327,48 @@
     "site": "Plan B Noticias",
     "url": "https://www.planbnoticias.com.ar/index.php/2026/08/24/con-disidencias-la-intersindical-acordo-el-3-de-aumento-y-clausula-gatillo/",
     "title": "Con disidencias, la Intersindical acordó el 3 % de aumento y cláusula gatillo",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/24/la-pampa-intensifica-el-control-de-cargas-para-proteger-sus-rutas-mas-de-100-infracciones-en-cinco-meses/",
+    "title": "La Pampa intensifica el control de cargas para proteger sus rutas: más de 100 infracciones en cinco meses",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/falucho-tambien-aspira-a-convertirse-en-municipalidad-202682414240",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/hospital-de-santa-isabel-provincia-licito-mobiliario-y-equipamiento-por-600-millones-20268241200",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/manana-de-blooper-noticiero-transmitia-en-vivo-y-una-mujer-tropezo-y-cayo-202682414460",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/79245/-el-dolar-abrio-la-semana-en-alza",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/8/24/el-abogado-de-los-detenidos-por-el-robo-de-los-250-mil-dolares-cuestiono-la-prision-preventiva-dijo-que-todos-tendrian-que-estar-en-libertad-afrmo-que-no-realizo-ningun-ofreciemiento-de-dinero-video-122008.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/salud/2026/8/24/pami-denuncio-la-clinica-regional-de-general-pico-por-una-presunta-sobrefacturacion-de-mas-de-800-millones-122009.html",
+    "title": null,
     "attempts": 0
   }
 ]
