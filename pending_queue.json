@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78984/la-escuela-n-113-de-guatrache-festejo-su-centenario",
     "title": "La Escuela N&deg; 113 de Guatrach&eacute; festej&oacute; su centenario",
-    "attempts": 16
+    "attempts": 17
   },
   {
     "site": "El Diario de La Pampa",
@@ -6891,6 +6891,30 @@
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/24/alarmante-48-de-los-argentinos-asegura-que-no-llega-fin-de-mes-122007.html",
     "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/el-pami-disminuye-recursos-aplicados-al-tratamiento-renal-202682420530",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/conurbano/reeleccion-intendentes-axel-kicillof-y-sergio-massa-siguen-desacuerdo-y-no-hay-luz-al-final-del-tunel-n5426051",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79263/santa-rosa-de-lima-prepara-su-fiesta-central-con-procesion-y-un-festival",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/24/la-ucr-propone-producir-en-terrenos-junto-a-rutas-y-destinar-los-recursos-a-caminos-escuelas-y-bomberos/",
+    "title": "La UCR propone producir en terrenos junto a rutas y destinar los recursos a caminos, escuelas y bomberos",
     "attempts": 0
   }
 ]
