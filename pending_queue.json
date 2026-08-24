@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78935/la-pampa-dejo-su-marca-en-el-encuentro-apicola-federal-",
     "title": "La Pampa dej&oacute; su marca en el Encuentro Ap&iacute;cola Federal&nbsp;",
-    "attempts": 4
+    "attempts": 5
   },
   {
     "site": "El Diario de La Pampa",
@@ -6668,6 +6668,12 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/8/23/robo-en-una-quinta-de-la-gloria-rompieron-una-ventana-se-llevaron-una-playstation-televisores-herramientas-121996.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/79222/ciudad-de-buenos-aires-campeon-en-pico",
     "title": null,
     "attempts": 0
   }
