@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78935/la-pampa-dejo-su-marca-en-el-encuentro-apicola-federal-",
     "title": "La Pampa dej&oacute; su marca en el Encuentro Ap&iacute;cola Federal&nbsp;",
-    "attempts": 12
+    "attempts": 13
   },
   {
     "site": "El Diario de La Pampa",
@@ -6747,6 +6747,30 @@
     "site": "Plan B Noticias",
     "url": "https://www.planbnoticias.com.ar/index.php/2026/08/24/racing-y-boca-igualaron-en-un-clasico-que-mantiene-a-ambos-en-la-zona-baja-del-torneo-clausura-2026/",
     "title": "Racing y Boca igualaron en un clásico que mantiene a ambos en la zona baja del Torneo Clausura 2026",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/24/aseguran-que-nunca-se-interrumpio-el-suministro-de-agua-durante-las-obras-en-el-acueducto/",
+    "title": "Aseguran que nunca se interrumpió el suministro de agua durante las obras en el Acueducto",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/el-pronostico-del-tiempo-para-hoy-en-santa-rosa-20268247280",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/24/la-brecha-salarial-entre-hombres-y-mujeres-se-disparo-al-29-en-el-gobierno-de-milei/",
+    "title": "La brecha salarial entre hombres y mujeres se disparó al 29 % en el gobierno de Milei",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/24/el-desinteres-por-la-politica-crece-y-ya-alcanza-al-65-de-los-argentinos-hay-una-pista-de-aterrizaje-para-que-llegue-uno-nuevo/",
+    "title": null,
     "attempts": 0
   }
 ]
