@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/78935/la-pampa-dejo-su-marca-en-el-encuentro-apicola-federal-",
     "title": "La Pampa dej&oacute; su marca en el Encuentro Ap&iacute;cola Federal&nbsp;",
-    "attempts": 2
+    "attempts": 3
   },
   {
     "site": "El Diario de La Pampa",
@@ -6608,6 +6608,12 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/municipales/2026/8/23/asistencia-tecnica-para-unidades-de-negocios-seguimos-acompanando-al-sector-privado-destaco-yolanda-carrizo-121995.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/23/boca-y-racing-igualaron-en-un-clasico-que-mantiene-a-ambos-en-la-zona-baja-del-torneo-clausura-2026/",
     "title": null,
     "attempts": 0
   }
