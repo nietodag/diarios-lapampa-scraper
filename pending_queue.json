@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79008/diaz-lacava-pidio-disculpas-y-reclamo-su-absolucion-al-cierre-del-jury",
     "title": "D&iacute;az Lacava pidi&oacute; disculpas y reclam&oacute; su absoluci&oacute;n al cierre del jury",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "site": "El Diario de La Pampa",
@@ -6116,6 +6116,12 @@
   {
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/deportes/79268/la-vuelta-de-la-pocho-severino",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/79269/el-pre-federal-de-basquet-tiene-fixture",
     "title": null,
     "attempts": 0
   }
