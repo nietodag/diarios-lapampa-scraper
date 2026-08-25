@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79008/diaz-lacava-pidio-disculpas-y-reclamo-su-absolucion-al-cierre-del-jury",
     "title": "D&iacute;az Lacava pidi&oacute; disculpas y reclam&oacute; su absoluci&oacute;n al cierre del jury",
-    "attempts": 14
+    "attempts": 15
   },
   {
     "site": "El Diario de La Pampa",
@@ -6344,6 +6344,72 @@
   {
     "site": "Radio Kermes",
     "url": "https://www.radiokermes.com/noticias/31320-el-desinteres-politico-crece-y-ya-alcanza-a-dos-de-cada-tres-argentinos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/25/intendente-alvear-realizan-una-jornada-integral-de-limpieza-y-mantenimiento-en-el-sector-de-la-estacion/",
+    "title": "Intendente Alvear: Realizan una jornada integral de limpieza y mantenimiento en el sector de la Estación",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/audio/esa-compra-esta-consumada-20268250140",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/perfil-demando-a-openai-y-microsoft-por-uso-de-contenidos-sin-autorizacion-20268259110",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/murio-bombero-piquense-20268250140",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/paran-los-nodocentes-de-la-unlpam-20268250140",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/jabali-avanza-en-el-campo-y-se-acerca-hacia-los-poblados-20268258560",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/25/vanguardia-impulsa-la-candidatura-de-kicillof-en-la-pampa/",
+    "title": "Vanguardia impulsa la candidatura de Kicillof en La Pampa",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/25/diputadas-de-la-ucr-impulsan-ley-para-proteger-a-ninos-y-adolescentes-de-la-violencia-digital-y-los-riesgos-de-la-inteligencia-artificial/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31321-peaje-para-transporte-pesado-el-que-rompe-paga",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/8/25/violento-arrebato-una-mujer-de-75-anosla-fiscalia-pidio-dos-meses-de-prision-efectiva-pero-la-jueza-ana-rufini-dicto-prision-domiciliaria-video-122022.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/25/baches-en-la-ruta-151-una-familia-quedo-varada-durante-mas-de-12-horas-122021.html",
     "title": null,
     "attempts": 0
   }
