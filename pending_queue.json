@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79008/diaz-lacava-pidio-disculpas-y-reclamo-su-absolucion-al-cierre-del-jury",
     "title": "D&iacute;az Lacava pidi&oacute; disculpas y reclam&oacute; su absoluci&oacute;n al cierre del jury",
-    "attempts": 10
+    "attempts": 11
   },
   {
     "site": "El Diario de La Pampa",
@@ -6171,6 +6171,42 @@
     "site": "Plan B Noticias",
     "url": "https://www.planbnoticias.com.ar/index.php/2026/08/25/boom-exportador-la-carne-vacuna-genero-us2-768-millones-de-dolares-en-los-primeros-siete-meses-del-ano/",
     "title": "Boom exportador: la carne vacuna generó US$2.768 millones de dólares en los primeros siete meses del año",
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79270/pami-denuncio-a-la-clinica-regional-de-pico-por-sobrefacturar-800-millones",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79271/reconocieron-a-dependencias-y-efectivos-policiales-",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/25/arca-inicia-juicio-por-siete-dias-de-atraso-y-embarga-cuentas-de-inmediato/",
+    "title": "ARCA inicia juicio por siete días de atraso y embarga cuentas de inmediato",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/25/invitan-al-festival-de-la-cancion-y-la-danza-en-honor-a-santa-rosa-de-lima/",
+    "title": "Invitan al Festival de la Canción y la Danza en honor a Santa Rosa de Lima",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/25/radiografia-de-la-mora-en-argentina-586-millones-de-personas-tienen-deudas-atrasadas/",
+    "title": "Radiografía de la mora en Argentina: 5,86 millones de personas tienen deudas atrasadas",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/25/llegan-di-napoli-y-ravier-suenan-pero-la-realidad-les-da-senales/",
+    "title": null,
     "attempts": 0
   }
 ]
