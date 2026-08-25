@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79008/diaz-lacava-pidio-disculpas-y-reclamo-su-absolucion-al-cierre-del-jury",
     "title": "D&iacute;az Lacava pidi&oacute; disculpas y reclam&oacute; su absoluci&oacute;n al cierre del jury",
-    "attempts": 12
+    "attempts": 13
   },
   {
     "site": "El Diario de La Pampa",
@@ -6273,6 +6273,30 @@
     "site": "Plan B Noticias",
     "url": "https://www.planbnoticias.com.ar/index.php/2026/08/25/sitrasap-abre-una-grieta-en-la-mesa-intersindical-no-se-corresponde-con-las-necesidades-economicas/",
     "title": "SITRASAP abre una grieta en la Mesa Intersindical: “no se corresponde con las necesidades económicas”",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/25/fernanda-alonso-mano-a-mano-con-infopico-su-mision-en-ee-uu-obras-clave-y-el-impacto-del-cambio-climatico-en-la-ciudad/",
+    "title": "Fernanda Alonso mano a mano con InfoPico: su misión en EE.UU., obras clave y el impacto del cambio climático en la ciudad",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/alerta-meteorologico-por-fuertes-lluvias-viento-y-nevadas-intensas-20268258130",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/79281/radiografia-de-la-mora--586-millones-de-argentinos-registran-deudas-atrasadas",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/25/la-caida-de-las-ventas-y-el-aumento-de-la-morosidad-en-su-tarjeta-golpean-fuerte-a-la-anonima/",
+    "title": null,
     "attempts": 0
   }
 ]
