@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79008/diaz-lacava-pidio-disculpas-y-reclamo-su-absolucion-al-cierre-del-jury",
     "title": "D&iacute;az Lacava pidi&oacute; disculpas y reclam&oacute; su absoluci&oacute;n al cierre del jury",
-    "attempts": 8
+    "attempts": 9
   },
   {
     "site": "El Diario de La Pampa",
@@ -6146,6 +6146,24 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/8/25/reconocieron-comisaria-primera-de-general-pico-por-su-granlaborpolicial-122016.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82334",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82335",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/temporada-balances-el-consumo-deprimido-y-la-deuda-las-familias-que-milei-no-quiere-ver-n5426054",
     "title": null,
     "attempts": 0
   }
