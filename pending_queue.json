@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79483/la-pampa-formalizo-su-adhesion-al-consejo-federal-para-combatir-delitos-economicos",
     "title": "La Pampa formaliz&oacute; su adhesi&oacute;n al Consejo Federal para combatir delitos econ&oacute;micos",
-    "attempts": 2
+    "attempts": 3
   },
   {
     "site": "El Diario de La Pampa",
@@ -350,6 +350,96 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/salud/2026/8/29/urgente-el-hombre-atropellado-en-ruta-108-esta-muy-grave-con-respiracion-asistida-mira-122187.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/29/anuncian-la-2a-fiesta-provincial-del-bailarin-de-folclore-en-general-pico-con-la-participacion-de-rally-barrionuevo/",
+    "title": "Anuncian la 2ª Fiesta Provincial del Bailarín de Folclore en General Pico con la participación de Rally Barrionuevo",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/29/disputa-por-regalias-de-los-nihuiles-la-corte-suprema-cito-a-la-pampa-en-la-causa-iniciada-por-mendoza/",
+    "title": "Disputa por regalías de Los Nihuiles: la Corte Suprema citó a La Pampa en la causa iniciada por Mendoza",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/29/historico-las-leonas-vencieron-a-paises-bajos-y-se-consagraron-campeonas-del-mundo/",
+    "title": "¡Histórico! Las Leonas vencieron a Países Bajos y se consagraron campeonas del mundo",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/ascienden-a-676-los-muertos-por-la-riada-en-la-frontera-entre-nepal-y-china-20268291600",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/un-empresario-argentino-quedo-en-la-mira-en-peru-por-vinculos-con-fujimori-202682916130",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/kicillof-acelera-el-armado-nacional-de-movimiento-derecho-al-futuro-20268291550",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/los-musicos-uruguayos-maza-y-amuedo-llegan-a-la-pampa-202682914350",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/un-ciclista-hospitalizado-tras-chocar-de-frente-contra-una-moto-202682916290",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/79499/cautela-en-el-gobierno-tras-advertencia-de-eeuu-de-rechazar-postura-britanica-por-malvinas",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/79500/en-12-meses-el-salario-minimo-vital-y-movil-aumento-la-mitad-de-lo-que-marco-la-inflacion",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/79501/el-desafio-de-quebrar-el-piso-de-30-en-porciento---cuanto-tardaron-otros-paises-en-bajar-la-inflacion",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/79502/citarian-a-cristina-kirchner-y-a-maximo-a-indagatoria-por-la-causa-hotesur-los-sauces",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/conversaciones/31386-pablo-wagner-la-trompeta-aparecio-a-los-18-anos-la-musica-estuvo-desde-siempre",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/espectaculos/2026/8/29/fernando-suarez-locutor-el-banco-de-voces-busca-preservar-la-historia-de-la-radio-de-pico-video-122191.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/8/29/desesperado-pedido-de-una-veciname-la-robaron-se-metieron-por-la-ventana-es-una-pitbull-mis-nenes-estan-destrozados-lloran-desde-ayer-fue-en-barrio-malvinas-amarillo-122199.html",
     "title": null,
     "attempts": 0
   }
