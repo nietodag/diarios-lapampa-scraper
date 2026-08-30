@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79483/la-pampa-formalizo-su-adhesion-al-consejo-federal-para-combatir-delitos-economicos",
     "title": "La Pampa formaliz&oacute; su adhesi&oacute;n al Consejo Federal para combatir delitos econ&oacute;micos",
-    "attempts": 7
+    "attempts": 8
   },
   {
     "site": "El Diario de La Pampa",
@@ -932,6 +932,348 @@
   {
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/videos-de-la-semana/79513/videos-de-la-semana",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82423",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82424",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/30/el-fiscal-guillermo-komarofky-identifico-al-hombre-hallado-sin-vida-en-una-casilla-y-descarto-una-muerte-violenta/",
+    "title": "El fiscal Guillermo Komarofky identificó al hombre hallado sin vida en una casilla y descartó una muerte violenta",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/30/general-pico-avanza-con-su-segundo-inventario-de-gases-de-efecto-invernadero-y-renueva-su-plan-local-de-accion-climatica/",
+    "title": "General Pico avanza con su segundo inventario de gases de efecto invernadero y renueva su Plan Local de Acción Climática",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/30/general-pico-multitudinaria-celebracion-por-el-mes-de-las-infancias-organizada-por-los-centros-de-desarrollo-infantil/",
+    "title": "General Pico: Multitudinaria celebración por el Mes de las Infancias organizada por los Centros de Desarrollo Infantil",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/30/historico-los-leones-vencieron-a-paises-bajos-y-se-colgaron-la-medalla-de-bronce-en-el-mundial/",
+    "title": "Histórico: Los Leones vencieron a Países Bajos y se colgaron la medalla de bronce en el Mundial",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/30/jimena-asquini-ya-podemos-comenzar-a-preparar-la-huerta-para-el-verano/",
+    "title": "Jimena Asquini: “ya podemos comenzar a preparar la huerta para el verano”",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/30/noche-de-furia-en-trenel-un-hombre-desnudo-robo-una-camioneta-volco-y-termino-internado-en-el-area-de-salud-mental/",
+    "title": "Noche de furia en Trenel: un hombre desnudo robó una camioneta, volcó y terminó internado en el área de Salud Mental",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/30/reto-del-dia-quien-sera-el-primero-en-dar-con-la-cifra-correcta/",
+    "title": "Reto del día: ¿quién será el primero en dar con la cifra correcta?",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/30/torneo-federal-a-costa-brava-afronta-un-duelo-clave-en-el-nuevo-pacaembu-para-sellar-su-permanencia/",
+    "title": "Torneo Federal A: Costa Brava afronta un duelo clave en el Nuevo Pacaembú para sellar su permanencia",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/30/torneo-regional-federal-amateur-all-boys-de-santa-rosa-goleo-en-el-debut-y-ferro-de-pico-completa-la-fecha-ante-all-boys-de-trenel/",
+    "title": "Torneo Regional Federal Amateur: All Boys de Santa Rosa goleó en el debut y Ferro de Pico completa la fecha ante All Boys de Trenel",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/caldenia/un-mapa-de-rostros-2026830900",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/los-leones-ganaron-el-bronce-en-el-mundial-de-hockey-202683011490",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/ponzio-debuta-como-dt-interino-en-river-plate-202683010270",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/se-hundio-un-barco-con-270-personas-a-bordo-frente-a-las-costas-de-chipre-20268301010",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/como-es-el-mapa-de-privatizaciones-que-prepara-el-gobierno-202683010410",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/se-demora-la-recuperacion-20268300280",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/cada-vez-cuesta-mas-entrar-en-un-trabajo-registrado-20268300290",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/el-pronostico-del-tiempo-para-hoy-en-santa-rosa-20268301050",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/emitieron-alerta-amarilla-por-nevadas-para-la-region-202683011250",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-mapa-la-deuda-el-conurbano-donde-se-concentra-la-mayor-morosidad-familiar-n5426136",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/los-dos-desafios-javier-milei-retener-los-gobernadores-aliados-y-frenar-la-rebelion-patricia-bullrich-n5426194",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/los-tiempos-y-las-condiciones-las-barreras-internas-karina-milei-y-mauricio-macri-sellar-una-alianza-n5426177",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/viene-leon-xiv-victoria-villarruel-la-convidada-piedra-n5426198",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/sergio-massa-y-axel-kicillof-alinean-sus-tropas-n5426195",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/79526/gran-triunfo-de-gimnasia-ante-central",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/79528/fredes-vuelve-al-sur-para-jugar-en-pampero",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/79532/los-leones-van-por-el-bronce-ante-paises-bajos-en-el-mundial",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/79535/con-un-poker-de-messi-el-inter-miami-goleo-a-montreal-y-quebro-la-racha-negativa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/frases-de-la-semana/79525/frases-de-la-semana",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/imagenes-de-la-semana/79524/imagenes-de-la-semana",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79523/ariel-rauschenberger--el-bailarin-del-pj-que-suena-con-ser-la-sintesis-y-entrar-por-la-ventana",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79527/pico--la-fdr-entrego-creditos-por-62-millones-de-pesos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79531/camargo-cuestiono-una-poda-sobre-los-caldenes-de-la-reserva-natural-los-caldenes",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79534/la-central-hidroelectrica-casa-de-piedra-cumplio-30-anos-de-generacion-comercial",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79536/olvido-la-billetera-en-un-uber-en-santa-rosa-y-no-recibe-respuestas--reaparece-el-debate-por-la-regulacion-del-servicio",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/numeros-de-la-semana/79529/numeros-de-la-semana",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/79530/el-dinero-del-garrahan-fue-a-titulos-financieros",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/79533/hernan-lacunza-pidio-ir-separados-de-la-libertad-avanza-en-2027-y-advirtio-por-la-recesion",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/30/aniversario-de-la-policia-esta-fuerza-nos-enorgullece/",
+    "title": "Aniversario de la Policía: “Esta fuerza nos enorgullece”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/30/cano-a-pie-firme-sabiendo-lo-que-necesitamos-y-hacia-donde-vamos/",
+    "title": "Cano: “A pie firme, sabiendo lo que necesitamos y hacia dónde vamos”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/30/con-participacion-pampeana-mas-de-mil-mujeres-peronistas-pidieron-la-liberacion-de-cristina/",
+    "title": "Con participación pampeana: Más de mil mujeres peronistas pidieron la liberación de Cristina",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/30/con-un-poker-de-messi-el-inter-miami-goleo-a-montreal-y-quebro-la-racha-negativa/",
+    "title": "Con un póker de Messi, el Inter Miami goleó a Montreal y quebró la racha negativa",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/30/di-napoli-inaugura-la-plaza-y-36-cuadras-de-asfalto-en-villa-parque/",
+    "title": "Di Nápoli inaugura la plaza y 36 cuadras de asfalto en Villa Parque",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/30/patagonia-game-jam-la-industria-del-juego-genera-mucho-dinero-y-es-polivocacional/",
+    "title": "Patagonia Game Jam: “la industria del juego genera mucho dinero y es polivocacional”",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/30/endeudamiento-buscan-penalizar-la-usura-barrial-y-proteger-a-quienes-recurren-a-prestamos-informales/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/30/los-motivos-detras-de-la-confrontacion-de-milei-la-caida-en-redes-y-el-malestar-de-la-militancia-digital/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/curiosidades/2026/8/29/carlos-gutierrez-veterinario-los-gatos-grises-son-menos-impulsivos-tranquilos-timidos-122203.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/espectaculos/2026/8/29/oscar-coniglio-un-procer-de-la-radio-literalmente-me-metia-dentro-del-transmisor-para-arreglarlo-video-122194.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/municipales/2026/8/30/con-una-gran-jornada-recreativa-los-centros-de-desarrollo-infantil-celebraron-el-mes-de-las-infancias-122214.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/30/disponen-un-aumento-del-10-por-ciento-para-policia-federal-pero-el-65-del-personal-seguira-bajo-la-linea-de-la-pobreza-122217.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/30/encuentran-un-peligroso-proyectil-de-artilleria-en-una-zona-rural-122220.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/8/30/noche-de-locura-en-trenel-un-hombre-desnudo-fuera-de-control-robo-una-amarok-termino-volcando-122221.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/8/30/urgente-el-fiscal-komarofky-confirmo-la-identidad-del-hombre-hallado-muerto-en-una-casilla-mira-122216.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/30/30-de-agosto-dia-de-la-policia-de-la-pampa-122218.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/30/casa-de-piedra-celebro-30-anos-de-generacion-hidroelectrica-122215.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/salud/2026/8/30/urgente-tyrone-el-bebe-de-meses-operado-del-corazon-sigue-en-terapia-denuncian-abandono-de-la-obra-social-video-122213.html",
     "title": null,
     "attempts": 0
   }
