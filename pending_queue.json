@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79483/la-pampa-formalizo-su-adhesion-al-consejo-federal-para-combatir-delitos-economicos",
     "title": "La Pampa formaliz&oacute; su adhesi&oacute;n al Consejo Federal para combatir delitos econ&oacute;micos",
-    "attempts": 6
+    "attempts": 7
   },
   {
     "site": "El Diario de La Pampa",
@@ -896,6 +896,42 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/29/tragedia-mujer-de-93-anos-murio-tras-ser-atacada-por-un-dogo-122189.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82399",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82403",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/30/fuerte-choque-por-alcance-en-calle-19-dejo-a-un-conductor-hospitalizado/",
+    "title": "Fuerte choque por alcance en calle 19 dejó a un conductor hospitalizado",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/caldenia/llorar-en-seco-2026830600",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/para-javier-milei-la-lapicera-los-gobernadores-las-facturas-la-motosierra-mas-cara-del-mundo-n5426193",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/videos-de-la-semana/79513/videos-de-la-semana",
     "title": null,
     "attempts": 0
   }
