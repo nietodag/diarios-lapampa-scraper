@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79483/la-pampa-formalizo-su-adhesion-al-consejo-federal-para-combatir-delitos-economicos",
     "title": "La Pampa formaliz&oacute; su adhesi&oacute;n al Consejo Federal para combatir delitos econ&oacute;micos",
-    "attempts": 11
+    "attempts": 12
   },
   {
     "site": "El Diario de La Pampa",
@@ -1922,6 +1922,54 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/30/la-pampa-invierte-casi-800-millones-para-aplicar-la-prevencion-de-incendios-rurales-122232.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/30/bajo-el-lema-raices-pampeanas-se-realizara-una-nueva-edicion-de-la-feria-provincial-del-libro-infantil-y-juvenil-en-general-pico/",
+    "title": "Bajo el lema “Raíces Pampeanas”, se realizará una nueva edición de la Feria Provincial del Libro Infantil y Juvenil en General Pico",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/30/inversion-historica-en-salud-adjudicaron-por-mas-de-5-600-millones-la-obra-de-ampliacion-de-salud-mental-en-el-hospital-rene-favaloro/",
+    "title": "Inversión histórica en Salud: adjudicaron por más de $5.600 millones la obra de ampliación de Salud Mental en el Hospital René Favaloro",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/torneo-clausura-independiente-cayo-de-local-ante-gimnasia-de-mendoza-202683021280",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/el-boom-de-la-ia-se-acerca-a-latinoamerica-hay-cuatro-paises-listos-para-recibirlo-202683021110",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/dos-detenidos-por-disturbios-202683021190",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/incendio-en-una-parrilla-del-barrio-este-202683021190",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/pampeana-es-miss-cultura-continental-202683020350",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/30/callejero-fino-fue-detenido-en-tigre-viajaba-en-una-camioneta-sin-patente-encontraron-un-arma-122235.html",
     "title": null,
     "attempts": 0
   }
