@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79483/la-pampa-formalizo-su-adhesion-al-consejo-federal-para-combatir-delitos-economicos",
     "title": "La Pampa formaliz&oacute; su adhesi&oacute;n al Consejo Federal para combatir delitos econ&oacute;micos",
-    "attempts": 14
+    "attempts": 15
   },
   {
     "site": "El Diario de La Pampa",
@@ -2372,6 +2372,312 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/salud/2026/8/30/vecina-del-hospital-federal-atienden-re-bien-antes-me-tenia-que-cruzar-pico-para-atenderme-video-122195.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82434",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82436",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82437",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/31/acuerdo-entre-la-pampa-y-buenos-aires-para-enfrentar-la-crisis-hidrica-y-reclamo-conjunto-a-nacion-por-fondos/",
+    "title": "Acuerdo entre La Pampa y Buenos Aires para enfrentar la crisis hídrica y reclamo conjunto a Nación por fondos",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/31/alerta-sanitaria-advierten-que-el-proximo-verano-podria-favorecer-la-proliferacion-del-dengue/",
+    "title": "Alerta sanitaria: advierten que el próximo verano podría favorecer la proliferación del dengue",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/31/descarrilo-un-tren-de-carga-entre-vertiz-y-ojeda/",
+    "title": "Descarriló un tren de carga entre Vértiz y Ojeda",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/31/el-programa-becas-iniciar-fortalece-el-vinculo-entre-estudiantes-universitarios-y-empresas-de-la-pampa/",
+    "title": "El programa Becas INICIAR fortalece el vínculo entre estudiantes universitarios y empresas de La Pampa",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/31/fin-de-una-era-lionel-messi-anuncio-su-retiro-definitivo-de-la-seleccion-argentina/",
+    "title": "Fin de una era: Lionel Messi anunció su retiro definitivo de la Selección Argentina",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/31/intendente-alvear-tras-casi-una-decada-compactaron-cerca-de-200-vehiculos-retenidos/",
+    "title": "Intendente Alvear: tras casi una década, compactaron cerca de 200 vehículos retenidos",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/31/lanzan-una-convocatoria-nacional-para-adoptar-a-una-nena-de-10-anos/",
+    "title": "Lanzan una convocatoria nacional para adoptar a una nena de 10 años",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/08/31/macota-espada-la-escapula-es-un-hueso-muy-protagonico-en-la-movilidad-del-hombro/",
+    "title": "Macota Espada: «La escápula es un hueso muy protagónico en la movilidad del hombro»",
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/municipios/los-proyectos-axel-kicillof-el-letargo-del-senado-y-los-obstaculos-del-peronismo-y-la-oposicion-n5426217",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/conflicto-puerta-municipales-buenos-aires-inician-un-plan-lucha-mejores-salarios-n5426219",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/encuentro-la-pampa-kicillof-y-ziliotto-juntos-contra-milei-y-una-foto-usar-on-demand-n5426212",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/encuesta-como-les-va-milei-pullaro-y-javkin-rosario-n5426220",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/la-crisis-la-legislatura-cerca-myrian-prunotto-rodrigo-loredo-embiste-y-el-viguismo-toma-distancia-n5426213",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/la-nueva-version-tolosa-paz-autocritica-armado-federal-y-astrologia-la-mira-puesta-2027-n5426168",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/la-ucr-chubut-despues-la-interna-merino-va-la-triple-corona-biss-quedo-solo-y-guajardo-espera-n5426210",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/pullaro-abrio-el-santa-fe-business-forum-somos-la-provincia-mas-productiva-argentina-n5426209",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/tras-su-salida-la-campora-stefania-cora-presento-origen-un-nuevo-espacio-peronista-rios-n5426215",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/tarifa-electrica-axel-kicillof-autorizo-una-suba-24-buenos-aires-septiembre-n5426211",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/79575/el-impacto-de-la-renuncia-de-messi--conmocion-mundial-y-una-marea-de-homenajes",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79576/kicillof-destaco-el-pilquen--la-pampa-lo-invento-buenos-aires-lo-adopta",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79577/la-prioridad-de-milei-es-la-reeleccion-no-los-problemas-urgentes",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79578/realizaron-un-operativo-de-transito-en-la-puerta-del-emsu-y-secuestraron-motos-de-los-municipales",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79579/ziliotto-reitero-a-santilli-el-pedido-por-el-sistema-de-alertas-tempranas",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79580/bebe-de-rancul--la-corte-suprema-de-justicia-abrio-la-puerta-a-la-posible-adopcion",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79581/la-pampa-y-buenos-aires-ampliaron-la-cooperacion-en-seguridad-salud-y-turismo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/31/el-video-y-la-carta-completa-con-la-que-messi-anuncio-su-retiro-de-la-seleccion/",
+    "title": "El video y la carta completa con la que Messi anunció su retiro de la Selección",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/31/gobbi-el-agua-no-conoce-de-limites-administrativos-y-debemos-planificar-en-conjunto/",
+    "title": "Gobbi: “El agua no conoce de límites administrativos y debemos planificar en conjunto”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/31/katopodis-hay-290-mil-millones-que-deberian-estar-invertidos-ya-en-las-provincias/",
+    "title": "Katopodis: “Hay $290 mil millones que deberían estar invertidos ya en las provincias”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/31/kicillof-cuestiono-a-milei-por-los-fondos-hidricos-no-vuelven-en-las-obras-que-necesitamos/",
+    "title": "Kicillof cuestionó a Milei por los fondos hídricos: “No vuelven en las obras que necesitamos”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/31/la-municipalidad-realizo-controles-de-alcoholemia-a-trabajadores-de-servicios-urbanos/",
+    "title": "La municipalidad realizó controles de alcoholemia a trabajadores de servicios urbanos",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/31/messi-anuncio-su-retiro-de-la-seleccion-duele-en-el-alma-pero-es-el-momento/",
+    "title": "Messi anunció su retiro de la selección: “Duele en el alma, pero es el momento”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/31/records-y-mas-records-los-numeros-que-deja-messi-en-la-seleccion/",
+    "title": "Récords y más récords: los números que deja Messi en la Selección",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/08/31/suicidio-en-argentina-ya-es-la-principal-causa-de-muerte-entre-los-jovenes/",
+    "title": "Suicidio en Argentina: ya es la principal causa de muerte entre los jóvenes",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/31/diputadas-proponen-crear-alerta-pampa-para-agilizar-la-busqueda-de-menores-extraviados/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/31/kicillof-y-ziliotto-firmaron-un-acuerdo-para-enfrentar-el-nino-y-reclamaron-los-fondos-manoteados-por-milei/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/31/lionel-messi-anuncio-su-retiro-de-la-seleccion-argentina-duele-en-el-alma-pero-es-el-momento/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/08/31/los-elogios-de-kicillof-a-ziliotto-es-uno-de-los-mas-grandes-especialistas-sobre-la-coparticipacion/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/curiosidades/2026/8/31/sorprendio-todos-un-chino-se-animo-cantar-folclore-argentino--video-122258.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/deportes/2026/8/31/asi-se-despedio-messi-en-su-cuenta-oficial-de-instagram-video-122266.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/deportes/2026/8/31/messi-anuncio-su-retiro-de-la-seleccion-argentina-me-vacie-ya-no-tengo-mas-para-dar-122262.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/31/muerte-en-la-casilla-la-causa-inmediata-del-deceso-es-muerte-subita-por-una-probable-arritmia-pero-la-falta-de-aire-que-provoca-el-uso-de-esta-pantalla-en-un-lugar-cerrado-podria-estar-relacionada-122261.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/8/31/violenta-colision-entre-una-camioneta-un-ciclista-un-hombre-de-72-anos-pelea-por-su-vida-en-terapia-intensiva-video-122267.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/8/31/insolito-accidente-en-barrio-norte-se-le-cruzo-un-gato-negro-mitad-de-cuadra-cayo-de-la-moto-sufrio-una-fractura-video-122265.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/8/30/detuvieron-dos-policias-acusados-de-haber-montado-un-falso-allanamiento-para-robar-mas-de-30-millones-de-una-casa-122239.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/8/31/el-calvario-de-fabio-viale-asegura-que-el-dueno-del-departamento-que-alquilaba-le-espio-la-intimidad-con-camaras-le-rompio-la-moto-hasta-le-abrio-la-puerta-la-policia-para-que-lo-detuvieran-de-manera-salvaje-122264.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/31/casa-de-piedra-celebro-30-anos-de-generacion-hidroelectrica-122263.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/31/la-pampa-buenos-aires-profundizan-la-cooperacion-con-nuevos-acuerdos-estrategicos-122268.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/8/31/reorganizan-los-registros-del-automotor-en-la-pampa-seis-oficinas-concentraran-tramites-de-motos-maquinaria-122260.html",
     "title": null,
     "attempts": 0
   }
