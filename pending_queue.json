@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79510/la-policia-de-la-pampa-celebra-su-140-aniversario",
     "title": "La Polic&iacute;a celebr&oacute; su aniversario con acto y desfile",
-    "attempts": 2
+    "attempts": 3
   },
   {
     "site": "El Diario de La Pampa",
@@ -3332,6 +3332,210 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/1/castex-ministerios-articulan-acciones-en-materia-de-seguridad-educacion-vial-122281.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82435",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82451",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82454",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82455",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/01/bensusan-la-gente-se-endeudo-porque-no-llega-a-fin-de-mes-no-para-comprarse-un-televisor/",
+    "title": "Bensusán: «La gente se endeudó porque no llega a fin de mes, no para comprarse un televisor»",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/01/con-una-inversion-de-mas-de-6-300-millones-la-pampa-duplicara-la-capacidad-del-area-de-salud-mental-del-hospital-molas/",
+    "title": "Con una inversión de más de $6.300 millones, La Pampa duplicará la capacidad del área de Salud Mental del Hospital Molas",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/01/fuerte-altercado-de-transito-en-la-ruta-35-termino-con-tres-demorados-y-el-secuestro-de-un-arma-de-gas-pimienta-en-realico/",
+    "title": "Fuerte altercado de tránsito en la Ruta 35 terminó con tres demorados y el secuestro de un arma de gas pimienta en Realicó",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/pipo-gorosito-dejo-de-ser-el-tecnico-de-san-lorenzo-20269116510",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/se-consumo-la-etapa-clasificatoria-de-los-juegos-deportivos-pampeanos-20269119480",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/milei-avanza-con-una-reforma-judicial-para-blindarse-a-futuro-20269118310",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/ardohain-presento-proyecto-para-incluir-tramo-de-la-ruta-151-en-el-presupuesto-2027-20269119570",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/el-acuerdo-con-buenos-aires-nos-tranquiliza-20269117160",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/entregaron-creditos-a-emprendedoras-de-puelches-20269119360",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/ferias-de-ciencias-arte-y-tecnologia-19-proyectos-representaran-a-la-pampa-2026911910",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/emitieron-alerta-amarilla-por-nevada-para-la-region-20269119350",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/andis-la-exfuncionaria-economia-la-que-le-encontraron-us-700-mil-afirmo-que-le-donaron-us-50-mil-n5426255",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79632/anuncian-un-corte-de-luz-para-este-jueves-en-el-barrio-las-camelias",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79633/mato-a-punaladas-a-un-perro-en-plena-calle-tras-una-pelea-entre-animales",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79634/firmaron-el-contrato-para-iniciar-la-ampliacion-de-salud-mental-del-hospital-favaloro-molas",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/01/512040/",
+    "title": "La Provincia avanza con la iluminación eficiente de las canchas de fútbol de Larroudé",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/01/anguil-tendra-un-nuevo-sum-tiene-un-enorme-valor-social/",
+    "title": "Anguil tendrá un nuevo SUM: “Tiene un enorme valor social”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/01/el-memorial-cultural-sumara-a-ana-maria-lassalle-referente-de-las-letras-pampeanas/",
+    "title": "El Memorial Cultural sumará a Ana María Lassalle, referente de las letras pampeanas",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/01/mas-de-1-500-familias-seran-beneficiadas-por-el-plan-de-pavimentacion-de-santa-rosa/",
+    "title": "Más de 1.500 familias serán beneficiadas por el plan de pavimentación de Santa Rosa",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/01/pelea-tras-una-maniobra-en-la-ruta-35-tres-demorados-y-un-arma-secuestrada/",
+    "title": "Pelea tras una maniobra en la Ruta 35: Tres demorados y un arma secuestrada",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/01/reves-para-milei-la-justicia-acepto-una-cautelar-de-la-uba-por-la-ley-de-financiamiento-universitario/",
+    "title": "Revés para Milei: la Justicia aceptó una cautelar de la UBA por la Ley de Financiamiento Universitario",
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/1/golpazo-en-bici-trasladan-un-joven-al-hospital-con-posible-fractura-de-muneca-video-122322.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/1/urgente-grave-accidente-entre-moto-auto-hospitalizan-dos-jovenes-uno-con-traumatismo-facial-perdida-de-piezas-dentarias-video-122323.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/mundo/2026/9/1/la-victima-fatal-del-ataque-en-times-square-tenia-32-anos-era-vicepresidenta-de-bank-of-america-video-122315.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/municipales/2026/9/1/plan-de-regularizacion-15-de-descuento-hasta-12-cuotas-para-cancelar-deudas-municipales-122308.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/9/1/general-pico-condenaron-10-anos-de-prision-un-hombre-de-74-anos-por-abusar-sexualmente-de-su-nieta-122305.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/1/apunalaron-un-joven-durante-un-cumpleanos-de-15-122310.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/1/diputadas-proponen-crear-alerta-pampa-para-agilizar-la-busqueda-de-menores-122304.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/1/jorge-lezcano-di-napoli-hoy-reniega-del-mismo-mecanismo-que-lo-llevo-la-intendencia-122307.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/1/se-incendio-un-auto-en-la-ruta-2-trabajaron-bomberos-voluntarios-de-intendente-alvear-122318.html",
     "title": null,
     "attempts": 0
   }
