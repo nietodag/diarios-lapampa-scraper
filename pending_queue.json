@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79510/la-policia-de-la-pampa-celebra-su-140-aniversario",
     "title": "La Polic&iacute;a celebr&oacute; su aniversario con acto y desfile",
-    "attempts": 5
+    "attempts": 6
   },
   {
     "site": "El Diario de La Pampa",
@@ -3753,6 +3753,42 @@
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/2/el-suicidio-se-convirtio-en-la-principal-causa-de-muerte-entre-los-jovenes-que-ocurre-en-la-pampa-122286.html",
     "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82457",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82458",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82459",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/la-victoria-mas-deseada-milei-n5426246",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/01/el-gobierno-amplia-el-servicio-de-salud-mental-en-el-favaloro-y-el-molas/",
+    "title": "El Gobierno amplía el servicio de Salud Mental en el Favaloro y el Molas",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/02/el-nino-los-junta-o-ni-siquiera-los-amonta/",
+    "title": "El niño los junta o ni siquiera los amonta",
     "attempts": 0
   }
 ]
