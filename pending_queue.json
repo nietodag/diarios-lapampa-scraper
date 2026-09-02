@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79510/la-policia-de-la-pampa-celebra-su-140-aniversario",
     "title": "La Polic&iacute;a celebr&oacute; su aniversario con acto y desfile",
-    "attempts": 8
+    "attempts": 9
   },
   {
     "site": "El Diario de La Pampa",
@@ -4412,6 +4412,192 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/1/la-pampa-rio-negro-coordinan-la-proxima-temporada-de-pesca-en-casa-de-piedra-122317.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/02/basquet-formativo-ferro-inicia-este-sabado-su-ilusion-en-la-liga-federal-u13/",
+    "title": "Básquet formativo: Ferro inicia este sábado su ilusión en la Liga Federal U13",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/02/maria-pichu-escudero-y-el-orgullo-por-los-atletas-piquenses-en-los-21k-de-buenos-aires/",
+    "title": "María “Pichu” Escudero y el orgullo por los atletas piquenses en los 21K de Buenos Aires",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/02/un-motociclista-perdio-el-control-al-acomodarse-el-casco-y-choco-contra-un-auto-estacionado/",
+    "title": "Un motociclista perdió el control al acomodarse el casco y chocó contra un auto estacionado",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/la-afa-anuncio-homenaje-a-lionel-messi-en-todas-las-categorias-20269216420",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/alemania-tensa-su-relacion-con-rusia-al-borde-de-la-ruptura-20269214500",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/mas-del-50-de-los-argentinos-pertenece-a-la-clase-baja-con-un-salario-promedio-de-1-millon-20269216200",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/morosidad-la-oposicion-denuncio-una-maniobra-para-ganar-tiempo-por-parte-del-oficialismo-20269216290",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/se-descompenso-el-pity-alvarez-y-se-suspendio-la-audiencia-20269216570",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/los-30-kilometros-malditos-20269214570",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/proyectos-y-trabajos-en-la-cooperativa-de-general-san-martin-2026921550",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/un-espacio-de-bienestar-para-pacientes-ambulatorios-2026921300",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/encuentro-de-juegos-de-mesa-cuando-es-y-como-participar-2026921520",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/conurbano/legislatura-bonaerense-mario-ishii-se-planto-y-trabo-el-avance-los-proyectos-kicillof-el-senado-n5426266",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/alexis-guerrera-se-sube-al-operativo-clamor-y-candidatea-sergio-massa-es-el-indicado-enfrentar-milei-n5426271",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-peronismo-catamarca-quiere-expulsar-un-diputado-filolibertario-acorralado-la-justicia-n5426253",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-repliegue-las-fuerzas-del-cielo-brazo-armado-javier-milei-silencio-radio-n5426261",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-socialismo-no-apura-nombres-competir-rosario-lograr-la-alquimia-sus-tribus-n5426269",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/sergio-massa-mueve-sus-fichas-2027-y-les-pide-los-intendentes-fortalecer-el-territorio-n5426268",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79664/el-jurado-de-enjuiciamiento-rechazo-la-destitucion-del-juez-federal-pablo-diaz-lacava",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79665/ataco-con-un-arma-blanca-a-dos-hermanos-en-una-fiesta-de-15-y-fue-condenado-",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79666/alerta-en-puelches-por-el-envenenamiento-de-seis-perros",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79667/losi-y-campo-se-apartaron-del-caso-de-la-recova",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/02/cloacas-para-villa-germinal-finaliza-la-primera-etapa-y-beneficiara-a-600-familias/",
+    "title": "Cloacas para Villa Germinal: finaliza la primera etapa y beneficiará a 600 familias",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/02/intento-de-homicidio-recibio-cinco-anos-de-prision-por-apunalar-a-dos-hombres/",
+    "title": "Intento de homicidio: recibió cinco años de prisión por apuñalar a dos hombres",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/02/segun-informe-mas-de-la-mitad-de-los-argentinos-pertenece-a-la-clase-baja/",
+    "title": "Según informe, más de la mitad de los argentinos pertenece a la clase baja",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/02/el-pro-y-la-ucr-le-trabaron-el-super-rigi-a-milei-en-el-senado/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/02/malvinas-milei-anunciaria-una-ley-para-sancionar-a-empresas-que-desarrollen-actividades-sin-autorizacion-de-la-argentina/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/02/pablo-diaz-lacava-seguira-como-juez-federal-el-jury-rechazo-su-destitucion/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/2/tension-en-la-puerta-de-una-escuela-un-hombre-empujo-un-alumno-lo-amenazo-de-muerte-video-122350.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/9/2/brutal-ataque-en-general-pico-apunalo-dos-hombres-uno-sufrio-la-amputacion-de-una-mano-antebrazorecibio-anos-de-prision-122348.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/salud/2026/9/2/las-autoridades-del-hospital-centeno-dieron-la-bienvenida-los-nuevos-residentes-de-salud-122345.html",
     "title": null,
     "attempts": 0
   }
