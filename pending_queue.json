@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79510/la-policia-de-la-pampa-celebra-su-140-aniversario",
     "title": "La Polic&iacute;a celebr&oacute; su aniversario con acto y desfile",
-    "attempts": 12
+    "attempts": 13
   },
   {
     "site": "El Diario de La Pampa",
@@ -5180,6 +5180,48 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/2/titular-de-la-unilpa-destaco-las-politicas-del-gobierno-pampeano-para-sostener-al-sector-122362.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82469",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82472",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/brasil-el-ladron-el-juez-su-mujer-y-su-enchastre-n5426286",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/03/boca-vencio-por-penales-a-velez-y-se-metio-en-los-cuartos-de-final-de-la-copa-argentina/",
+    "title": "Boca venció por penales a Vélez y se metió en los cuartos de final de la Copa Argentina",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/03/comunidad-organizada-pidio-que-la-fia-investigue-el-destino-del-fondo-provincial-de-vialidad/",
+    "title": "Comunidad Organizada pidió que la FIA investigue el destino del fondo provincial de vialidad",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/03/preventa-del-poemario-pace-de-silvio-tejada/",
+    "title": "Preventa del poemario “Pace” de Silvio Tejada",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/03/bienvenidos-al-tren-el-peronismo-en-la-pampa-calienta-motores-rumbo-a-2027/",
     "title": null,
     "attempts": 0
   }
