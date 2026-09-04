@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79510/la-policia-de-la-pampa-celebra-su-140-aniversario",
     "title": "La Polic&iacute;a celebr&oacute; su aniversario con acto y desfile",
-    "attempts": 18
+    "attempts": 19
   },
   {
     "site": "El Diario de La Pampa",
@@ -6398,6 +6398,156 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/salud/2026/9/3/buscan-declarar-esencial-la-anestesiologia-en-la-pampa-122381.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/03/milei-anuncio-la-construccion-de-una-base-naval-en-tierra-del-fuego-y-duras-sanciones-a-petroleras-en-malvinas/",
+    "title": "Milei anunció la construcción de una base naval en Tierra del Fuego y duras sanciones a petroleras en Malvinas",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/03/roberto-bigorito-la-tormenta-es-perfecta-porque-a-la-situacion-economica-acompana-la-condicion-de-la-ruta/",
+    "title": "Roberto Bigorito: «La tormenta es perfecta porque a la situación económica acompaña la condición de la ruta»",
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/endeudamiento-quienes-son-y-cuantos-votos-suman-los-cinco-gobernadores-los-que-presiona-karina-milei-n5426328",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/milei-y-malvinas-yankees-come-home-n5426338",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/nota/2022-4-2-10-24-0-para-que-quiere-el-reino-unido-las-islas-del-atlantico-sur",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-gobierno-axel-kicillof-cruzo-milei-malvinas-fan-thatcher-y-oportunista-n5426335",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/javier-milei-malvinas-y-soberania-un-giro-copernicano-necesidad-y-urgencia-n5426339",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/malvinas-milei-apela-una-ley-cfk-frenar-explotacion-britanica-recursos-y-planta-una-base-naval-tierra-del-fuego-n5426330",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/79735/el-torneo-provincial-ya-tiene-definidas-las-zonas",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/79737/fisicoculturismo--varios-titulos-pampeanos-en-realico",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/79740/pico-football-ya-conoce-a-sus-rivales",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/79741/labriola-brillo-en-la-copa-de-campeones",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/79742/primer-contacto-con-monza",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/79736/en-cadena-nacional-milei-anuncio-sanciones-para-petrolera-que-operen-en-malvinas",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/03/la-pampa-brillo-en-vinus-2026-y-lovera-pidio-reconocer-a-las-bodegas-por-su-desempeno-internacional/",
+    "title": "La Pampa brilló en VINUS 2026 y Lovera pidió reconocer a las bodegas por su desempeño internacional",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/03/milei-anuncio-sanciones-para-empresas-que-operen-en-malvinas-y-la-construccion-de-una-base-en-tierra-del-fuego/",
+    "title": "Milei anunció sanciones para empresas que operen en Malvinas y la construcción de una base en Tierra del Fuego",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/03/giro-de-milei-por-malvinas-anuncio-sanciones-a-empresas-y-una-base-naval/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/03/riglos-se-prepara-para-una-nueva-edicion-de-la-fiesta-nacional-del-asador-criollo/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/3/urgente-e-102-ciclista-se-descompenso-choco-contra-el-espejo-de-una-camioneta-termino-hospitalizado-video-122398.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/4/perdidas-totales-un-incendio-destruyo-una-casilla-un-galpon-cerca-de-monte-nievas-video-122402.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/3/brutal-ataque-un-joven-ciego-lo-golpearon-para-robarle-video-122390.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/3/en-chile-milei-reivindico-el-derrocamiento-de-allende-critico-pedro-sanchez-macri-122391.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/3/villa-gobernador-galvez-investigan-un-posible-femicidio-seguido-de-suicidio-tras-hallar-dos-cuerpos-calcinados-video-122389.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/4/javier-milei-anuncio-sanciones-para-empresas-que-operen-en-malvinas-la-construccion-de-una-base-en-tierra-del-fuego-122403.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/3/anuncian-una-fuerte-irrupcion-de-aire-frio-heladas-para-la-pampa-video-122397.html",
     "title": null,
     "attempts": 0
   }
