@@ -3,7 +3,7 @@
     "site": "La Arena",
     "url": "https://www.laarena.com.ar/la-pampa/el-amontonamiento-indiscriminado-es-un-grave-error-politico-20268301720",
     "title": "“El amontonamiento indiscriminado es un grave error político”.",
-    "attempts": 8
+    "attempts": 9
   },
   {
     "site": "La Arena",
@@ -6740,6 +6740,12 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/5/en-la-pampa-sera-obligatoria-la-capacitacion-en-derechos-de-infancias-adolescencias-122426.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/5/urgente-vivo-de-milagro-el-tren-arrollo-un-automovil-en-circunvalacion-vias--video-122434.html",
     "title": null,
     "attempts": 0
   }
