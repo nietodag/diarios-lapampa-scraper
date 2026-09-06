@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/espacio-publicitario/79681/la-suerte-puede-encontrarte-en-el-cumplemas-de-changomas--sumate-a-las-sorpresas-y-participa-del-sorteo-de-un-chango-por-hora",
     "title": "La suerte puede encontrarte en el CumpleM&acirc;s de ChangoM&acirc;s: &iexcl;Sumate a las sorpresas y particip&aacute; del sorteo de un chango por hora!\"",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "site": "Plan B Noticias",
@@ -4244,6 +4244,78 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/salud/2026/9/5/aspirantes-agentes-cadetes-del-isp-se-capacitan-en-el-centro-de-simulacion-clinica-122444.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/06/el-gobierno-provincial-presento-en-rancul-la-estrategia-de-forestacion-en-escuelas-para-la-adaptacion-al-cambio-climatico/",
+    "title": "El Gobierno provincial presentó en Rancul la estrategia de forestación en escuelas para la adaptación al cambio climático",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/06/intendente-alvear-reclama-maquinaria-a-vialidad-provincial-para-mantener-caminos-rurales-en-estado-critico/",
+    "title": "Intendente Alvear reclama maquinaria a Vialidad Provincial para mantener caminos rurales en estado crítico",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/caldenia/vinos-etiquetas-que-venden-2026961500",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/las-ventas-minoristas-pyme-cayeron-2-7-en-agosto-2026961370",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/realizaron-evento-para-concientizar-sobre-prevencion-del-suicidio-20269613250",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/segundo-encuentro-coral-elba-fernandez-en-25-de-mayo-20269614300",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/un-hombre-fue-baleado-en-general-acha-y-esta-internado-20269615110",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/volco-un-utilitario-en-la-ruta-5-2026960150",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/emitieron-alerta-por-frio-extremo-para-la-region-2026961420",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/79844/franco-colapinto-lloro-por-el-despiste--desaproveche-una-oportunidad-",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/06/colapinto-rompio-en-llanto-luego-del-gp-de-italia-era-una-gran-oportunidad/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/06/di-napoli-feito-y-perez-araujo-una-foto-en-clave-politica-en-medio-de-la-fiesta-de-la-torta-de-los-alemanes-del-volga/",
     "title": null,
     "attempts": 0
   }
