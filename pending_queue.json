@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/espacio-publicitario/79681/la-suerte-puede-encontrarte-en-el-cumplemas-de-changomas--sumate-a-las-sorpresas-y-participa-del-sorteo-de-un-chango-por-hora",
     "title": "La suerte puede encontrarte en el CumpleM&acirc;s de ChangoM&acirc;s: &iexcl;Sumate a las sorpresas y particip&aacute; del sorteo de un chango por hora!\"",
-    "attempts": 4
+    "attempts": 5
   },
   {
     "site": "Plan B Noticias",
@@ -4586,6 +4586,120 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/6/un-hombre-fue-baleado-por-una-mujer-permanece-internado-mira-122479.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82519",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/06/general-pico-investigan-la-presunta-apropiacion-ilegal-de-un-nino-a-cambio-de-dinero/",
+    "title": "General Pico: investigan la presunta apropiación ilegal de un niño a cambio de dinero",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/06/torneo-regional-amateur-all-boys-de-trenel-piso-fuerte-de-local-quedo-como-unico-puntero-y-ferro-igualo-en-la-capital/",
+    "title": "Torneo Regional Amateur: All Boys de Trenel pisó fuerte de local, quedó como único puntero y Ferro igualó en la capital",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/independiente-le-gano-a-central-cordoba-por-el-torneo-clausura-20269619150",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/alemania-la-ultraderecha-arraso-y-esta-cerca-de-gobernar-una-region-20269620400",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/abelardo-ferran-fustigo-a-javier-milei-miente-permanentemente-20269619280",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/anguil-promueve-la-separacion-de-residuos-y-el-cuidado-del-ambiente-2026962020",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/intervencion-estatal-ante-la-posible-apropiacion-ilegal-de-un-nino-en-general-pico-20269619320",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/la-pampa-y-buenos-aires-fortalecen-la-cooperacion-en-emergencias-y-salud-mental-20269619460",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/persecucion-choque-y-tres-policias-lesionados-en-general-acha-20269620260",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/victoria-villarruel-volvio-buenos-aires-y-le-reclamo-milei-una-reforma-impositiva-el-campo-n5426391",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79852/intervencion-estatal-ante-la-posible-apropiacion-ilegal-de-un-nino-en-general-pico",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/06/el-mofepa-celebra-el-frente-contra-el-peronismo-amit-vuelve-a-reunir-a-la-oposicion-pampeana/",
+    "title": "El MoFePa celebra el frente contra el peronismo: “Amit vuelve a reunir a la oposición pampeana”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/06/la-segunda-fecha-de-4-rios-un-desafio-original-se-corrio-en-larroude/",
+    "title": "La segunda fecha de “4 Ríos, Un Desafío Original” se corrió en Larroudé",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/06/ninez-denuncio-intento-de-apropiacion-ilegal-de-un-nino-en-general-pico/",
+    "title": "Niñez denunció intento de apropiación ilegal de un niño en General Pico",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/06/investigan-si-vendieron-un-nene-el-estado-intervino-ante-la-posible-apropiacion-ilegal-de-un-nino-en-pico/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/espectaculos/2026/9/6/maniacas-es-muy-loco-ver-la-pelicula-reconocer-todos-esos-lugares-no-podes-creer-que-se-haya-hecho-aca-en-pico-video-122473.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/9/6/asi-detuvieron-al-vw-gol-que-escapo-de-la-policia-por-las-calles-de-general-acha-122487.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/9/6/general-pico-investigan-una-pareja-por-recibir-un-nino-cambio-de-dinero-122486.html",
     "title": null,
     "attempts": 0
   }
