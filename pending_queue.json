@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/espacio-publicitario/79681/la-suerte-puede-encontrarte-en-el-cumplemas-de-changomas--sumate-a-las-sorpresas-y-participa-del-sorteo-de-un-chango-por-hora",
     "title": "La suerte puede encontrarte en el CumpleM&acirc;s de ChangoM&acirc;s: &iexcl;Sumate a las sorpresas y particip&aacute; del sorteo de un chango por hora!\"",
-    "attempts": 14
+    "attempts": 15
   },
   {
     "site": "Plan B Noticias",
@@ -6392,6 +6392,324 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/salud/2026/9/8/anmat-advierte-sobre-la-venta-ilegal-de-medicamentos-inyecciones-para-adelgazar-122534.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82535",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82536",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82541",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/08/el-xxiv-coral-de-la-pampa-celebra-su-septimo-fin-de-semana-con-conciertos-en-cinco-localidades/",
+    "title": "El XXIV Coral de La Pampa celebra su séptimo fin de semana con conciertos en cinco localidades",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/08/francisco-marull-en-el-68-aniversario-de-la-unlpam-queremos-profundizar-el-vinculo-con-el-sector-socioproductivo-de-la-provincia/",
+    "title": "Francisco Marull en el 68 aniversario de la UNLPam: «Queremos profundizar el vínculo con el sector socioproductivo de la provincia»",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/08/un-juez-de-la-corte-interamericana-de-derechos-humanos-disertara-en-la-universidad-de-la-pampa/",
+    "title": "Un juez de la Corte Interamericana de Derechos Humanos disertará en la Universidad de La Pampa",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/08/una-despedida-que-conmovio-al-mundo-mujer-de-76-anos-debio-entregar-a-su-perro-tras-ocho-anos-de-compania/",
+    "title": "Una despedida que conmovió al mundo: mujer de 76 años debió entregar a su perro tras ocho años de compañía",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/08/verna-reaparece-agita-la-interna-peronista-y-definio-la-foto-con-di-napoli-como-una-charla-entre-companeros/",
+    "title": "Verna reaparece, agita la interna peronista y definió la foto con Di Napoli como “una charla entre compañeros”",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/alexis-mac-allister-muy-muy-triste-con-la-decision-del-liverpool-2026981360",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/historico-argentina-goleo-a-benin-por-8-a-0-en-el-mundial-sub-20-femenino-20269812120",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/lavrov-si-la-ue-ataca-a-rusia-la-guerra-sera-muy-corta-2026981180",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/cumplimos-una-orden-judicial-dijo-el-ministro-alvarez-sobre-el-caso-del-bebe-2026981390",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/de-andreis-estamos-trabajando-para-que-marita-encabece-20269811500",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/iniciaron-obra-de-agua-potable-en-villa-hilda-20269812280",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/no-me-mataron-porque-tuve-suerte-20269813300",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/nueva-etapa-en-el-hospital-de-acha-de-la-mano-de-rodriguez-20269813430",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/raly-barrionuevo-presenta-el-camino-de-solgo-en-el-teatro-espanol-2026981490",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/verna-recibio-a-di-napoli-charla-entre-companeros-20269813340",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/el-dibu-nominado-al-balon-de-oro-como-uno-de-los-mejores-arqueros-del-mundo-2026981150",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/inundaciones-se-declaro-la-emergencia-agropecuaria-en-distintos-partidos-20269812380",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/mujer-camino-15km-en-la-nieve-por-ayuda-para-su-familia-atrapada-en-un-cerro-20269813480",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/javier-milei-completa-la-camara-federal-cordoba-y-los-nuevos-jueces-llegan-un-tribunal-tension-n5426425",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/las-tribus-del-pj-se-ilusionan-marcos-juarez-y-esperan-un-gesto-martin-llaryora-rumbo-2027-n5426417",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/79929/sorpresa-con-alexis--el-liverpool-le-comunico-que-no-le-renovara-el-contrato-",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/79933/lionel-messi-y-lautaro-martinez-nominados-al-balon-de-oro",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79927/caso-la-recova--el-stj-rechazo-apartar-a-los-jueces-losi-y-campo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79928/alvarez-por-el-bebe-de-rancul--se-busco-actuar-de-la-manera-menos-violenta-posible",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79930/iniciaron-trabajos-de-la-nueva-red-de-agua-potable-en-villa-hilda",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79931/llega-un-juez-de-la-corte-interamericana-de-derechos-humanos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79934/charla-entre-companeros--verna-se-mostro-con-di-napoli-y-dejo-otro-mensaje-interno-al-pj",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/79932/la-inflacion-en-caba-desacelero-al-17-en-porciento--en-agosto-y-suma-215-en-porciento--en-2026",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/08/alvarez-y-el-caso-de-rancul-cumplimos-con-la-ley-el-juzgado-ya-tenia-seleccionada-una-familia-adoptiva/",
+    "title": "Álvarez y el caso de Rancul: “Cumplimos con la ley, el Juzgado ya tenía seleccionada una familia adoptiva”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/08/comenzaron-las-segundas-jornadas-provinciales-de-patrimonio-cultural-en-medasur/",
+    "title": "Comenzaron las Segundas Jornadas Provinciales de Patrimonio Cultural en MEDASUR",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/08/iniciaron-los-trabajos-de-la-nueva-red-de-agua-potable-en-villa-hilda/",
+    "title": "Iniciaron los trabajos de la nueva red de agua potable en Villa Hilda",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/08/presentan-el-plan-provincial-de-transparencia-activa-y-un-nuevo-manual-para-fortalecer-el-acceso-a-la-informacion-publica/",
+    "title": "Acceso a la información pública: Presentan el Plan Provincial de Transparencia Activa",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/08/supuesta-apropiacion-ilegal-de-un-nino-en-pico-esta-todo-en-el-ambito-judicial/",
+    "title": "Supuesta apropiación ilegal de un niño en Pico: “Está todo en el ámbito judicial”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/08/un-juez-de-la-corte-idh-brindara-una-charla-en-la-universidad-sobre-derechos-humanos/",
+    "title": "Un juez de la Corte IDH brindará una charla en la universidad sobre Derechos Humanos",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/08/verna-recibio-a-luciano-di-napoli/",
+    "title": "Verna recibió a Luciano di Nápoli",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/08/alvarez-y-el-caso-del-bebe-de-rancul-priorizamos-la-situacion-menos-violenta/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/08/el-guino-de-verna-a-di-napoli-que-sacudio-al-peronismo/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31494-alvarez-sobre-el-regimen-penal-juvenil-con-el-fondo-de-la-ley-nacional-no-estamos-de-acuerdo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31495-cumplimos-con-una-orden-judicial",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31496-avanza-la-red-de-agua-potable-en-el-barrio-de-villa-hilda",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31497-goleada-de-la-seleccion-de-agustina-maldonado",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31498-un-juez-de-la-corte-interamericana-de-derechos-humanos-desembarca-en-la-universidad",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31499-fiesta-de-kermes-balbis-fernandez-en-el-teatro-espanol",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31500-interna-peronista-verna-y-di-napoli-confirmaron-el-acercamiento",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/8/estado-de-salud-de-la-motociclista-que-choco-contra-un-micro-quedo-atrapada-mira-122542.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/mundo/2026/9/8/video-krakatoa-uno-de-los-volcanes-mas-peligrosos-de-la-historia-122540.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/8/desesperado-pedido-de-una-senora-que-voto-milei-tuvo-que-cerrar-su-local-tras-25-anos-video-122535.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/8/salio-de-trampa-le-hicieron-una-fotomulta-la-notificacion-la-recibio-su-esposa-122538.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/9/8/formalizaron-joven-piquense-acusado-de-tirarle-balazos-con-un-arma-de-guerra-una-familia-en-el-barrio-federal-estuvo-mas-de-220-dias-profugo-video-122543.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/salud/2026/9/8/nacion-mantiene-una-deuda-de-casi-900-millones-con-la-pampa-por-el-programa-sumar-122536.html",
     "title": null,
     "attempts": 0
   }
