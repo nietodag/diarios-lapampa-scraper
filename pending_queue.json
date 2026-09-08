@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/espacio-publicitario/79681/la-suerte-puede-encontrarte-en-el-cumplemas-de-changomas--sumate-a-las-sorpresas-y-participa-del-sorteo-de-un-chango-por-hora",
     "title": "La suerte puede encontrarte en el CumpleM&acirc;s de ChangoM&acirc;s: &iexcl;Sumate a las sorpresas y particip&aacute; del sorteo de un chango por hora!\"",
-    "attempts": 15
+    "attempts": 16
   },
   {
     "site": "Plan B Noticias",
@@ -6710,6 +6710,210 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/salud/2026/9/8/nacion-mantiene-una-deuda-de-casi-900-millones-con-la-pampa-por-el-programa-sumar-122536.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/08/amplio-despliegue-de-bomberos-por-un-incendio-en-la-zona-de-las-calles-529-y-500/",
+    "title": "Amplio despliegue de bomberos por un incendio en la zona de las calles 529 y 500",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/08/con-presencia-piquense-las-murcielagas-jugaran-la-final-de-la-copa-america/",
+    "title": "Con presencia piquense, Las Murciélagas jugarán la final de la Copa América",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/08/el-gobierno-de-la-pampa-presento-un-plan-para-fortalecer-la-transparencia-y-el-acceso-a-la-informacion-publica/",
+    "title": "El Gobierno de La Pampa presentó un plan para fortalecer la transparencia y el acceso a la información pública",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/audio/leonardo-santesteban-en-el-aire-de-la-manana-del-08-09-20269814430",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/lionel-messi-y-lautaro-martinez-los-argentinos-nominados-al-balon-de-oro-2026981600",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/el-senado-retoma-en-comision-la-reforma-de-salud-mental-20269816480",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/la-camara-nacional-electoral-hizo-un-pedido-antes-del-debate-de-la-reforma-electoral-2026981660",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/caso-de-abuso-a-una-mujer-con-retraso-cognitivo-el-juez-rechazo-prescripcion-20269816320",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/dos-bomberas-y-un-perro-de-25-de-mayo-se-capacitaron-en-winifreda-2026981530",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/la-agenda-cultural-que-se-viene-en-santa-rosa-20269815230",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/la-federacion-pampeana-presento-proyectos-de-emergencias-20269815100",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/ritual-persa-llega-al-club-argentino-con-invitado-especial-20269815190",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/roxana-garro-es-la-nueva-presidenta-del-club-punto-unido-20269814530",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/se-viene-el-segundo-encuentro-de-rodanteros-en-quemu-quemu-20269816130",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/trabar-la-adopcion-perjudica-al-nino-20269815110",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/derrumbe-y-corte-en-la-ruta-40-que-tramo-esta-afectado-para-viajar-20269814420",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/encuesta-mata-relato-seis-cada-diez-personas-se-quedan-plata-antes-del-20-del-mes-n5426423",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/un-intendente-formosa-quiere-expulsar-paoltroni-del-senado-y-el-libertario-denuncia-persecucion-n5426428",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/espectaculos/79941/volvieron-a-internar-a-chiche-gelblung--los-detalles-de-su-salud",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/espectaculos/79943/la-historia-de-pimpinela-llegara-al-cine-con-foco-en-sus-origenes",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79935/bebe-de-rancul--la-familia-de-contencion-inicio-un-acampe-en-casa-de-gobierno",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79936/rige-la-veda-parcial-de-pesca-del-pejerrey-en-la-laguna-don-tomas--",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/79937/la-camara-nacional-electoral-hizo-un-pedido-antes-del-debate-de-la-reforma-electoral",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/79938/la-libertad-avanza-pedira-juicio-politico-a-la-jueza-que-suspendio-la-ley-penal-juvenil-en-pba",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/79939/pruebas-pisa--el-gobierno-responsabiliza-de-la-caida-en-el-aprendizaje-a-las-gestiones-anteriores",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/79940/las-expectativas-de-contratacion-en-la-argentina-aumentaron-10-puntos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/79942/fuerte-caida-de-la-industria-y-la-construccion-en-julio--los-sectores-mas-afectados",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/08/conoce-las-ofertas-y-promociones-del-modulo-despensa/",
+    "title": "Conocé las ofertas y promociones del Módulo Despensa",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/08/rige-la-veda-parcial-de-pesca-del-pejerrey-en-el-parque-laguna-don-tomas/",
+    "title": "Rige la veda parcial de pesca del pejerrey en el Parque Laguna Don Tomás",
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31501-raly-barrionuevo-presenta-nuevo-disco-el-camino-de-solgo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/opinion/31502-la-economia-del-miedo-imagen-y-semejanza",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/deportes/2026/9/8/campeonas-de-america-las-murcielagas-hicieron-historia-tras-vencer-brasil-video-122546.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/8/tres-pequenos-su-mama-hospitalizados-luego-de-chocar-contra-un-auto-que-entraba-un-garaje-video-122544.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/9/8/roma-calzados-zapatillas-partir-de-25-mil-30-mil-llegaron-las-adidas-originales-para-runners-hay-remeras-oversize-desde-25-mil-ojotas-gomones-15-mil-video-122545.html",
     "title": null,
     "attempts": 0
   }
