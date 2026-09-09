@@ -640,7 +640,11 @@
     "https://www.pampadiario.com/single-post.php?id=82528": 1788913754.1523917,
     "https://www.pampadiario.com/single-post.php?id=82555": 1788961992.5384512,
     "https://www.pampadiario.com/single-post.php?id=82551": 1788961992.5384512,
-    "https://www.pampadiario.com/single-post.php?id=82554": 1788961992.5384512
+    "https://www.pampadiario.com/single-post.php?id=82554": 1788961992.5384512,
+    "https://www.pampadiario.com/single-post.php?id=82556": 1788974744.428385,
+    "https://www.pampadiario.com/single-post.php?id=82558": 1788974744.428385,
+    "https://www.pampadiario.com/single-post.php?id=82553": 1788974744.428385,
+    "https://www.pampadiario.com/single-post.php?id=82557": 1788974744.428385
   },
   "Info Pico": {
     "https://www.infopico.com/2026/07/18/musica-e-inclusion-una-fundacion-de-la-pampa-organiza-un-show-con-total-accesibilidad-en-buenos-aires/": 1784416721.202942,
@@ -1683,7 +1687,11 @@
     "https://www.infopico.com/2026/09/09/horoscopo-de-hoy-miercoles-9-de-septiembre/": 1788961992.5384512,
     "https://www.infopico.com/2026/09/09/general-pico-sera-sede-del-9-encuentro-nacional-de-artesanos-con-mas-de-200-participantes/": 1788961992.5384512,
     "https://www.infopico.com/2026/09/09/sergio-unac-el-proximo-presidente-va-a-salir-del-interior-y-va-a-ser-de-las-gestiones-mas-federales-que-nos-podamos-acordar/": 1788961992.5384512,
-    "https://www.infopico.com/2026/09/09/fallecio-chiche-gelblung-un-icono-polemico-y-vanguardista-del-periodismo-argentino/": 1788961992.5384512
+    "https://www.infopico.com/2026/09/09/fallecio-chiche-gelblung-un-icono-polemico-y-vanguardista-del-periodismo-argentino/": 1788961992.5384512,
+    "https://www.infopico.com/2026/09/09/luxacion-de-hombro-el-hombro-hay-que-atenderlo-fortalecerlo-y-darle-un-valor-significativo/": 1788974744.428385,
+    "https://www.infopico.com/2026/09/09/condenan-a-seis-anos-de-prision-a-un-hombre-por-abusar-de-un-menor-en-santa-rosa/": 1788974744.428385,
+    "https://www.infopico.com/2026/09/09/sirenazo-nacional-de-bomberos-voluntarios-exigen-el-pago-de-millonarios-fondos-adeudados-por-el-gobierno/": 1788974744.428385,
+    "https://www.infopico.com/2026/09/09/comienza-la-ilusion-costa-brava-recibe-a-el-pampero-en-el-partido-adelantado-del-torneo-provincial/": 1788974744.428385
   },
   "La Arena": {
     "https://www.laarena.com.ar/deportes/basquet-ferro-igualo-la-serie-ante-all-boys-20267188490": 1784416721.202942,
@@ -5733,7 +5741,19 @@
     "https://www.laarena.com.ar/la-region/como-se-hace-la-foto-de-los-80-s-que-se-volvio-viral-en-redes-sociales-2026998490": 1788961992.5384512,
     "https://www.laarena.com.ar/el-pais/murio-a-los-82-anos-chiche-gelblung-2026997510": 1788961992.5384512,
     "https://www.laarena.com.ar/la-region/adios-a-una-emblematica-ruta-se-agranda-y-se-transforma-2026998240": 1788961992.5384512,
-    "https://www.laarena.com.ar/la-pampa/lo-intentaron-seducir-le-robaron-y-amenazaron-a-un-chofer-de-uber-en-la-plaza-martin-fierro-2026999480": 1788961992.5384512
+    "https://www.laarena.com.ar/la-pampa/lo-intentaron-seducir-le-robaron-y-amenazaron-a-un-chofer-de-uber-en-la-plaza-martin-fierro-2026999480": 1788961992.5384512,
+    "https://www.laarena.com.ar/la-region/camaras-trampa-la-argentina-se-suman-a-proyecto-de-monitoreo-de-mamiferos-20269912130": 1788974744.428385,
+    "https://www.laarena.com.ar/la-pampa/monsalvo-respaldo-a-marita-y-reivindico-el-debate-interno-2026991480": 1788974744.428385,
+    "https://www.laarena.com.ar/la-pampa/rechazan-el-intento-de-derogar-la-ley-de-descanso-dominical-el-derecho-de-disfrutar-el-domingo-es-de-todos-20269911190": 1788974744.428385,
+    "https://www.laarena.com.ar/audio/leonardo-santesteban-en-el-aire-de-la-manana-del-09-09-20269912280": 1788974744.428385,
+    "https://www.laarena.com.ar/la-pampa/fue-a-comprar-bebidas-con-un-conocido-que-lo-intento-apunalar-20269910340": 1788974744.428385,
+    "https://www.laarena.com.ar/el-pais/pescadores-capturaron-un-dorado-de-17-kilos-y-lo-devolvieron-al-rio-20269912170": 1788974744.428385,
+    "https://www.laarena.com.ar/la-pampa/vuelve-euge-quevedo-a-la-pampa-la-expectativa-de-los-fans-20269911500": 1788974744.428385,
+    "https://www.laarena.com.ar/la-region/vuelve-el-frio-polar-primero-calor-y-tormentas-despues-el-aire-gelido-20269913220": 1788974744.428385,
+    "https://www.laarena.com.ar/la-pampa/jornada-de-prevencion-y-posvencion-del-suicidio-en-el-parque-oliver-20269913540": 1788974744.428385,
+    "https://www.laarena.com.ar/el-mundo/mensaje-contundente-de-alice-weidel-sobre-ucrania-20269913440": 1788974744.428385,
+    "https://www.laarena.com.ar/la-region/pruebas-pisa-cuales-fueron-los-resultados-en-las-distintas-provincias-20269911160": 1788974744.428385,
+    "https://www.laarena.com.ar/la-pampa/unac-con-la-arena-el-peronismo-va-a-volver-a-gobernar-en-2027-20269911550": 1788974744.428385
   },
   "LetraP": {
     "https://www.letrap.com.ar/politica/santiago-del-estero-el-pro-se-concentra-la-capital-y-la-banda-no-sucumbir-la-avanzada-libertaria-n5425166": 1784416721.202942,
@@ -6871,7 +6891,14 @@
     "https://www.letrap.com.ar/politica/caruana-le-apunta-la-intendencia-rosario-y-hace-equilibrio-del-frade-y-el-peronismo-n5426413": 1788961992.5384512,
     "https://www.letrap.com.ar/politica/axel-kicillof-llega-misiones-tironeado-la-interna-del-peronismo-provincial-n5426447": 1788961992.5384512,
     "https://www.letrap.com.ar/ciudad/legislatura-portena-boca-el-peronismo-y-la-iglesia-los-ganadores-del-reparto-terrenos-publicos-n5426437": 1788961992.5384512,
-    "https://www.letrap.com.ar/politica/reelecciones-buenos-aires-la-liga-intendentes-visito-sergio-massa-y-se-llevo-un-guino-n5426449": 1788961992.5384512
+    "https://www.letrap.com.ar/politica/reelecciones-buenos-aires-la-liga-intendentes-visito-sergio-massa-y-se-llevo-un-guino-n5426449": 1788961992.5384512,
+    "https://www.letrap.com.ar/politica/chubut-el-interino-raul-ferrero-sera-el-candidato-la-ucr-gaiman-y-el-pj-recalcula-su-estrategia-n5426452": 1788974744.428385,
+    "https://www.letrap.com.ar/pablo-petrecca-pide-kicillof-que-defienda-las-pymes-bonaerenses-del-biodiesel-la-reforma-nacional-n5426456": 1788974744.428385,
+    "https://www.letrap.com.ar/politica/el-ministro-justicia-bonaerense-busca-avanzar-200-pliegos-judiciales-medio-la-demora-kicillof-n5426443": 1788974744.428385,
+    "https://www.letrap.com.ar/politica/flavia-royon-2027-el-plan-b-que-suena-salta-si-falla-el-operativo-re-re-gustavo-saenz-n5426435": 1788974744.428385,
+    "https://www.letrap.com.ar/politica/la-liga-intendentes-sumo-una-foto-sergio-massa-su-apuesta-la-unidad-del-peronismo-n5426449": 1788974744.428385,
+    "https://www.letrap.com.ar/congreso/endeudamiento-y-discapacidad-karina-milei-no-pudo-torcer-los-gobernadores-y-acepto-negociar-leyes-n5426453": 1788974744.428385,
+    "https://www.letrap.com.ar/politica/el-congreso-del-pj-neuquen-reclama-listas-propias-evitar-colgarse-la-boleta-figueroa-n5426451": 1788974744.428385
   },
   "El Diario de La Pampa": {
     "https://www.eldiariodelapampa.com.ar/pais/77403/morosidad-en-alza--se-agrava-el-problema-y-1-de-cada-3-argentinos-con-deuda-no-puede-pagar": 1784416721.202942,
@@ -9119,7 +9146,13 @@
     "https://www.eldiariodelapampa.com.ar/la-pampa/79969/hacinamiento-carcelario--parches-que-no-alcanzan": 1788961992.5384512,
     "https://www.eldiariodelapampa.com.ar/la-pampa/79971/bomberos-voluntarios-realizaran-un-sirenazo-en-todo-el-pais": 1788961992.5384512,
     "https://www.eldiariodelapampa.com.ar/la-pampa/79975/kenny--solo-estare-en-un-frente-si-el-radicalismo-esta-adelante": 1788961992.5384512,
-    "https://www.eldiariodelapampa.com.ar/deportes/79965/ventaja-para-boca": 1788961992.5384512
+    "https://www.eldiariodelapampa.com.ar/deportes/79965/ventaja-para-boca": 1788961992.5384512,
+    "https://www.eldiariodelapampa.com.ar/la-pampa/79979/investigan-a-siete-policias-de-la-seccional-primera-por-la-golpiza-a-un-joven": 1788974744.428385,
+    "https://www.eldiariodelapampa.com.ar/la-pampa/79976/el-domingo-es-de-todos-y-el-derecho-a-disfrutarlo-tambien": 1788974744.428385,
+    "https://www.eldiariodelapampa.com.ar/la-pampa/79978/entregaron-casi-1000-millones-de-pesos-a-65-municipios-para-soluciones-habitacionales": 1788974744.428385,
+    "https://www.eldiariodelapampa.com.ar/la-pampa/79980/consumos-adolescentes--capacitan-a-equipos-de-salud-y-educacion": 1788974744.428385,
+    "https://www.eldiariodelapampa.com.ar/pais/79977/el-primer-ministro-britanico-afirmo-que-su-gobierno-sera-implacable-con-respecto-a-las-islas-malvinas": 1788974744.428385,
+    "https://www.eldiariodelapampa.com.ar/deportes/79981/la-vuelta-de-gloria-yancaqueo": 1788974744.428385
   },
   "Dos Bases": {
     "https://www.dosbases.com.ar/2019/01/dinosaurios-vivos-el-fiscal-aguero-alerto-sobre-un-boom-de-estafas-a-telefonicas-y-recomienda-que-el-blp-no-permita-a-jubilados-transferencias-de-montos-altos-por-cajero/": 1784416721.202942,
@@ -15456,7 +15489,13 @@
     "https://www.planbnoticias.com.ar/index.php/2026/09/09/los-alimentos-y-servicios-en-la-argentina-se-volvieron-a-encarecer-en-dolares/": 1788961992.5384512,
     "https://www.planbnoticias.com.ar/index.php/2026/09/09/murio-chiche-gelblung-uno-de-los-periodistas-mas-influyentes-y-polemicos-de-la-television-argentina/": 1788961992.5384512,
     "https://www.planbnoticias.com.ar/index.php/2026/09/09/ya-nunca-se-vera-como-se-viera-a-la-ucr/": 1788961992.5384512,
-    "https://www.planbnoticias.com.ar/index.php/2026/09/09/endeudamiento-familiar-y-discapacidad-la-oposicion-se-aseguro-el-quorum-para-la-sesion-en-diputados/": 1788961992.5384512
+    "https://www.planbnoticias.com.ar/index.php/2026/09/09/endeudamiento-familiar-y-discapacidad-la-oposicion-se-aseguro-el-quorum-para-la-sesion-en-diputados/": 1788961992.5384512,
+    "https://www.planbnoticias.com.ar/index.php/2026/09/09/proponen-declarar-de-interes-dos-libros-uno-realizado-por-estudiantes-de-un-colegio-secundario/": 1788974744.428385,
+    "https://www.planbnoticias.com.ar/index.php/2026/09/09/romina-montes-de-oca-advirtio-sobre-la-caida-salarial-y-el-endeudamiento-familiar/": 1788974744.428385,
+    "https://www.planbnoticias.com.ar/index.php/2026/09/09/la-lista-celeste-fue-oficializada-para-las-elecciones-del-19-de-septiembre/": 1788974744.428385,
+    "https://www.planbnoticias.com.ar/index.php/2026/09/09/el-cec-defendio-la-ley-de-descanso-dominical-y-pidio-datos-que-justifiquen-su-derogacion/": 1788974744.428385,
+    "https://www.planbnoticias.com.ar/index.php/2026/09/09/entregaron-creditos-a-emprendedores-en-general-pico-3/": 1788974744.428385,
+    "https://www.planbnoticias.com.ar/index.php/2026/09/09/joaquin-diaz-y-ana-laura-pizzani-estamos-pidiendo-renuncias-en-ninez/": 1788974744.428385
   },
   "Infotec Realicó": {
     "https://infotecrealico.com.ar/contenido/86896/la-provincia-no-aprobo-el-informe-final-ambiental-de-el-medanito-y-remitio-un-in": 1784416721.202942,
@@ -17289,7 +17328,9 @@
     "https://diariotextual.com/inicio/index.php/2026/09/09/intento-robarle-a-un-conocido-y-termino-detenido-luego-de-una-pelea-en-santa-rosa/": 1788961992.5384512,
     "https://diariotextual.com/inicio/index.php/2026/09/09/sergio-unac-en-la-pampa-el-equilibrio-fiscal-tiene-que-ir-acompanado-de-sensibilidad-social/": 1788961992.5384512,
     "https://diariotextual.com/inicio/index.php/2026/09/09/en-el-campamento-de-di-napoli-ahora-esperan-una-convocatoria-de-ziliotto/": 1788961992.5384512,
-    "https://diariotextual.com/inicio/index.php/2026/09/09/allanamiento-por-un-robo-y-un-intento-de-asalto-detuvieron-a-dos-personas-en-santa-rosa/": 1788961992.5384512
+    "https://diariotextual.com/inicio/index.php/2026/09/09/allanamiento-por-un-robo-y-un-intento-de-asalto-detuvieron-a-dos-personas-en-santa-rosa/": 1788961992.5384512,
+    "https://diariotextual.com/inicio/index.php/2026/09/09/comerciantes-y-empleados-salen-al-cruce-del-pro-y-piden-mantener-el-cierre-dominical-el-domingo-no-es-un-franco-cualquiera/": 1788974744.428385,
+    "https://diariotextual.com/inicio/index.php/2026/09/09/capacitan-a-equipos-de-salud-y-educacion-de-la-pampa-para-abordar-los-nuevos-consumos-en-adolescentes/": 1788974744.428385
   },
   "Radio Kermes": {
     "https://www.radiokermes.com/noticias/30889-el-partido-argentina-enfrenta-a-inglaterra-y-busca-la-final-mundial": 1784416721.202942,
@@ -17938,7 +17979,11 @@
     "https://www.radiokermes.com/opinion/31503-una-demostracion-de-fuerza-que-desafia-el-poder-de-ziliotto-en-el-pj": 1788961992.5384512,
     "https://www.radiokermes.com/noticias/31509-empresas-del-procrear-se-reuniran-con-nacion-para-destrabar-las-deudas-por-las-obras-paralizadas": 1788961992.5384512,
     "https://www.radiokermes.com/noticias/31505-yo-pense-que-ahi-me-iba-a-matar-un-profesor-de-musica-pampeano-y-luthier-denuncio-una-brutal-golpiza-policial": 1788961992.5384512,
-    "https://www.radiokermes.com/noticias/31508-descanso-dominical-trapaglia-desempolva-el-debate-y-bruno-defiende-la-ley": 1788961992.5384512
+    "https://www.radiokermes.com/noticias/31508-descanso-dominical-trapaglia-desempolva-el-debate-y-bruno-defiende-la-ley": 1788961992.5384512,
+    "https://www.radiokermes.com/noticias/31512-la-soberania-alimentaria-es-fundamental-y-transversal": 1788974744.428385,
+    "https://www.radiokermes.com/noticias/31510-la-camara-defendio-el-descanso-dominical-y-advirtio-por-la-crisis-del-comercio": 1788974744.428385,
+    "https://www.radiokermes.com/noticias/31513-solo-llame-para-decirte-que-te-amo-se-presenta-este-sabado-en-toay": 1788974744.428385,
+    "https://www.radiokermes.com/noticias/31511-de-vuelta-me-ha-levantado-de-vuelta-volvi-a-sonar-gloria-yancaqueo-vuelve-al-ring-en-el-club-san-martin": 1788974744.428385
   },
   "En Boca de Todos HD": {
     "https://www.enbocadetodoshd.com.ar/provinciales/2026/7/18/malestar-tension-en-bomberos-voluntarios-de-acha-por-la-conducta-de-un-integrante-120596.html": 1784416721.202942,
@@ -19916,7 +19961,14 @@
     "https://www.enbocadetodoshd.com.ar/locales/2026/9/9/este-domingo-gran-loteria-solidaria-en-el-alero-beneficio-de-brenda-martinez-video-122567.html": 1788961992.5384512,
     "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/9/la-diputada-provincialgeorge-repudio-el-proyecto-de-trapaglia-para-derogar-el-descanso-dominical-no-es-mas-libertad-es-menos-derechos-122553.html": 1788961992.5384512,
     "https://www.enbocadetodoshd.com.ar/locales/2026/9/9/en-pico-no-hay-dia-sin-accidentes-el-sem-asiste-un-chico-de-14-anos-tras-siniestro-con-un-auto-video-122573.html": 1788961992.5384512,
-    "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/9/murio-chiche-gelblung-los-82-anos-122570.html": 1788961992.5384512
+    "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/9/murio-chiche-gelblung-los-82-anos-122570.html": 1788961992.5384512,
+    "https://www.enbocadetodoshd.com.ar/municipales/2026/9/8/general-pico-vuelve-ser-sede-de-una-nueva-edicion-del-encuentro-nacional-de-artesanos-122551.html": 1788974744.428385,
+    "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/9/crece-la-busqueda-de-empleados-que-sepan-usar-inteligencia-artificial-que-perfiles-se-piden-122580.html": 1788974744.428385,
+    "https://www.enbocadetodoshd.com.ar/opinion/2026/9/9/rechazan-el-proyecto-para-derogar-la-ley-de-descanso-dominical-el-domingo-es-de-todos-el-derecho-disfrutarlo-tambien-122577.html": 1788974744.428385,
+    "https://www.enbocadetodoshd.com.ar/deportes/2026/9/9/historico-duelo-de-piquenses-en-la-copa-libertadores-esta-noche-estudiantes-corinthians-122578.html": 1788974744.428385,
+    "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/8/tristeza-colectiva-ollas-populares-exodo-de-familias-700-despidos-en-granja-tres-arroyos-122547.html": 1788974744.428385,
+    "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/9/9/griselda-con-la-jubilacion-no-alcanza-nada-para-poder-vivir-soy-costurera-lavo-ropa-para-afuera-tambien-soy-albanil-levante-mi-casa-con-mis-propias-manos-video-122574.html": 1788974744.428385,
+    "https://www.enbocadetodoshd.com.ar/locales/2026/9/9/mario-despensa-con-nestor-me-fue-muy-bien-soy-peronista-afiliado-desde-2013-vengo-patinando-no-voy-ser-necio-con-este-presidente-me-bajaron-las-ventas-pero-es-un-cambio-de-aire-lo-volveria-votar-122572.html": 1788974744.428385
   },
   "Mará Codigital": {
     "http://www.maracodigital.net/En-un-ano-los-vuelos-baratos-tuvieron-un-millon-de-pasajeros.html": 1784416721.202942,
