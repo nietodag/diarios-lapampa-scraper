@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79805/empatel-cerro-su-quinto-ejercicio-con-superavit-y-consolida-un-patrimonio-superior-a-los--7500-millones",
     "title": "EMPATEL cerr&oacute; su quinto ejercicio con super&aacute;vit y consolida un patrimonio superior a los $ 7.500 millones",
-    "attempts": 9
+    "attempts": 10
   },
   {
     "site": "Diario Textual",
@@ -6386,6 +6386,282 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/10/gobierno-acompano-la-entrega-de-20-viviendas-en-el-aniversario-de-catrilo-122603.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/10/catrilo-celebro-su-129-aniversario-con-la-entrega-de-20-viviendas/",
+    "title": "Catriló celebró su 129° aniversario con la entrega de 20 viviendas",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/10/escandalo-en-la-municipalidad-de-santa-rosa-condenan-a-empleados-por-usar-maquinarias-y-vender-materiales-del-estado/",
+    "title": "Escándalo en la Municipalidad de Santa Rosa: Condenan a empleados por usar maquinarias y vender materiales del Estado",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/10/juez-mauricio-pascual-sobre-el-sistema-penitenciario-la-provincia-esta-en-crisis-no-de-ahora/",
+    "title": "Juez Mauricio Pascual sobre el sistema penitenciario: «La provincia está en crisis, no de ahora»",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/10/kroneberger-reclamo-por-el-estado-de-la-ruta-151-y-vialidad-nacional-anuncio-obras-de-reparacion/",
+    "title": "Kroneberger reclamó por el estado de la Ruta 151 y Vialidad Nacional anunció obras de reparación",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/10/perspectiva-de-genero-vs-infancias-la-justicia-pampeana-confirmo-la-condena-a-una-madre-vulnerable-por-golpear-a-su-hija-con-un-cinto/",
+    "title": "“Perspectiva de género vs. infancias”: La Justicia pampeana confirmó la condena a una madre vulnerable por golpear a su hija con un cinto",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/audio/leonardo-santesteban-en-el-aire-de-la-manana-del-10-09-202691013560",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/audio/taxistas-encabezaron-una-protesta-reclamando-por-controles-a-las-aplicaciones-202691010300",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/la-inteligencia-artificial-podria-matarnos-a-todos-202691011140",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/el-ex-comisario-maciel-declaro-que-loan-murio-atropellado-y-apunto-a-tres-responsables-202691013330",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/el-sindicato-grafico-retoma-la-conduccion-de-la-cgt-centro-sur-202691012420",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/fuerza-pampa-suma-dos-intendentes-vernistas-202691013530",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/los-bomberos-haran-un-sirenazo-simultaneo-para-reclamar-fondos-a-nacion-20269108190",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/reclamo-por-bomberos-y-pedido-de-unidad-para-2027-202691011500",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/taxistas-increparon-a-un-chofer-de-uber-en-plena-protesta-202691012190",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/un-caso-gravisimo-de-violencia-institucional-202691012420",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/casa-modulares-lanzaron-creditos-sin-hipotecas-para-sacar-desde-una-app-202691012270",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/cosquin-rock-2027-la-grilla-de-los-artistas-que-tocan-cada-dia-202691013240",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/microchip-los-caballos-tienen-nuevo-marco-normativo-para-su-identificacion-202691011160",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/buenos-aires-sergio-massa-apuesta-valeria-arata-disputarle-junin-al-pro-n5426466",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/chubut-desbanco-buenos-aires-y-paso-liderar-los-desembarques-pesca-el-40-las-descargas-del-pais-n5426486",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/procrear-las-constructoras-rescinden-contratos-y-santa-fe-negocia-milei-quedarse-las-obras-n5426478",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/santa-fe-santacroce-tiende-puentes-axel-kicillof-un-encuentro-andres-larroque-n5426479",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80043/-los-graficos-anunciaron-que-guillermo-bueno-reemplazara-a-schmidt-en-la-cgt",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80044/fuerza-pampa-sumo-a-los-intendentes-de-chacharramendi-y-rucanelo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80045/la-foto-que-ordena-el-libreto--verna-di-napoli-y-el-pragmatismo-del-pj-hacia-2027",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80046/vialidad-anuncio-reparaciones-en-el-tramo-pampeano-de-la-ruta-151-",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80047/un-testigo-senala-a-los-choferes-por-el-inicio-del-incidente-que-termino-con-la-golpiza-a-lautaro-ruiz",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80048/agresion-al-lutier--el-ministerio-de-seguridad-afirmo-el-compromiso-con-los-ddhh-",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80049/la-ucr-pide-acciones-de-prevencion-del-suicidio",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/10/bomberos-realizaron-sirenazo-tienen-el-superavit-fiscal-gracias-a-no-cumplir-con-la-ley/",
+    "title": "Bomberos realizaron sirenazo: “Tienen el superávit fiscal gracias a no cumplir con la ley”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/10/chofer-de-uber-protesto-contra-el-registro-municipal-encarecera-el-servicio/",
+    "title": "Chofer de Uber protestó contra el registro municipal: “Encarecerá el servicio”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/10/familia-de-rancul-fue-recibida-en-la-legislatura-y-pidio-la-renuncia-de-funcionarios/",
+    "title": "Legisladores recibieron a la familia de Rancul",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/10/lla-anuncia-el-arreglo-de-un-tramo-de-la-ruta-nacional-151/",
+    "title": "LLA anuncia el arreglo de un tramo de la ruta nacional 151",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/10/taxistas-reclamaron-controles-a-las-aplicaciones/",
+    "title": "Taxistas reclamaron controles a las aplicaciones",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/10/la-familia-de-contencion-de-rancul-critico-frente-a-diputados-el-procedimiento-por-el-retiro-del-bebe/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/10/paro-de-vigiladores-reclaman-mejores-condiciones-a-prosegur-en-un-yacimiento-de-25-de-mayo/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31523-cierra-otro-emprendimiento-en-santa-rosa-hay-fines-de-semana-que-no-vendes-nada",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31524-la-manifestacion-de-taxistas-derivo-en-un-choque-con-un-representante-de-uber",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31525-la-universidad-de-quilmes-ofrece-capacitaciones-con-puntaje-para-docentes-de-la-pampa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31526-otros-dos-intendentes-le-dan-mas-volumen-a-fuerza-pampa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/10/que-pasa-con-los-adolescentes-trasladan-menor-que-se-autolesiono-al-centeno-video-122607.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/9/10/flavia-verduleria-roma-la-gente-no-llega-ni-al-del-mes-volvi-la-libreta-confio-en-mis-clientes-me-cumplen-video-122608.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/municipales/2026/9/9/abren-la-convocatoria-para-participar-del-xxxii-salon-de-pintura-ciudad-de-general-pico-edicion-2026-122594.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/10/horror-se-escondio-en-la-casa-de-su-ex-espero-la-nueva-pareja-lo-asesino-122602.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/9/10/formalizaron-manuel-mostaza-los-sellos-en-algunas-medias-reses-son-apocrifos-habia-ratas-contaminacion-cruzada-peligro-para-la-salud-publica-de-ser-condenado-la-pena-seria-de-efectivo-cumplimiento-video-122606.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/9/kroneberger-encabezo-la-reunion-que-aprobo-los-lineamientos-para-renovar-el-comite-contra-la-tortura-122586.html",
     "title": null,
     "attempts": 0
   }
