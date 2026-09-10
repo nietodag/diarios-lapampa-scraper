@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79805/empatel-cerro-su-quinto-ejercicio-con-superavit-y-consolida-un-patrimonio-superior-a-los--7500-millones",
     "title": "EMPATEL cerr&oacute; su quinto ejercicio con super&aacute;vit y consolida un patrimonio superior a los $ 7.500 millones",
-    "attempts": 12
+    "attempts": 13
   },
   {
     "site": "Diario Textual",
@@ -7082,6 +7082,186 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/opinion/2026/9/10/carta-del-lector-liberalismo-patria-el-paralelismo-entre-1946-el-escenario-electoral-de-2027-122601.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/10/el-artista-tian-ortiz-inaugura-la-muestra-el-propio-camino-en-el-centro-cultural-medano/",
+    "title": "El artista Tian Ortiz inaugura la muestra “El propio camino” en el Centro Cultural MEDANO",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/10/el-suicidio-paso-a-ser-la-primera-causa-de-muerte-en-jovenes-el-hospital-federal-lanza-capacitaciones-abiertas-a-la-comunidad/",
+    "title": "«El suicidio pasó a ser la primera causa de muerte en jóvenes»: el Hospital Federal lanza capacitaciones abiertas a la comunidad",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/una-familia-de-cuatro-integrantes-necesito-1-605-497-en-agosto-para-no-ser-pobre-202691019110",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/emitieron-alerta-amarilla-por-nevadas-y-tormenta-para-la-region-20269101980",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/filmaron-a-un-hombre-muy-parecido-a-maradona-y-las-redes-estallaron-20269102080",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-pj-rios-expulso-las-dos-senadoras-que-apoyaron-la-reforma-previsional-frigerio-n5426519",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/san-luis-alberto-rodriguez-saa-le-quito-un-diputado-union-la-patria-y-pide-ser-candidato-unico-del-pj-n5426518",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/80064/todo-listo-para-boxeo-capital-iii",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/80066/samuel-no-seguira-en-la-seleccion",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80067/el-pj-reunio-a-dirigentes-del-departamento-loventue-en-victorica",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80069/la-familia-de-contencion-de-rancul-protesto-en-la-legislatura-y-pidio-la-renuncia-de-funcionarios",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80070/montes-de-oca-llamo-a-fortalecer-la-salud-mental--hay-cifras-que-deberian-detenernos-como-sociedad",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/80065/rechazaron-pedido-de-cristina-kirchner-para-investigar-a-sturzenegger-por-el-dolar-futuro",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/80068/milei-encabezara-un-acto-por-el-dia-del-maestro-con-un-discurso-ante-docentes-y-estudiantes",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/10/hotel-la-pampeana-expeencia-gastronomica-que-vale-la-pena-descubrir/",
+    "title": "Hotel La Pampeana: Una experiencia gastronómica que vale la pena descubrir",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/10/los-gremios-de-salud-pidieron-por-las-guardias-de-salud-mental/",
+    "title": "Los gremios de Salud pidieron por las guardias de Salud Mental",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/10/mes-de-la-prevencion-del-suicidio-escucharnos-es-el-primer-paso-para-cuidarnos/",
+    "title": "Mes de la Prevención del Suicidio: “escucharnos es el primer paso para cuidarnos”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/10/musica-danza-y-espectaculos-vertiz-celebra-sus-119-anos/",
+    "title": "Música, danza y espectáculos: Vértiz celebra sus 119 años",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/10/pj-alcanzar-los-consensos-necesarios-para-definir-las-mejores-propuestas-electorales/",
+    "title": "PJ: “alcanzar los consensos necesarios para definir las mejores propuestas electorales”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/10/sesion-del-concejo-ordenamiento-urbano-homenajes-y-proyectos-de-prevencion/",
+    "title": "Sesión del Concejo: Ordenamiento urbano, homenajes y proyectos de prevención",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/10/el-pj-reunio-en-victorica-a-dirigentes-de-loventue-y-comenzo-a-debatir-la-estrategia-hacia-2027/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/10/general-pico-notificaciones-y-multas-por-arrojar-basura-en-espacios-publicos-y-sacar-residuos-fuera-de-los-dias-establecidos/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/10/la-inflacion-de-agosto-fue-del-17-y-es-el-valor-mas-bajo-en-14-meses/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/10/la-pampa-se-adecuara-a-la-nueva-legislacion-de-imputabilidad-penal-adolescente/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/espectaculos/2026/9/10/en-la-columna-a-donde-vamos-de-password-viajes-nestor-pavoni-nos-invita-conocer-europa-el-caribe-video-122624.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/10/mostraron-por-dentro-el-infierno-la-nueva-carcel-de-pinero-video-122625.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/10/familia-de-rancul-reclamo-en-la-legislatura-por-el-caso-del-bebe-pediran-una-comision-especial-122626.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/10/indignacion-en-quemu-denuncian-el-robo-de-arboles-recien-plantados-video-122621.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/10/nacion-avanza-con-obras-de-reparacion-en-la-ruta-nacional-151-122616.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/salud/2026/9/10/prevencion-del-suicidio-la-salida-es-colectiva-122623.html",
     "title": null,
     "attempts": 0
   }
