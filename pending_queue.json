@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79805/empatel-cerro-su-quinto-ejercicio-con-superavit-y-consolida-un-patrimonio-superior-a-los--7500-millones",
     "title": "EMPATEL cerr&oacute; su quinto ejercicio con super&aacute;vit y consolida un patrimonio superior a los $ 7.500 millones",
-    "attempts": 7
+    "attempts": 8
   },
   {
     "site": "Diario Textual",
@@ -6080,6 +6080,12 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/9/10/gilardenghi-mantuvo-la-prision-preventiva-para-bajo-torres-no-estan-dadas-las-condiciones-para-modificarla-video-122585.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/inflacion-festejo-y-despues-n5426477",
     "title": null,
     "attempts": 0
   }
