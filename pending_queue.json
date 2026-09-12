@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/deportes/79926/mac-allister-amplio-la-ventaja-y-santa-rosa-confirmo-su-mejoria",
     "title": "Mac Allister ampli&oacute; la ventaja y Santa Rosa confirm&oacute; su mejor&iacute;a",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "site": "El Diario de La Pampa",
@@ -5630,6 +5630,72 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/11/kroneberger-cuestiono-nacion-por-la-quita-de-regalias-de-los-nihuiles-122660.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82575",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82595",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/11/anuncian-el-cronograma-para-la-recoleccion-de-residuos-especiales-en-la-zona-4-de-general-pico/",
+    "title": "Anuncian el cronograma para la recolección de residuos especiales en la Zona 4 de General Pico",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/11/daniel-kroneberger-sobre-los-nihuiles-los-intereses-de-la-pampa-estan-por-encima-de-cualquier-gobierno/",
+    "title": "Daniel Kroneberger sobre Los Nihuiles: “Los intereses de La Pampa están por encima de cualquier gobierno”",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/detuvieron-a-rompevidrios-robaba-elementos-del-interior-de-vehiculos-202691121250",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/congreso/side-la-oposicion-denuncia-que-javier-milei-usa-la-causa-malvinas-y-la-visita-leon-xiv-subir-partidas-n5426553",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/jorge-macri-llego-la-agenda-buenos-aires-miami-fortalecer-los-vinculos-los-estados-unidos-n5426558",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/11/maria-graciela-di-franco-disertara-sobre-el-proyecto-de-ley-de-educacion-libertaria/",
+    "title": "María Graciela Di Franco disertará sobre el proyecto de Ley de Educación Libertaria",
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31552-nihuiles-decision-negativa-desde-lo-economico-y-lo-simbolico",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/9/11/cayo-una-columna-de-alumbrado-frente-al-hospital-del-federal-un-arbol-evito-que-cayera-sobre-una-caimoneta-122662.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/11/las-importaciones-ya-abastecen-el-70-del-mercado-textil-el-sector-denuncia-competencia-fraudulenta-122635.html",
     "title": null,
     "attempts": 0
   }
