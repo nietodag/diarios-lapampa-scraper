@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/deportes/79926/mac-allister-amplio-la-ventaja-y-santa-rosa-confirmo-su-mejoria",
     "title": "Mac Allister ampli&oacute; la ventaja y Santa Rosa confirm&oacute; su mejor&iacute;a",
-    "attempts": 5
+    "attempts": 6
   },
   {
     "site": "El Diario de La Pampa",
@@ -6020,6 +6020,192 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/12/gobierno-entrego-creditos-fondos-para-infraestructura-comunitaria-en-mayer-122644.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82599",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82600",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/12/la-unlpam-inauguro-su-nueva-sede-del-rectorado-en-general-pico-una-casa-que-hemos-recuperado-para-el-bien-de-todos/",
+    "title": "La UNLPam inauguró su nueva sede del rectorado en General Pico: «Una casa que hemos recuperado para el bien de todos»",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/12/renatre-capacito-a-la-policia-de-la-pampa-sobre-la-deteccion-de-explotacion-laboral-rural/",
+    "title": "RENATRE capacitó a la Policía de La Pampa sobre la detección de explotación laboral rural",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/12/rescatan-a-un-pitbull-en-estado-de-abandono-en-intendente-alvear-la-duena-quedo-a-disposicion-judicial/",
+    "title": "Rescatan a un pitbull en estado de abandono en Intendente Alvear: la dueña quedó a disposición judicial",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/buscan-hace-un-mes-a-una-joven-en-catamarca-20269120160",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/catamarca-la-eleccion-local-junto-con-la-nacional-20269120160",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/falta-una-politica-hacia-el-sector-pyme-el-reclamo-de-la-came-al-gobierno-de-javier-milei-20269121060",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/investigan-incendio-de-un-automovil-202691211320",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/macachin-prepara-una-nueva-edicion-de-tierra-de-sabores-202691212410",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/patrimonio-cultural-preservar-la-historia-del-ente-es-preservar-la-de-25-de-mayo-20269121390",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/80135/colapinto-tuvo-una-gran-clasificacion-en-el-gran-premio-de-espana-y-largara-9",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80134/sabado-muy-frio-en-santa-rosa-con-una-maxima-de-apenas-9-grados",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80136/se-incendio-un-auto-santa-rosa--sospechan-de-un-ataque-por-celos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80137/organizaciones-politicas-rechazaron-la-quita-de-regalias-de-los-nihuiles-y-llamaron-a-una-unidad-amplia-en-defensa-de-la-pampa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80138/presentan-una-denuncia-penal-contra-el-concejo-deliberante-por-falta-de-accesibilidad",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80139/la-camara-de-comercio-rechaza-la-derogacion-del-cierre-dominical",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/mundo/80133/trump-advirtio-sobre-un-desastre-potencial-en-malvinas",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/12/estudiantes-realizaran-practicas-profesionalizantes-en-el-ipav/",
+    "title": "Estudiantes realizarán prácticas profesionalizantes en el IPAV",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/12/investigan-el-incendio-de-un-auto-en-santa-rosa/",
+    "title": "Investigan el incendio de un auto en Santa Rosa",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/12/la-advertencia-de-trump-sobre-un-eventual-conflicto-entre-argentina-y-reino-unido-por-malvinas-desastre-potencial/",
+    "title": "La advertencia de Trump sobre un eventual conflicto entre Argentina y Reino Unido por Malvinas: “Desastre potencial”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/12/la-camara-de-comercio-rechaza-derogar-el-descanso-dominical-nunca-fuimos-consultados/",
+    "title": "La Cámara de Comercio rechaza derogar el descanso dominical: “Nunca fuimos consultados”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/12/luciano-ortiz-rechazo-el-nuevo-regimen-de-regalias-de-los-nihuiles-es-un-atropello-a-la-pampa/",
+    "title": "Luciano Ortiz rechazó el nuevo régimen de regalías de Los Nihuiles: “Es un atropello a la Pampa”",
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/deportes/2026/9/12/guilla-corrales-la-seleccion-siguen-haciendo-historia-ahora-conquistaron-la-copa-america-video-122670.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/espectaculos/2026/9/12/sobrevientes-un-desprendimiento-de-la-iconica-the-darlings-vuelven-los-escenarios-video-122642.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/municipales/2026/9/12/mas-servicios-realizaron-tareas-de-limpieza-integral-en-barrio-este-122667.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/12/desastre-potencial-la-advertencia-de-trump-sobre-un-eventual-conflicto-entre-argentina-reino-unido-por-malvinas-122668.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/12/franco-colapinto-clasifico-noveno-en-madrid-tras-una-gran-actuacion-122676.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/12/le-robo-la-bicicleta-un-jubilado-pero-un-vecino-lo-bajo-de-una-patada-video-122672.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/9/12/brutal-ataque-en-rancul-quiso-renunciar-su-empleador-lo-ataco-con-un-cuchillo-intento-atropellarlo-lo-amenazo-de-muerte-122681.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/12/el-empleo-privado-sigue-en-caida-en-la-pampa-perdio-575-puestos-en-un-ano-122650.html",
     "title": null,
     "attempts": 0
   }
