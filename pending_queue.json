@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/deportes/79926/mac-allister-amplio-la-ventaja-y-santa-rosa-confirmo-su-mejoria",
     "title": "Mac Allister ampli&oacute; la ventaja y Santa Rosa confirm&oacute; su mejor&iacute;a",
-    "attempts": 12
+    "attempts": 13
   },
   {
     "site": "El Diario de La Pampa",
@@ -6824,6 +6824,258 @@
   {
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/videos-de-la-semana/80140/videos-de-la-semana",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82598",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82607",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82609",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82610",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/13/con-un-plan-estrategico-la-pampa-atenuo-el-aumento-nacional-de-la-energia-y-ahorro-515-millones-en-un-mes/",
+    "title": "Con un plan estratégico, La Pampa atenuó el aumento nacional de la energía y ahorró $515 millones en un mes",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/13/juez-mauricio-pascual-la-baja-de-imputabilidad-no-soluciona-el-problema/",
+    "title": "Juez Mauricio Pascual: «La baja de imputabilidad no soluciona el problema»",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/13/preocupacion-en-la-pampa-capacitan-a-profesionales-sobre-los-nuevos-consumos-en-adolescentes/",
+    "title": "Preocupación en La Pampa: capacitan a profesionales sobre los nuevos consumos en adolescentes",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/13/reto-del-dia-se-animan-a-resolverlo-antes-de-mirar-la-respuesta-final/",
+    "title": "Reto del día: ¿se animan a resolverlo antes de mirar la respuesta final?",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/13/tragedia-en-guamini-tres-pescadores-murieron-ahogados-en-la-laguna-del-monte-y-buscan-intensamente-a-otros-dos/",
+    "title": "Tragedia en Guaminí: tres pescadores murieron ahogados en la Laguna del Monte y buscan intensamente a otros dos",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/13/tragico-siniestro-vial-en-la-ruta-10-un-conductor-de-san-luis-perdio-la-vida-tras-chocar-contra-un-camion-e-impactar-contra-un-calden/",
+    "title": "Trágico siniestro vial en la Ruta 10: un conductor de San Luis perdió la vida tras rozar contra un camión e impactar contra un caldén",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/13/una-planta-hace-tan-feliz-a-los-maestros-en-su-dia-consejos-de-primavera-y-el-auge-de-los-viveros-pampeanos/",
+    "title": "«Una planta hace tan feliz a los maestros en su día»: consejos de primavera y el auge de los viveros pampeanos",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/caldenia/la-pluma-sagrada-2026913900",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/los-partidos-de-la-liga-profesional-para-este-domingo-20269139520",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/malvinas-potencial-desastre-20269130140",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/caso-adorni-a-poco-de-que-venza-la-prorroga-la-justicia-espera-respuestas-sobre-su-patrimonio-202691310140",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/parera-peon-rural-fue-agredido-con-cuchillo-20269130150",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/un-muerto-camioneta-rozo-un-camion-volco-y-choco-contra-un-calden-202691310480",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/choque-fatal-en-la-ruta-237-20269130140",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/el-pronostico-del-tiempo-para-hoy-en-santa-rosa-20269139310",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/congreso/javier-milei-y-las-turbulencias-el-congreso-aliados-fuga-y-una-agenda-riesgo-n5426564",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/la-quinta-pata/inteligencia-artificial-javier-milei-y-la-guerra-fria-estados-unidos-y-china-n5426539",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/backstage-politico-rosario-pullaro-inauguro-su-gran-vidriera-scaglia-empoderada-y-elogio-libertario-n5426566",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/domingo-peronismo-2027-la-unidad-se-negocia-buenos-aires-n5426563",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-relato-javier-milei-iii-los-estados-animo-y-los-seis-pilares-narrativos-del-presidente-n5426504",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/recaudacion-buenos-aires-los-ingresos-siguen-debajo-la-inflacion-aunque-la-caida-se-modera-n5426559",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/viene-leon-xiv-y-la-iglesia-le-propone-javier-milei-otra-salida-el-dialogo-n5426523",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/13/bernasconi-descartan-el-cierre-del-frigorifico-y-metatech-aguarda-la-habilitacion-para-exportar-a-china/",
+    "title": "Bernasconi: descartan el cierre del frigorífico y Metatech aguarda la habilitación para exportar a China",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/13/caso-adorni-a-poco-de-que-venza-la-prorroga-la-justicia-espera-respuestas-sobre-su-patrimonio/",
+    "title": "Caso Adorni: a poco de que venza la prórroga, la Justicia espera respuestas sobre su patrimonio",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/13/delegacion-de-la-cgt-expuso-ante-el-papa-la-situacion-del-pais/",
+    "title": "Delegación de la CGT expuso ante el Papa la situación del país",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/13/el-diputado-y-excombatiente-de-malvinas-aldo-leiva-choco-contra-un-camion-en-la-ruta-nacional-11/",
+    "title": "El diputado y excombatiente de Malvinas, Aldo Leiva chocó contra un camión en la Ruta Nacional 11",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/13/el-ejecutivo-enviara-al-congreso-el-presupuesto-2027-en-medio-de-las-negociaciones-con-gobernadores/",
+    "title": "El Ejecutivo enviará al Congreso el Presupuesto 2027 en medio de las negociaciones con gobernadores",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/13/lezcano-el-atuel-es-interprovincial-pero-la-pampa-se-queda-con-el-dano-y-mendoza-con-las-regalias/",
+    "title": "Lezcano: “El Atuel es interprovincial, pero La Pampa se queda con el daño y Mendoza con las regalías”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/13/santa-rosa-y-un-domingo-helado-casi-un-grado-bajo-cero-y-3-4c-de-sensacion-termica/",
+    "title": "Santa Rosa y un domingo helado: casi un grado bajo cero y -3.4°C de sensación térmica",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/13/siete-de-cada-diez-personas-se-muestran-insatisfechas-con-la-marcha-general-del-pais/",
+    "title": "Siete de cada diez personas se muestran insatisfechas con la marcha general del país",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/13/un-hombre-murio-tras-chocar-contra-un-calden-en-la-ruta-10-y-elevo-a-37-la-cifra-de-victimas-fatales/",
+    "title": "Un hombre murió tras chocar contra un caldén en la Ruta 10 y elevó a 37 la cifra de víctimas fatales",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/13/murio-un-hombre-entre-victorica-y-telen-su-pickup-rozo-un-un-camion-volco-y-choco-contra-un-calden/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/12/ricardo-en-la-misa-de-los-artesanos-somos-de-macachin-mi-esposa-hace-los-cuadros-con-piedritas-yo-vendo-cebo-mates-soy-jubilado-de-dos-anclas-video-122683.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/12/tragedia-murio-tras-chocar-contra-un-camion-estacionado-122688.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/13/caso-adorni-poco-de-que-venza-la-prorroga-la-justicia-espera-respuestas-sobre-su-patrimonio-122703.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/13/imposible-no-emocionarse-ciro-recibio-la-noticia-que-tanto-esperaba-video-122707.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/13/pesca-suspendida-en-guamini-tres-pescadores-fallecidosy-buscan-otros-dos-desaparecidos-122706.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/9/13/tragedia-en-ruta-10-e-telen-victorica-un-hombre-murio-tras-volcar-con-su-camioneta-122705.html",
     "title": null,
     "attempts": 0
   }
