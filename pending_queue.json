@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/deportes/79926/mac-allister-amplio-la-ventaja-y-santa-rosa-confirmo-su-mejoria",
     "title": "Mac Allister ampli&oacute; la ventaja y Santa Rosa confirm&oacute; su mejor&iacute;a",
-    "attempts": 14
+    "attempts": 15
   },
   {
     "site": "El Diario de La Pampa",
@@ -7334,6 +7334,108 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/9/13/sos-juez-no-legislador-la-corte-suprema-anulo-un-fallo-de-la-pampa-que-redujo-la-pena-por-abigeato-agravado-122709.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/13/choque-en-la-madrugada-de-general-pico-un-volkswagen-vento-impacto-contra-un-camion-en-la-calle-2/",
+    "title": "Choque en la madrugada de General Pico: un Volkswagen Vento impactó contra un camión en la calle 2",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/13/costa-brava-piso-fuerte-en-tandil-y-vencio-a-santamarina/",
+    "title": "Costa Brava pisó fuerte en Tandil y venció a Santamarina",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/13/detectaron-por-satelite-un-desmonte-ilegal-de-342-hectareas-de-bosque-nativo-en-rancul/",
+    "title": "Detectaron por satélite un desmonte ilegal de 342 hectáreas de bosque nativo en Rancul",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/13/fecha-2-del-pre-federal-cultural-argentino-busca-reencontrarse-ante-un-candidato/",
+    "title": "Fecha 2 del Pre Federal: Cultural Argentino busca reencontrarse ante un candidato",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/13/vertiz-se-prepara-para-celebrar-su-119-aniversario-con-shows-feria-de-artesanos-y-actividades-para-toda-la-familia/",
+    "title": "Vértiz se prepara para celebrar su 119° aniversario con shows, feria de artesanos y actividades para toda la familia",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/caldenia/el-cielo-en-una-habitacion-20269131500",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/werner-gano-la-final-del-tc-en-san-luis-y-es-lider-de-la-copa-de-oro-20269131610",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/lideres-de-escocia-gales-e-irlanda-se-unen-para-impulsar-su-independencia-del-reino-unido-202691316250",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/el-hijo-del-canciller-quirno-trabaja-en-una-ong-aliada-a-inglaterra-202691315480",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/la-mora-en-los-creditos-a-las-familias-alcanzo-el-18-en-julio-y-suma-21-meses-de-suba-continua-20269131600",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/pintada-en-una-escuela-alerto-a-la-justicia-mensaje-denuncia-embarazo-de-una-nina-20269131640",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/un-diputado-nacional-choco-contra-un-camion-en-la-ruta-nacional-11-202691316120",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/estrellas-amarillas-se-reunio-con-diputados-e-insistio-con-la-reforma-de-codigo-penal-202691315370",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/volco-una-lancha-murieron-cuatro-pescadores-ahogados-y-buscan-a-un-quinto-202691315200",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/13/el-club-union-de-miguel-riglos-se-suma-a-la-liga-de-la-eficiencia-con-nueva-iluminacion-led/",
+    "title": "El Club Unión de Miguel Riglos se suma a la Liga de la Eficiencia con nueva iluminación LED",
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/12/eduardo-llego-desde-escobar-la-misa-de-los-artesanos-hace-35-anos-me-canse-de-la-fabrica-queria-libertad-empece-hacer-mates-bombillas-bisuteria-en-alpaca-gracias-esto-conoci-un-monton-de-lugares-video-122679.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/13/plan-hidrico-provincial-provincia-planifica-las-futuras-perforaciones-en-trenel-122686.html",
     "title": null,
     "attempts": 0
   }
