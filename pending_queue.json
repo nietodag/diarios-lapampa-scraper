@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/deportes/79926/mac-allister-amplio-la-ventaja-y-santa-rosa-confirmo-su-mejoria",
     "title": "Mac Allister ampli&oacute; la ventaja y Santa Rosa confirm&oacute; su mejor&iacute;a",
-    "attempts": 17
+    "attempts": 18
   },
   {
     "site": "El Diario de La Pampa",
@@ -7802,6 +7802,54 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/salud/2026/9/13/general-pico-participo-del-xi-encuentro-nacional-de-promotores-de-la-donacion-de-sangre-medula-osea-122720.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/13/adios-a-una-figura-entranable-de-la-musica-pampeana-murio-juan-venturucci/",
+    "title": "Adiós a una figura entrañable de la música pampeana: murió Juan Venturucci",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/13/el-ateneo-cultural-celebro-una-exitosa-noche-de-rock-en-el-viejo-galpon/",
+    "title": "El Ateneo Cultural celebró una exitosa noche de rock en El Viejo Galpón",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/independiente-empato-con-san-lorenzo-por-el-torneo-clausura-202691321180",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/tragedia-en-indonesia-seis-muertos-y-129-desaparecidos-tras-el-naufragio-de-un-barco-202691321310",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/renuncio-el-titular-de-la-casa-argentina-en-paris-20269132150",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/13/a-20-anos-del-primer-aprender-a-gobernar-estudiantes-se-instalaran-en-casa-de-gobierno/",
+    "title": "A 20 años del primer “Aprender a Gobernar”, estudiantes se instalarán en Casa de Gobierno",
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/13/la-avenida-tierra-de-nadie-para-las-motos-hacia-willy-atropello-otra-moto-se-dio-la-fuga-hospitalizaron-dos-jovenes-video-122724.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/13/hiciste-feliz-otro-argentino-la-historia-detras-de-la-bandera-que-colapinto-flameo-en-el-gp-de-espana-video-122717.html",
     "title": null,
     "attempts": 0
   }
