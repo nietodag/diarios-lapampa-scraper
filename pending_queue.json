@@ -3,7 +3,7 @@
     "site": "Info Pico",
     "url": "https://www.infopico.com/2026/09/09/bruno-mino-advierte-sobre-error-en-examen-de-licencias-en-pico-las-luces-bajas-son-optativas-cuando-hay-sol-radiante/",
     "title": "Bruno Miño advierte sobre error en examen de licencias: «En Pico las luces bajas son optativas cuando hay sol radiante»",
-    "attempts": 5
+    "attempts": 6
   },
   {
     "site": "Info Pico",
@@ -7178,6 +7178,60 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/15/se-incendio-el-campo-de-dorotea-en-quemu-quemu-video-122760.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/el-mundo-prisionero-la-ia-n5426600",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/la-corte-suprema-los-pone-mimosos-fallos-tasas-municipales-e-ingresos-brutos-n5426597",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80243/homenaje-a-la-trayectoria-y-compromiso-de-docentes",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/15/boca-visita-a-san-pablo-por-un-lugar-en-las-semifinales-de-la-copa-sudamericana/",
+    "title": "Boca visita a San Pablo, por un lugar en las semifinales de la Copa Sudamericana",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/15/copa-libertadores-platense-recibe-a-fluminense-en-busca-de-la-remontada-para-meterse-en-las-semifinales/",
+    "title": "Copa Libertadores: Platense recibe a Fluminense, en busca de la remontada para meterse en las semifinales",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/15/era-milei-cientificos-del-conicet-perdieron-un-403-de-su-capacidad-salarial/",
+    "title": "Era Milei: Científicos del CONICET perdieron un 40,3% de su capacidad salarial",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/15/general-pico-invitan-a-encuentro-entre-mujeres-una-propuesta-para-hablar-de-salud/",
+    "title": "General Pico: invitan a “Encuentro entre mujeres”, una propuesta para hablar de salud",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/15/oro-en-el-exterior-el-peronismo-exige-interpelar-a-bausili-en-el-senado/",
+    "title": "Oro en el exterior: el peronismo exige interpelar a Bausili en el Senado",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/15/volco-un-camion-con-gas-licuado-en-la-ruta-143-corte-total-del-transito/",
     "title": null,
     "attempts": 0
   }
