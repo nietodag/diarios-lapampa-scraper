@@ -1,87 +1,9 @@
 [
   {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/09/09/bruno-mino-advierte-sobre-error-en-examen-de-licencias-en-pico-las-luces-bajas-son-optativas-cuando-hay-sol-radiante/",
-    "title": "Bruno Miño advierte sobre error en examen de licencias: «En Pico las luces bajas son optativas cuando hay sol radiante»",
-    "attempts": 19
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/09/09/convocan-a-deportistas-para-la-instancia-local-de-los-juegos-deportivos-pampeanos-en-general-pico/",
-    "title": "Convocan a deportistas para la instancia local de los Juegos Deportivos Pampeanos en General Pico",
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/el-pais/causa-andis-el-fiscal-pidio-citar-a-la-exnovia-de-cerimedo-como-testigo-20269916430",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/el-pais/china-zorrilla-el-gigante-electrico-que-ya-navega-hacia-el-rio-de-la-plata-2026991500",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/el-pais/diputados-la-oposicion-logro-aprobar-su-plan-de-trabajo-sobre-discapacidad-y-morosidad-20269916500",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/el-pais/primer-ministro-britanico-afirmo-que-su-gobierno-sera-implacable-con-malvinas-2026991600",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/el-pais/senado-se-cayo-la-sesion-prevista-para-el-jueves-por-biocombustibles-20269916180",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/la-pampa/la-adopcion-es-el-derecho-de-un-nino-a-tener-una-familia-para-toda-la-vida-20269915170",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/la-pampa/la-justicia-tiene-en-la-mira-a-seis-policias-por-la-golpiza-al-luthier-20269911500",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/la-pampa/montes-de-oca-advirtio-sobre-la-caida-salarial-y-el-endeudamiento-20269914300",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/la-pampa/nuevos-consumos-en-adolescentes-capacitan-a-equipos-de-salud-y-educacion-2026991690",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/la-pampa/provincia-entrego-1-000-millones-a-municipios-para-soluciones-habitacionales-20269916260",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/la-region/cuales-son-los-10-pueblos-ideales-para-escaparse-y-disfrutar-de-un-picnic-2026991560",
-    "title": null,
-    "attempts": 0
-  },
-  {
     "site": "La Arena",
     "url": "https://www.laarena.com.ar/la-region/intercambiadas-al-nacer-la-sospecha-y-la-revelacion-del-error-20269914250",
-    "title": null,
-    "attempts": 0
+    "title": "Intercambiadas al nacer: la sospecha y la revelación del error",
+    "attempts": 1
   },
   {
     "site": "LetraP",
@@ -10130,6 +10052,294 @@
   {
     "site": "Diario Textual",
     "url": "https://diariotextual.com/inicio/index.php/2026/09/17/se-levanto-el-corte-de-la-ruta-nacional-143-luego-de-dos-dias-y-medio/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82653",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/17/con-entrada-libre-y-gratuita-llega-una-nueva-edicion-de-tarde-de-juegos-al-centro-cultural-el-alero/",
+    "title": "Con entrada libre y gratuita, llega una nueva edición de “Tarde de Juegos” al Centro Cultural El Alero",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/17/horoscopo-de-hoy-jueves-17-de-septiembre/",
+    "title": "Horóscopo de hoy, jueves 17 de septiembre",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/17/la-iluminacion-exploto-el-municipio-relevo-658-arboles-en-plazas-y-corredores-de-general-pico/",
+    "title": "«La iluminación explotó»: el municipio relevó 658 árboles en plazas y corredores de General Pico",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/17/reto-del-dia-se-animan-a-poner-a-prueba-sus-conocimientos/",
+    "title": "Reto del día: ¿se animan a poner a prueba sus conocimientos?",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/17/torneo-regional-federal-amateur-ferro-sumo-un-nuevo-empate-en-trenel-y-la-zona-esta-al-rojo-vivo/",
+    "title": "Torneo Regional Federal Amateur: Ferro sumó un nuevo empate en Trenel y la zona está al rojo vivo",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/17/tragico-desenlace-murio-el-camionero-herido-en-el-violento-choque-entre-miguel-cane-y-quemu/",
+    "title": "Trágico desenlace: murió el camionero herido en el violento choque entre Miguel Cané y Quemú",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/17/tras-culminar-el-operativo-de-trasvase-de-gas-normalizaron-el-transito-en-la-ruta-nacional-143/",
+    "title": "Tras culminar el operativo de trasvase de gas, normalizaron el tránsito en la Ruta Nacional 143",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/17/una-alumna-de-trenel-fue-elegida-gobernadora-en-una-edicion-historica-de-aprender-a-gobernar/",
+    "title": "Una alumna de Trenel fue elegida gobernadora en una edición histórica de Aprender a Gobernar",
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/consejo-la-magistratura-biglieri-mostro-el-apoyo-gil-lavedra-y-sumo-respaldos-peronistas-n5426667",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-bolsillo-le-pasa-factura-javier-milei-una-encuesta-da-ganador-axel-kicillof-un-eventual-balotaje-n5426648",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/entre-rios-la-ruptura-milei-salinas-busca-sumarse-al-armado-juntos-n5426637",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/maximiliano-pullaro-apoyo-la-suspension-las-paso-nivel-nacional-y-reitero-que-no-votaria-al-kirchnerismo-n5426672",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/17/bensusan-votara-en-contra-de-modificar-ley-de-biocombustibles-pone-en-peligro-a-las-empresas-de-la-pampa/",
+    "title": "Bensusán votará en contra de modificar Ley de Biocombustibles: “Pone en peligro a las empresas de La Pampa”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/17/construiran-un-nuevo-puente-en-la-reforma-con-una-obra-provincial-alcanzamos-el-presupuesto-de-vialidad-nacional/",
+    "title": "Construirán un nuevo puente en La Reforma: “Con una obra provincial alcanzamos el presupuesto de Vialidad Nacional”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/17/el-presupuesto-2027-refuerza-el-ajuste-en-ciencia-y-universidades/",
+    "title": "El Presupuesto 2027 refuerza el ajuste en Ciencia y Universidades",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/17/general-pico-invitan-al-espectaculo-acordando-distancias-cuando-la-musica-y-el-arte-se-encuentran/",
+    "title": "General Pico: invitan al espectáculo “Acordando Distancias”, cuando la música y el arte se encuentran",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/17/la-municipalidad-reitero-los-cortes-de-calles-hasta-el-fin-de-semana/",
+    "title": "La Municipalidad reiteró los cortes de calles hasta el fin de semana",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/17/las-aves-vuelven-y-refuerzan-la-participacion-de-animales-para-la-expo-100-de-santa-rosa/",
+    "title": "Las aves vuelven y refuerzan la participación de animales para la Expo 100 de Santa Rosa",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/17/milei-envio-al-congreso-el-proyecto-por-malvinas-que-endurece-las-penas-por-la-explotacion-de-recursos-puntos-principales/",
+    "title": "Milei envió al Congreso el proyecto por Malvinas que endurece las penas por la explotación de recursos: Puntos principales",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/17/murio-el-camionero-herido-en-el-violento-choque-entre-miguel-cane-y-quemu/",
+    "title": "Murió el camionero herido en el violento choque entre Miguel Cané y Quemú",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/17/se-viene-la-6ta-fecha-del-campeonato-provincial-de-tenis-de-mesa/",
+    "title": "Se viene la 6ta. fecha del Campeonato Provincial de Tenis de Mesa",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/17/tgn-impulsa-una-obra-de-usd-2-200-millones-que-sumara-capacidad-y-abrira-mercados-de-exportacion/",
+    "title": "TGN impulsa una obra de USD 2.200 millones que sumará capacidad y abrirá mercados de exportación",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/17/bensusan-en-contra-de-modificar-ley-de-biocombustibles-pone-en-peligro-a-las-empresas-de-la-pampa/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/17/defensoria-nacional-dice-que-la-familia-de-contencion-intento-apropiarse-del-bebe-de-rancul/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/17/electrolux-contra-las-cuerdas-por-el-boom-de-lavarropas-importados-desde-china/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/17/es-un-mamarracho-hay-enojo-en-mendoza-por-la-cautelar-que-freno-los-cambios-de-regalias-de-los-nihuiles/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/17/escandalo-denuncian-al-ministro-lugones-por-colocar-58-mil-millones-en-activos-financieros-en-vez-de-comprar-insumos-para-el-garrahan/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/17/fallecio-el-camionero-que-choco-en-cercanias-de-quemu/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/17/golpiza-al-musico-y-luthier-santarroseno-el-15-de-octubre-formalizan-a-7-policias/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/17/la-pampa-encabeza-el-mapa-de-las-provincias-mas-caras-para-hacer-las-compras/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/17/la-principal-empresa-fabricante-de-termotanques-del-pais-echo-a-27-trabajadores/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/17/otra-derrota-judicial-para-sturzenegger-no-se-puede-desregular-la-actividad-farmaceutica/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/17/unos-35-gremios-piden-activar-la-cgt-santa-rosa/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31603-el-ajuste-universitario-se-profundiza-y-el-2027-aparece-como-un-ano-critico",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31604-elecciones-en-la-cpe-la-lista-celeste-presento-a-sus-candidatos-y-llamo-a-participar",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31605-la-motosierra-en-discapacidad-no-llegan-los-recursos-para-cuestiones-basicas-de-salud",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31606-senalar-cultura-una-placa-para-recuperar-la-historia-del-arte-urbano-en-santa-rosa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31607-gaggero-y-salazar-luna-el-arte-junta-es-comunitario-sirve-y-ayuda",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/17/la-merced-llevo-la-virgen-una-esquina-del-centro-convoco-sus-actividades-se-vienen-las-fiestas-patronales-queremos-poner-maria-en-contacto-con-su-pueblo-video-122798.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/17/reclamo-por-el-bebe-de-rancul-en-pico-pedimos-que-renuncien-los-funcionarios-de-ninez-rodrigo-lofvall-juan-pablo-bonino-lo-judicial-esta-teniendo-muchas-irregularidades-video-122850.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/17/martin-zurita-argentina-es-el-pais-del-mundo-en-el-que-mas-cayo-la-natalidad-escucha-la-nota-122852.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/17/milei-apunto-contra-la-industria-textil-si-quieren-vender-lo-mismo-que-los-chinos-10-veces-mas-caro-no-tienen-futuro-escucha-la-nota-122851.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/opinion/2026/9/17/bensusan-votara-en-contra-de-modificar-ley-de-biocombustibles-pone-en-riesgo-las-plantas-de-general-pico-catrilo-122841.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/9/17/identificaron-al-camionero-que-murio-durante-una-operacion-tras-el-accidente-en-la-ruta-provincial-122849.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/9/17/urgente-murio-el-camionero-que-habia-sufrido-un-violento-siniestro-en-la-ruta-provincial-122840.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/17/tras-varias-horas-de-operativo-levantaron-el-corte-habilitaron-la-ruta-143-122839.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/salud/2026/9/17/nueva-certificacion-de-profesionales-de-salud-sin-apoyo-provincial-la-especializacion-habria-sido-inviable-dijo-kohan-122838.html",
     "title": null,
     "attempts": 0
   }
