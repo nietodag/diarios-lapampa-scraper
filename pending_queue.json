@@ -3,7 +3,7 @@
     "site": "La Arena",
     "url": "https://www.laarena.com.ar/la-region/intercambiadas-al-nacer-la-sospecha-y-la-revelacion-del-error-20269914250",
     "title": "Intercambiadas al nacer: la sospecha y la revelación del error",
-    "attempts": 5
+    "attempts": 6
   },
   {
     "site": "LetraP",
@@ -11276,6 +11276,36 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/17/presupuesto-2027-la-pampa-queda-relegada-recibe-solo-cuatro-obras-122843.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/18/dolor-en-el-norte-pampeano-quien-era-el-camionero-que-murio-tras-un-violento-choque-en-la-ruta-provincial-1/",
+    "title": "Dolor en el norte pampeano: quién era el camionero qué murió tras un violento choque en la Ruta Provincial 1",
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/el-valor-del-dolar-una-pasion-nacional-n5426703",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/17/el-senado-aprobo-reforma-de-la-ley-de-biocombustibles/",
+    "title": "El Senado aprobó reforma de la ley de biocombustibles",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/17/por-la-unidad-realizaron-el-cuarto-encuentro-del-peronismo-pampeano/",
+    "title": "Por la unidad: realizaron el “Cuarto encuentro del Peronismo Pampeano”",
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/9/18/choque-en-castex-un-adolescente-sufrio-gravisimas-lesiones-fue-trasladado-de-urgencia-general-pico-video-122871.html",
     "title": null,
     "attempts": 0
   }
