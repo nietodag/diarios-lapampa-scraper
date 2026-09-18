@@ -752,7 +752,11 @@
     "https://www.pampadiario.com/single-post.php?id=82666": 1789682458.199583,
     "https://www.pampadiario.com/single-post.php?id=82668": 1789689868.9431326,
     "https://www.pampadiario.com/single-post.php?id=82670": 1789706065.097738,
-    "https://www.pampadiario.com/single-post.php?id=82669": 1789706065.097738
+    "https://www.pampadiario.com/single-post.php?id=82669": 1789706065.097738,
+    "https://www.pampadiario.com/single-post.php?id=82661": 1789738508.9692588,
+    "https://www.pampadiario.com/single-post.php?id=82672": 1789738508.9692588,
+    "https://www.pampadiario.com/single-post.php?id=82671": 1789738508.9692588,
+    "https://www.pampadiario.com/single-post.php?id=82673": 1789738508.9692588
   },
   "Info Pico": {
     "https://www.infopico.com/2026/07/18/musica-e-inclusion-una-fundacion-de-la-pampa-organiza-un-show-con-total-accesibilidad-en-buenos-aires/": 1784416721.202942,
@@ -1994,7 +1998,14 @@
     "https://www.infopico.com/2026/09/17/el-nino-ziliotto-coordino-un-plan-preventivo-con-intendentes-de-17-localidades-y-el-sector-agropecuario/": 1789689868.9431326,
     "https://www.infopico.com/2026/09/17/avanzan-las-acciones-del-plan-integral-de-arbolado-urbano-en-general-pico/": 1789706065.097738,
     "https://www.infopico.com/2026/09/17/grave-choque-en-eduardo-castex-un-adolescente-fue-derivado-de-urgencia-a-general-pico-con-fractura-de-craneo/": 1789706065.097738,
-    "https://www.infopico.com/2026/09/18/dolor-en-el-norte-pampeano-quien-era-el-camionero-que-murio-tras-un-violento-choque-en-la-ruta-provincial-1/": 1789722598.340231
+    "https://www.infopico.com/2026/09/18/dolor-en-el-norte-pampeano-quien-era-el-camionero-que-murio-tras-un-violento-choque-en-la-ruta-provincial-1/": 1789722598.340231,
+    "https://www.infopico.com/2026/09/18/una-prueba-no-define-nunca-a-nuestros-estudiantes-la-mirada-de-la-pampa-sobre-los-resultados-pisa/": 1789738508.9692588,
+    "https://www.infopico.com/2026/09/18/homicidio-en-el-barrio-matadero-de-santa-rosa-murio-un-hombre-a-balazos-y-detuvieron-al-presunto-autor/": 1789738508.9692588,
+    "https://www.infopico.com/2026/09/18/app-de-stake-argentina-como-descargarla-en-android-e-ios/": 1789738508.9692588,
+    "https://www.infopico.com/2026/09/18/reto-del-dia-se-animan-a-resolverlo-y-demostrar-que-tienen-la-mente-bien-agil/": 1789738508.9692588,
+    "https://www.infopico.com/2026/09/18/acaso-no-aprendimos-nada-de-lucio-la-hermana-martha-pelloni-reclamo-justicia-por-la-beba-golpeada-en-25-de-mayo/": 1789738508.9692588,
+    "https://www.infopico.com/2026/09/18/el-servicio-meteorologico-nacional-emitio-un-alerta-amarillo-por-fuertes-vientos-para-gran-parte-de-la-pampa/": 1789738508.9692588,
+    "https://www.infopico.com/2026/09/18/conmocion-en-eduardo-castex-murio-el-joven-motociclista-de-17-anos-que-choco-con-una-bicicleta/": 1789738508.9692588
   },
   "La Arena": {
     "https://www.laarena.com.ar/deportes/basquet-ferro-igualo-la-serie-ante-all-boys-20267188490": 1784416721.202942,
@@ -6710,7 +6721,20 @@
     "https://www.laarena.com.ar/deportes/exhibicion-de-verstappen-20269180160": 1789706065.097738,
     "https://www.laarena.com.ar/deportes/racing-ante-sarmiento-20269180160": 1789706065.097738,
     "https://www.laarena.com.ar/la-pampa/exposicion-en-el-museo-provincial-40-anos-despues-20269180150": 1789706065.097738,
-    "https://www.laarena.com.ar/la-pampa/joven-sufrio-graves-lesiones-en-un-choque-20269180150": 1789706065.097738
+    "https://www.laarena.com.ar/la-pampa/joven-sufrio-graves-lesiones-en-un-choque-20269180150": 1789706065.097738,
+    "https://www.laarena.com.ar/la-region/el-pronostico-del-tiempo-para-hoy-en-santa-rosa-20269186560": 1789738508.9692588,
+    "https://www.laarena.com.ar/la-region/anses-quienes-cobran-este-viernes-18-de-septiembre-20269188310": 1789738508.9692588,
+    "https://www.laarena.com.ar/la-pampa/el-nino-reunion-entre-provincia-y-sector-rural-20269180150": 1789738508.9692588,
+    "https://www.laarena.com.ar/la-pampa/senado-bensusan-reclamo-por-el-atuel-kroneberger-no-fue-y-huala-no-hablo-202691810210": 1789738508.9692588,
+    "https://www.laarena.com.ar/la-region/alerta-por-mal-tiempo-se-evalua-el-cierre-del-paso-cristo-redentor-20269181040": 1789738508.9692588,
+    "https://www.laarena.com.ar/la-pampa/murio-el-motociclista-accidentado-en-eduardo-castex-202691810200": 1789738508.9692588,
+    "https://www.laarena.com.ar/la-pampa/mataron-a-un-hombre-frente-a-la-escuela-217-del-barrio-matadero-de-santa-rosa-20269188380": 1789738508.9692588,
+    "https://www.laarena.com.ar/la-pampa/agentes-publicos-se-capacitaron-en-administracion-electronica-y-modernizacion-administrativa-20269189570": 1789738508.9692588,
+    "https://www.laarena.com.ar/la-region/juegos-suramericanos-santa-fe-2026-la-agenda-del-dia-6-20269188520": 1789738508.9692588,
+    "https://www.laarena.com.ar/el-pais/la-anonima-perdio-una-suma-millonaria-porque-sus-clientes-no-pueden-pagar-sus-tarjetas-20269188240": 1789738508.9692588,
+    "https://www.laarena.com.ar/el-mundo/china-impulsa-un-megaproyecto-que-podria-cambiar-el-comercio-con-asia-2026918990": 1789738508.9692588,
+    "https://www.laarena.com.ar/la-pampa/un-camion-mosquito-quedo-atravesado-en-la-ruta-35-20269189310": 1789738508.9692588,
+    "https://www.laarena.com.ar/la-region/pronostican-alerta-meteorologica-por-tormentas-fuertes-20269187540": 1789738508.9692588
   },
   "LetraP": {
     "https://www.letrap.com.ar/politica/santiago-del-estero-el-pro-se-concentra-la-capital-y-la-banda-no-sucumbir-la-avanzada-libertaria-n5425166": 1784416721.202942,
@@ -8052,7 +8076,9 @@
     "https://www.letrap.com.ar/politica/el-plan-rucci-neuquen-2027-conducir-los-municipios-petroleros-sumar-bancas-y-respaldar-figueroa-n5426668": 1789706065.097738,
     "https://www.letrap.com.ar/congreso/biocombustibles-el-gobierno-suavizo-el-golpe-las-pymes-y-aprobo-la-reforma-que-beneficia-las-cerealeras-n5426704": 1789706065.097738,
     "https://www.letrap.com.ar/politica/todo-es-posible-la-dimension-muy-cocida-javier-milei-n5426699": 1789706065.097738,
-    "https://www.letrap.com.ar/el-valor-del-dolar-una-pasion-nacional-n5426703": 1789722598.340231
+    "https://www.letrap.com.ar/el-valor-del-dolar-una-pasion-nacional-n5426703": 1789722598.340231,
+    "https://www.letrap.com.ar/politica/gualeguaychu-piaggio-se-baja-la-carrera-el-municipio-y-bahillo-asume-el-desafio-cohesionar-al-pj-n5426671": 1789738508.9692588,
+    "https://www.letrap.com.ar/politica/con-el-debut-lla-los-abogados-tambien-van-elecciones-el-consejo-la-magistratura-porteno-n5426687": 1789738508.9692588
   },
   "El Diario de La Pampa": {
     "https://www.eldiariodelapampa.com.ar/pais/77403/morosidad-en-alza--se-agrava-el-problema-y-1-de-cada-3-argentinos-con-deuda-no-puede-pagar": 1784416721.202942,
@@ -10665,7 +10691,20 @@
     "https://www.eldiariodelapampa.com.ar/deportes/80407/varrone-no-seguira-en-la-f2": 1789706065.097738,
     "https://www.eldiariodelapampa.com.ar/deportes/80406/derrota-de-la-seleccion-ante-paraguay-en-el-marcelo-bielsa": 1789706065.097738,
     "https://www.eldiariodelapampa.com.ar/linea-abierta/80410/mensajes-18-9-2026": 1789706065.097738,
-    "https://www.eldiariodelapampa.com.ar/la-pampa/80405/un-menor-en-terapia-intensiva-por-un-choque-en-castex-": 1789706065.097738
+    "https://www.eldiariodelapampa.com.ar/la-pampa/80405/un-menor-en-terapia-intensiva-por-un-choque-en-castex-": 1789706065.097738,
+    "https://www.eldiariodelapampa.com.ar/la-pampa/80425/se-reunio-la-comision-de-arbolado-publico-y-espacios-verdes": 1789738508.9692588,
+    "https://www.eldiariodelapampa.com.ar/la-pampa/80416/escuelas-i-cerro-el-mes-de-las-artes-con-una-jornada-abierta": 1789738508.9692588,
+    "https://www.eldiariodelapampa.com.ar/deportes/80414/lucas-hecker-se-colgo-la-medalla-de-plata": 1789738508.9692588,
+    "https://www.eldiariodelapampa.com.ar/la-pampa/80423/un-auto-se-incendio-en-la-ruta-35-y-un-bombero-de-civil-logro-sofocar-las-llamas": 1789738508.9692588,
+    "https://www.eldiariodelapampa.com.ar/la-pampa/80420/investigan-la-muerte-de-un-hombre-en-el-barrio-matadero": 1789738508.9692588,
+    "https://www.eldiariodelapampa.com.ar/la-pampa/80413/ahora-matzkin-respaldo-el-reclamo-por-las-rutas--no-se-debe-reparar-en-la-emergencia": 1789738508.9692588,
+    "https://www.eldiariodelapampa.com.ar/la-pampa/80421/corte-de-transito-en-la-ruta-nacional-35-por-un-camion-que-quedo-atascado": 1789738508.9692588,
+    "https://www.eldiariodelapampa.com.ar/pais/80422/la-armada-aparto-a-nueve-militares-tras-la-denuncia-por-fraude-en-la-liquidacion-de-sueldos": 1789738508.9692588,
+    "https://www.eldiariodelapampa.com.ar/la-pampa/80419/universidad-advierten-sobre-un-panorama-cada-vez-mas-oscuro": 1789738508.9692588,
+    "https://www.eldiariodelapampa.com.ar/la-pampa/80418/discapacidad--no-hay-nadie-que-pueda-estar-a-favor-de-lo-que-hace-el-gobierno": 1789738508.9692588,
+    "https://www.eldiariodelapampa.com.ar/la-pampa/80417/fibra-optica--se-sumaron-otras-seis-zonas-de-santa-rosa": 1789738508.9692588,
+    "https://www.eldiariodelapampa.com.ar/la-pampa/80415/licitaron-un-un-nuevo-puente-sobre-la-ruta-provincial-20": 1789738508.9692588,
+    "https://www.eldiariodelapampa.com.ar/la-pampa/80424/elecciones-en-la-cpe": 1789738508.9692588
   },
   "Dos Bases": {
     "https://www.dosbases.com.ar/2019/01/dinosaurios-vivos-el-fiscal-aguero-alerto-sobre-un-boom-de-estafas-a-telefonicas-y-recomienda-que-el-blp-no-permita-a-jubilados-transferencias-de-montos-altos-por-cajero/": 1784416721.202942,
@@ -19231,7 +19270,12 @@
     "https://diariotextual.com/inicio/index.php/2026/09/17/ziliotto-ante-el-nino-el-objetivo-es-proteger-los-pueblos-y-la-produccion-agropecuaria/": 1789689868.9431326,
     "https://diariotextual.com/inicio/index.php/2026/09/17/el-gobierno-envio-al-congreso-el-proyecto-de-ley-de-defensa-de-la-soberania-nacional/": 1789689868.9431326,
     "https://diariotextual.com/inicio/index.php/2026/09/17/concejo-deliberante-de-pico-recordo-un-nuevo-aniversario-de-la-noche-de-los-lapices/": 1789689868.9431326,
-    "https://diariotextual.com/inicio/index.php/2026/09/17/cd-de-santa-rosa-duenos-y-choferes-de-taxis-elevaran-propuestas-de-cambio-a-ordenanza/": 1789689868.9431326
+    "https://diariotextual.com/inicio/index.php/2026/09/17/cd-de-santa-rosa-duenos-y-choferes-de-taxis-elevaran-propuestas-de-cambio-a-ordenanza/": 1789689868.9431326,
+    "https://diariotextual.com/inicio/index.php/2026/09/18/murio-un-hombre-en-el-barrio-matadero-en-un-presunto-enfrentamiento-a-tiros/": 1789738508.9692588,
+    "https://diariotextual.com/inicio/index.php/2026/09/18/castex-murio-un-chico-de-17-anos-en-un-choque-entre-una-moto-y-una-bicicleta/": 1789738508.9692588,
+    "https://diariotextual.com/inicio/index.php/2026/09/18/oscar-alpa-y-la-posibilidad-de-ser-candidato-en-2027-voy-a-estar-participando/": 1789738508.9692588,
+    "https://diariotextual.com/inicio/index.php/2026/09/18/peaje-diputados-empiezan-a-discutir-los-tres-proyectos-y-pone-bajo-la-lupa-el-fideicomiso-y-el-alcance-del-cobro/": 1789738508.9692588,
+    "https://diariotextual.com/inicio/index.php/2026/09/18/corte-en-la-ruta-nacional-35-por-un-camion-que-quedo-atravesado-sobre-la-calzada/": 1789738508.9692588
   },
   "Radio Kermes": {
     "https://www.radiokermes.com/noticias/30889-el-partido-argentina-enfrenta-a-inglaterra-y-busca-la-final-mundial": 1784416721.202942,
@@ -22260,7 +22304,12 @@
     "https://www.enbocadetodoshd.com.ar/opinion/2026/9/17/mario-garcia-pj-siempre-pasa-que-vecinos-solicitan-provision-de-agua-potable-en-esta-sesion-en-particular-va-para-dos-sectores-se-puede-pagar-hasta-en-24-cuotas-video-122847.html": 1789706065.097738,
     "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/18/horror-un-carpintero-ataco-su-socio-mientras-dormia-le-disparo-en-la-cara-intento-ahorcarlo-con-un-cable-122870.html": 1789706065.097738,
     "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/17/presupuesto-2027-la-pampa-queda-relegada-recibe-solo-cuatro-obras-122843.html": 1789706065.097738,
-    "https://www.enbocadetodoshd.com.ar/policiales/2026/9/18/choque-en-castex-un-adolescente-sufrio-gravisimas-lesiones-fue-trasladado-de-urgencia-general-pico-video-122871.html": 1789722598.340231
+    "https://www.enbocadetodoshd.com.ar/policiales/2026/9/18/choque-en-castex-un-adolescente-sufrio-gravisimas-lesiones-fue-trasladado-de-urgencia-general-pico-video-122871.html": 1789722598.340231,
+    "https://www.enbocadetodoshd.com.ar/policiales/2026/9/18/urgente-mataron-un-hombre-de-un-disparo-122873.html": 1789738508.9692588,
+    "https://www.enbocadetodoshd.com.ar/policiales/2026/9/18/conmocion-murio-el-joven-de-17-anos-que-habia-sido-trasladado-de-urgencia-al-centeno-tras-un-choque-en-castex-mira-122874.html": 1789738508.9692588,
+    "https://www.enbocadetodoshd.com.ar/opinion/2026/9/17/cuarto-encuentro-del-peronismo-pampeano-unidad-territorio-rumbo-2027-122868.html": 1789738508.9692588,
+    "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/18/camion-mosquito-quedo-atravesado-sobre-la-ruta-35-corto-el-transito-122878.html": 1789738508.9692588,
+    "https://www.enbocadetodoshd.com.ar/deportes/2026/9/18/escandalo-en-el-karting-de-la-pampa-un-piloto-golpeo-un-comisario-tras-una-decision-video-122872.html": 1789738508.9692588
   },
   "Mará Codigital": {
     "http://www.maracodigital.net/En-un-ano-los-vuelos-baratos-tuvieron-un-millon-de-pasajeros.html": 1784416721.202942,
