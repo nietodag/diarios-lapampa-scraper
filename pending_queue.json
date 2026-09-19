@@ -3,7 +3,7 @@
     "site": "La Arena",
     "url": "https://www.laarena.com.ar/la-region/intercambiadas-al-nacer-la-sospecha-y-la-revelacion-del-error-20269914250",
     "title": "Intercambiadas al nacer: la sospecha y la revelación del error",
-    "attempts": 14
+    "attempts": 15
   },
   {
     "site": "LetraP",
@@ -12740,6 +12740,336 @@
   {
     "site": "Diario Textual",
     "url": "https://diariotextual.com/inicio/index.php/2026/09/19/un-muerto-en-un-choque-entre-dos-camiones-en-el-puente-de-la-adela/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82687",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82688",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/19/el-desempleo-trepo-al-79-en-el-segundo-trimestre-y-alcanzo-su-pico-mas-alto-desde-2021/",
+    "title": "El desempleo trepó al 7,9% en el segundo trimestre y alcanzó su pico más alto desde 2021",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/19/reto-del-dia-solo-el-3-desarrollo-esta-prueba-mental-en-7-segundos-10/",
+    "title": "Reto del día: solo el 3% desarrolló esta prueba mental en 7 segundos",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/19/si-medis-180-no-deberias-pesar-mas-de-80-la-formula-casera-del-nutricionista-german-cantoni-para-saber-cuanto-tenes-que-pesar/",
+    "title": "«Si medís 1,80, no deberías pesar más de 80»: la fórmula casera del nutricionista Germán Cantoni para saber cuánto tenés que pesar",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/19/tragedia-en-la-ruta-22-un-muerto-y-dos-heridos-tras-un-violento-choque-frontal-entre-dos-camiones/",
+    "title": "Tragedia en la Ruta 22: un muerto y dos heridos tras un violento choque frontal entre dos camiones",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/alerta-en-riad-tras-ataque-aereo-y-explosiones-cerca-del-aeropuerto-202691910160",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/mas-de-57-000-empresas-ya-estan-en-mora-de-pagos-20269199470",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/mirtha-legrand-internada-que-se-sabe-sobre-la-salud-202691911140",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-arena-del-campo/buscan-recuperar-el-negocio-carnico-de-vicentin-20269190150",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-arena-del-campo/la-cosecha-de-maiz-quedo-demorada-20269190150",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-arena-del-campo/sacan-a-subasta-100-toros-y-200-vientres-20269190150",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/25-de-mayo-secuestraron-1-145-kilos-de-carne-equina-20269199350",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/camioneros-reclaman-antiguedad-en-el-medanito-20269190150",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/obra-de-villa-hilda-supera-50-de-ejecucion-20269190150",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/osio-cuestiono-desregulacion-de-farmacias-pampeanas-20269190150",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/un-camion-mosquito-quedo-atravesado-en-la-ruta-35-20269190150",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/x-derechos-llego-a-jacinto-arauz-20269190150",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/congreso/discapacidad-la-libertad-avanza-moldea-un-proyecto-menor-ajuste-destrabar-el-presupuesto-n5426726",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/futbol-y-politica/patricia-bullrich-frustro-el-intento-belloso-quedarse-un-inmueble-prefectura-rosario-central-n5426742",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/axel-kicillof-2027-el-cordobesismo-mira-avellaneda-pero-no-enviara-emisarios-n5426738",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/ciudad-pro-los-macri-y-las-senales-una-disputa-el-poder-el-kilometro-cero-amarillo-n5426716",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/cosecha-roja-el-frente-izquierda-y-el-efecto-bregman-consolidarse-como-tercera-fuerza-buenos-aires-n5426715",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/debate-la-coparticipacion-rio-negro-como-sera-el-mapa-compensaciones-weretilneck-n5426733",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/jujuy-atauche-y-quintar-activan-sus-alfiles-quedarse-la-candidatura-libertaria-la-capital-n5426739",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/municipio-municipio-que-se-juegan-rios-juntos-el-pj-y-el-vecinalismo-2027-n5425810",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/region-centro/martin-llaryora-pone-1300-empresas-al-centro-su-apuesta-productiva-contrastar-el-modelo-milei-n5426720",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/culturales/80470/mistura-de-primavera-reunira-a-musicos-de-santa-rosa-y-general-pico",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/80468/sin-apoyo-financiero-hecker-bajo-del-mundial-de-croacia",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/80469/river-busca-mas-ante-huracan",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80466/zona-fria--la-pampa-no-pierde-el-beneficio-pero-habra-impacto-en-las-facturas",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80467/inician-pedido-de-mediacion-para-aumentar-la-cuota-alimentaria-para-un-menor",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80471/25-de-mayo--camioneros-vinculados-al-petroleo-reclaman-que-les-reconozcan-la-antiguedad-",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80472/fijaron-fecha-de-formalizacion-para-los-siete-policias-acusados-de-golpear-a-lautaro-ruiz",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/80473/volvieron-a-internar-a-mirtha-legrand-por-una-neumopatia",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/19/alerta-en-riad-tras-ataque-aereo-y-explosiones-cerca-del-aeropuerto/",
+    "title": "Alerta en Riad tras ataque aéreo y explosiones cerca del aeropuerto",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/19/este-sabado-se-hace-la-marcha-de-la-bronca-en-santa-rosa/",
+    "title": "Este sábado se hace “La Marcha de la Bronca” en Santa Rosa",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/19/hoy-se-votan-en-la-cpe/",
+    "title": "Hoy se votan en la CPE",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/19/la-batalla-moral/",
+    "title": "La batalla moral*",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/19/mas-de-57-000-empresas-ya-estan-en-mora-de-pagos/",
+    "title": "Más de 57.000 empresas ya están en mora de pagos",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/19/milei-vuelve-a-estados-unidos-en-su-viaje-n-18-uno-cada-55-dias/",
+    "title": "Milei vuelve a Estados Unidos en su viaje N° 18, uno cada 55 días",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/19/orgias-y-corrupcion-en-la-corte-suprema-de-brasil-lula-vinculo-a-cinco-jueces-en-el-escandalo-del-banquero/",
+    "title": "Orgías y corrupción en la Corte Suprema de Brasil: Lula vinculó a cinco jueces en el escándalo del banquero",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/19/ovejero-se-reunio-con-vecinos-del-barrio-aeropuerto-i/",
+    "title": "Ovejero se reunió con vecinos del Barrio Aeropuerto I",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/19/ravier-junta-a-la-tropa-para-elegir-la-conduccion-de-lla-y-designar-negociadores-con-otros-partidos/",
+    "title": "Ravier junta a la tropa para elegir la conducción de LLA y designar negociadores con otros partidos",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/19/sonar-sigue-siendo-gratis/",
+    "title": "“Soñar sigue siendo gratis”",
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31626-marcha-de-la-bronca-el-problema-es-que-las-luchas-estan-muy-desarticuladas",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/19/rotary-club-general-pico-con-una-agenda-cargada-visito-la-ciudad-el-gobernador-de-distrito-video-122882.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/19/impactante-un-grupo-de-operarios-hacia-un-pozo-para-instalar-un-poste-de-luz-encontro-un-bebe-muerto-adentro-de-una-bolsa-122912.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/19/mas-de-57000-empresas-ya-estan-en-mora-de-pagos-segun-un-informe-122911.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/19/preocupacion-por-reiterados-episodios-de-violencia-en-una-escuela-secundaria-video-122918.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/19/yo-no-hice-nada-malo-la-inocencia-de-una-nena-que-se-hizo-viral-video-122917.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/9/19/choque-fatal-en-el-puente-de-la-adela-uno-de-los-camiones-habria-invadido-el-carril-contrario-mira-122916.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/9/19/secuestraron-mas-de-una-tonelada-de-carne-equina-durante-un-operativo-en-la-ruta-151-122921.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/9/19/tragedia-en-ruta-22-choque-frontal-entre-dos-camiones-dejo-un-muerto-dos-heridos-hay-corte-total-en-el-puente-de-la-adela-video-122908.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/19/la-pampa-perdio-135-empresas-en-un-ano-acumula-una-caida-del-63-desde-noviembre-de-2023-122910.html",
     "title": null,
     "attempts": 0
   }
