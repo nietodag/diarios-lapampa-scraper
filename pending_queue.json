@@ -3,7 +3,7 @@
     "site": "La Arena",
     "url": "https://www.laarena.com.ar/la-region/intercambiadas-al-nacer-la-sospecha-y-la-revelacion-del-error-20269914250",
     "title": "Intercambiadas al nacer: la sospecha y la revelación del error",
-    "attempts": 13
+    "attempts": 14
   },
   {
     "site": "LetraP",
@@ -12680,6 +12680,66 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/19/una-camioneta-se-prendio-fuego-en-la-ruta-35-un-bombero-de-civil-logro-controlar-las-llamas-122883.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82682",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82686",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/19/el-parque-delfin-perez-se-prepara-para-la-temporada-hasta-2-500-visitantes-por-fin-de-semana-y-actividades-nauticas-en-marcha/",
+    "title": "El Parque Delfín Pérez se prepara para la temporada: hasta 2.500 visitantes por fin de semana y actividades náuticas en marcha",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/puente-de-la-adela-un-muerto-en-un-choque-frontal-entre-dos-camiones-20269198110",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80463/-no-me-quieran-canjear-algo-que-le-corresponda-a-la-provincia-por-un-voto",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80464/ziliotto-y-el-rio-colorado--el-66-en-porciento--de-la-poblacion-tomara-agua-de-esa-cuenca",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80465/la-pampa-perdio-135-empresas-en-un-ano-y-la-caida-desde-noviembre-de-2023-llega-al-63-en-porciento-",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/19/diputados-el-oficialismo-navega-en-aguas-turbulentas-y-busca-evitar-que-la-oposicion-imponga-condiciones/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/19/la-cabina-de-peaje-en-larroude-estara-cerca-del-limite-con-provincia-de-buenos-aires/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/19/un-muerto-en-un-choque-entre-dos-camiones-en-el-puente-de-la-adela/",
     "title": null,
     "attempts": 0
   }
