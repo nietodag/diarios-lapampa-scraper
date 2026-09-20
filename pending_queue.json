@@ -1,291 +1,9 @@
 [
   {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/la-region/intercambiadas-al-nacer-la-sospecha-y-la-revelacion-del-error-20269914250",
-    "title": "Intercambiadas al nacer: la sospecha y la revelación del error",
-    "attempts": 19
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/conurbano/ucr-bonaerense-seccion-seccion-los-nombres-del-radicalismo-pelear-las-intendencias-n5426459",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/derechos-humanos/lesa-humanidad-juzgan-un-exjerarca-molinos-rio-la-plata-su-complicidad-la-dictadura-n5426448",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/el-mundo-vilo-el-auge-ultra-n5426450",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/pais/79982/el-gobierno-evalua-incluir-la-pesca-y-otras-actividades-en-las-sanciones-en-malvinas",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/pais/79983/el-primer-ministro-britanico-djo-que-sera-implacable-respecto-a-las-islas-malvinas",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/pais/79984/la-oposicion-forzo-al-oficialismo-en-diputados-a-tratar-morosidad-y-discapacidad",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/pais/79985/encuesta--quien-es-el-politico-que-mas-odiorechazo-genera-entre-los-argentinos",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/tecnologia/79986/iphone-duo-el-primer-plegable-de-apple-que-llega-con-ios-27-y-su-ia-apple-intelligence",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Plan B Noticias",
-    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/09/el-fin-de-semana-se-corre-la-ultramaraton-en-santa-rosa/",
-    "title": "El fin de semana se corre la Ultramaratón en Santa Rosa",
-    "attempts": 0
-  },
-  {
-    "site": "Plan B Noticias",
-    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/09/el-primer-ministro-britanico-afirmo-que-su-gobierno-sera-implacable-con-respecto-a-las-islas-malvinas/",
-    "title": "El primer ministro británico afirmó que su gobierno será “implacable” con respecto a las Islas Malvinas",
-    "attempts": 0
-  },
-  {
-    "site": "Plan B Noticias",
-    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/09/piden-informes-sobre-la-actuacion-de-ninez-en-el-caso-de-rancul/",
-    "title": "Piden informes sobre la actuación de Niñez en el caso de Rancul",
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/9/9/saturnina-la-jubilacion-no-me-alcanza-para-nada-sigo-laburando-para-poder-comer-vendo-pan-torta-de-chicharron-video-122575.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/9/una-mujer-lo-llevo-hasta-una-casa-por-una-cita-lo-atacaron-entre-cuatro-le-robaron-todo-122571.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/09/09/ley-yolanda-800-agentes-de-seguridad-y-policias-de-la-pampa-ya-se-capacitaron-en-materia-ambiental/",
-    "title": "Ley Yolanda: 800 agentes de Seguridad y policías de La Pampa ya se capacitaron en materia ambiental",
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/09/09/sofia-perez-dupont-el-foco-esta-puesto-en-la-persecucion-y-el-punitivismo-no-en-lo-preventivo-y-educativo/",
-    "title": "Sofía Pérez Dupont: «El foco está puesto en la persecución y el punitivismo, no en lo preventivo y educativo»",
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/09/09/torneo-entre-amigos-mira-todos-los-resultados-posiciones-y-proxima-fecha-de-las-tres-categorias/",
-    "title": "Torneo “Entre Amigos”: mirá todos los resultados, posiciones y próxima fecha de las tres categorías",
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/deportes/champions-league-con-un-golazo-de-mac-allister-liverpool-le-gano-al-atletico-de-madrid-20269918250",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/el-pais/casi-el-60-de-los-hogares-urbanos-recurrio-al-financiamiento-en-el-primer-trimestre-de-2026-2026991860",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/el-pais/la-mineria-registro-su-segunda-caida-mensual-consecutiva-2026991790",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/la-pampa/actualizaron-la-linea-crediticia-para-productores-en-emergencia-20269917540",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/la-pampa/anuncian-jornada-tecnica-sobre-aplicacion-de-fitosanitarios-con-drones-2026991700",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/la-pampa/apartaron-a-los-policias-involucrados-en-la-golpiza-al-luthier-2026991700",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/la-pampa/cinco-empresas-ofertaron-para-ampliar-la-infraestructura-de-agua-potable-en-toay-20269918470",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/la-pampa/se-entregaron-20-viviendas-durante-la-celebracion-por-los-129-anos-de-catrilo-20269917380",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/la-pampa/una-camioneta-volco-y-quedo-dentro-de-un-canal-de-desague-20269917270",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/la-pampa/una-joven-resistio-un-asalto-con-gas-pimienta-hay-un-detenido-20269918430",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/la-region/hicieron-un-reclamo-para-que-no-dejen-de-buscar-a-un-joven-desaparecido-20269918480",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/la-region/un-asteroide-fue-denominado-con-el-nombre-de-una-astronoma-bahiense-20269917470",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/congreso/biocombustibles-las-pymes-juntaron-una-mayoria-y-patricia-bullrich-tuvo-que-suspender-la-sesion-del-jueves-n5426463",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/politica/el-homenaje-del-peronismo-la-sota-tonifico-el-mensaje-unidad-el-pj-rios-n5426470",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/politica/el-homenaje-que-reunio-al-peronismo-expuso-la-tension-politica-las-hermanas-la-sota-n5426462",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/politica/el-impuesto-al-juego-axel-kicillof-abre-otra-grieta-el-kirchnerismo-n5426455",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/politica/encuesta-cordoba-cuales-son-los-numeros-los-que-gabriel-bornoroni-apoya-su-campana-n5426467",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/politica/endeudamiento-y-discapacidad-la-casa-rosada-acomoda-el-relato-evitar-hablar-derrota-legislativa-n5426465",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/politica/javier-milei-ningunea-melella-y-se-corta-solo-avanzar-la-base-naval-integrada-tierra-del-fuego-n5426469",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/politica/leandro-busatto-se-anota-la-carrera-la-intendencia-santa-fe-un-armado-que-no-se-limite-al-pj-n5426457",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/region-centro/pruebas-pisa-2025-cordoba-supera-el-promedio-nacional-y-llaryora-saca-pecho-los-resultados-educativos-n5426468",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/deportes/79993/estudiantes-abre-su-llave-de-cuartos-ante-corinthians",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/deportes/79996/con-gol-de-mac-allister-liverpool-le-gano-a-atletico-de-madrid",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79988/recoleccion-diferenciada-en-santa-rosa--claves-para-separar-los-residuos",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79989/octubre-sera-el-mes-provincial-de-la-salud-mental",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79990/modulo-despensa--este-martes-y-jueves-te-esperamos-con-ofertas-y-promociones",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79991/romina-montes-de-oca-advirtio-sobre-la-caida-salarial-y-el-endeudamiento-familiar",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79992/kroneberger-encabezo-la-reunion-que-aprobo-las-guias-para-renovar-el-comite-contra-la-tortura",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79994/oficializaron-lista-celeste-en-la-cpe",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79995/la-municipalidad-de-santa-rosa-abrio-un-registro-para-los-uber-",
-    "title": null,
-    "attempts": 0
-  },
-  {
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79997/catrilo-conmemoro-su-129-aniversario-con-la-inauguracion-de-obras-urbanas-y-la-entrega-de-20-viviendas",
-    "title": null,
-    "attempts": 0
+    "title": "Catril&oacute; conmemor&oacute; su 129 aniversario con la inauguraci&oacute;n de obras urbanas y la entrega de 20 viviendas",
+    "attempts": 1
   },
   {
     "site": "El Diario de La Pampa",
@@ -13610,6 +13328,72 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/19/video-explotoy-colapso-de-un-silo-en-lonquimay-122914.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82698",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/19/general-pico-refuerza-el-mantenimiento-de-los-caminos-vecinales-ante-el-fenomeno-el-nino/",
+    "title": "General Pico refuerza el mantenimiento de los caminos vecinales ante el fenómeno El Niño",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/19/impulsan-talleres-de-oficios-en-general-pico-llega-una-capacitacion-especial-de-cesteria-en-junco/",
+    "title": "Impulsan talleres de oficios en General Pico: llega una capacitación especial de cestería en junco",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/huracan-derroto-a-river-y-corto-su-racha-desde-la-llegada-de-ponzio-20269192160",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/demandaron-a-cuatro-gigantes-tecnologicos-por-un-supuesto-pacto-para-frenar-la-ia-202691921360",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/castex-en-cuatro-meses-fallecieron-tres-motociclistas-y-fiscal-mostro-preocupacion-por-reiterados-siniestros-202691920500",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/elecciones-en-la-cpe-mas-de-800-asociados-votaron-delegados-202691920460",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/organizaciones-pampeanas-se-sumaron-a-la-marcha-de-la-bronca-20269192070",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31631-ravier-formalizado-como-presidente-del-partido-provincial",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31632-kicillof-se-propuso-como-la-alternativa-para-el-ano-que-viene",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/19/adrian-ravier-fue-designado-presidente-del-partido-provincial-de-la-libertad-avanza-122935.html",
     "title": null,
     "attempts": 0
   }
