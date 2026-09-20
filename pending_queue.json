@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79997/catrilo-conmemoro-su-129-aniversario-con-la-inauguracion-de-obras-urbanas-y-la-entrega-de-20-viviendas",
     "title": "Catril&oacute; conmemor&oacute; su 129 aniversario con la inauguraci&oacute;n de obras urbanas y la entrega de 20 viviendas",
-    "attempts": 3
+    "attempts": 4
   },
   {
     "site": "El Diario de La Pampa",
@@ -13550,6 +13550,354 @@
   {
     "site": "Diario Textual",
     "url": "https://diariotextual.com/inicio/index.php/2026/09/20/el-telefono-descompuesto-del-gobierno-durante-la-presentacion-del-presupuesto-2027/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82689",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82701",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/20/adrian-ravier-fue-elegido-presidente-de-la-libertad-avanza-en-la-pampa/",
+    "title": "Adrián Ravier fue elegido presidente de La Libertad Avanza en La Pampa",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/20/el-bochofilo-castense-lucas-hecker-se-baja-del-mundial-de-croacia-muchos-deportistas-se-pierden-un-mundial-por-lo-economico/",
+    "title": "El bochófilo castense Lucas Hecker se baja del Mundial de Croacia: “Muchos deportistas se pierden un Mundial por lo económico”",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/20/nos-ensenaron-que-somos-marroncitos-margarita-cervio-llevara-las-aves-pampeanas-a-la-feria-internacional-de-turismo/",
+    "title": "«Nos enseñaron que somos marroncitos»: Margarita Cervio llevará las aves pampeanas a la Feria Internacional de Turismo",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/20/reto-del-dia-resuelve-este-reto-matematico-en-8-segundos-8/",
+    "title": "Reto del día: resuelve este reto matemático en 8 segundos",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/20/torneo-federal-a-costa-brava-recibe-a-sol-de-mayo-con-el-objetivo-de-sumar-en-casa/",
+    "title": "Torneo Federal A: Costa Brava recibe a Sol de Mayo con el objetivo de sumar en casa",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/20/torneo-provincial-mira-toda-la-programacion-zona-por-zona/",
+    "title": "Torneo Provincial: mira toda la programación zona por zona",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/20/una-vecina-de-general-pico-volco-con-su-auto-sobre-la-ruta-nacional-35-cerca-de-del-campillo/",
+    "title": "Una vecina de General Pico volcó con su auto sobre la Ruta Nacional 35 cerca de Del Campillo",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/caldenia/desconectar-como-autocuidado-2026920900",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/caldenia/esta-es-la-pampa-20269201200",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/un-keniata-gano-la-maraton-de-buenos-aires-20269209530",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/brasil-advierten-por-influencia-norteamericana-20269200360",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/causa-andis-nadia-beller-declara-esta-semana-y-la-justicia-podria-acceder-a-las-pruebas-202692010300",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/cordoba-marcharon-por-agostina-vega-20269200360",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/la-bandera-inspirada-en-la-seleccion-llego-a-las-islas-malvinas-202692011530",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/librerias-piden-declarar-la-emergencia-20269200360",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/el-pronostico-del-tiempo-para-hoy-en-santa-rosa-20269201070",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/congreso/los-negocios-detras-del-ajuste-salvaje-javier-milei-discapacidad-n5426744",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/daniel-ivoskus-las-elecciones-2027-aparecen-abiertas-y-la-estrategia-puede-ser-decisiva-n5426750",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-plan-b-del-peronismo-la-interna-y-los-dos-frentes-javier-milei-n5426743",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/la-enciclica-leon-xiv-que-le-calienta-los-data-centers-javier-milei-n5426664",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/los-juegos-pablo-javkin-n5426745",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/mar-del-plata-quedo-tercera-las-ciudades-del-pais-donde-mas-crecio-la-desocupacion-n5426731",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/80500/segunda-fecha-del-provincial-con-varias-atracciones",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/80501/boca-quiere-mas--visita-a-san-lorenzo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/80503/costa-brava-recibe-a-sol-de-mayo-de-viedma",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/80505/mas-accion-en-la-copa-liga-cultural-con-partidos-en-cinco-zonas",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/frases-de-la-semana/80499/frases-de-la-semana",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/imagenes-de-la-semana/80497/imagenes-de-la-semana",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80502/la-celeste-renovo-el-cuerpo-de-delegados-tras-la-votacion-de-mas-de-800-asociados",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80506/cayeron-38-milimetros-en-el-inicio-de-un-domingo-ventoso",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80507/durante-julio-y-agosto-murieron-10-personas-en-siniestros-viales",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80508/el-sueno-de-una-pasteurizadora-para-el-favaloro--una-colecta-cruzada-por-la-empatia",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80509/dolor-por-la-muerte-de-carlos-corsini-rincon",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/numeros-de-la-semana/80498/numeros-de-la-semana",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/80504/condenaron-a-dos-cajeros-del-banco-nacion-por-robar-dinero-cuando-los-clientes-depositaban",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/20/alerta-por-las-enfermedades-respiratorias-en-adultos-mayores/",
+    "title": "Alerta por las enfermedades respiratorias en adultos mayores",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/20/caso-andis-detectaron-un-desfasaje-de-158-717-millones/",
+    "title": "Caso Andis: detectaron un desfasaje de $158.717 millones",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/20/choque-entre-dos-motos-un-joven-hospitalizado/",
+    "title": "Choque entre dos motos: Un joven hospitalizado",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/20/el-gobierno-acompana-con-una-mirada-integral-el-trabajo-de-todos-los-productores/",
+    "title": "“El Gobierno acompaña con una mirada integral el trabajo de todos los productores”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/20/elecciones-de-la-cpe-se-renovo-el-cuerpo-de-delegados/",
+    "title": "Elecciones de la CPE: Se renovó el cuerpo de delegados",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/20/encuentro-de-newcom-los-felicito-por-la-fuerza-y-el-espiritu-que-tienen/",
+    "title": "Encuentro de newcom: “Los felicito por la fuerza y el espíritu que tienen”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/20/sismo-de-magnitud-5-en-tucuman/",
+    "title": "Sismo de magnitud 5 en Tucumán",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/20/ziliotto-nuestro-desafio-es-que-en-2027-la-pampa-tenga-cobertura-movil-en-sus-80-localidades/",
+    "title": "Ziliotto: “Nuestro desafío es que en 2027 La Pampa tenga cobertura móvil en sus 80 localidades”",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/20/esi-y-familias-una-propuesta-para-hablar-y-acompanar-desde-la-infancia/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/20/feria-procrear-musica-danza-y-emprendedores-este-domingo-en-santa-rosa/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/20/la-discapacidad-no-puede-ser-un-problema-individual-de-la-persona-y-de-la-familia/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/20/no-llegamos-al-fin-del-mandato-el-calzado-prepara-una-marcha-nacional-contra-la-crisis-industrial/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/opinion/31633-las-chicas-de-la-obra-presentan-casas-abiertas-en-attp",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/opinion/31634-las-chicas-de-la-obra-presentan-casas-abiertas-en-attp-2",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/20/choque-entre-dos-motos-en-104-intente-esquivarlo-pero-me-choco-atras-es-la-sexta-vez-que-me-chocan-ya-no-quiero-saber-mas-nada-con-la-moto-video-122939.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/20/una-conductora-piquense-volco-en-la-ruta-35-termino-hospitalizada-122945.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/19/detuvieron-una-pareja-acusada-de-reclutar-cosecheros-pagarles-con-cocaina-en-entre-rios-122926.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/20/un-sismo-de-magnitud-sacudio-tucuman-122946.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/9/20/castex-tres-motociclistas-murieron-en-cuatro-meses-el-fiscal-expreso-su-preocupacion-por-la-cantidad-de-siniestros-122941.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/9/20/de-locos-el-sem-hospitaliza-nene-de-13-anos-inconsciente-producto-de-una-rina-video-122940.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/salud/2026/9/19/educacion-salud-docentes-pampeanos-se-capacitan-en-el-abordaje-integral-de-las-its-122932.html",
     "title": null,
     "attempts": 0
   }
