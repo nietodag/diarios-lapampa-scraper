@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79997/catrilo-conmemoro-su-129-aniversario-con-la-inauguracion-de-obras-urbanas-y-la-entrega-de-20-viviendas",
     "title": "Catril&oacute; conmemor&oacute; su 129 aniversario con la inauguraci&oacute;n de obras urbanas y la entrega de 20 viviendas",
-    "attempts": 7
+    "attempts": 8
   },
   {
     "site": "El Diario de La Pampa",
@@ -14270,6 +14270,120 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/20/alerta-por-fuertes-vientos-para-toda-la-pampa-este-lunes-las-rafagas-podrian-alcanzar-los-80-kmh-mira-122956.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82709",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82711",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/20/despedida-de-messi-la-afa-oficializo-los-precios-de-las-entradas-para-los-amistosos-de-la-seleccion/",
+    "title": "Despedida de Messi: la AFA oficializó los precios de las entradas para los amistosos de la Selección",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/20/educacion-inicial-en-la-pampa-impulsan-la-obligatoriedad-escolar-a-partir-de-los-3-anos/",
+    "title": "Educación inicial en La Pampa: impulsan la obligatoriedad escolar a partir de los 3 años",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/20/el-instituto-cardiovascular-comenzara-a-realizar-los-examenes-psicofisicos-para-licencias-profesionales-en-general-pico/",
+    "title": "El Instituto Cardiovascular comenzará a realizar los exámenes psicofísicos para licencias profesionales en General Pico",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/rosario-central-le-gano-a-argentinos-y-se-acerco-en-la-tabla-anual-202692019370",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/catastrofe-en-nepal-ascienden-a-mas-de-1-450-los-muertos-y-casi-5-800-los-desaparecidos-202692020430",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/actrices-lucieron-en-san-sebastian-remeras-con-la-leyenda-las-malvinas-son-argentinas-20269202170",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/los-trabajadores-de-fate-rechazaron-el-desalojo-que-ordeno-la-justicia-un-disparate-202692020190",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/un-arbol-cayo-sobre-una-calle-de-25-de-mayo-por-las-fuertes-rafagas-de-viento-202692020130",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/80516/argentina-paso-a-turquia",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/80518/argentina-no-pudo-ante-el-poder-de-brasil",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/80519/rosario-central-le-gano-a-argentinos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/provinciales/80517/la-provincia-impulsa-educacion-obligatoria-desde-los-tres-anos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/espectaculos/2026/9/20/lmf-primavera-una-gran-noche-en-la-rural-video-122957.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/20/urgente-el-sem-traslada-persona-que-fue-atropellada-por-un-camion-en-una-estacion-de-servicio-de-zona-sur-video-122963.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/municipales/2026/9/20/el-municipio-refuerza-el-mantenimiento-de-los-caminos-vecinales-anticipandose-al-fenomeno-el-nino-122944.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/20/caso-andis-detectaron-un-desfasaje-de-158717-millones-122954.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/salud/2026/9/20/el-instituto-cardiovascular-anunciara-el-inicio-de-los-examenes-psicofisicos-para-licencias-profesionales-en-general-pico-122960.html",
     "title": null,
     "attempts": 0
   }
