@@ -798,7 +798,9 @@
     "https://www.pampadiario.com/single-post.php?id=82716": 1790008873.9502316,
     "https://www.pampadiario.com/single-post.php?id=82719": 1790023021.6202073,
     "https://www.pampadiario.com/single-post.php?id=82723": 1790023021.6202073,
-    "https://www.pampadiario.com/single-post.php?id=82724": 1790023021.6202073
+    "https://www.pampadiario.com/single-post.php?id=82724": 1790023021.6202073,
+    "https://www.pampadiario.com/single-post.php?id=82726": 1790033701.2003841,
+    "https://www.pampadiario.com/single-post.php?id=82725": 1790033701.2003841
   },
   "Info Pico": {
     "https://www.infopico.com/2026/07/18/musica-e-inclusion-una-fundacion-de-la-pampa-organiza-un-show-con-total-accesibilidad-en-buenos-aires/": 1784416721.202942,
@@ -2115,7 +2117,13 @@
     "https://www.infopico.com/2026/09/21/realizaran-en-ingeniero-luiggi-una-jornada-de-capacitacion-sobre-zoonosis-y-prevencion-de-carbunclo/": 1790023021.6202073,
     "https://www.infopico.com/2026/09/21/ni-alta-ni-tan-baja-una-cardiologa-piquense-desarmo-el-mito-popular-de-que-conviene-tener-la-presion-baja/": 1790023021.6202073,
     "https://www.infopico.com/2026/09/21/capacitaran-a-agentes-de-los-tres-poderes-del-estado-pampeano-en-el-uso-de-inteligencia-artificial/": 1790023021.6202073,
-    "https://www.infopico.com/2026/09/21/todo-el-mundo-tiene-que-saber-cual-es-su-numero-de-presion-arterial-el-mensaje-de-la-cardiologa-lorena-brocal/": 1790023021.6202073
+    "https://www.infopico.com/2026/09/21/todo-el-mundo-tiene-que-saber-cual-es-su-numero-de-presion-arterial-el-mensaje-de-la-cardiologa-lorena-brocal/": 1790023021.6202073,
+    "https://www.infopico.com/2026/09/21/ateneo-cultural-presenta-una-nueva-edicion-de-la-jam-de-el-viejo-galpon/": 1790033701.2003841,
+    "https://www.infopico.com/2026/09/21/divorcio-de-alto-vuelo-debera-pagar-us-45-000-a-su-exesposa-por-el-desguace-de-una-avioneta-ganancial/": 1790033701.2003841,
+    "https://www.infopico.com/2026/09/21/el-instituto-cardiovascular-realizara-examenes-psicofisicos-para-licencias-de-conducir-profesionales-en-general-pico/": 1790033701.2003841,
+    "https://www.infopico.com/2026/09/21/una-motociclista-cayo-tras-chocar-contra-un-perro-en-calle-19/": 1790033701.2003841,
+    "https://www.infopico.com/2026/09/21/avanza-el-debate-en-la-legislatura-para-cobrar-peaje-en-rutas-provinciales-estiman-una-tarifa-de-3-dolares-cada-100-kilometros/": 1790033701.2003841,
+    "https://www.infopico.com/2026/09/21/convocan-a-personas-interesadas-en-adoptar-a-una-nina-de-11-anos/": 1790033701.2003841
   },
   "La Arena": {
     "https://www.laarena.com.ar/deportes/basquet-ferro-igualo-la-serie-ante-all-boys-20267188490": 1784416721.202942,
@@ -7060,7 +7068,23 @@
     "https://www.laarena.com.ar/la-pampa/reprogramaron-la-fiesta-nacional-del-asador-criollo-202692114460": 1790023021.6202073,
     "https://www.laarena.com.ar/la-region/ruta-151-joven-conducia-camioneta-se-durmio-y-volco-20269211670": 1790023021.6202073,
     "https://www.laarena.com.ar/el-pais/kicillof-estamos-trabajando-para-ganarle-a-milei-pero-tambien-para-tener-una-propuesta-mucho-mas-amplia-202692117240": 1790023021.6202073,
-    "https://www.laarena.com.ar/el-pais/adorni-justifico-su-patrimonio-ante-la-justicia-atribuyo-los-dolares-a-la-venta-de-bitcoin-202692116190": 1790023021.6202073
+    "https://www.laarena.com.ar/el-pais/adorni-justifico-su-patrimonio-ante-la-justicia-atribuyo-los-dolares-a-la-venta-de-bitcoin-202692116190": 1790023021.6202073,
+    "https://www.laarena.com.ar/el-mundo/ataque-contra-iran-presidente-irani-viajara-a-la-asamblea-general-de-la-onu-20269211890": 1790033701.2003841,
+    "https://www.laarena.com.ar/la-pampa/debera-pagar-us-45-mil-a-su-ex-por-el-deterioro-de-avioneta-que-estaba-bajo-su-custodia-202692119180": 1790033701.2003841,
+    "https://www.laarena.com.ar/la-pampa/quedo-en-libertad-y-fue-detenido-nuevamente-a-los-pocos-minutos-20269212080": 1790033701.2003841,
+    "https://www.laarena.com.ar/deportes/messi-usara-una-camiseta-especial-para-su-ultimo-partido-con-la-seleccion-argentina-202692118200": 1790033701.2003841,
+    "https://www.laarena.com.ar/la-pampa/el-pj-pampeano-prepara-un-gran-acto-de-unidad-para-el-17-de-octubre-202692119430": 1790033701.2003841,
+    "https://www.laarena.com.ar/la-pampa/piden-no-arrojar-residuos-en-lugares-no-habilitados-en-catrilo-202692117390": 1790033701.2003841,
+    "https://www.laarena.com.ar/la-region/dia-del-estudiante-controlaron-casi-10-000-vehiculos-e-identificaron-mas-de-46-000-personas-20269212040": 1790033701.2003841,
+    "https://www.laarena.com.ar/la-pampa/dorita-ex-dirigente-de-ate-fallecio-a-los-92-anos-202692117530": 1790033701.2003841,
+    "https://www.laarena.com.ar/la-pampa/presentaron-a-diputados-el-proyecto-para-financiar-el-mantenimiento-de-rutas-202692119240": 1790033701.2003841,
+    "https://www.laarena.com.ar/el-pais/atentado-contra-la-amia-la-justicia-habilito-el-juicio-en-ausencia-contra-los-imputados-202692118380": 1790033701.2003841,
+    "https://www.laarena.com.ar/el-pais/murio-una-jubilada-de-84-anos-por-un-incendio-en-su-casa-202692117480": 1790033701.2003841,
+    "https://www.laarena.com.ar/el-mundo/xi-jinping-se-reunira-con-trump-para-buscar-paz-estabilidad-y-prosperidad-mundial-20269211810": 1790033701.2003841,
+    "https://www.laarena.com.ar/el-pais/polemica-por-disposicion-de-la-anmat-sobre-aranceles-a-medicamentos-de-alto-costo-20269211930": 1790033701.2003841,
+    "https://www.laarena.com.ar/la-pampa/catrilo-jueza-de-faltas-informo-al-concejo-sobre-el-estado-de-inmueble-y-pidio-una-pericia-202692120270": 1790033701.2003841,
+    "https://www.laarena.com.ar/la-region/la-sudestada-provoco-destrozos-en-monte-hermoso-y-pehuen-co-202692118590": 1790033701.2003841,
+    "https://www.laarena.com.ar/el-pais/jueza-de-caba-declaro-inconstitucional-nuevo-regimen-penal-juvenil-y-sobreseyo-a-un-menor-20269212000": 1790033701.2003841
   },
   "LetraP": {
     "https://www.letrap.com.ar/politica/santiago-del-estero-el-pro-se-concentra-la-capital-y-la-banda-no-sucumbir-la-avanzada-libertaria-n5425166": 1784416721.202942,
@@ -8460,7 +8484,16 @@
     "https://www.letrap.com.ar/politica/alberto-weretilneck-volanteo-y-acordo-compensar-14-municipios-rio-negro-quitar-fondos-otros-n5426772": 1790023021.6202073,
     "https://www.letrap.com.ar/politica/rio-negro-el-radicalismo-acorta-el-camino-redefinir-su-alianza-alberto-weretilneck-cara-2027-n5426757": 1790023021.6202073,
     "https://www.letrap.com.ar/politica/razia-olivos-la-filtracion-el-nucleo-duro-karina-milei-al-matrimonio-caido-desgracia-n5426766": 1790023021.6202073,
-    "https://www.letrap.com.ar/politica/encuesta-juan-schiaretti-retiene-al-61-sus-votantes-cordoba-y-vuelve-asomar-2027-n5426763": 1790023021.6202073
+    "https://www.letrap.com.ar/politica/encuesta-juan-schiaretti-retiene-al-61-sus-votantes-cordoba-y-vuelve-asomar-2027-n5426763": 1790023021.6202073,
+    "https://www.letrap.com.ar/politica/zarate-marcelo-matzkin-empuja-su-reeleccion-el-campo-minado-del-acuerdo-pro-lla-n5426771": 1790033701.2003841,
+    "https://www.letrap.com.ar/politica/la-pecera-libertaria-patricia-bullrich-supera-javier-milei-imagen-y-muestra-mayor-margen-crecimiento-n5426755": 1790033701.2003841,
+    "https://www.letrap.com.ar/conurbano/buenos-aires-todos-los-caminos-conducen-diego-santilli-n5426768": 1790033701.2003841,
+    "https://www.letrap.com.ar/congreso/discapacidad-la-salida-vilches-la-libertad-avanza-cede-mas-y-negocia-ajustar-solo-pensiones-n5426773": 1790033701.2003841,
+    "https://www.letrap.com.ar/politica/ajuste-discapacidad-que-leon-xiv-eligio-el-cottolengo-claypole-n5426769": 1790033701.2003841,
+    "https://www.letrap.com.ar/sociedad/la-ecap-lanzo-sus-actividades-un-seminario-la-facultad-derecho-la-uba-n5426778": 1790033701.2003841,
+    "https://www.letrap.com.ar/politica/javier-milei-ordeno-al-gabinete-no-confrontar-patricia-bullrich-n5426759": 1790033701.2003841,
+    "https://www.letrap.com.ar/sociedad/crece-la-polemica-una-disposicion-la-anmat-aranceles-medicamentos-alto-costo-n5426782": 1790033701.2003841,
+    "https://www.letrap.com.ar/politica/axel-kicillof-eeuu-traje-candidato-foto-mamdani-y-reuniones-inversores-n5426767": 1790033701.2003841
   },
   "El Diario de La Pampa": {
     "https://www.eldiariodelapampa.com.ar/pais/77403/morosidad-en-alza--se-agrava-el-problema-y-1-de-cada-3-argentinos-con-deuda-no-puede-pagar": 1784416721.202942,
@@ -11207,7 +11240,8 @@
     "https://www.eldiariodelapampa.com.ar/pais/80544/el-juez-rafecas-proceso-a-los-iranies-y-libaneses-acusados-del-atentado-a-la-amia": 1790023021.6202073,
     "https://www.eldiariodelapampa.com.ar/pais/80549/la-sudestada-provoco-estragos-en-las-costaneras-de-monte-hermoso-y-pehuen-co": 1790023021.6202073,
     "https://www.eldiariodelapampa.com.ar/la-pampa/80551/debe-mas-de-20-millones-en-alimentos--le-prohibieron-ir-a-la-cancha-y-le-quitaron-el-carnet": 1790023021.6202073,
-    "https://www.eldiariodelapampa.com.ar/pais/80546/causa-vialidad--extendieron-la-prision-domiciliaria-a-cristina-kirchner-y-seguira-en-san-jose-1111": 1790023021.6202073
+    "https://www.eldiariodelapampa.com.ar/pais/80546/causa-vialidad--extendieron-la-prision-domiciliaria-a-cristina-kirchner-y-seguira-en-san-jose-1111": 1790023021.6202073,
+    "https://www.eldiariodelapampa.com.ar/la-pampa/80553/el-pj-apela-al-dia-de-la-lealtad-para-frenar-la-dispersion-y-lograr-la-unidad": 1790033701.2003841
   },
   "Dos Bases": {
     "https://www.dosbases.com.ar/2019/01/dinosaurios-vivos-el-fiscal-aguero-alerto-sobre-un-boom-de-estafas-a-telefonicas-y-recomienda-que-el-blp-no-permita-a-jubilados-transferencias-de-montos-altos-por-cajero/": 1784416721.202942,
@@ -17885,7 +17919,12 @@
     "https://www.planbnoticias.com.ar/index.php/2026/09/21/adorni-justifico-su-patrimonio-ante-la-justicia-que-dice-el-escrito-que-presento/": 1790023021.6202073,
     "https://www.planbnoticias.com.ar/index.php/2026/09/21/13-y-20-de-octubre-las-fechas-de-boca-en-las-semifinales-de-la-copa-sudamericana/": 1790023021.6202073,
     "https://www.planbnoticias.com.ar/index.php/2026/09/21/la-unlpam-participara-en-los-primeros-juegos-binacionales-universitarios-en-temuco/": 1790023021.6202073,
-    "https://www.planbnoticias.com.ar/index.php/2026/09/21/en-octubre-nueva-edicion-de-la-fiesta-del-asador-en-arata/": 1790023021.6202073
+    "https://www.planbnoticias.com.ar/index.php/2026/09/21/en-octubre-nueva-edicion-de-la-fiesta-del-asador-en-arata/": 1790023021.6202073,
+    "https://www.planbnoticias.com.ar/index.php/2026/09/21/general-acha-33-emprendedores-accedieron-a-creditos-provinciales-a-tasa-cero-y-habra-un-nuevo-paseo-ferial/": 1790033701.2003841,
+    "https://www.planbnoticias.com.ar/index.php/2026/09/21/la-madre-del-brigadista-asesinado-conto-que-denuncio-un-intento-de-homicidio-el-7-de-julio/": 1790033701.2003841,
+    "https://www.planbnoticias.com.ar/index.php/2026/09/21/de-la-casa-rosada-a-lujan-asi-sera-la-visita-de-leon-xiv-a-la-argentina/": 1790033701.2003841,
+    "https://www.planbnoticias.com.ar/index.php/2026/09/21/una-jueza-de-caba-declaro-inconstitucional-el-nuevo-regimen-penal-juvenil-y-sobreseyo-a-un-chico-de-14-anos/": 1790033701.2003841,
+    "https://www.planbnoticias.com.ar/index.php/2026/09/21/oddi-y-guerrero-impulsan-desde-el-concejo-el-respaldo-al-proyecto-contra-el-vandalismo-rural/": 1790033701.2003841
   },
   "Infotec Realicó": {
     "https://infotecrealico.com.ar/contenido/86896/la-provincia-no-aprobo-el-informe-final-ambiental-de-el-medanito-y-remitio-un-in": 1784416721.202942,
@@ -19906,7 +19945,10 @@
     "https://diariotextual.com/inicio/index.php/2026/09/21/causa-vialidad-extendieron-la-prision-domiciliaria-a-cristina-kirchner-y-seguira-en-san-jose-1111/": 1790023021.6202073,
     "https://diariotextual.com/inicio/index.php/2026/09/21/la-provincia-destino-mas-de-55-millones-a-emprendimientos-y-proyectos-comunitarios-en-general-acha/": 1790023021.6202073,
     "https://diariotextual.com/inicio/index.php/2026/09/21/el-pj-pampeano-llamo-a-todos-los-sectores-en-el-dia-de-la-lealtad-busca-unidad-ante-la-interna-y-la-oposicion/": 1790023021.6202073,
-    "https://diariotextual.com/inicio/index.php/2026/09/21/en-medio-de-los-recortes-renuncio-vilches-a-la-secretaria-de-discapacidad-y-evaluan-a-su-sucesor/": 1790023021.6202073
+    "https://diariotextual.com/inicio/index.php/2026/09/21/en-medio-de-los-recortes-renuncio-vilches-a-la-secretaria-de-discapacidad-y-evaluan-a-su-sucesor/": 1790023021.6202073,
+    "https://diariotextual.com/inicio/index.php/2026/09/21/sudestada-en-monte-hermoso-y-pehuen-co-no-hubo-rampa-que-resistiera/": 1790033701.2003841,
+    "https://diariotextual.com/inicio/index.php/2026/09/21/jueza-de-caba-declaro-inconstitucional-el-nuevo-regimen-penal-juvenil-y-sobreseyo-a-un-chico-de-14-anos/": 1790033701.2003841,
+    "https://diariotextual.com/inicio/index.php/2026/09/21/regalias-por-los-nihuiles-asambleistas-mendocinos-del-abrazo-de-cuenca-y-su-apoyo-a-la-pampa/": 1790033701.2003841
   },
   "Radio Kermes": {
     "https://www.radiokermes.com/noticias/30889-el-partido-argentina-enfrenta-a-inglaterra-y-busca-la-final-mundial": 1784416721.202942,
@@ -23103,7 +23145,11 @@
     "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/21/mas-de-30-anos-al-volante-el-reconocimiento-a-un-historico-chofer-de-catrilo-116992.html": 1790023021.6202073,
     "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/21/el-mar-avanza-en-monte-hermoso-el-agua-llego-al-sector-centrico-video-116987.html": 1790023021.6202073,
     "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/21/ruta-188-ameghino-recuperara-su-estacion-de-peaje-tras-ocho-anos-116991.html": 1790023021.6202073,
-    "https://www.enbocadetodoshd.com.ar/municipales/2026/9/21/el-instituto-cardiovascular-realizara-aptos-psicofisicos-para-licencias-de-conducir-116990.html": 1790023021.6202073
+    "https://www.enbocadetodoshd.com.ar/municipales/2026/9/21/el-instituto-cardiovascular-realizara-aptos-psicofisicos-para-licencias-de-conducir-116990.html": 1790023021.6202073,
+    "https://www.enbocadetodoshd.com.ar/deportes/2026/9/21/argentina-sub-19-rescato-un-empate-sobre-el-final-y-se-metio-en-las-semifinales-de-los-juegos-sudame-116996.html": 1790033701.2003841,
+    "https://www.enbocadetodoshd.com.ar/locales/2026/9/21/ahora-19-42-y-44-un-clasico-de-pico-transitaba-en-moto-se-le-cruzo-un-perro-y-sufrio-fuerte-caida-117001.html": 1790033701.2003841,
+    "https://www.enbocadetodoshd.com.ar/mundo/2026/9/21/leon-xiv-ya-tiene-agenda-confirmada-para-su-visita-a-la-argentina-116994.html": 1790033701.2003841,
+    "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/9/21/vecinos-exigen-la-senalizacion-y-limpieza-urgente-del-desague-sobre-isidoro-brunengo-video-116999.html": 1790033701.2003841
   },
   "Mará Codigital": {
     "http://www.maracodigital.net/En-un-ano-los-vuelos-baratos-tuvieron-un-millon-de-pasajeros.html": 1784416721.202942,
