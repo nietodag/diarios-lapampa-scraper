@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/79997/catrilo-conmemoro-su-129-aniversario-con-la-inauguracion-de-obras-urbanas-y-la-entrega-de-20-viviendas",
     "title": "Catril&oacute; conmemor&oacute; su 129 aniversario con la inauguraci&oacute;n de obras urbanas y la entrega de 20 viviendas",
-    "attempts": 15
+    "attempts": 16
   },
   {
     "site": "El Diario de La Pampa",
@@ -15584,6 +15584,312 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/opinion/2026/9/21/es-cartonero-trabaja-11-horas-por-dia-la-plata-no-alcanza-hay-que-laburar-video-117002.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82714",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82722",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82727",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/22/brutal-choque-en-mendoza-conducia-con-241-g-l-de-alcohol-y-dejo-cuatro-heridos/",
+    "title": "Brutal choque en Mendoza: conducía con 2,41 g/l de alcohol y dejó cuatro heridos",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/22/nuevo-manual-para-la-licencia-de-conducir-en-general-pico-y-un-balance-sobre-la-seguridad-vial/",
+    "title": "Nuevo manual para la licencia de conducir en General Pico y un balance sobre la seguridad vial",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/22/se-retiro-la-comisario-general-vanina-fileni-una-figura-historica-en-la-policia-de-la-pampa/",
+    "title": "Se retiró la comisario general Vanina Fileni, una figura histórica en la Policía de La Pampa",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/22/temporal-en-la-costa-atlantica-el-mar-avanzo-sobre-las-calles-de-monte-hermoso-y-genero-graves-destrozos/",
+    "title": "Temporal en la Costa Atlántica: el mar avanzó sobre las calles de Monte Hermoso y generó graves destrozos",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/milei-vuelve-a-viajar-a-ee-uu-para-hablar-en-la-onu-2026922840",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/la-infraestructura-ya-esta-20269220130",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/parque-lineal-nueva-etapa-casi-lista-20269220130",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/rancul-avanza-hacia-su-museo-de-alberto-cortez-20269220130",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/se-presenta-el-pampadocfest-20269220130",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/ziliotto-encabeza-una-reunion-con-empresarios-en-la-primera-jornada-de-energias-renovables-20269228340",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/el-pronostico-del-tiempo-para-hoy-en-santa-rosa-20269227300",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/encontraron-el-colmillo-de-mastodonte-mas-largo-de-sudamerica-20269228220",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/juegos-suramericanos-santa-fe-2026-la-agenda-del-dia-10-20269228510",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/kicillof-bergman-y-la-formula-anti-milei-n5426785",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/la-privatizacion-aysa-otro-negocio-el-circulo-rojo-n5426784",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-armado-liberal-arriba-neuquen-apoya-la-reeleccion-milei-y-figueroa-pero-se-despega-gaido-n5426779",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/ricardo-quintela-creo-un-impuesto-especial-grandes-empresas-y-hay-revuelo-el-circulo-rojo-la-rioja-n5426780",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/campo/80580/y-si-el-nino-no-viene-sequia-en-un-ano-de-super-nino",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/80572/mac-allister-hablo-del-futuro-de-scaloni",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/80573/cantelmi-y-barrientos-brillaron-en-el-sur",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80568/el-plenario-provincial-de-enfermeria-definio-una-jornada-de-lucha",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80569/mas-de-55-millones-para-emprendimientos-en-general-acha",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80570/la-apa-garantiza-el-acceso-al-agua-subterranea",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80571/taco-marin-banco-a-kicillof-y-le-apunta-al-cambalache-opositor",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80574/voy-a-hacer-todo-lo-posible-para-que-tierno-no-se-sume-a-la-ucr",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80575/compro-un-zamping-con-cheques-adulterados-y-se-llevo-tres-millones-de-vuelto",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80577/la-comisario-fileni-dejo-la-policia-tras-mas-de-30-anos-de-trayectoria",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80578/la-intendenta-curutchet-reivindico-el-modelo-castex-en-el-118-aniversario",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80579/el-instituto-cardiovascular-realizara-los-aptos-psicofisicos-para-licencias-de-conducir-en-pico",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80581/parera--realizan-licitacion-publica-para-comprar-un-terreno-y-trasladar-el-basurero-municipal",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80583/ziliotto-encabeza-una-jornada-sobre-energias-renovables",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/80582/milei-desembarca-en-la-onu--roscas-financieras-y-foros-de-la-derecha-global",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/22/debate-por-los-peajes-preguntar-esta-bien-proponer-tambien/",
+    "title": "Debate por los peajes: “preguntar está bien, proponer también”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/22/denuncian-que-el-inta-busca-despedir-a-una-investigadora-por-estudiar-los-efectos-de-los-agroquimicos-en-el-campo/",
+    "title": "Denuncian que el INTA busca despedir a una investigadora por estudiar los efectos de los agroquímicos en el campo",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/22/general-pico-firmaron-convenio-para-realizar-aptos-psicofisicos-para-licencias-de-conducir/",
+    "title": "General Pico: firmaron convenio para realizar aptos psicofísicos para licencias de conducir",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/22/jornada-de-lucha-el-19-de-octubre-salud-reclama-una-jornada-laboral-de-seis-horas-y-jubilacion-a-los-55-anos/",
+    "title": "Jornada de lucha el 19 de octubre: Salud reclama una jornada laboral de seis horas y jubilación a los 55 años",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/22/llega-la-32-edicion-de-guitarras-del-mundo-a-la-pampa/",
+    "title": "Llega la 32° edición de Guitarras del Mundo a La Pampa",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/22/messi-utilizara-una-camiseta-especial-para-su-ultimo-encuentro-con-la-seleccion-argentina/",
+    "title": "Messi utilizará una camiseta especial para su último encuentro con la Selección argentina",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/22/milei-desembarca-en-nueva-york-para-la-asamblea-general-de-la-onu-la-agenda-completa/",
+    "title": "Milei desembarca en Nueva York para la Asamblea General de la ONU: la agenda completa",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/22/por-aumento-de-salarios-mas-de-500-trabajadores-paralizan-las-actividad-de-tecpetrol-la-petrolera-del-grupo-techint/",
+    "title": "Por aumento de salarios: Más de 500 trabajadores paralizan las actividad de Tecpetrol, la petrolera del Grupo Techint",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/22/reino-unido-prorrogo-por-cinco-anos-las-licencias-petroleras-en-malvinas-en-medio-de-la-disputa-con-argentina/",
+    "title": "Reino Unido prorrogó por cinco años las licencias petroleras en Malvinas en medio de la disputa con Argentina",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/22/alpachiri-promueven-un-rigi-local-para-radicar-plantas-de-acopio-cooperativas-agropecuarias-y-ferias-ganaderas/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/22/danica-otra-empresa-que-cierra/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/22/la-hoteleria-pampeana-en-situacion-critica-por-la-baja-ocupacion-ya-hay-hoteles-que-reducen-jornada-laboral-de-empleados/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/22/milei-desembarca-en-nueva-york-para-la-asamblea-general-de-la-onu-la-agenda-completa/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/22/nueva-jornada-de-paro-en-universidades-en-reclamo-de-una-recomposicion-salarial/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/22/discapacidad-en-un-clima-enrarecido-el-oficialismo-cede-y-ultima-la-rosca-para-reclutar-a-los-aliado-117003.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/22/debe-mas-de-20-millones-de-alimentos-le-sacaron-el-registro-y-le-prohibieron-ir-a-la-cancha-117004.html",
     "title": null,
     "attempts": 0
   }
