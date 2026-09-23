@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80042/un-conductor-de-uber-confronto-con-los-taxistas",
     "title": "\"No tienen que sacarle el laburo a la gente\", confront&oacute; un conductor de Uber",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "site": "Plan B Noticias",
@@ -16472,6 +16472,60 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/salud/2026/9/22/sumate-a-la-jornada-de-rcp-y-cardio-365-117022.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/22/el-gobierno-nacional-confirmo-que-el-9-de-noviembre-sera-feriado-por-la-visita-del-papa-leon-xiv/",
+    "title": "El Gobierno nacional confirmó que el 9 de noviembre será feriado por la visita del papa León XIV",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/22/operativos-viales-en-la-pampa-realizaron-mas-de-3-000-test-de-alcoholemia-y-detectaron-siete-positivos/",
+    "title": "Operativos viales en La Pampa: realizaron más de 3.000 test de alcoholemia y detectaron siete positivos",
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/linea-abierta/80614/mensajes-23-9-2026",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/22/gil-dominguez-cruzo-a-cornejo-respete-el-federalismo-la-division-de-poderes-y-la-independencia-judicial/",
+    "title": "Gil Domínguez cruzó a Cornejo: “Respete el federalismo, la división de poderes y la independencia judicial”",
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/deportes/2026/9/23/el-piquense-tomas-palacios-compartio-su-emocion-tras-ser-convocado-a-la-seleccion-que-lindo-poder-es-117032.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/9/23/necrologicas-general-pico-117038.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/municipales/2026/9/23/estudiantina-2026-este-sabado-26-disfruta-las-propuestas-que-se-desplegaran-en-el-paseo-ferroviario-117041.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/23/causa-andis-la-camara-federal-ratifico-el-procesamiento-de-spagnuolo-y-otros-18-imputados-117040.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/23/kroneberger-entrego-la-distincion-al-merito-turistico-a-bernardo-larroude-por-el-desarrollo-de-su-pa-117039.html",
     "title": null,
     "attempts": 0
   }
