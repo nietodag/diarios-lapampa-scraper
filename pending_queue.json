@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80042/un-conductor-de-uber-confronto-con-los-taxistas",
     "title": "\"No tienen que sacarle el laburo a la gente\", confront&oacute; un conductor de Uber",
-    "attempts": 6
+    "attempts": 7
   },
   {
     "site": "Plan B Noticias",
@@ -17654,6 +17654,288 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/salud/2026/9/23/huertas-familiares-la-clave-para-una-alimentacion-saludable-117046.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82750",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82751",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82752",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82753",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82754",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/23/el-medanito-pedehontaa-afirmo-que-los-derechos-de-los-trabajadores-estan-garantizados/",
+    "title": "El Medanito: Pedehontaa afirmó que los derechos de los trabajadores están garantizados",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/23/hoy-el-alquiler-esta-practicamente-igual-al-sueldo-el-ipav-entrego-cinco-creditos-llegar-a-casa-en-general-pico/",
+    "title": "«Hoy el alquiler está prácticamente igual al sueldo»: el IPAV entregó cinco créditos Llegar a Casa en General Pico",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/xi-jinping-llego-a-estados-unidos-para-una-vista-de-estado-y-fue-recibido-por-trump-202692320320",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/argentina-y-eeuu-lanzan-el-corredor-andes-atlantico-para-impulsar-infraestructura-economica-202692321180",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/el-dolar-blue-alcanzo-un-nuevo-record-y-el-mayorista-opero-con-tendencia-alcista-202692319210",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/la-fiscalia-investiga-las-criptomonedas-con-las-que-adorni-justifico-su-patrimonio-202692319570",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/la-banda-piquense-la-cruzada-actuara-en-jesus-maria-202692320220",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/la-pampa-presenta-negocios-360-para-atraer-inversiones-y-diversificar-su-matriz-productiva-202692320120",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/la-pampa-tendra-un-fondo-para-financiar-proyectos-de-innovacion-productiva-20269232110",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/municipios-trabajan-en-mapas-de-riesgo-y-prevencion-climatica-202692319130",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/emitieron-alerta-por-lluvia-viento-y-nevadas-para-la-region-20269232040",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/implementan-dia-sin-alcohol-en-memoria-de-una-joven-fallecida-en-siniestro-vial-202692319300",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/cfk-candidata-el-cristinismo-se-agarra-una-declaracion-lorenzetti-que-la-corte-revise-la-condena-n5426841",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/encuesta-catamarca-casi-el-70-la-poblacion-esta-favor-la-mineria-n5426843",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/federico-lifschitz-lanza-una-fundacion-el-nombre-su-padre-y-toma-carrera-jugar-rosario-2027-n5426846",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/rolando-figueroa-no-descarta-adelantar-la-paritaria-docente-neuquen-y-aten-perfila-sus-exigencias-n5426827",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/reforma-del-banco-central-los-gobernadores-se-imponen-y-obligan-cambiar-el-sistema-remocion-que-pide-milei-n5426847",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/80656/argentina-le-gano-a-peru-e-ira-por-el-oro-en-los-juegos-suramericanos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80653/la-provincia-entrego-luminarias-led-para-actividades-deportivas-y-educativas-en-santa-rosa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80654/el-reino-unido-le-respondio-a-milei-y-defendio-la-explotacion-petrolera-en-malvinas",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80655/el-frigorifico-bernasconi-obtuvo-la-habilitacion-para-exportar-carne-vacuna-a-china",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80658/la-pampa-presentara-en-buenos-aires-un-encuentro-para-atraer-inversiones-y-ampliar-mercados",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80660/el-medanito--los-derechos-laborales-estan-100-en-porciento--garantizados",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/mundo/80659/las-empresas-de-ia-aseguraron-ante-la-onu-que-los-peligros-son-reales-e-inminentes",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/80657/el-senado-convoco-sesion-para-la-reforma-del-banco-central-y-el-regimen-de-zonas-frias",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/80661/milei--escuchan-al-peronismo-y-es-como-si-nos-hubieran-entregado-suiza-es-irritante",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/23/el-mensaje-de-milei-a-empresarios-energeticos-por-vaca-muerta-vengan-inviertan/",
+    "title": "El mensaje de Milei a empresarios energéticos por Vaca Muerta: “Vengan, inviertan»",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/23/el-xxiv-coral-de-la-pampa-llega-a-su-cierre-con-tres-conciertos/",
+    "title": "El XXIV Coral de La Pampa llega a su cierre con tres conciertos",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/23/jorge-lezcano-tiene-la-trayectoria-el-territorio-y-la-vision-para-encabezar-un-proyecto-de-provincia/",
+    "title": "“Jorge Lezcano tiene la trayectoria, el territorio y la visión para encabezar un proyecto de provincia”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/23/jornada-sobre-alzheimer-brindo-herramientas-para-fortalecer-el-cuidado-integral/",
+    "title": "Jornada sobre Alzheimer brindó herramientas para fortalecer el cuidado integral",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/23/la-pampa-negocios-360-un-evento-nacional-para-atraer-inversiones-y-ampliar-mercados/",
+    "title": "La Pampa Negocios 360: Un evento nacional para atraer inversiones y ampliar mercados",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/23/tres-bandas-de-general-pico-se-reunen-en-la-jam-de-el-viejo-galpon/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31689-milei-hizo-campana-con-malvinas-y-dijo-que-la-onu-es-una-casta-de-parasitos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31690-suramericanos-la-seleccion-es-finalista-en-el-futbol-sub-19",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/espectaculos/2026/9/23/destacada-participacion-de-la-academia-ruca-peni-huen-en-encuentro-entredanzados-la-falda-cordoba-vi-117069.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/mundo/2026/9/23/video-china-presento-en-berlin-un-innovador-tren-equipado-con-inteligencia-artificial-117077.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/23/monte-hermoso-comenzo-a-reparar-los-danos-que-dejo-el-temporal-en-la-costa-video-117080.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/23/san-isidro-reclamo-por-un-plan-de-ahorro-y-termino-recuperando-mas-de-27-millones-117075.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/9/23/el-nene-de-13-anos-que-cayo-a-un-desague-tras-rina-habia-ingresado-al-hospital-con-fractura-de-clavi-117086.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/23/el-frigorifico-bernasconi-quedo-habilitado-para-exportar-carne-vacuna-a-china-117084.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/23/la-pampa-negocios-360-un-evento-nacional-para-atraer-inversiones-y-ampliar-mercados-117082.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/24/eficiencia-energetica-para-fortalecer-las-actividades-del-programa-despues-de-hora-en-las-escuelas-117070.html",
     "title": null,
     "attempts": 0
   }
