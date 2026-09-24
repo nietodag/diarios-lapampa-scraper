@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80042/un-conductor-de-uber-confronto-con-los-taxistas",
     "title": "\"No tienen que sacarle el laburo a la gente\", confront&oacute; un conductor de Uber",
-    "attempts": 10
+    "attempts": 11
   },
   {
     "site": "Plan B Noticias",
@@ -18416,6 +18416,360 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/salud/2026/9/24/jornada-sobre-alzheimer-las-herramientas-neurocognitivas-para-un-cuidado-integral-117081.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82763",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82765",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/24/condenaron-a-siete-anos-de-prision-a-un-hombre-por-abusar-de-su-sobrina/",
+    "title": "Condenaron a siete años de prisión a un hombre por abusar de su sobrina",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/24/general-acha-sera-sede-de-la-55a-edicion-del-precosquin-en-el-teatro-padre-angel-buodo/",
+    "title": "General Acha será sede de la 55ª edición del PreCosquín en el Teatro Padre Ángel Buodo",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/24/general-pico-avanza-la-instalacion-de-un-cruce-semaforico-en-calles-9-y-44/",
+    "title": "General Pico: Avanza la instalación de un cruce semafórico en calles 9 y 44",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/24/lanzaron-el-fondo-de-innovacion-pampeano-destinaran-hasta-200-millones-de-pesos-al-desarrollo-cientifico-y-productivo/",
+    "title": "Lanzaron el Fondo de Innovación Pampeano: destinarán hasta 200 millones de pesos al desarrollo científico y productivo",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/24/llega-la-quinta-edicion-de-la-feria-de-mistica-a-la-sociedad-rural-fecha-atractivos-y-como-sumarse-como-emprendedor/",
+    "title": "Llega la quinta edición de la Feria de Mística a la Sociedad Rural: fecha, atractivos y cómo sumarse como emprendedor",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/audio/leonardo-santesteban-en-el-aire-de-la-manana-del-24-09-202692414110",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/en-vivo-hay-quorum-y-el-senado-debate-el-recorte-de-subsidios-a-las-zonas-frias-202692412360",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/fuerte-repudio-a-una-jugadora-de-padel-por-un-mensaje-antisemita-202692412200",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/deudas-de-cuotas-alimentarias-dura-critica-de-mujeres-a-la-defensoria-202692415240",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/dieron-a-conocer-el-parte-medico-del-peaton-atropellado-202692413320",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/hallaron-fosiles-de-un-posible-megaterio-en-arbol-solo-20269241200",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/luccheli-un-reconocimiento-a-la-trayectoria-comunitaria-20269241280",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/multaron-a-una-concesionaria-porque-repararon-mal-un-auto-202692413320",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/realizaran-jornada-sobre-prevencion-del-suicidio-en-medasur-202692412320",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/sesionaron-los-concejales-y-trataron-exenciones-tributarias-y-homenajes-202692414320",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/un-hombre-fue-condenado-a-siete-anos-de-prision-por-abusar-de-su-sobrina-202692414230",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/de-una-rifa-popular-a-ganar-el-oro-sudamericano-la-hazana-de-mica-levaggi-202692414120",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/la-central-nuclear-atucha-ii-llego-al-maximo-puntaje-de-rendimiento-nuclear-202692412530",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/sigue-la-alerta-roja-por-lluvias-y-suspendieron-las-clases-por-zonda-202692415140",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/chubut-puerto-madryn-aprobo-la-llegada-uber-una-sesion-caliente-que-dividio-al-oficialismo-n5426858",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/con-cinco-nuevas-candidatas-la-legislatura-portena-reactiva-el-organismo-control-que-presidira-michielotto-n5426836",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/jorge-ferraresi-2027-quienes-integran-y-como-se-mueve-el-equipo-campana-la-gobernacion-n5426824",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/culturales/80696/la-asociacion-pampeana-de-escritores-convoca-al-40-encuentro-de-las-letras-pampeanas",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/80699/ignacio-gutierrez-deportista-del-mes-en-agosto-",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80698/sindicato-grafico--fatida-apunto-a-anibal-schmidt-y-respaldo-el-cambio-de-conduccion-v",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80700/hallan-restos-de-un-posible-megaterio-y-piezas-arqueologicas-en-arbol-solo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80701/el-silencio-de-huala-anticipa-un-aval-al-hachazo-a-la-tarifa-del-gas-a-la-pampa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80702/creditos-y-asesoramiento-para-impulsar-emprendimientos-",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80703/presentan-el-archipielago-en-santa-rosa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80704/confirman-una-multa-a-una-concesionaria-por-reparar-mal-un-auto",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80705/evoluciona-el-peaton-atropellado--esta-consciente-y-podria-recibir-el-alta-este-viernes",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80706/condenado-por-el-abuso-de-su-sobrina",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80707/crearon-la-comision-investigadora-por-el-caso-del-bebe-de-rancul",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/24/bensusan-a-saenz-no-a-costa-de-los-derechos-de-otras-provincias/",
+    "title": "Bensusan a Sáenz: “no a costa de los derechos de otras provincias”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/24/confirmaron-multa-a-una-concesionaria-por-no-reparar-bien-un-vehiculo/",
+    "title": "Confirmaron multa a una concesionaria por no reparar bien un vehículo",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/24/el-peaton-de-75-anos-que-fue-atropellado-presenta-una-evolucion-favorable/",
+    "title": "El peatón de 75 años que fue atropellado presenta una evolución favorable",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/24/estudiantes-y-docentes-visitaron-la-planta-de-transferencia-y-se-informaron-sobre-la-clasificacion-y-recuperacion-de-residuos/",
+    "title": "Estudiantes y docentes visitaron la Planta de Transferencia y se informaron sobre la clasificación y recuperación de residuos",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/24/gracias-a-kroneberger-el-gas-puede-aumentar-dio-quorum-para-zona-fria-y-bcra/",
+    "title": "Gracias a Kroneberger el gas puede aumentar: dio quorum para zona fría y BCRA",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/24/hallan-fosiles-de-posible-megaterio-y-material-arqueologico-en-un-predio-de-arbol-solo/",
+    "title": "Hallan fósiles de posible megaterio y material arqueológico en un predio de Árbol Solo",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/24/ignacio-gutierrez-el-mejor-deportista-de-agosto/",
+    "title": "Ignacio Gutiérrez, el mejor deportista de agosto",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/24/los-combustibles-suben-entre-2-y-5-y-se-rompe-el-acuerdo/",
+    "title": "Los combustibles suben entre 2% y 5% y se rompe el acuerdo",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/24/se-viene-el-segundo-torneo-de-futbol-femenino/",
+    "title": "Se viene el Segundo Torneo de futbol Femenino",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/24/siete-anos-de-prision-para-un-tio-que-abuso-de-su-sobrina-de-11-anos/",
+    "title": "Siete años de prisión para un tío que abusó de su sobrina de 11 años",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/24/el-vernismo-cuestiono-al-gobierno-por-como-retiraron-al-bebe-de-rancul-la-ley-habia-que-cumplirla-pero-esa-no-era-la-forma/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/24/fue-condenado-por-abusar-de-su-sobrina-de-11-anos/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/24/la-legislatura-aprobo-la-ley-poli-para-destrabar-el-fraccionamiento-de-campos-en-condominios-y-sucesiones/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/24/una-ley-que-salio-por-consenso-la-legislatura-aprobo-cambios-para-dividir-inmuebles-rurales-en-condominios-en-la-pampa/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31701-sostener-las-bibliotecas-populares-es-cada-vez-mas-dificil",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31702-ignacio-gutierrez-deportista-de-agosto",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31703-hallazgo-paleontologico-en-arbol-solo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/deportes/2026/9/24/el-newcom-social-sigue-su-marcha-en-todo-el-territorio-117073.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/24/bodega-vasco-goni-de-general-pico-obtuvo-dos-medallas-de-plata-en-el-concurso-nacional-mis-primeros--117097.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/24/participan-todos-los-estudiantes-con-la-colaboracion-de-los-profesores-los-chicos-tienen-la-posibili-117107.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/24/sol-milagros-amo-el-arte-es-una-forma-de-expresar-lo-que-sentis-video-117108.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/24/urgente-fallecio-un-hombre-tras-descompensa-en-la-calle-117113.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/opinion/2026/9/24/bensusan-votara-en-contra-de-la-modificacion-a-zona-fria-los-pampeanos-van-a-pagar-hasta-un-60-mas-p-117098.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/salud/2026/9/24/alerta-anmat-prohiben-la-comercializacion-y-uso-de-cualquier-producto-para-bajar-de-peso-que-conteng-117095.html",
     "title": null,
     "attempts": 0
   }
