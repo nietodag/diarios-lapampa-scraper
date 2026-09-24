@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80042/un-conductor-de-uber-confronto-con-los-taxistas",
     "title": "\"No tienen que sacarle el laburo a la gente\", confront&oacute; un conductor de Uber",
-    "attempts": 9
+    "attempts": 10
   },
   {
     "site": "Plan B Noticias",
@@ -18045,6 +18045,378 @@
     "site": "Plan B Noticias",
     "url": "https://www.planbnoticias.com.ar/index.php/2026/09/24/senado-convoco-sesion-para-tratar-la-reforma-del-banco-central-y-el-regimen-de-zonas-frias/",
     "title": "Senado convocó sesión para tratar la reforma del Banco Central y el régimen de Zonas Frías",
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82744",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82756",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82757",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82758",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82760",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/24/creditos-llegar-a-casa-nuevas-familias-de-general-pico-inician-la-construccion-de-sus-viviendas/",
+    "title": "Créditos «Llegar a Casa»: nuevas familias de General Pico inician la construcción de sus viviendas",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/24/el-ipav-definira-en-los-proximos-dias-la-continuidad-del-beneficio-para-jubilados-y-pensionados-que-ya-alcanza-a-mas-de-1-500-adjudicatarios/",
+    "title": "El IPAV definirá en los próximos días la continuidad del beneficio para jubilados y pensionados que ya alcanza a más de 1.500 adjudicatarios",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/24/horoscopo-de-hoy-jueves-24-de-septiembre/",
+    "title": "Horóscopo de hoy, jueves 24 de septiembre",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/24/pre-federal-de-basquet-all-boys-e-independiente-mantienen-su-invicto-tras-la-cuarta-fecha/",
+    "title": "Pre Federal de básquet: All Boys e Independiente mantienen su invicto tras la cuarta fecha",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/24/reto-del-dia-resuelve-este-ejercicio-antes-de-que-se-terminen-los-6-segundos-7/",
+    "title": "Reto del día: resuelve este ejercicio antes de que se terminen los 6 segundos",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/24/trenel-el-frigorifico-volvio-a-faenar-pero-el-municipio-reclama-una-deuda-de-100-millones-y-ahora-la-niegan/",
+    "title": "Trenel: el frigorífico volvió a faenar, pero el municipio reclama una deuda de 100 millones y «ahora la niegan»",
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/consejo-la-magistratura-diego-molea-sumo-apoyo-intendentes-peronistas-la-eleccion-abogados-n5426857",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/alberto-weretilneck-celebro-el-acuerdo-javier-milei-y-donald-trump-exportar-gas-vaca-muerta-n5426854",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/chubut-glinski-se-mostro-kirchner-defender-comodoro-y-bowen-tendio-puentes-pesatti-n5426856",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/entre-rios-adorni-y-el-caso-libra-dilatan-la-aprobacion-la-ley-ficha-limpia-n5426844",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/jorge-brito-2027-la-mesa-bonaerense-que-acompana-emilio-monzo-la-construccion-federal-n5426845",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/omar-perotti-deshoja-la-margarita-y-pone-duda-su-candidatura-2027-n5426848",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/osvaldo-jaldo-alza-la-guardia-la-oposicion-tucuman-se-unio-pedir-la-intervencion-un-municipio-n5426835",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/salta-una-diputada-que-reporta-gustavo-saenz-se-sube-la-campana-dante-gebel-presidente-n5426788",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/region-patagonia/donald-trump-le-promete-javier-milei-un-blindaje-us-7000-millones-creditos-sectores-estrategicos-n5426852",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/24/40-encuentro-de-las-letras-pampeanas-ape-lanzo-mapu-literatura-y-territorio/",
+    "title": "40° Encuentro de las Letras Pampeanas: APE lanzó “Mapu. Literatura y Territorio”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/24/a-pedido-de-di-napoli-reconocen-al-personal-municipal-que-trabajo-en-la-recuperacion-de-la-ciudad/",
+    "title": "A pedido de di Nápoli, reconocen al personal municipal que trabajó en la recuperación de la ciudad",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/24/beca-impulsar-futuro-la-pampa-otorgara-unos-368-000-mensuales-a-estudiantes-de-18-carreras/",
+    "title": "Beca Impulsar Futuro: La Pampa otorgará unos $368.000 mensuales a estudiantes de 18 carreras",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/24/el-concejo-deliberante-declaro-de-interes-municipal-la-trayectoria-del-periodista-daniel-lucchelli/",
+    "title": "El Concejo Deliberante declaró de interés municipal la trayectoria del periodista Daniel Lucchelli",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/24/el-indec-publicara-el-emae-este-jueves-y-se-sabra-si-la-economia-sigue-en-modo-serrucho/",
+    "title": "El INDEC publicará el EMAE este jueves y se sabrá si la economía sigue en modo “serrucho”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/24/expo-carreras-en-toay-hay-una-tendencia-a-elegir-carreras-mas-cortas/",
+    "title": "Expo Carreras en Toay: “Hay una tendencia a elegir carreras más cortas”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/24/fin-de-una-era-cierra-la-planta-de-danica-en-llavallol-tras-casi-90-anos-de-historia/",
+    "title": "Fin de una era: cierra la planta de Dánica en Llavallol tras casi 90 años de historia",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/24/musica-circo-y-fiestas-populares-en-la-agenda-cultural-de-fin-de-mes/",
+    "title": "Música, circo y fiestas populares en la Agenda Cultural de fin de mes",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/24/se-conoce-el-dato-de-pobreza-y-se-elevaria-al-30/",
+    "title": "Se conoce el dato de pobreza y se elevaría al 30%",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/24/toay-el-centro-de-formacion-profesional-ofrece-cursos-gratuitos-con-rapida-salida-laboral/",
+    "title": "Toay: el Centro de Formación Profesional ofrece cursos gratuitos con rápida salida laboral",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/24/concejala-hizo-un-sondeo-en-redes-sobre-las-terrazas-gastronomicas-y-ahora-impulsa-retirarlas-de-santa-rosa/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/24/el-senado-trata-reforma-a-la-ley-de-zona-fria-del-gas-136-mil-hogares-pampeanos-podrian-sufrir-un-tarifazo/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/24/hallan-fosiles-de-posible-megaterio-y-material-arqueologico-en-un-campo-de-arbol-solo/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/24/jornada-sobre-alzheimer-en-el-favaloro-las-herramientas-neurocognitivas-para-un-cuidado-integral/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/24/la-justicia-conformo-equipo-especial-para-investigar-el-caso-de-la-beba-golpeada-en-25-de-mayo/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/24/la-pampa-negocios-360-un-evento-nacional-para-atraer-inversiones-y-ampliar-mercados/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/24/zona-fria-bensusan-y-kroneberger-votaran-en-contra-y-huala-todavia-no-definio/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31691-medanito-estan-garantizados-los-derechos-laborales",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31692-el-senado-debate-el-recorte-de-zona-fria-que-podria-encarecer-las-facturas-de-gas",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31693-cierra-de-danica-el-pais-esta-dinamitado-de-despidos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31694-crearon-un-equipo-especial-para-investigar-el-caso-de-la-beba-de-25-de-mayo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31695-pedehontaa-la-interna-no-es-un-drama-nos-estamos-reproduciendo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31696-enriquecimiento-de-uranio-alertan-sobre-la-transferencia-de-conocimiento-estrategico",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31697-taxis-el-sindicato-apoya-una-nueva-ordenanza-pero-llevara-cambios-al-concejo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31698-taxis-adaptados-boccalatte-admitio-que-quitarlos-de-la-ordenanza-puede-ser-un-retroceso",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31699-vecinos-de-el-nuevo-salitral-denuncian-que-les-arrancaron-plantas-de-un-espacio-verde",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31700-verse-la-jeta-presenta-el-archipielago-en-santa-rosa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/espectaculos/2026/9/24/este-domingo-disfruta-del-concierto-coral-en-el-viejo-galpon-117068.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/24/13-y-28-una-esquina-alquilada-por-los-accidentes-el-sem-hospitaliza-joven-de-19-anos-video-117096.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/24/dos-tanques-de-guerra-que-se-dirigian-a-general-pico-sorprendieron-en-huinca-renanco-video-117102.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/24/tiempo-en-pico-y-la-zona-maximas-de-31-y-probabilidad-de-lluvias-para-el-domingo-117091.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/9/24/tiene-que-juntar-2-millones-de-pesos-para-su-operacion-ella-iba-en-moto-fue-atacada-por-perros-cayo--117094.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/municipales/2026/9/24/avanza-la-instalacion-del-nuevo-semaforo-en-la-interseccion-de-calles-9-y-44-117090.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/24/alerta-meteorologica-rigen-avisos-por-lluvias-vientos-intensos-y-nevadas-en-varias-provincias-117088.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/24/fin-de-una-era-cierra-la-planta-de-danica-en-llavallol-tras-casi-90-anos-de-historia-117093.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/24/impactante-video-escapo-de-un-control-con-un-inspector-en-el-capot-117104.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/24/indignacion-en-berisso-filmaron-a-un-menor-conduciendo-una-moto-video-117105.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/opinion/2026/9/24/el-diputado-juan-manuel-rossi-nego-haberse-drogado-en-plena-sesion-y-denuncio-una-operacion-politica-117089.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/23/eficiencia-energetica-para-fortalecer-las-actividades-del-programa-despues-de-hora-en-las-escuelas-117070.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/24/un-gallo-fue-subastado-por-mas-de-3-millones-y-sorprendio-por-su-valor-video-117103.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/24/un-jubilado-de-75-anos-en-terapia-intensiva-tras-ser-atropellado-por-un-utilitario-en-santa-rosa-117087.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/salud/2026/9/24/jornada-sobre-alzheimer-las-herramientas-neurocognitivas-para-un-cuidado-integral-117081.html",
+    "title": null,
     "attempts": 0
   }
 ]
