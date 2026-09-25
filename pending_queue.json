@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80042/un-conductor-de-uber-confronto-con-los-taxistas",
     "title": "\"No tienen que sacarle el laburo a la gente\", confront&oacute; un conductor de Uber",
-    "attempts": 15
+    "attempts": 16
   },
   {
     "site": "Plan B Noticias",
@@ -19491,6 +19491,378 @@
     "site": "Plan B Noticias",
     "url": "https://www.planbnoticias.com.ar/index.php/2026/09/25/la-venta-de-combustibles-volvio-a-caer-en-agosto/",
     "title": "La venta de combustibles volvió a caer en agosto",
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82777",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/25/abren-la-convocatoria-a-becas-para-un-posgrado-en-bio-y-nanotecnologia-aplicada-al-agro/",
+    "title": "Abren la convocatoria a becas para un posgrado en bio y nanotecnología aplicada al agro",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/25/anunciaron-una-nueva-edicion-de-la-tradicional-muestra-en-el-jardin-botanico-provincial/",
+    "title": "Anunciaron una nueva edición de la tradicional muestra en el Jardín Botánico Provincial",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/25/el-peronismo-pampeano-se-reunio-en-winifreda-foco-en-el-impacto-economico-nacional-y-fuerte-llamado-a-la-unidad/",
+    "title": "El peronismo pampeano se reunió en Winifreda: foco en el impacto económico nacional y fuerte llamado a la unidad",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/25/el-senado-aprobo-el-recorte-de-subsidios-en-zonas-frias-una-victoria-clave-para-el-gobierno/",
+    "title": "El Senado aprobó el recorte de subsidios en zonas frías: una victoria clave para el Gobierno",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/25/gran-concurrencia-en-una-nueva-edicion-de-la-expo-carreras-para-adultos-en-general-pico/",
+    "title": "Gran concurrencia en una nueva edición de la Expo Carreras para Adultos en General Pico",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/25/horoscopo-de-hoy-viernes-25-de-septiembre/",
+    "title": "Horóscopo de hoy, viernes 25 de septiembre",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/25/la-municipalidad-de-general-pico-licita-nueve-espacios-para-carros-de-comida-en-el-patio-gastronomico-de-la-plaza-de-leones/",
+    "title": "La Municipalidad de General Pico licita nueve espacios para carros de comida en el patio gastronómico de la Plaza de Leones",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/25/la-revolucionaria-propuesta-de-una-oncologa-para-frenar-el-cancer-desde-su-primera-celula/",
+    "title": "La revolucionaria propuesta de una oncóloga para frenar el cáncer desde su primera célula",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/25/reto-del-dia-pondremos-a-prueba-tu-capacidad-intelectual-tienes-6-segundos-para-resolverlo/",
+    "title": "Reto del día: pondremos a prueba tu capacidad intelectual, tienes 6 segundos para resolverlo",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/25/setenta-anos-de-helado-la-viuda-que-empezo-con-una-heladeria-chiquita-y-la-familia-que-cuatro-generaciones-despues-sigue-en-pie/",
+    "title": "Setenta años de helado: la viuda que empezó con una heladería chiquita y la familia que cuatro generaciones después sigue en pie",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/audio/en-ningun-caso-los-ninos-pueden-ser-tratados-como-adultos-202692511160",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/audio/leonardo-santesteban-en-el-aire-de-la-manana-del-25-09-202692511540",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/audio/termino-siendo-una-extorsion-a-los-gobernadores-del-norte-20269258480",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/estudiantes-y-central-van-por-la-supercopa-internacional-hora-y-tv-20269258310",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/franco-colapinto-largara-10-en-el-gran-premio-de-azerbaiyan-202692510300",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/no-existe-el-milagro-argentino-si-la-gente-no-puede-pagar-la-factura-de-luz-20269251020",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/ampliar-redes-de-cuidado-para-prevenir-el-suicidio-202692511250",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/el-pj-reunio-a-dirigentes-en-winifreda-con-el-foco-puesto-en-la-unidad-20269259280",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/german-rauschenberger-voy-a-ir-por-la-reeleccion-20269259370",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/anses-fechas-de-cobro-para-jubilados-pensionados-y-asignaciones-en-octubre-20269258540",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/el-pronostico-del-tiempo-para-hoy-en-santa-rosa-20269257370",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/escapadas-para-todos-los-gustos-mas-de-50-fiestas-y-eventos-para-el-finde-202692511160",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/juegos-suramericanos-santa-fe-2026-la-agenda-para-el-dia-13-20269259310",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/la-camiseta-que-va-a-usar-messi-en-su-despedida-de-la-seleccion-20269258320",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/vuelve-a-la-45-fiesta-de-la-diversidad-la-paella-de-la-amistad-202692510170",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/buenos-aires-el-kicillofismo-desafia-las-demas-tribus-definir-internas-la-candidatura-la-gobernacion-n5426866",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-pj-la-rioja-va-internas-y-quintela-maniobra-que-no-se-vuelvan-unas-paso-que-definan-su-sucesion-n5426882",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/juan-pedro-aleart-activa-el-modo-2027-rosario-operativo-visibilidad-y-una-candidatura-el-horizonte-n5426886",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/la-pampa-una-intendenta-rebelde-fue-elegida-la-ucr-negociar-la-mesa-chica-la-alianza-lla-n5426849",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/la-reforma-del-fuero-laboral-rios-incluira-comisiones-medicas-obligatorias-y-peritos-independientes-n5426867",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/martin-llaryora-se-mete-la-mesa-andrew-palau-el-pastor-que-junto-todo-el-circulo-rojo-cordoba-n5426863",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/25/colapinto-largara-decimo-en-el-gran-premio-de-azerbaiyan/",
+    "title": "Colapinto largará décimo en el Gran Premio de Azerbaiyán",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/25/como-afiliado-y-como-peronista-no-necesito-una-invitacion-para-ir-a-una-actividad-que-organiza-el-partido/",
+    "title": "“Como afiliado y como peronista, no necesito una invitación para ir a una actividad que organiza el partido”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/25/comunidades-ranqueles-quieren-avanzar-con-la-propiedad-comunitaria-de-las-tierras-en-la-pampa/",
+    "title": "Comunidades ranqueles quieren avanzar con la propiedad comunitaria de las tierras en La Pampa",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/25/con-presencia-pampeana-el-viernes-2-de-octubre-estrenan-la-pendencia-en-el-teatro-attp/",
+    "title": "Con presencia pampeana, el viernes 2 de octubre estrenan “La Pendencia” en el Teatro ATTP",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/25/este-viernes-charla-sobre-la-recuperacion-del-comercio-exterior-de-granos/",
+    "title": "Este viernes, charla sobre la recuperación del comercio exterior de granos",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/25/estos-son-los-cortes-de-transito-por-obras-que-habra-durante-el-fin-de-semana/",
+    "title": "Estos son los cortes de tránsito por obras que habrá durante el fin de semana",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/25/la-logica-del-derecho-penal-juvenil-es-educativa-y-no-adultocentrica/",
+    "title": "“La lógica del Derecho Penal Juvenil es educativa y no adultocéntrica”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/25/la-pampa-aumento-309-las-ventas-de-combustibles-en-agosto-y-se-ubico-entre-las-provincias-con-crecimiento/",
+    "title": "La Pampa aumentó 3,09% las ventas de combustibles en agosto y se ubicó entre las provincias con crecimiento",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/25/lazos-que-cuidan-la-pampa-propone-un-abordaje-comunitario-para-prevenir-el-suicidio/",
+    "title": "“Lazos que cuidan”: La Pampa propone un abordaje comunitario para prevenir el suicidio",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/25/montes-de-oca-recordo-a-rucci-los-trabajadores-no-somos-espectadores-somos-protagonistas/",
+    "title": "Montes de Oca recordó a Rucci: “Los trabajadores no somos espectadores, somos protagonistas”",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/25/colapinto-largara-10-el-gran-premio-de-azerbaiyan-en-el-circuito-callejero-de-baku/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/25/gas-panaderos-esperan-un-latigazo-en-las-boletas-y-ya-advierten-posibles-aumentos/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/25/la-pampa-concentra-apenas-el-04-de-los-creditos-hipotecarios-otorgados-en-el-pais/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/25/la-pampa-ingreso-oficialmente-al-programa-nacional-de-cardiopatias-congenitas/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/25/la-pampa-subio-3-la-venta-de-combustibles-en-agosto/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/25/los-fundamentos-de-huala-para-votar-a-favor-del-recorte-de-subsidios-al-gas-quien-puede-pagar-el-costo-real-de-la-energia-que-lo-haga/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/25/osio-y-marchisio-capacitaron-a-operadores-judiciales-sobre-el-nuevo-regimen-penal-juvenil/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/curiosidades/2026/9/25/tomar-mates-en-una-plaza-es-una-buena-cita-117148.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/25/choco-una-camioneta-de-corpico-y-un-renault-fluence-el-sem-asistio-a-un-hombre-mayor-video-117155.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/25/julian-martin-serralta-esta-buenisimo-como-el-arte-puede-ensenar-convocar-compartir-entretener-y-a-l-117119.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/25/ofertones-en-tuccsol-market-fideos-sol-pampeano-a-790-gaseosa-paso-de-los-toros-15l-a-2500-y-aceite--117159.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/25/pablo-garcia-casatti-la-verdad-que-esta-feria-es-un-orgullo-siempre-hay-propuestas-lindas-como-el-fr-117111.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/9/25/fabio-lugo-20-anos-en-el-reciclaje-es-sacrificado-pero-podemos-darnos-el-gusto-de-viajar-video-117142.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/municipales/2026/9/25/mes-plateado-general-pico-promueve-una-vejez-activa-y-autonoma-con-mas-derechos-117125.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/25/espectacular-remontada-de-argentina-para-quedarse-con-el-oro-en-los-4x400-mixtos-video-117154.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/25/podran-cuestionar-sus-metodos-pero-no-sus-resultados-video-117147.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/25/se-canso-de-los-insultos-y-paro-el-partido-para-dar-una-leccion-video-117153.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/25/video-el-salto-del-agrio-se-desborda-por-la-crecida-del-rio-en-caviahue-neuquen-117149.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/25/volco-un-camion-con-pollos-en-la-ruta-14-y-se-llevaron-parte-de-la-carga-video-117152.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/9/25/mira-el-momento-en-el-que-un-hombre-roba-una-etiqueta-de-cigarrillos-del-minisuper-de-calle-25-entre-117157.html",
+    "title": null,
     "attempts": 0
   }
 ]
