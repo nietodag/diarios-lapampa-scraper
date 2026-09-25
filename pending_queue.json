@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80042/un-conductor-de-uber-confronto-con-los-taxistas",
     "title": "\"No tienen que sacarle el laburo a la gente\", confront&oacute; un conductor de Uber",
-    "attempts": 14
+    "attempts": 15
   },
   {
     "site": "Plan B Noticias",
@@ -19473,6 +19473,24 @@
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/salud/2026/9/25/la-pampa-ingreso-oficialmente-al-programa-nacional-de-cardiopatias-congenitas-117131.html",
     "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82759",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/milei-y-toto-caputo-el-cielo-puede-esperar-n5426881",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/25/la-venta-de-combustibles-volvio-a-caer-en-agosto/",
+    "title": "La venta de combustibles volvió a caer en agosto",
     "attempts": 0
   }
 ]
