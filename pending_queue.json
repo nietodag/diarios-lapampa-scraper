@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/pais/80055/tras-la-tension-por-las-islas-malvinas-milei-suspendio-su-viaje-a-londres",
     "title": "Tras la tensi&oacute;n por las Islas Malvinas, Milei suspendi&oacute; su viaje a Londres",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "site": "El Diario de La Pampa",
@@ -20252,6 +20252,24 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/9/26/escapaban-de-la-policia-y-se-quedaron-sin-nafta-a-40-kilometros-del-puesto-casa-de-piedra-117150.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82766",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82769",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82776",
     "title": null,
     "attempts": 0
   }
