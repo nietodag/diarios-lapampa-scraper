@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/pais/80055/tras-la-tension-por-las-islas-malvinas-milei-suspendio-su-viaje-a-londres",
     "title": "Tras la tensi&oacute;n por las Islas Malvinas, Milei suspendi&oacute; su viaje a Londres",
-    "attempts": 2
+    "attempts": 3
   },
   {
     "site": "El Diario de La Pampa",
@@ -20270,6 +20270,288 @@
   {
     "site": "Pampa Diario",
     "url": "https://www.pampadiario.com/single-post.php?id=82776",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/26/el-ipav-supero-las-25-000-personas-inscriptas-hemos-diversificado-mucho-la-demanda/",
+    "title": "El IPAV superó las 25.000 personas inscriptas: «Hemos diversificado mucho la demanda»",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/26/general-pico-brindaran-un-taller-de-preparacion-para-la-vida-universitaria/",
+    "title": "General Pico: brindarán un taller de preparación para la vida universitaria",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/26/intronati-alerto-por-la-emergencia-vial-el-presupuesto-nacional-no-supera-los-5-000-millones-de-pesos-apenas-4-kilometros-de-ruta/",
+    "title": "Intronati alertó por la emergencia vial: «El presupuesto nacional no supera los 5.000 millones de pesos, apenas 4 kilómetros de ruta»",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/26/reto-del-dia-te-animas-a-resolver-este-calculo-sin-equivocarte/",
+    "title": "Reto del día: ¿te animás a resolver este cálculo sin equivocarte?",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/26/torneo-pre-federal-de-basquet-gran-triunfo-de-ferro-en-una-fecha-con-sabor-amargo-para-cultural-argentino/",
+    "title": "Torneo Pre Federal de Básquet: Gran triunfo de Ferro en una fecha con sabor amargo para Cultural Argentino",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/colapinto-genero-un-fuerte-choque-y-debio-abandonar-en-el-gp-de-azerbaiyan-20269269290",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/la-via-es-la-apelacion-20269260160",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/mac-allister-en-busca-del-campeonato-20269260160",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/ortellado-sumo-otra-medalla-pampeana-20269260160",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/trump-sobre-iran-me-hicieron-una-propuesta-pero-la-rechace-202692611150",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/alerta-recesion-cayo-la-actividad-economica-y-se-acumulan-las-senales-de-enfriamiento-2026926880",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/comienza-el-debate-del-proyecto-de-malvinas-en-diputados-202692610300",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/detuvieron-a-dos-hombres-por-distribuir-imagenes-de-abuso-sexual-infantil-202692610130",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/suben-los-combustibles-20269260150",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/emprendedores/el-solucionador-de-problemas-2026926050",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-arena-del-campo/manisur-pidio-su-propia-quiebra-20269260160",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-arena-del-campo/record-exportador-con-menos-empleo-formal-20269260160",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/el-pronostico-del-tiempo-para-hoy-en-santa-rosa-2026926930",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/buenos-aires-la-generacion-que-quiere-su-turno-los-municipios-n5426901",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/dante-gebel-2027-su-entorno-dice-que-hay-75-chances-que-lance-su-candidatura-presidencial-n5426891",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/fernando-espinoza-camina-la-provincia-la-mira-puesta-la-gobernacion-n5426794",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/horacio-rodriguez-larreta-el-llanero-solitario-que-se-juega-todo-al-balotaje-la-ciudad-n5426877",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/jujuy-sadir-y-jorge-buscan-desactivar-la-municipalizacion-alto-comedero-y-crece-la-tension-morales-n5426861",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/la-jugada-stelatto-deja-el-mapa-electoral-misiones-pedir-la-libertad-avanza-n5426916",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/las-tres-reelecciones-javier-milei-n5426905",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/los-hijos-libertarios-urquiza-rios-una-agrupacion-juvenil-libertaria-desafia-fleitas-n5426885",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/mariano-borinsky-empezo-cordoba-la-campana-integrar-la-corte-y-toco-la-puerta-cordobesista-n5426912",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/san-francisco-el-kilometro-cero-martin-llaryora-activa-el-primer-choque-campana-el-pj-y-lla-n5426908",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/tras-su-acercamiento-casa-rosada-melella-propone-aumentar-impuestos-pagarle-los-docentes-n5426913",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/26/514801/",
+    "title": "Ravier insiste: “El gobernador del Frente lo va a poner LLA”, pero de la UCR no lo llamaron",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/26/alerta-de-recesion-cayo-la-actividad-economica-y-se-acumulan-las-senales-de-enfriamiento/",
+    "title": "Alerta de recesión: cayó la actividad económica y se acumulan las señales de enfriamiento",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/26/aprueban-exencion-de-tasas-por-baldios-en-toay/",
+    "title": "Aprueban exención de tasas por baldíos en Toay",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/26/de-los-10-sectores-economicos-que-mas-crecieron-en-la-era-milei-8-arrojaron-resultados-laborales-negativos/",
+    "title": "De los 10 sectores económicos que más crecieron en la era Milei, 8 arrojaron resultados laborales negativos",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/26/hablar-de-el-es-hablar-de-una-parte-de-nuestra-historia/",
+    "title": "“Hablar de él es hablar de una parte de nuestra historia”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/26/no-hay-caso-siempre-nos-joden/",
+    "title": "“No hay caso, siempre nos joden”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/26/rosario-central-y-estudiantes-disputan-la-supercopa-internacional/",
+    "title": "Rosario Central y. Estudiantes disputan la Supercopa Internacional",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/26/colapinto-provoco-un-triple-choque-en-el-circuito-callejero-de-baku-y-gano-russell/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/26/comienza-el-debate-del-proyecto-de-malvinas-en-diputados-y-en-la-oposicion-hablan-de-un-caballo-de-troya/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/26/la-justicia-dijo-que-trabajo-de-la-pampa-se-excedio-al-considerar-empleados-a-los-repartidores-de-pedidos-ya/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/26/los-anos-subterraneos-de-nelson-en-memoria-de-nicoletti/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/26/general-pico-27-grados-para-este-sabado-y-lluvias-para-el-domingo-video-117185.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/9/26/alejandro-esta-en-situacion-de-calle-y-pide-una-oportunidad-es-muy-feo-y-peligroso-vivir-asi-video-117143.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/9/26/david-necesita-trabajo-hace-5-meses-que-no-consigo-nada-he-tenido-que-dormir-en-la-terminal-video-117144.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/municipales/2026/9/26/conoce-las-fechas-para-sacar-tus-residuos-especiales-en-zona-6-117186.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/municipales/2026/9/26/preparacion-a-la-vida-universitaria-la-municipalidad-brindara-un-taller-para-estudiantes-117187.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/26/conmocion-en-trenque-lauquen-murio-una-jubilada-que-se-habia-prendido-fuego-porque-no-llegaba-a-fin--117184.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/26/formula-1-colapinto-choco-a-gasly-y-los-dos-abandonaron-en-azerbaiyan-117193.html",
     "title": null,
     "attempts": 0
   }
