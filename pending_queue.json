@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/pais/80055/tras-la-tension-por-las-islas-malvinas-milei-suspendio-su-viaje-a-londres",
     "title": "Tras la tensi&oacute;n por las Islas Malvinas, Milei suspendi&oacute; su viaje a Londres",
-    "attempts": 9
+    "attempts": 10
   },
   {
     "site": "El Diario de La Pampa",
@@ -21368,6 +21368,372 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/9/27/necrologicas-general-pico-117209.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82806",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82811",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/27/general-pico-celebro-una-nueva-edicion-de-la-estudiantina-con-deportes-y-musica/",
+    "title": "General Pico celebró una nueva edición de la Estudiantina con deportes y música",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/27/grave-choque-en-calles-29-y-36-dejo-a-dos-motociclistas-hospitalizados/",
+    "title": "Grave choque en calles 29 y 36 dejó a dos motociclistas hospitalizados con fracturas",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/27/la-x-brigada-mecanizada-en-la-pampa-el-nucleo-de-modernizacion-del-ejercito-argentino/",
+    "title": "La X Brigada Mecanizada en La Pampa: el núcleo de modernización del Ejército Argentino",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/27/locura-en-eduardo-castex-lo-persiguio-a-los-tiros-lo-baleo-por-la-espalda-y-pasara-tres-anos-en-prision/",
+    "title": "Locura en Eduardo Castex: lo persiguió a los tiros, lo baleó por la espalda y pasará tres años en prisión",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/27/reto-del-dia-podra-resolver-esta-operacion-sin-equivocarse/",
+    "title": "Reto del día: ¿podrá resolver esta operación sin equivocarse?",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/27/reves-para-las-automotrices-la-justicia-pampeana-agiliza-el-cobro-de-devoluciones-por-planes-de-ahorro/",
+    "title": "Revés para las automotrices: la Justicia pampeana agiliza el cobro de devoluciones por planes de ahorro",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/27/torneo-provincial-partidos-horarios-y-un-encuentro-que-roba-todas-las-miradas/",
+    "title": "Torneo Provincial: partidos, horarios y un encuentro que roba todas las miradas",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/caldenia/las-guitarras-resisten-20269271200",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/blindaje-2027-el-gobierno-prepara-el-plan-anticorrida-ante-una-eventual-demanda-de-dolares-202692710560",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/la-pobreza-no-mejoraria-en-el-segundo-semestre-202692711230",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/maximo-kirchner-propuso-gravar-giros-al-exterior-y-distribuir-lo-recaudado-entre-las-provincias-202692713510",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/milei-habria-donado-un-millon-de-dolares-a-organizaciones-que-apoyan-a-netanyahu-202692711500",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/colocaron-mural-en-la-rural-20269270130",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/conmemoran-el-dia-de-accion-global-por-el-acceso-al-aborto-legal-seguro-y-gratuito-202692713250",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/en-busqueda-de-la-unidad-20269270130",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/gil-dominguez-cuestiono-la-ineficiencia-de-los-fallos-de-la-corte-suprema-202692712280",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/multa-a-concesionaria-20269270130",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/no-daremos-un-paso-atras-en-sanidad-20269270130",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/el-pronostico-del-tiempo-para-hoy-en-santa-rosa-20269279320",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/emitieron-alerta-por-tormentas-y-lluvia-para-la-region-202692710530",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/finalizaron-los-juegos-suramericanos-argentina-fue-segunda-20269270140",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/lujan-pasion-multitudes-antes-del-abrazo-leon-xiv-n5426925",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/80837/el-bicicross-pampeano-estreno-iluminacion-led-con-una-inversion-de-casi-30-millones",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80836/domingo-inestable-en-santa-rosa-con-lluvias-y-alerta-por-tormentas",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80839/gil-dominguez-cruzo-a-mendoza-por-el-rio-atuel--desobedecer-a-la-corte-rompe-el-pacto-federal",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80840/victor-purreta-sumo-su-quinta-condena-ahora-por-trafico-de-drogas-en-la-u-4",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80841/pico--dos-jovenes-resultaron-heridos-tras-un-fuerte-choque-entre-una-moto-y-un-auto",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80842/condenaron-a-tres-anos-de-prision-al-agresor-que-le-disparo-al-presidente-de-la-cooperativa-de-reciclaje-en-eduardo-castex",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80843/habilitaron-una-nueva-temporada-nautica-en-la-reserva-natural-urbana",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80844/bomberos-voluntarios-de-general-acha-cuentan-con-dos-moviles-operativos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80845/villa-del-busto--vecinos-reclaman-por-ruidos-molestos-en-el-centro-de-jubilados",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/80838/cottolengo-don-orione--la-visita-del-papa-significa-una-visibilizacion-que-nunca-tuvimos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/videos-de-la-semana/80835/videos-de-la-semana",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/27/cottolengo-don-orione-la-visita-del-papa-significa-una-visibilizacion-que-nunca-tuvimos/",
+    "title": "Cottolengo Don Orione: “La visita del Papa significa una visibilización que nunca tuvimos”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/27/dia-de-accion-global-por-el-acceso-al-aborto-legal-seguro-y-gratuito-habra-actividades-en-santa-rosa-y-general-pico/",
+    "title": "Día de Acción Global por el Acceso al Aborto Legal, Seguro y Gratuito: habrá actividades en Santa Rosa y General Pico",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/27/eduardo-castex-lo-persiguio-a-los-tiros-lo-baleo-por-la-espalda-y-pasara-tres-anos-en-prision/",
+    "title": "Eduardo Castex: lo persiguió a los tiros, lo baleó por la espalda y pasará tres años en prisión",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/27/el-gobierno-golpeado-en-la-conversacion-digital-por-los-recortes-en-discapacidad/",
+    "title": "El Gobierno golpeado en la conversación digital por los recortes en Discapacidad",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/27/general-pico-dos-motociclistas-hospitalizados-con-fracturas-por-un-grave-choque/",
+    "title": "General Pico: dos motociclistas hospitalizados con fracturas por un grave choque",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/27/nelson-transformaste-las-heridas-de-la-dictadura-en-banderas-de-memoria-y-democracia/",
+    "title": "“Nelson, transformaste las heridas de la dictadura en banderas de memoria y democracia” (*)",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/27/no-solo-mendoza-y-la-pampa-un-pais-dividido-por-peleas-fronterizas/",
+    "title": "No solo Mendoza y La Pampa: un país dividido por peleas fronterizas",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/27/rio-atuel-advierten-que-el-incumplimiento-de-la-sentencia-de-la-corte-pone-en-tension-el-federalismo/",
+    "title": "Río Atuel: advierten que el incumplimiento de la sentencia de la Corte pone en tensión el federalismo",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/27/santa-fe-despidio-los-juegos-suramericanos-con-una-fiesta-multitudinaria/",
+    "title": "Santa Fe despidió los Juegos Suramericanos con una fiesta multitudinaria",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/27/clubes-del-interior-en-crisis-ferro-de-toay-cobra-el-30-de-las-cuotas-sostiene-a-15-profes-y-brinda-una-taza-de-leche/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/27/habra-actividades-en-la-pampa-por-el-dia-de-accion-global-por-el-aborto-legal/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/27/zona-fria-usuarios-y-consumidores-analizan-judicializar-el-recorte-de-subsidios/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31721-futbol-femenino-deportivo-mac-allister-campeon",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31722-masivo-encuentro-en-la-estudiantina-de-general-pico",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31723-es-un-buen-momento-para-volver-a-erotizarnos-con-la-politica",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31724-judicializan-los-recortes-en-la-zona-fria",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/27/algo-es-algo-despues-de-varios-meses-cayo-un-ligero-chaparron-sobre-pico-video-117222.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/27/omar-duerme-en-un-lugar-abandonado-no-tengo-para-comer-vivo-sin-bano-y-sin-servicios-me-jodi-la-cade-117220.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/27/una-multitud-copo-el-viejo-galpon-en-la-pena-solidaria-todosxroman-video-117215.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/27/urgente-hospitalizan-a-dos-jovenes-tras-un-violento-choque-entre-moto-y-auto-en-29-y-36-video-117219.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/27/detuvieron-a-una-mujer-acusada-de-provocar-las-convulsiones-de-su-hijo-de-5-anos-117213.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/27/di-maria-hablo-del-bolsillo-de-los-argentinos-la-gente-no-llega-a-fin-de-mes-video-117225.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/27/dos-chicos-fueron-atacados-por-pitbulls-una-nena-de-2-anos-esta-internada-en-terapia-intensiva-117214.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/27/el-duro-comunicado-de-alpine-tras-el-error-de-colapinto-en-baku-117221.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/27/la-emotiva-historia-de-angel-di-maria-con-un-utilero-de-rosario-central-tras-conseguir-el-titulo-vid-117226.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/27/la-pampa-y-el-atuel-una-sentencia-incumplida-que-vuelve-a-poner-en-debate-el-federalismo-117212.html",
     "title": null,
     "attempts": 0
   }
