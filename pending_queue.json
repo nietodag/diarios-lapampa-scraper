@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/pais/80055/tras-la-tension-por-las-islas-malvinas-milei-suspendio-su-viaje-a-londres",
     "title": "Tras la tensi&oacute;n por las Islas Malvinas, Milei suspendi&oacute; su viaje a Londres",
-    "attempts": 13
+    "attempts": 14
   },
   {
     "site": "El Diario de La Pampa",
@@ -22184,6 +22184,60 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/9/27/confirmaron-la-identidad-del-conductor-que-murio-tras-volcar-en-la-ruta-26-117238.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/27/pre-federal-de-basquet-triunfazo-de-independiente-y-batacazo-del-cultu-en-el-parque-angel-larrea/",
+    "title": "Pre Federal de Básquet: Triunfazo de Independiente y batacazo del “Cultu” en el Parque Angel Larrea",
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/la-foto-2026-y-la-pelicula-2027-n5426926",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/80862/el-prefederal-quedo-con-tres-lideres",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/linea-abierta/80860/mensajes-28-9-2026",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/27/milei-nego-que-haya-una-recesion-los-indicadores-estan-arrojando-cualquier-cosa/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/deportes/2026/9/28/tres-de-tres-ferro-goleo-4-0-a-union-deportiva-campos-y-sigue-arriba-117236.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/espectaculos/2026/9/28/hashtag-18-este-viernes-2-viene-el-villano-es-gratis-y-por-lista-anotense-que-se-agotan-los-lugares--117218.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/28/una-multitudinaria-celebracion-reunio-a-1500-personas-por-el-dia-del-empleado-de-comercio-video-117229.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/28/el-mitico-citroen-2cv-regresa-como-un-auto-electrico-y-accesible-para-competir-en-el-mercado-urbano-117237.html",
     "title": null,
     "attempts": 0
   }
