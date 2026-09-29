@@ -1,753 +1,9 @@
 [
   {
     "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/pais/80055/tras-la-tension-por-las-islas-malvinas-milei-suspendio-su-viaje-a-londres",
-    "title": "Tras la tensi&oacute;n por las Islas Malvinas, Milei suspendi&oacute; su viaje a Londres",
-    "attempts": 19
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/pais/80056/maciel-dijo-que-loan-fue-atropellado-y-que-los-responsables-son-perez-caillava-y-laudelina",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Diario Textual",
-    "url": "https://diariotextual.com/inicio/index.php/2026/09/10/de-tirria-a-el-hombre-de-al-lado-spregelburd-llega-a-la-pampa-y-habla-de-teatro-cine-y-arquitectura/",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/9/10/javier-lezcano-gomeria-del-federal-no-hay-laburo-emparcho-afilo-cuchillos-de-todo-con-el-presidente-que-tenemos-esta-todo-para-atras-video-122611.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/municipales/2026/9/9/convocatoria-abierta-para-participar-del-concurso-pieza-de-autor-autora-pampeana-122593.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/10/el-garrahan-realizo-su-primer-traslado-sanitario-nocturno-en-mas-de-una-decada-su-helipuerto-ya-funciona-las-24-horas-video-122617.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/10/la-inflacion-de-agosto-se-desacelero-fue-del-17-122618.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/10/kroneberger-pidio-una-solucion-prioritaria-para-la-ruta-151-vialidad-anuncio-trabajos-de-reparacion-122609.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Pampa Diario",
-    "url": "https://www.pampadiario.com/single-post.php?id=82572",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Pampa Diario",
-    "url": "https://www.pampadiario.com/single-post.php?id=82573",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/09/10/condenado-por-golpear-a-su-pareja-pero-absuelto-de-abuso-sexual-aberrante-tras-un-polemico-juicio-abreviado/",
-    "title": "Condenado por golpear a su pareja, pero absuelto de abuso sexual aberrante tras un polémico juicio abreviado",
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/09/10/trapaglia-defiende-derogar-el-descanso-dominical-falta-la-palabra-del-consumidor/",
-    "title": "Trapaglia defiende derogar el descanso dominical: «Falta la palabra del consumidor»",
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/el-pais/dia-mundial-de-la-prevencion-del-suicidio-argentina-registra-la-tasa-mas-alta-de-su-historia-202691017100",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/el-pais/femicidio-en-ituzaingo-no-la-mate-la-amaba-202691018220",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/el-pais/javier-milei-suspendio-su-viaje-a-reino-unido-202691018270",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/la-pampa/tras-el-festival-solidario-maxi-cuffini-volvio-a-santa-rosa-no-hay-palabras-para-agradecer-202691016590",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/la-region/mas-de-400-ciclistas-de-15-provincias-competiran-entre-las-sierras-20269101870",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/moron-votos-del-sabbatelismo-el-concejo-aprobo-la-segunda-interpelacion-al-intendente-ghi-tres-meses-n5426511",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/politica/ignacio-torres-junto-damian-biss-y-gerardo-merino-la-apertura-sobres-la-autovia-rawson-trelew-n5426514",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/politica/javier-milei-se-cae-del-podio-su-propia-tribuna-queda-cuarto-el-ranking-imagen-votantes-lla-n5426490",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/politica/jorge-macri-designo-un-ladero-eugenio-casielles-la-corporacion-del-sur-n5426498",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/politica/karina-milei-acepta-que-no-puede-eliminar-las-paso-y-negocia-suspenderlas-o-que-sean-opcionales-n5426497",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/politica/los-vicegobernadores-del-norte-grande-firmaron-un-duro-comunicado-contra-la-economia-javier-milei-n5426509",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/politica/rio-negro-marcelo-roman-contrataca-allen-pero-la-oposicion-insiste-otro-intento-revocatoria-n5426488",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/ciencia/80060/presentaron-una-guia-para-prevenir-el-suicidio-en-jovenes",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/ciencia/80061/el-humo-de-segunda-mano-causo-mas-de-166-millones-de-muertes-en-204-paises",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/ciencia/80062/dormir-con-luz-artificial-aunque-sea-tenue-podria-afectar-la-salud-del-corazon",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/culturales/80057/diego-stickar-estrena-ruge-en-santa-rosa",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80058/familias-de-contencion--cuidar-no-es-adoptar",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80059/anuncios-de-milei-sobre-malvinas--creo-que-esto-es-mucho-humo-y-abajo-petroleo",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/pais/80063/una-familia-tipo-ya-necesita-16-millones-por-mes-para-no-ser-pobre",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Plan B Noticias",
-    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/10/bocalatte-no-estamos-en-contra-de-las-aplicaciones-queremos-que-sea-justo-para-todos/",
-    "title": "Boccalatte: “No estamos en contra de las aplicaciones, queremos que sea justo para todos”",
-    "attempts": 0
-  },
-  {
-    "site": "Plan B Noticias",
-    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/10/la-inflacion-de-agosto-fue-del-17/",
-    "title": "La inflación de agosto fue del 1,7%",
-    "attempts": 0
-  },
-  {
-    "site": "Plan B Noticias",
-    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/10/la-ucr-propone-acciones-permanentes-de-prevencion-del-suicidio-en-santa-rosa/",
-    "title": "La UCR propone acciones permanentes de prevención del suicidio en Santa Rosa",
-    "attempts": 0
-  },
-  {
-    "site": "Plan B Noticias",
-    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/10/rafael-spregelburd-cerro-las-ix-jornadas-de-arquitectura-pampeana/",
-    "title": "Rafael Spregelburd cerró las IX Jornadas de Arquitectura Pampeana",
-    "attempts": 0
-  },
-  {
-    "site": "Plan B Noticias",
-    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/10/refuerzan-las-acciones-de-prevencion-y-concientizacion-vial/",
-    "title": "Refuerzan las acciones de prevención y concientización vial",
-    "attempts": 0
-  },
-  {
-    "site": "Plan B Noticias",
-    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/10/santilli-estoy-convencido-de-que-milei-sera-el-primer-no-peronista-en-ser-reelegido/",
-    "title": "Santilli: “Estoy convencido de que Milei será el primer no peronista en ser reelegido”",
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/deportes/2026/9/10/colombofilia-general-pico-la-campina-fue-el-mas-veloz-desde-pergamino-la-loma-se-impuso-desde-villa-mercedes-video-122604.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/10/alerta-avance-de-aire-polar-anticipan-un-fuerte-descenso-de-las-temperaturas-en-pico-video-122619.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/10/que-pasa-con-los-adolescentes-trasladan-menor-que-se-autolesiono-al-centeno-mira-122607.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/9/10/tuve-rotiseria-hasta-hace-poco-cerre-no-daban-los-numeros-el-ano-pasado-no-pude-darle-el-regalo-del-dia-del-nino-mi-nena-yo-vote-milei-pero-hoy-no-lo-haria-es-un-chorro-yo-no-lo-vote-es-un-garca-video-122610.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/10/confirman-que-los-millones-de-dolares-de-florencia-kirchner-estan-disponibles-piden-decomisarlos-122615.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/opinion/2026/9/10/carta-del-lector-liberalismo-patria-el-paralelismo-entre-1946-el-escenario-electoral-de-2027-122601.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/09/10/el-artista-tian-ortiz-inaugura-la-muestra-el-propio-camino-en-el-centro-cultural-medano/",
-    "title": "El artista Tian Ortiz inaugura la muestra “El propio camino” en el Centro Cultural MEDANO",
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/09/10/el-suicidio-paso-a-ser-la-primera-causa-de-muerte-en-jovenes-el-hospital-federal-lanza-capacitaciones-abiertas-a-la-comunidad/",
-    "title": "«El suicidio pasó a ser la primera causa de muerte en jóvenes»: el Hospital Federal lanza capacitaciones abiertas a la comunidad",
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/el-pais/una-familia-de-cuatro-integrantes-necesito-1-605-497-en-agosto-para-no-ser-pobre-202691019110",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/la-region/emitieron-alerta-amarilla-por-nevadas-y-tormenta-para-la-region-20269101980",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/la-region/filmaron-a-un-hombre-muy-parecido-a-maradona-y-las-redes-estallaron-20269102080",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/politica/el-pj-rios-expulso-las-dos-senadoras-que-apoyaron-la-reforma-previsional-frigerio-n5426519",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/politica/san-luis-alberto-rodriguez-saa-le-quito-un-diputado-union-la-patria-y-pide-ser-candidato-unico-del-pj-n5426518",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/deportes/80064/todo-listo-para-boxeo-capital-iii",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/deportes/80066/samuel-no-seguira-en-la-seleccion",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80067/el-pj-reunio-a-dirigentes-del-departamento-loventue-en-victorica",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80069/la-familia-de-contencion-de-rancul-protesto-en-la-legislatura-y-pidio-la-renuncia-de-funcionarios",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80070/montes-de-oca-llamo-a-fortalecer-la-salud-mental--hay-cifras-que-deberian-detenernos-como-sociedad",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/pais/80065/rechazaron-pedido-de-cristina-kirchner-para-investigar-a-sturzenegger-por-el-dolar-futuro",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/pais/80068/milei-encabezara-un-acto-por-el-dia-del-maestro-con-un-discurso-ante-docentes-y-estudiantes",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Plan B Noticias",
-    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/10/hotel-la-pampeana-expeencia-gastronomica-que-vale-la-pena-descubrir/",
-    "title": "Hotel La Pampeana: Una experiencia gastronómica que vale la pena descubrir",
-    "attempts": 0
-  },
-  {
-    "site": "Plan B Noticias",
-    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/10/los-gremios-de-salud-pidieron-por-las-guardias-de-salud-mental/",
-    "title": "Los gremios de Salud pidieron por las guardias de Salud Mental",
-    "attempts": 0
-  },
-  {
-    "site": "Plan B Noticias",
-    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/10/mes-de-la-prevencion-del-suicidio-escucharnos-es-el-primer-paso-para-cuidarnos/",
-    "title": "Mes de la Prevención del Suicidio: “escucharnos es el primer paso para cuidarnos”",
-    "attempts": 0
-  },
-  {
-    "site": "Plan B Noticias",
-    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/10/musica-danza-y-espectaculos-vertiz-celebra-sus-119-anos/",
-    "title": "Música, danza y espectáculos: Vértiz celebra sus 119 años",
-    "attempts": 0
-  },
-  {
-    "site": "Plan B Noticias",
-    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/10/pj-alcanzar-los-consensos-necesarios-para-definir-las-mejores-propuestas-electorales/",
-    "title": "PJ: “alcanzar los consensos necesarios para definir las mejores propuestas electorales”",
-    "attempts": 0
-  },
-  {
-    "site": "Plan B Noticias",
-    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/10/sesion-del-concejo-ordenamiento-urbano-homenajes-y-proyectos-de-prevencion/",
-    "title": "Sesión del Concejo: Ordenamiento urbano, homenajes y proyectos de prevención",
-    "attempts": 0
-  },
-  {
-    "site": "Diario Textual",
-    "url": "https://diariotextual.com/inicio/index.php/2026/09/10/el-pj-reunio-en-victorica-a-dirigentes-de-loventue-y-comenzo-a-debatir-la-estrategia-hacia-2027/",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Diario Textual",
-    "url": "https://diariotextual.com/inicio/index.php/2026/09/10/general-pico-notificaciones-y-multas-por-arrojar-basura-en-espacios-publicos-y-sacar-residuos-fuera-de-los-dias-establecidos/",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Diario Textual",
-    "url": "https://diariotextual.com/inicio/index.php/2026/09/10/la-inflacion-de-agosto-fue-del-17-y-es-el-valor-mas-bajo-en-14-meses/",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Diario Textual",
-    "url": "https://diariotextual.com/inicio/index.php/2026/09/10/la-pampa-se-adecuara-a-la-nueva-legislacion-de-imputabilidad-penal-adolescente/",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/espectaculos/2026/9/10/en-la-columna-a-donde-vamos-de-password-viajes-nestor-pavoni-nos-invita-conocer-europa-el-caribe-video-122624.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/10/mostraron-por-dentro-el-infierno-la-nueva-carcel-de-pinero-video-122625.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/10/familia-de-rancul-reclamo-en-la-legislatura-por-el-caso-del-bebe-pediran-una-comision-especial-122626.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/10/indignacion-en-quemu-denuncian-el-robo-de-arboles-recien-plantados-video-122621.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/10/nacion-avanza-con-obras-de-reparacion-en-la-ruta-nacional-151-122616.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/salud/2026/9/10/prevencion-del-suicidio-la-salida-es-colectiva-122623.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/09/10/dorila-celebra-la-primavera-con-un-festival-para-toda-la-familia/",
-    "title": "Dorila celebra la primavera con un festival para toda la familia",
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/09/10/legislatura-la-pampa-adecuo-su-regimen-penal-juvenil-a-la-ley-nacional-en-una-sesion-con-fuertes-debates/",
-    "title": "Legislatura: La Pampa adecuó su régimen penal juvenil a la ley nacional en una sesión con fuertes debates",
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/09/10/prevencion-del-suicidio-la-importancia-de-la-escucha-y-el-acompanamiento-para-abrazar-la-vida/",
-    "title": "Prevención del suicidio: la importancia de la escucha y el acompañamiento para “abrazar la vida”",
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/el-pais/di-tullio-denuncio-que-el-oro-esta-en-londres-202691020310",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/la-pampa/el-pj-reunio-a-dirigentes-del-departamento-loventue-en-victorica-202691021410",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/la-pampa/entro-a-robar-a-un-departamento-y-lo-detuvieron-202691021210",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/la-region/fallecio-una-mujer-que-habia-sido-rescatada-de-un-temporal-hace-10-dias-202691020480",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/la-region/robaron-una-heladera-de-una-casa-la-llevaban-en-un-triciclo-y-los-atraparon-202691021340",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/congreso/la-ucr-se-rebela-el-congreso-y-complica-javier-milei-n5426522",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80071/detuvieron-a-un-hombre-que-habia-entrado-a-robar-en-un-departamento",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Diario Textual",
-    "url": "https://diariotextual.com/inicio/index.php/2026/09/10/la-prevencion-del-suicidio-no-se-reduce-a-acciones-individuales-sino-colectivas/",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Diario Textual",
-    "url": "https://diariotextual.com/inicio/index.php/2026/09/10/proyecto-para-aumentar-el-financiamiento-del-sistema-de-bomberos-voluntarios/",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Radio Kermes",
-    "url": "https://www.radiokermes.com/noticias/31527-rancul-la-familia-sustituta-se-hizo-escuchar-en-la-legislatura",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Radio Kermes",
-    "url": "https://www.radiokermes.com/noticias/31528-la-pampa-se-adecuara-al-nuevo-regimen-penal-juvenil",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Radio Kermes",
-    "url": "https://www.radiokermes.com/noticias/31529-una-cumbre-del-pj-en-el-oeste-puso-la-eleccion-en-el-radar",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Radio Kermes",
-    "url": "https://www.radiokermes.com/noticias/31530-el-sindicato-grafico-retoma-la-conduccion-de-la-cgt-local",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Radio Kermes",
-    "url": "https://www.radiokermes.com/noticias/31531-tres-concejales-no-quisieron-reconocer-al-foro-por-el-aborto",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Radio Kermes",
-    "url": "https://www.radiokermes.com/noticias/31532-inflacion-de-agosto-1-7",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Radio Kermes",
-    "url": "https://www.radiokermes.com/noticias/31533-prevencion-del-suicidio-escucha-y-acompanamiento-como-herramientas-colectivas",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/municipales/2026/9/10/notificaciones-multas-por-arrojar-basura-en-espacios-publicos-sacar-residuos-fuera-de-los-dias-establecidos-122620.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/10/familia-de-rancul-reclamo-en-la-legislatura-por-el-caso-del-bebe-pediran-una-comision-especial-video-122626.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Pampa Diario",
-    "url": "https://www.pampadiario.com/single-post.php?id=82578",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Pampa Diario",
-    "url": "https://www.pampadiario.com/single-post.php?id=82579",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Pampa Diario",
-    "url": "https://www.pampadiario.com/single-post.php?id=82584",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Pampa Diario",
-    "url": "https://www.pampadiario.com/single-post.php?id=82585",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/politica/neuquen-una-delegacion-la-calf-viaja-shanghai-y-desafia-la-presion-estados-unidos-vaca-muerta-n5426516",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/deportes/80072/boca-abre-la-novena-ante-central-cordoba",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/deportes/80073/mac-allister-ya-se-clasifico-en-dos-categorias",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/deportes/80074/colapinto-sale-a-pista-en-el-circuito-de-madrid",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Diario Textual",
-    "url": "https://diariotextual.com/inicio/index.php/2026/09/10/atropello-y-mato-a-adan-serraino-en-25-de-mayo-18-anos-despues-la-causa-quedo-prescripta-y-fue-absuelto/",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/espectaculos/2026/9/10/ateneo-cultural-presenta-rock-en-el-galpon-122622.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/9/11/necrologicas-general-pico-122627.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/9/11/ruben-pasteleria-don-pedro-las-ventas-bajaron-un-40-nunca-bajaron-los-impuestos-estamos-asfixiados-tengo-empleados-se-hace-muy-dificil-sostenerlo-nosotros-no-nos-llegan-las-regalias-video-122614.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/11/horror-un-perro-abrio-una-bolsa-en-un-basural-dejo-al-descubierto-el-cuerpo-de-una-recien-nacida-122628.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Pampa Diario",
-    "url": "https://www.pampadiario.com/single-post.php?id=82565",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/09/11/juan-pablo-bonino-sobre-el-codigo-penal-juvenil-la-unica-respuesta-del-estado-no-puede-ser-la-sancion/",
-    "title": "Juan Pablo Bonino sobre el Código Penal Juvenil: «La única respuesta del Estado no puede ser la sanción»",
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/la-pampa/ziliotto-cruzo-a-nacion-que-le-quito-las-regalias-del-atuel-a-la-pampa-no-nos-quedaremos-quietos-20269118350",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/la-region/alerta-meteorologica-por-lluvias-y-nevadas-intensas-20269118200",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/la-region/el-pronostico-del-tiempo-para-hoy-en-santa-rosa-20269117370",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/lanus-declaro-la-emergencia-sanitaria-climatica-e-hidrica-180-dias-el-riesgo-fuertes-tormentas-n5426526",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/politica/cambio-el-gobierno-jorge-macri-ezequiel-sabor-deja-el-ejecutivo-y-pasa-al-banco-ciudad-n5426520",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/trump-le-arruina-la-fiesta-milei-n5426524",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80076/continuan-actividades-de-prevencion-del-suicidio",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80077/consumos-digitales--muchas-veces-se-problematiza-poco",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80078/golpiza-al-docente--el-fiscal-dice-que-es-un-caso-extraordinario",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80079/taxistas-advierten-que-uber-es-una-multinacional-operando-sin-ningun-tipo-de-obligaciones",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80080/contrapunto-oficialista-por-un-reconocimiento-al-foro-por-el-aborto",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80081/un-incendio-destruyo-una-vivienda-rural-en-la-zona-de-utracan",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80082/formalizaron-al-propietario-del-frigorifico-clandestino-de-monte-nievas",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80083/milei-le-quita-a-la-pampa-las-regalias-de-los-nihuiles-y-se-las-cede-al-100-en-porciento--a-mendoza",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80085/viernes-de-lluvia-y-viento--el-mapa-del-tiempo-anticipa-un-fin-de-semana-frio",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80086/ziliotto-por-el-reves-con-los-nihuiles--no-nos-quedaremos-quietos",
-    "title": null,
-    "attempts": 0
+    "title": "Ziliotto, por el rev&eacute;s con Los Nihuiles: \"&iexcl;No nos quedaremos quietos!\"",
+    "attempts": 1
   },
   {
     "site": "El Diario de La Pampa",
@@ -23702,6 +22958,318 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/29/dos-personas-graves-tras-un-fuerte-choque-entre-un-auto-y-un-camion-de-combustible-en-la-ruta-35-117284.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82834",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82835",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82836",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82837",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82838",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/29/con-gran-convocatoria-el-iss-celebro-el-dia-del-jubilado-en-santa-rosa/",
+    "title": "Con gran convocatoria, el ISS celebró el Día del Jubilado en Santa Rosa",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/29/convocan-a-docentes-para-cubrir-cargos-directivos-en-escuelas-de-colonia-el-porvenir-y-peru/",
+    "title": "Convocan a docentes para cubrir cargos directivos en escuelas de Colonia El Porvenir y Perú",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/29/educacion-inicial-abre-la-inscripcion-para-salas-infantiles-fechas-y-requisitos/",
+    "title": "Educación Inicial abre la inscripción para salas infantiles: fechas y requisitos",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/29/escuelas-tecnicas-pampeanas-debatieron-sobre-nuevas-tecnologias-y-demandas-del-sector-productivo/",
+    "title": "Escuelas técnicas pampeanas debatieron sobre nuevas tecnologías y demandas del sector productivo",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/29/estudiantes-pampeanos-representaron-a-la-provincia-en-la-final-nacional-de-robotica/",
+    "title": "Estudiantes pampeanos representaron a la provincia en la final nacional de robótica",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/29/estudiar-medicina-2027-universidad-siglo-21-impulsa-el-ciclo-de-nivelacion-2027-con-alcance-nacional/",
+    "title": "Estudiar medicina 2027: Universidad Siglo 21 impulsa el Ciclo de Nivelación 2027 con alcance nacional",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/29/fuerte-colision-y-vuelco-en-quemu-quemu-a-pesar-del-impacto-no-hubo-heridos-de-gravedad/",
+    "title": "Fuerte colisión y vuelco en Quemú Quemú: a pesar del impacto, no hubo heridos de gravedad",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/29/murio-el-conductor-del-auto-que-choco-contra-un-camion-en-la-ruta-nacional-35/",
+    "title": "Murió el conductor del auto que chocó contra un camión en la Ruta Nacional 35",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/29/reducen-la-pena-a-un-hombre-que-abuso-de-su-sobrina-de-4-anos-por-considerar-sus-patologias-psiquiatricas/",
+    "title": "Reducen la pena a un hombre que abusó de su sobrina de 4 años por considerar sus patologías psiquiátricas",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/29/salon-de-artes-visuales-extendieron-hasta-el-4-de-octubre-la-convocatoria-de-artes-del-fuego/",
+    "title": "Salón de Artes Visuales: extendieron hasta el 4 de octubre la convocatoria de Artes del Fuego",
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/buchiniz-activo-la-tercera-via-neuquen-y-apunta-contra-figueroa-y-la-libertad-avanza-n5426959",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/argentina-vs-chile-44-anos-despues-el-rebrote-una-tension-inmune-las-afinidades-los-gobiernos-n5426951",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/concordia-el-armado-lla-el-brazo-ignacio-cabrera-le-apunta-la-intendencia-2027-n5426964",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/telefono-walter-vuoto-un-concejal-dice-que-la-empresa-transporte-municipal-esta-fundida-y-debe-cerrar-n5426963",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/tierra-del-fuego-melella-no-llega-fin-mes-y-acordo-la-nacion-otro-anticipo-45000-millones-n5426965",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/80941/scaloni-hablo-del-equipo-en-mente-y-de-su-contrato-",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80930/millonaria-estafa-a-un-vecino-de-rancul-con-la-compra-de-una-camioneta",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80931/caso-de-adopcion--el-ejecutivo-le-marco-limites-a-la-comision-investigadora",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80932/un-ave-produjo-abrupta-baja-de-tension-que-afecto-zonas-de-toay-y-santa-rosa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80933/-robaron-dos-perras-del-refugio-de-apani-y-piden-ayuda-para-encontrarlas",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80934/frente-opositor-en-la-pampa--kroneberger-rechaza-las-designaciones-a-dedo-desde-nacion",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80935/robaron-herramientas-en-villa-alonso-y-los-pescaron-",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80936/rechazaron-las-salidas-transitorias-para-toti-watson",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80937/gran-convocatoria-en-el-festejo-por-el-dia-del-jubilado",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80939/un-proyecto-pide-que-se-explique-el-cobro-desde-el-municipio",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80940/ravier-justifico-los-dichos-falsos-de-milei-sobre-los-terroristas-expulsados",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/80938/hallaron-muerto-al-senador-libertario-juan-carlos-pagotto-en-su-casa-de-la-rioja-",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/29/abrupta-baja-de-tension-afecto-zonas-de-toay-y-santa-rosa/",
+    "title": "Abrupta baja de tensión afectó zonas de Toay y Santa Rosa",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/29/bebe-de-rancul-el-poder-ejecutivo-remitio-informe-a-diputados/",
+    "title": "Bebé de Rancul: el Poder Ejecutivo remitió informe a Diputados",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/29/denuncia-penal-contra-bullrich-y-monteoliva-por-los-dichos-de-milei-sobre-30-000-terroristas-expulsados/",
+    "title": "Denuncia penal contra Bullrich y Monteoliva por los dichos de Milei sobre 30.000 “terroristas” expulsados",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/29/lo-que-hay-que-tener-en-cuenta-para-evitar-sanciones-por-poda-y-jardineria/",
+    "title": "Lo que hay que tener en cuenta para evitar sanciones por poda y jardinería",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/29/murio-el-senador-libertario-juan-carlos-pagotto/",
+    "title": "Murió el senador libertario Juan Carlos Pagotto",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/29/piden-que-la-boleta-municipal-detalle-el-concepto-y-el-calculo-del-importe-e-la-tasa/",
+    "title": "Piden que la boleta municipal detalle el concepto y el cálculo del importe de la tasa",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/29/realizan-campana-gratuita-de-documentacion-en-casa-joven/",
+    "title": "Realizan campaña gratuita de documentación en Casa Joven",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/29/santa-rosa-fue-sede-de-encuentro-de-scout/",
+    "title": "Santa Rosa fue sede de encuentro de Scout",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/29/abrupta-baja-de-tension-electrica-afecto-zonas-de-toay-y-santa-rosa/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/29/bebe-de-rancul-ziliotto-respondio-a-la-legislatura-y-puso-limites-al-pedido-de-informacion/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/29/fallecio-el-conductor-del-auto-que-choco-al-camion-en-la-ruta-35/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/29/la-vice-romina-montes-de-oca-se-fue-de-identidad-peronista-y-se-esta-acercando-al-sector-de-di-napoli/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/29/ravier-no-pudo-explicar-los-30-mil-terroristas-que-milei-dijo-haber-expulsado-del-pais/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31747-jubilados-provinciales-reclaman-el-plus-patagonico-y-un-recalculo-de-sus-haberes",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31748-la-gata-acosta-organiza-su-primer-festival-de-boxeo-en-el-fortin",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/29/general-pico-registro-122-milimetros-de-lluvia-y-se-esperan-mas-precipitaciones-video-117288.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/29/hallaron-muerto-al-senador-libertario-juan-carlos-pagotto-en-su-casa-117292.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/9/29/barrio-ranqueles-secuestran-dogo-peligroso-que-ataco-a-un-menor-de-8-anos-en-la-via-publica-video-117289.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/9/29/robaron-220-toneladas-de-soja-en-intendente-alvear-son-alrededor-de-128000000-hay-una-persona-deteni-117287.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/29/caso-bebe-de-rancul-el-gobierno-provincial-elevo-un-informe-con-las-respuestas-a-los-diputados-117286.html",
     "title": null,
     "attempts": 0
   }
