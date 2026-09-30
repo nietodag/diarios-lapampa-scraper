@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80086/ziliotto-por-el-reves-con-los-nihuiles--no-nos-quedaremos-quietos",
     "title": "Ziliotto, por el rev&eacute;s con Los Nihuiles: \"&iexcl;No nos quedaremos quietos!\"",
-    "attempts": 4
+    "attempts": 5
   },
   {
     "site": "El Diario de La Pampa",
@@ -23768,6 +23768,318 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/30/mas-opciones-para-el-pago-de-cuotas-ipav-incorpora-pago-en-un-click-117304.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82822",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82845",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82846",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82851",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/30/educacion-abrio-las-inscripciones-para-una-conferencia-sobre-inclusion-educativa-en-general-pico/",
+    "title": "Educación abrió las inscripciones para una conferencia sobre inclusión educativa en General Pico",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/30/horoscopo-de-hoy-miercoles-30-de-septiembre/",
+    "title": "Horóscopo de hoy, miércoles 30 de septiembre",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/30/no-podemos-hacer-paro-pero-si-dejar-de-firmar-juicios-abreviados-la-advertencia-de-los-defensores-ante-la-falta-de-respuestas/",
+    "title": "«No podemos hacer paro, pero sí dejar de firmar juicios abreviados»: la advertencia de los defensores ante la falta de respuestas",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/30/quemu-quemu-se-consagro-campeon-del-torneo-clausura-provincial-de-cestoball-en-sub-17/",
+    "title": "Quemú Quemú se consagró campeón del Torneo Clausura Provincial de cestoball en Sub 17",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/30/reto-del-dia-superaras-la-dificultad-de-este-problema-en-7-segundos-3/",
+    "title": "Reto del día: ¿superarás la dificultad de este problema en 7 segundos?",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/30/tension-en-el-aire-un-vuelo-de-flydubai-aterrizo-de-emergencia-en-arabia-saudita-tras-un-violento-incidente-en-la-cabina-2/",
+    "title": "Tensión en el aire: un vuelo de Flydubai aterrizó de emergencia en Arabia Saudita tras un violento incidente en la cabina",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/30/tension-en-el-aire-un-vuelo-de-flydubai-aterrizo-de-emergencia-en-arabia-saudita-tras-un-violento-incidente-en-la-cabina/",
+    "title": "Tensión en el aire: un vuelo de Flydubai aterrizó de emergencia en Arabia Saudita tras un violento incidente en la cabina",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/educacion-pampeana/la-importancia-de-la-escucha-2026930050",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/un-piloto-del-vuelo-de-flydubai-a-israel-habria-intentado-suicidarse-y-estrellar-el-avion-20269308140",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/el-vaticano-confirmo-que-un-cura-argentino-fue-culpable-de-mas-de-20-casos-de-abusos-sexuales-20269309200",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/la-justicia-volvio-a-intimar-al-gobierno-para-que-cumpla-la-ley-de-financiamiento-universitario-202693010400",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/personal-de-tdc-realizo-una-capacitacion-en-hidrocarburos-202693010240",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/se-robaron-dos-ruedas-de-un-auto-las-vendieron-y-confesaron-20269309150",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/sitraj-avierte-por-el-colapso-de-las-defensorias-y-reclama-mas-personal-20269309230",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/tierras-a-extranjeros-una-senal-de-alerta-para-nuestra-soberania-20269309180",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/el-pronostico-del-tiempo-para-hoy-en-santa-rosa-20269307290",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/fallecio-una-turista-francesa-despues-de-una-avalancha-20269308590",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/ovacion-fotos-y-autografos-asi-llego-la-seleccion-a-la-argentina-20269308260",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/polemica-en-la-fiesta-del-chorizo-usaron-baldes-de-glifosato-para-cocinar-20269301030",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/rio-negro-rivales-la-vista-buteler-acelera-busca-su-reeleccion-cipolletti-n5426953",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/santa-fe-raimundo-posterga-definiciones-y-no-descarta-medirse-un-mano-mano-traferri-san-lorenzo-n5426986",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/un-salteno-ypf-quien-es-el-soldado-saenz-que-ocupara-una-silla-el-directorio-la-petrolera-n5426960",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/30/a-pedido-de-di-napoli-reconocen-al-personal-municipal-que-trabajo-en-la-recuperacion-de-la-ciudad/",
+    "title": "A pedido de di Nápoli, reconocen al personal municipal que trabajó en la recuperación de la ciudad",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/30/bensusan-critico-el-fallo-de-la-corte-sobre-la-compra-de-tierras-por-extranjeros/",
+    "title": "Bensusán criticó el fallo de la Corte sobre la compra de tierras por extranjeros",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/30/choque-entre-un-auto-y-una-moto-en-el-norte-de-la-ciudad/",
+    "title": "Choque entre un auto y una moto en el norte de la ciudad",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/30/el-registro-de-una-camara-permitio-esclarecer-el-robo-de-dos-ruedas-en-santa-rosa/",
+    "title": "El registro de una cámara permitió esclarecer el robo de dos ruedas en Santa Rosa",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/30/el-sitraj-advierte-sobre-la-critica-situacion-laboral-en-las-defensorias/",
+    "title": "El SiTraJ advierte sobre la crítica situación laboral en las Defensorías",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/30/el-tdec-profundizo-conocimientos-para-auditar-la-actividad-de-pampetrol/",
+    "title": "El TdeC profundizó conocimientos para auditar la actividad de Pampetrol",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/30/el-vaticano-declaro-culpable-al-sacerdote-argentino-carlos-miguel-buela-por-abusos/",
+    "title": "El Vaticano declaró culpable al sacerdote argentino Carlos Miguel Buela por abusos",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/30/la-inversion-real-cayo-54-en-agosto/",
+    "title": "La inversión real cayó 5,4% en agosto",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/30/se-registraron-mas-de-990-mil-casos-de-enfermedad-tipo-influenza-en-2026/",
+    "title": "Se registraron más de 990 mil casos de enfermedad tipo influenza en 2026",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/30/un-vuelo-con-destino-a-israel-emitio-una-senal-de-emergencia-y-aterrizo-en-arabia-saudita/",
+    "title": "Un vuelo con destino a Israel emitió una señal de emergencia y aterrizó en Arabia Saudita",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/30/defensor-del-pueblo-el-conaduv-presento-una-denuncia-penal-contra-comision-integrada-por-legisladores-pampeanos/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/30/docentes-de-la-unlpam-paran-por-72-horas-en-reclamo-de-una-actualizacion-salarial/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/30/endeudamiento-familiar-buscamos-una-solucion-para-mas-de-6-millones-de-personas/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/30/familias-santarrosenas-reclamaron-viviendas-sociales-en-el-ipav/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/30/fuerza-pampa-continua-pasando-la-ambulancia-por-los-pueblos/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/30/grupo-unido-de-arqueros-cosecho-15-podios-en-el-torneo-aire-libre-de-toay/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/30/robaron-dos-ruedas-de-un-auto-las-vendieron-en-una-gomeria-y-la-policia-las-recupero/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/30/sorpresa-en-los-sueldos-estatales-descuentos-de-hasta-30-mil-por-la-cuota-solidaria/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/30/un-avion-de-flydubai-aterrizo-de-emergencia-luego-de-una-pelea-entre-los-pilotos-israel-habla-de-ataque-terrorista/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/deportes/2026/9/30/la-seleccion-argentina-se-enfrenta-con-bolivia-117317.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/30/sin-recursos-no-hay-acceso-a-la-justicia-defensores-publicos-apoyan-el-reclamo-de-sitraj-en-la-pampa-117315.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/mundo/2026/9/30/avalancha-en-el-chalten-murio-una-turista-francesa-de-29-anos-tras-quedar-atrapada-117314.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/mundo/2026/9/30/el-vaticano-declaro-culpable-al-sacerdote-argentino-carlos-miguel-buela-por-abusos-117316.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/30/crecimiento-sin-empleo-8-de-los-10-sectores-de-mayor-expansion-en-la-era-milei-perdieron-puestos-lab-117318.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/opinion/2026/9/30/bensusan-cuestiono-el-fallo-sobre-tierras-a-extranjeros-una-senal-de-alerta-para-nuestra-soberania-117328.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/30/historico-tras-20-anos-japon-vuelve-a-comprar-carne-argentina-de-todo-el-pais-y-no-solo-de-la-patago-117327.html",
     "title": null,
     "attempts": 0
   }
