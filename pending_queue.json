@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80086/ziliotto-por-el-reves-con-los-nihuiles--no-nos-quedaremos-quietos",
     "title": "Ziliotto, por el rev&eacute;s con Los Nihuiles: \"&iexcl;No nos quedaremos quietos!\"",
-    "attempts": 5
+    "attempts": 6
   },
   {
     "site": "El Diario de La Pampa",
@@ -24080,6 +24080,366 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/30/historico-tras-20-anos-japon-vuelve-a-comprar-carne-argentina-de-todo-el-pais-y-no-solo-de-la-patago-117327.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82850",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82852",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/30/con-el-agua-es-una-batalla-permanente-gabba-detallo-la-obra-de-desagues-del-oeste-por-27-000-millones/",
+    "title": "«Con el agua es una batalla permanente»: Gabba detalló la obra de desagües del oeste piquense por 27.000 millones",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/30/controles-a-pampetrol-personal-del-tribunal-de-cuentas-se-capacito-sobre-actividad-hidrocarburifera/",
+    "title": "Controles a Pampetrol: personal del Tribunal de Cuentas se capacitó sobre actividad hidrocarburífera",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/30/el-museo-provincial-de-historia-natural-renueva-sus-horarios-de-atencion-a-partir-de-octubre/",
+    "title": "El Museo Provincial de Historia Natural renueva sus horarios de atención a partir de octubre",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/30/general-pico-brindaran-un-seminario-intensivo-y-gratuito-de-teatro-en-medano/",
+    "title": "General Pico: brindarán un seminario intensivo y gratuito de teatro en MEDANO",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/30/general-pico-prepara-una-nueva-edicion-de-rumbo-al-secu-para-orientar-el-ingreso-a-la-secundaria/",
+    "title": "General Pico prepara una nueva edición de “Rumbo al Secu” para orientar el ingreso a la secundaria",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/30/intendente-alvear-celebro-el-cierre-del-festival-primavera-con-desfile-de-carrozas-y-diversas-actividades/",
+    "title": "Intendente Alvear celebró el cierre del Festival Primavera con desfile de carrozas y diversas actividades",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/30/sitraj-advirtio-sobre-la-critica-situacion-laboral-en-las-defensorias-de-la-pampa/",
+    "title": "SiTraJ advirtió sobre la crítica situación laboral en las Defensorías de La Pampa",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/09/30/tragedia-en-algarrobo-del-aguila-confirman-la-condena-al-conductor-que-manejaba-a-casi-130-km-h-y-mato-a-un-automovilista/",
+    "title": "Tragedia en Algarrobo del Águila: Confirman la condena al conductor que manejaba a casi 130 km/h y mató a un automovilista",
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/america/vota-brasil-lula-da-silva-y-bolsonaro-pelean-un-5-enjabonado-n5426998",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/futbol-y-politica/santa-fe-la-represion-policial-newells-tensa-el-vinculo-la-dirigencia-rojinegra-el-gobierno-n5426995",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/municipios/jorge-ferraresi-cristina-eligio-no-conducirme-yo-no-elegi-que-ella-no-me-conduzca-n5426992",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/axel-kicillof-califico-infamia-el-fallo-la-corte-la-ley-tierras-n5426993",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/consejo-la-magistratura-el-alfil-llaryora-sale-la-caza-del-voto-la-abogacia-las-provincias-n5426991",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/elecciones-el-consejo-la-magistratura-rios-quienes-entran-quienes-salen-y-las-peleas-abiertas-n5426996",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/schmuck-arma-su-hoja-ruta-pelear-la-intendencia-rosario-pero-descarta-una-interna-javkin-n5426984",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/sociedad/fundacion-rosa-luxemburgo-lanzo-su-plataforma-global-espanol-el-mundo-hispanohablante-n5426999",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/culturales/80989/la-h-no-murio-en-santa-rosa--una-cita-con-la-historia-del-metal-pesado-argentino",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80990/primavera-sin-estrellas-amarillas-en-toay",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80991/este-parque-es-sonado--la-sorpresa-de-una-turista-en-santa-rosa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80992/hicieron-112-tramites-de-dni-en-forma-gratuita",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80993/la-pampa-celebra-el-mes-de-las-aves",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80994/-la-justicia-volvio-a-intimar-al-gobierno-por-el-financiamiento-universitario",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80995/santa-rosa--fue-sede-del-campamento-coyaique-2026-con-scouts-de-toda-la-provincia",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80996/familias-volvieron-a-protestar-frente-al-ipav-con-quema-de-gomas",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80997/la-pampa-produce-pero-transforma-poco",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80998/tiene-una-discapacidad-revirtieron-una-condena-y-le-explicaron-la-sentencia",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/30/amplian-la-licencia-profilactica-en-salud-publica/",
+    "title": "Amplían la licencia profiláctica en salud pública",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/30/bebe-de-rancul-la-comision-suma-testimonios-y-aclara-que-no-revisara-la-adopcion/",
+    "title": "Bebé de Rancul: La Comisión suma testimonios y aclara que no revisará la adopción",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/30/dos-juezas-le-explicaron-con-palabras-simples-a-una-persona-con-discapacidad-que-dijeron-en-una-sentencia/",
+    "title": "Dos juezas le explicaron con palabras simples, a una persona con discapacidad, qué dijeron en una sentencia",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/30/el-veterano-owen-crippa-brindo-una-charla-sobre-malvinas-en-el-centro-municipal-de-cultura/",
+    "title": "El veterano Owen Crippa brindó una charla sobre Malvinas en el Centro Municipal de Cultura",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/30/ffaa-obra-social-en-crisis-y-amenaza-de-despido-a-600-trabajadores/",
+    "title": "FFAA: obra social en crisis y amenaza de despido a 600 trabajadores",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/30/inauguran-muestra-sobre-lomazzi-di-nardo-y-olivo-en-el-cmc/",
+    "title": "Inauguran muestra sobre Lomazzi, Di Nardo y Olivo en el CMC",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/30/la-jueza-de-paz-de-lonquimay-se-jubilo-y-a-su-despedida-asistieron-feito-y-rogers/",
+    "title": "La jueza de Paz de Lonquimay se jubiló y a su despedida asistieron Feito y Rogers",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/30/reclamo-de-viviendas-en-el-ipav/",
+    "title": "Reclamo de viviendas en el IPAV",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/30/japon-habilito-el-ingreso-de-carne-vacuna-de-toda-la-argentina-tiene-que-ser-competitivamente-posible-advirtio-forte/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/09/30/quince-renault-12-llegaran-a-santa-rosa-y-habra-una-muestra-en-la-plaza/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31749-la-corte-le-da-una-mano-al-gobierno-en-su-intento-de-extranjerizar-las-tierras",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31750-milei-invita-a-inversores-a-llenarse-los-bolsillos-en-la-argentina",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31751-paro-en-las-universidades-por-el-incumplimiento-de-la-ley-de-financiamiento",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31752-la-inteligencia-artificial-debe-estar-al-servicio-de-las-personas",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31753-la-inteligencia-artificial-exige-una-mirada-critica-y-un-uso-responsable",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31754-defensorias-el-sitraj-denuncia-abandono-y-exige-medidas-urgentes",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31755-prorrogaron-la-exencion-del-pago-de-viviendas-del-ipav-para-jubilados-y-pensionados",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31756-cada-vez-mas-familias-tienen-dificultades-para-pagar-las-cuotas-de-viviendas-del-ipav",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31757-la-ia-es-una-cuestion-social",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31758-citia-abrio-seis-becas-para-un-posgrado-en-nanotecnologia",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31759-todo-se-ha-cortado-la-falta-de-fondos-nacionales-golpea-a-la-ciencia-pampeana",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31760-el-proyecto-de-canamo-industrial-sigue-frenado-en-la-pampa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31761-familias-reclaman-viviendas-y-piden-revisar-los-sorteos-del-ipav",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31762-salud-prepara-a-sus-equipos-ante-posibles-inundaciones-y-tormentas",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31763-huerteros-del-nuevo-salitral-conocieron-experiencias-agroecologicas-de-la-utt",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/30/maria-eugenia-forte-ucr-vamos-a-hacer-un-pedido-de-informe-sobre-el-transito-en-el-rucci-los-vecinos-117333.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/municipales/2026/9/30/desde-este-1-de-octubre-regira-un-nuevo-horario-de-estacionamiento-medido-117330.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/9/30/las-camaras-los-delataron-cayo-una-pareja-con-antencendentes-que-robaba-herramientas-en-obras-en-con-117320.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/9/30/robaron-dos-ruedas-de-un-volkswagen-gol-las-vendieron-en-una-gomeria-y-la-policia-las-recupero-117319.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/9/30/robo-de-los-250-mil-dolares-apelamos-ante-el-tip-el-viernes-es-la-audiencia-y-tenemos-fe-en-que-clau-117334.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/30/controles-a-pampetrol-capacitacion-sobre-actividad-hidrocarburifera-en-el-tribunal-de-cuentas-117323.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/30/sitraj-alerta-por-el-colapso-de-las-defensorias-y-exige-mas-personal-117329.html",
     "title": null,
     "attempts": 0
   }
