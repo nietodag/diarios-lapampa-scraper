@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80086/ziliotto-por-el-reves-con-los-nihuiles--no-nos-quedaremos-quietos",
     "title": "Ziliotto, por el rev&eacute;s con Los Nihuiles: \"&iexcl;No nos quedaremos quietos!\"",
-    "attempts": 10
+    "attempts": 11
   },
   {
     "site": "El Diario de La Pampa",
@@ -25448,6 +25448,222 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/10/1/el-concejo-deliberante-de-santa-rosa-realizo-el-reconocimiento-a-quienes-asistieron-tras-el-temporal-117366.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82842",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82861",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82862",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82863",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/01/adolfo-van-praet-presento-los-festejos-por-su-123o-aniversario-desfile-homenajes-y-cena-popular/",
+    "title": "Adolfo Van Praet presentó los festejos por su 123º aniversario: desfile, homenajes y cena popular",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/01/el-concejo-deliberante-de-general-pico-concreto-su-decimosexta-sesion-ordinaria/",
+    "title": "El Concejo Deliberante de General Pico concretó su decimosexta sesión ordinaria",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/01/el-ente-de-politicas-socializadoras-coordino-acciones-interpoderes-para-la-reinsercion-penal/",
+    "title": "El Ente de Políticas Socializadoras coordinó acciones interpoderes para la reinserción penal",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/01/no-hay-que-poner-el-caballo-delante-del-carro-oscar-alpa-se-sumo-a-fuerza-pampa-y-esquivo-las-candidaturas/",
+    "title": "«No hay que poner el caballo delante del carro»: Óscar Alpa se sumó a Fuerza Pampa y esquivó las candidaturas",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/01/sobreviviente-de-los-andes-en-la-pampa-nace-la-fundacion-de-apoyo-a-agronomia-con-una-charla-de-carlitos-paez/",
+    "title": "Sobreviviente de los Andes en La Pampa: Nace la fundación de apoyo a Agronomía con una charla de Carlitos Páez",
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/america/vota-brasil-la-campana-es-un-carnaval-n5427033",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/argentina-week-rolando-figueroa-se-llevo-un-elogio-su-defensa-los-recursos-neuquen-n5427039",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/de-parado-milei-recibio-los-gobernadores-que-aportan-gobernabilidad-y-son-clave-2027-n5427037",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/efecto-marcos-juarez-el-envion-font-el-pj-va-los-municipios-opositores-del-sudeste-cordoba-n5427034",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/encuesta-el-83-cree-que-lo-peor-la-crisis-economica-esta-venir-n5427023",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/maximo-kirchner-recorrio-san-juan-junto-sergio-unac-dialogo-productores-y-apoyo-kirchnerista-n5427044",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/01/di-napoli-invito-a-visitar-la-exposicion-rural/",
+    "title": "Di Nápoli invitó a visitar la exposición Rural",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/01/extranjerizacion-de-tierras-la-unlpam-rechazo-el-fallo-de-la-corte-suprema/",
+    "title": "Extranjerización de tierras: la UNLPam rechazó el fallo de la Corte Suprema",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/01/funes-afirmo-que-el-municipio-aun-tiene-mucho-por-hacer-para-generar-empleo/",
+    "title": "Funes afirmó que “el municipio aún tiene mucho por hacer para generar empleo”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/01/la-baja-de-la-edad-de-punibilidad-un-tema-que-interesa-en-las-escuelas/",
+    "title": "La baja de la edad de punibilidad, un tema que interesa en las escuelas",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/01/la-cpe-se-suma-a-la-exposicion-agricola-ganadera-y-a-la-feria-del-libro/",
+    "title": "La CPE se suma a la Exposición Agrícola Ganadera y a la Feria del Libro",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/01/milei-fue-recibido-por-macron-en-el-palacio-del-eliseo/",
+    "title": "Milei fue recibido por Macron en el Palacio del Elíseo",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/01/multas-de-transito-como-pagar-online-con-50-de-descuento-en-la-web-municipal/",
+    "title": "Multas de Tránsito: cómo pagar online con 50% de descuento en la web municipal",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/01/octubre-en-el-teatro-attp-una-programacion-que-reune-teatro-danza-memoria-humor-y-nuevas-miradas-sobre-la-escena/",
+    "title": "Octubre en el Teatro ATTP: una programación que reúne teatro, danza, memoria, humor y nuevas miradas sobre la escena",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/01/la-cpe-tendra-una-destacada-presencia-en-la-expo-rural-de-santa-rosa-y-en-la-feria-del-libro/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/01/multas-de-transito-en-santa-rosa-como-pagar-online-con-50-de-descuento-en-la-web-municipal/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/01/ruben-funes-recorrio-el-parque-industrial-y-propuso-subsidiar-el-primer-empleo-en-santa-rosa/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31780-cannabis-oliveto-lamento-y-cuestiono-la-falta-de-regulacion-en-la-pampa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31781-las-dificultades-para-acceder-a-cannabis-medicinal-seguro",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/espectaculos/2026/10/1/dolor-en-el-folklore-pampeano-por-la-muerte-de-la-cantora-maria-ines-sosa-117382.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/espectaculos/2026/10/1/la-milonga-llega-a-el-viejo-galpon-con-una-noche-de-tango-danza-y-musica-en-vivo-117368.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/10/1/alerta-amarilla-por-tormentas-fuertes-para-este-viernes-en-toda-la-pampa-117378.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/10/1/gran-sorteo-de-tuccsol-comprando-25000-o-mas-participas-por-1-orden-de-250000-5-de-100000-y-10-de-50-117383.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/10/1/encuesta-nacional-para-2027-que-paso-cuando-midieron-a-milei-frente-a-kicillof-y-massa-117373.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/10/1/lo-crie-desde-un-huevo-y-me-lo-mataron-dolor-e-indignacion-por-la-muerte-de-un-nandu-117371.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/10/1/milei-si-el-gobierno-es-reelecto-2028-va-a-ser-el-mejor-ano-de-nuestra-historia-117374.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/10/1/sergio-iraeta-visitara-la-pampa-y-participara-de-la-escuela-de-formacion-politica-117367.html",
     "title": null,
     "attempts": 0
   }
