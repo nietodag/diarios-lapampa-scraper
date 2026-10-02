@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80086/ziliotto-por-el-reves-con-los-nihuiles--no-nos-quedaremos-quietos",
     "title": "Ziliotto, por el rev&eacute;s con Los Nihuiles: \"&iexcl;No nos quedaremos quietos!\"",
-    "attempts": 15
+    "attempts": 16
   },
   {
     "site": "El Diario de La Pampa",
@@ -26762,6 +26762,294 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/salud/2026/10/2/finalmente-los-padres-de-roman-lograron-reunir-el-dinero-y-en-noviembre-comienza-su-tratamiento-vide-117409.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/02/entregaron-ocho-viviendas-del-plan-mi-casa-3-en-parera-con-una-inversion-superior-a-los-600-millones-de-pesos/",
+    "title": "Entregaron ocho viviendas del Plan Mi Casa 3 en Parera con una inversión superior a los 600 millones de pesos",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/02/general-pico-difundio-el-cronograma-de-residuos-especiales-para-las-zonas-1-y-2/",
+    "title": "General Pico difundió el cronograma de residuos especiales para las zonas 1 y 2",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/02/horror-en-familia-confirman-la-responsabilidad-penal-de-un-joven-por-abusar-de-su-sobrina-de-6-anos/",
+    "title": "Horror en familia: confirman la responsabilidad penal de un joven por abusar de su sobrina de 6 años",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/02/la-junta-municipal-de-defensa-civil-realizo-una-simulacion-para-fortalecer-la-prevencion-ante-lluvias-intensas/",
+    "title": "La Junta Municipal de Defensa Civil realizó una simulación para fortalecer la prevención ante lluvias intensas",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/02/utelpa-realizara-en-general-pico-una-jornada-de-capacitacion-docente-sobre-inteligencia-artificial/",
+    "title": "UTELPa realizará en General Pico una jornada de capacitación docente sobre inteligencia artificial",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/audio/leonardo-santesteban-en-el-aire-de-la-manana-del-02-10-202610213100",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/cayeron-los-patentamientos-de-autos-y-sumaron-su-sexta-baja-consecutiva-202610214590",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/el-riesgo-pais-alcanzo-los-650-puntos-y-trepo-al-valor-mas-alto-del-ano-202610212540",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/murio-a-los-76-anos-ricardo-soule-202610214200",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/25-de-mayo-se-rompio-una-bomba-de-agua-y-el-concejo-autorizo-la-reparacion-202610215140",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/avanzan-los-trabajos-para-mejorar-el-escurrimiento-del-rio-v-202610214160",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/se-altero-amenazo-a-otro-hombre-y-lo-detuvieron-202610213380",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/vacunaron-a-mas-de-400-mascotas-contra-la-rabia-en-santa-rosa-202610216510",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/enamoran-sus-ollas-naturales-y-senderos-del-oasis-escondido-entre-sierras-202610212520",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/un-grupo-de-estudiantes-crearon-un-chatbot-para-detectar-ciberestafas-202610213460",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/un-pueblo-de-200-habitantes-y-una-estacion-de-tren-convertida-en-museo-20261021520",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/congreso/la-libertad-avanza-y-un-aliado-bullrich-provincias-unidas-piden-echar-grabois-pero-no-tienen-los-votos-n5427072",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/conurbano/legislatura-bonaerense-avanzan-los-proyectos-salud-axel-kicillof-pero-enfrentan-la-prueba-del-recinto-n5427086",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/municipios/buenos-aires-dos-intendentes-se-suman-la-propuesta-de-la-torre-federalizar-el-conurbano-n5427085",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/cordoba-gvozdenovich-deja-la-conduccion-del-bloque-la-ucr-y-suenan-tres-nombres-la-legislatura-n5427078",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-alfil-milei-jugar-santa-fe-quiere-que-la-provincia-sea-la-dubai-sudamerica-n5427069",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-debate-la-basura-rio-negro-se-metio-lleno-la-agenda-electoral-bariloche-n5427058",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/lujan-leonardo-boto-espera-que-caiga-la-ley-reelecciones-ir-otro-mandato-pero-asoman-sucesores-n5427045",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/presupuesto-2027-la-ciudad-buenos-aires-necesita-despegarse-del-modelo-nacional-n5427074",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/santa-fe-la-ucr-puntea-una-lista-propia-diputados-y-anticipa-una-interna-el-socialismo-n5427071",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/81126/por-un-cambio-de-motor-colapinto-tendra-una-nueva-penalizacion",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/81128/el-plantel-de-burkina-faso-esta-varado-en-marruecos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/espectaculos/81125/murio-ricardo-soule-fundador-de-vox-dei-y-figura-del-rock-nacional",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/81129/estrellas-amarillas-expuso-ante-defensores-del-pueblo-de-todo-el-pais-sobre-la-seguridad-vial",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/81130/santa-rosa-vacuno-a-409-animales-en-el-dia-mundial-de-la-lucha-contra-la-rabia",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/81131/el-mercado-municipal-abre-el-sabado-con-ofertas-y-promociones",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/81122/milei-cerro-su-gira-en-francia--argentina-se-dirige-nuevamente-a-paso-firme-hacia-el-futuro",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/81123/caputo-pidio-confianza-y-atribuyo-la-suba-del-riesgo-pais-al-temor-a-volver-al-infierno",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/81124/vacunatorio-vip--declara-la-primera-de-las-citadas-por-las-irregularidades-en-las-vacunas",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/81127/crisis--el-consumo-de-pollo-supero-al-de-carne-vacuna-por-primera-vez-en-la-historia",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/02/diputados-presentan-un-pedido-de-cautelar-para-limitar-ventas-de-tierras-a-extranjeros/",
+    "title": "Diputados presentan un pedido de cautelar para limitar ventas de tierras a extranjeros",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/02/este-domingo-corte-de-luz-en-lonquimay/",
+    "title": "Este domingo corte de luz en Lonquimay",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/02/murio-ricardo-soule-fundador-de-vox-dei-y-figura-historica-del-rock-nacional/",
+    "title": "Murió Ricardo Soulé, fundador de Vox Dei y figura histórica del rock nacional",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/02/se-publican-los-listados-provisorios-de-orden-de-merito-para-el-ciclo-lectivo-2027/",
+    "title": "Se publican los listados provisorios de orden de mérito para el ciclo lectivo 2027",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/02/vacunaron-a-mas-de-400-mascotas-contra-la-rabia/",
+    "title": "Vacunaron a más de 400 mascotas contra la rabia",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/02/milei-cerro-su-gira-en-francia-argentina-se-dirige-nuevamente-a-paso-firme-hacia-el-futuro/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31793-agenda-cultural-kermesera24",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/espectaculos/2026/10/2/murio-ricardo-soule-el-lider-de-vox-dei-y-una-leyenda-del-rock-argentino-creador-de-presente-y-la-bi-117419.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/10/2/alerta-por-tormentas-en-toda-la-pampa-el-smn-advierte-por-lluvias-intensas-granizo-y-fuertes-vientos-117422.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/10/2/este-domingo-llega-la-feria-de-emprendedores-de-la-asociacion-espanola-hay-una-gran-variedad-de-prod-117417.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/10/2/fepico-una-feria-para-recorrer-y-capacitarse-a-pocos-dias-de-abrir-sus-puertas-117414.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/10/2/brenda-es-de-caleufu-es-ciega-busca-trabajo-y-pide-ayuda-para-sostener-a-su-hija-de-8-anos-cobro-250-117418.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/salud/2026/10/2/alejandro-de-remar-la-adiccion-a-las-drogas-es-esclavitud-es-estar-preso-para-salir-adelante-esta-je-117416.html",
     "title": null,
     "attempts": 0
   }
