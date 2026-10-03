@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80086/ziliotto-por-el-reves-con-los-nihuiles--no-nos-quedaremos-quietos",
     "title": "Ziliotto, por el rev&eacute;s con Los Nihuiles: \"&iexcl;No nos quedaremos quietos!\"",
-    "attempts": 17
+    "attempts": 18
   },
   {
     "site": "El Diario de La Pampa",
@@ -27434,6 +27434,60 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/10/2/la-pampa-registro-1842-transferencias-de-usados-en-septiembre-y-el-mercado-repunto-117407.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82884",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/02/con-mas-de-60-libros-y-un-espacio-de-accesibilidad-se-viene-la-feria-provincial-del-libro-en-el-medasur/",
+    "title": "Con más de 60 libros y un espacio de accesibilidad, se viene la Feria Provincial del Libro en el MEDASUR",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/02/realizaron-un-acto-en-homenaje-a-adolfo-philippeaux-a-22-anos-de-su-fallecimiento-en-general-pico/",
+    "title": "Realizaron un acto en homenaje a Adolfo Philippeaux a 22 años de su fallecimiento en General Pico",
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/81140/independiente-fue-goleado-por-instituto",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/81138/inauguraron-el-circuitoturistico-minero-san-maximola-amarga",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/02/en-la-pampa-se-inauguro-el-septimo-circuito-turistico-minero-en-el-centro-del-pais/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/10/2/el-riesgo-pais-continua-la-escalada-y-trepa-al-valor-mas-alto-del-ano-117427.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/10/2/malvinas-analizan-nuevas-restricciones-para-el-ingreso-de-argentinos-al-archipielago-117425.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/10/2/la-pampa-y-buenos-aires-ampliaron-la-capacidad-de-escurrimiento-en-el-rio-v-117432.html",
     "title": null,
     "attempts": 0
   }
