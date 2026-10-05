@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80403/el-peronismo-pampeano-realizo-su-cuarto-encuentro-territorial-en-intendente-alvear",
     "title": "El peronismo pampeano realiz&oacute; su cuarto encuentro territorial en Intendente Alvear",
-    "attempts": 11
+    "attempts": 12
   },
   {
     "site": "El Diario de La Pampa",
@@ -20630,6 +20630,258 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/10/5/mas-de-la-mitad-de-los-trabajadores-argentinos-cobra-menos-de-1-millon-por-mes-117497.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82897",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82899",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82911",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/05/con-mas-de-250-participantes-en-santa-rosa-identidad-peronista-llevo-a-cabo-su-encuentro-provincial-de-mujeres/",
+    "title": "Con más de 250 participantes en Santa Rosa, Identidad Peronista llevó a cabo su Encuentro Provincial de Mujeres",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/05/horoscopo-de-hoy-lunes-5-de-octubre/",
+    "title": "Horóscopo de hoy, lunes 5 de octubre",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/05/la-reforma-fue-sede-de-una-nueva-edicion-del-desafio-4-rios-con-foco-en-el-deporte-y-los-recursos-hidricos/",
+    "title": "La Reforma fue sede de una nueva edición del desafío “4 Ríos” con foco en el deporte y los recursos hídricos",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/05/miedo-a-perder-el-empleo-y-sobreinformacion-la-unlpam-asume-la-tarea-de-hacer-circular-conocimiento-confiable/",
+    "title": "Miedo a perder el empleo y sobreinformación: la UNLPam asume la tarea de hacer circular «conocimiento confiable»",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/05/salud-publica-consolidan-el-laboratorio-de-protesis-dentales-en-general-pico/",
+    "title": "Salud pública: consolidan el Laboratorio de Prótesis Dentales en General Pico",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/05/un-joven-motociclista-fue-asistido-tras-chocar-con-un-auto-que-se-dio-a-la-fuga/",
+    "title": "Un joven motociclista fue asistido tras chocar con un auto que se dio a la fuga",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/termina-hoy-la-fecha-11-del-clausura-los-partidos-y-televisacion-20261058190",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/sanchez-adelanto-las-elecciones-presidenciales-en-espana-20261059160",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/un-incendio-se-registro-en-un-taller-el-fuego-se-origino-en-un-auto-y-se-propago-por-el-techo-del-galpon-20261058320",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/anses-cuando-inician-los-pagos-para-jubilados-auh-y-asignaciones-20261058400",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/el-pronostico-del-tiempo-para-hoy-en-santa-rosa-20261057210",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/pronostican-alerta-meteorologica-por-tormentas-fuertes-20261058100",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/81206/santa-rosa-lucho-y-festejo-en-casa-",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/entre-pocillos/81217/los-chicos-del-17",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/81215/nacion-giro-10000-millones-a-la-pampa-en-septiembre-pero-el-85-en-porciento--fue-por-deuda-previsional-y-un-at",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/81218/vialidad-provincial-quiso-cobrar-una-multa-de-64-millones-pero-estaba-prescripta",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/81219/cambio-a-su-hija-de-escuela-y-la-alejo-de-su-madre-y-hermanos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/81220/pronostican-lluvias-y-tormentas-hasta-el-jueves",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/81221/camara-gesell--el-stj-declaro-la-validez-de-una-declaracion-espontanea-",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/81222/incendiaron-una-vivienda-en-represalia-por-un-apunalado-en-el-centro",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/81223/pelea-entre-trapitos-termino-con-un-detenido-por-robo-de-cables",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/opinion/81216/una-vieja-costumbre-vigente-y-la-ausencia-de-una-decision-politica",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/05/buena-actuacion-santarrosena-en-el-torneo-de-ajedrez-de-salliquelo/",
+    "title": "Buena actuación santarroseña en el Torneo de Ajedrez de Salliqueló",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/05/el-capitan-de-benin-acuso-a-los-futbolistas-sudamericanos-de-provocadores/",
+    "title": "El capitán de Benín acusó a los futbolistas sudamericanos de “provocadores”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/05/incendio-en-una-vivienda-una-joven-fue-trasladada-al-hospital-y-otra-fue-demorada/",
+    "title": "Incendio en una vivienda: una joven fue demorada y sospechan que fue intencional",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/05/la-derogacion-del-dnu-70-reabre-el-debate-reviven-las-leyes-que-derogo-milei/",
+    "title": "La derogación del DNU 70 reabre el debate: ¿reviven las leyes que derogó Milei?",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/05/las-cta-se-movilizan-contra-el-fallo-de-la-corte-por-la-ley-de-tierras/",
+    "title": "Las CTA se movilizan contra el fallo de la Corte por la ley de Tierras",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/05/milei-saludo-a-bolsonaro-felicitaciones-querido-amigo-por-esta-historica-eleccion-ante-el-comunista-de-lula/",
+    "title": "Milei saludó a Bolsonaro: “Felicitaciones, querido amigo, por esta histórica elección ante el comunista de Lula”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/05/pedro-sanchez-convoco-a-elecciones-anticipadas-para-noviembre/",
+    "title": "Pedro Sánchez convocó a elecciones anticipadas para noviembre",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/05/pelea-entre-lavacoches-termino-con-un-detenido-por-el-robo-de-cables/",
+    "title": "Pelea entre lavacoches terminó con un detenido por el robo de cables",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/05/salio-de-garantia-en-la-cpe-y-tiene-que-pagar-35-millones-sortea-su-propia-moto/",
+    "title": "Salió de garantía en la CPE y tiene que pagar $3,5 millones: sortea su propia moto",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/05/la-pampa-construccion-industria-comercio-y-servicios-expulsan-mano-de-obra-y-crece-la-necesidad-de-tener-un-segundo-trabajo/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/05/lo-demoraron-por-romper-un-gabinete-de-la-cpe-y-robar-cables/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/05/quedo-grabada-en-las-camaras-una-joven-demorada-por-incendiar-una-casa-en-santa-rosa/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/05/suicidio-y-consumos-problematicos-en-adolescentes-hay-un-lazo-social-que-se-esta-debilitando/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/10/5/bajo-la-lluvia-choque-fuga-y-un-joven-asistido-por-el-sem-por-traumatismo-de-craneo-117509.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/10/5/dos-jovenes-murieron-en-distintos-siniestros-sobre-las-rutas-7-y-188-117510.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/10/5/alerta-meteorologica-tormentas-severas-lluvias-y-nevadas-afectan-a-la-pampa-san-luis-mendoza-y-neuqu-117511.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/salud/2026/10/5/laboratorio-de-protesis-dentales-en-general-pico-para-ampliar-el-acceso-a-la-salud-bucal-117507.html",
     "title": null,
     "attempts": 0
   }
