@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80403/el-peronismo-pampeano-realizo-su-cuarto-encuentro-territorial-en-intendente-alvear",
     "title": "El peronismo pampeano realiz&oacute; su cuarto encuentro territorial en Intendente Alvear",
-    "attempts": 15
+    "attempts": 16
   },
   {
     "site": "El Diario de La Pampa",
@@ -21572,6 +21572,258 @@
   {
     "site": "En Boca de Todos HD",
     "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/10/6/la-justicia-dispuso-avanzar-con-una-demanda-de-alimentos-contra-una-abuela-117490.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82923",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82927",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82929",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82931",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/06/educacion-y-salud-cerraron-la-capacitacion-en-salud-mental-para-los-equipos-de-apoyo-a-la-inclusion/",
+    "title": "Educación y Salud cerraron la capacitación en salud mental para los Equipos de Apoyo a la Inclusión",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/06/el-ultimo-baile-lionel-messi-se-despide-de-la-seleccion-argentina-ante-benin-en-el-monumental/",
+    "title": "El último baile: Lionel Messi se despide de la Selección Argentina ante Benín en el Monumental",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/06/general-pico-entregaron-certificados-a-jovenes-que-participaron-del-programa-mision-clima/",
+    "title": "General Pico: entregaron certificados a jóvenes que participaron del programa Misión Clima",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/06/horoscopo-de-hoy-martes-6-de-octubre/",
+    "title": "Horóscopo de hoy, martes 6 de octubre",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/06/incendio-de-un-auto-en-un-complejo-de-departamentos-corrio-bastante-peligro-toda-la-gente-que-estaba-durmiendo/",
+    "title": "Incendio de un auto en un complejo de departamentos: «Corrió bastante peligro toda la gente que estaba durmiendo»",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/06/reto-del-dia-demuestra-tu-habilidad-mental-con-este-reto-matematico-7/",
+    "title": "Reto del día: demuestra tu habilidad mental con este reto matemático",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/06/utelpa-le-llevo-al-gobernador-un-informe-por-el-fuerte-recorte-en-educacion-del-presupuesto-nacional-2027/",
+    "title": "UTELPA le llevó al gobernador un informe por el «fuerte recorte en educación» del Presupuesto nacional 2027",
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/eduardo-eurnekian-el-senor-los-aeropuertos-n5427145",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/consejo-la-magistratura-quien-es-quien-las-cuatro-listas-que-compiten-representar-los-jueces-n5427144",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/diego-santilli-le-abre-las-puertas-la-casa-rosada-pullaro-reunion-solas-la-suspension-las-paso-n5427142",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/represion-newells-pullaro-banco-la-policia-y-acordo-un-nuevo-esquema-seguridad-el-club-n5427152",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/06/caputo-y-las-elecciones-les-vamos-a-arrancar-la-cabeza-como-en-octubre-del-ano-pasado/",
+    "title": "Caputo y las elecciones: “Les vamos a arrancar la cabeza como en octubre del año pasado”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/06/economista-advierte-que-al-programa-financiero-del-gobierno-le-faltan-us23-000-millones/",
+    "title": "Economista advierte que al programa financiero del Gobierno le faltan US$23.000 millones",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/06/escolarizacion-a-los-tres-anos-el-sistema-esta-preparado-para-recibir-a-toda-la-matricula/",
+    "title": "Escolarización a los tres años: “El sistema está preparado para recibir a toda la matrícula”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/06/fabian-avendano-se-lanza-el-17-de-octubre-quiero-ser/",
+    "title": "Fabián Avendaño se lanza el 17 de octubre: “quiero ser”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/06/fuerza-mixta-campeon-en-el-torneo-de-futbol-femenino-organizado-por-la-ub-de-colonia-escalante/",
+    "title": "“Fuerza Mixta” campeón en el Torneo de Fútbol Femenino organizado por la UB de Colonia Escalante",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/06/inflacion-anticipan-que-el-ipc-volvio-a-subir-a-cerca-del-2-en-septiembre-impulsado-por-alimentos/",
+    "title": "Inflación: anticipan que el IPC volvió a subir a cerca del 2% en septiembre, impulsado por alimentos",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/06/medida-de-sturzenegger-provoco-la-rotura-de-un-puente-clave-entre-chaco-y-corrientes/",
+    "title": "Medida de Sturzenegger provocó la rotura de un puente clave entre Chaco y Corrientes",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/06/municipios-pampeanos-capitalizaron-su-paso-por-la-feria-internacional-de-turismo/",
+    "title": "Municipios pampeanos capitalizaron su paso por la Feria Internacional de Turismo",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/06/se-viene-una-noche-inolvidable-la-seleccion-argentina-enfrenta-a-benin-en-la-gran-despedida-de-lionel-messi/",
+    "title": "Se viene una noche inolvidable: la Selección argentina enfrenta a Benín en la gran despedida de Lionel Messi",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/06/villa-parque-una-nueva-jornada-comunitaria-garantizo-la-castracion-de-121-animales/",
+    "title": "Villa Parque: una nueva jornada comunitaria garantizó la castración de 121 animales",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/06/diputados-el-gobierno-pone-a-prueba-su-muneca-para-salvar-el-dnu-70-a-diez-dias-de-la-sesion-opositora/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/06/el-consultor-gustavo-cordoba-en-radio-textual-el-peronismo-solo-no-puede/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/06/extranjerizacion-de-tierras-investigador-advirtio-sobre-el-nivel-que-alcanza-en-un-departamento-de-la-pampa/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/06/fepico-una-feria-que-busca-dejar-algo-mas-que-tres-dias-de-encuentro/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/06/feuerschvenger-la-escolarizacion-temprana-garantiza-mejores-aprendizajes-y-democratiza-oportunidades/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/06/la-pampa-con-representacion-en-la-asociacion-argentina-de-medicina-del-trabajo/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/06/llueve-en-santa-rosa-y-anticipan-tormentas-fuertes-para-este-miercoles/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/06/se-viene-una-noche-inolvidable-messi-se-despide-de-la-seleccion-argentina/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/deportes/2026/10/6/estamos-muy-contentos-el-da-la-vida-por-estos-colores-la-emocion-de-la-mama-de-tomas-palacios-tras-e-117550.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/10/6/duro-golpe-matutino-perdio-el-control-de-su-rouser-200-en-el-asfalto-mojado-video-117542.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/10/6/emotivo-video-por-el-80-aniversario-del-hogar-don-bosco-detras-de-cada-residente-hay-una-vida-entera-117548.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/10/6/parque-sur-llego-a-general-pico-la-entrada-al-predio-es-gratuita-hay-mas-de-25-juegos-esta-el-famoso-117545.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/10/6/gracias-por-todo-capitan-messi-juega-su-ultimo-partido-con-argentina-117544.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/10/6/inflacion-anticipan-que-el-ipc-volvio-a-subir-a-cerca-del-2-en-septiembre-impulsado-por-alimentos-117546.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/10/6/perdio-el-control-de-su-auto-cruzo-al-carril-contrario-y-choco-de-frente-con-una-camioneta-video-117549.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/10/6/el-comercio-pampeano-cada-vez-mas-presionado-por-la-energia-y-los-alquileres-117543.html",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "En Boca de Todos HD",
+    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/10/6/un-hombre-de-25-de-mayo-volco-en-la-ruta-151-117547.html",
     "title": null,
     "attempts": 0
   }
