@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/pais/80433/el-reino-unido-ratifico-su-postura-sobre-malvinas-y-respaldo-a-empresas",
     "title": "El Reino Unido ratific&oacute; su postura sobre Malvinas y respald&oacute; a empresas",
-    "attempts": 2
+    "attempts": 3
   },
   {
     "site": "El Diario de La Pampa",
@@ -22124,6 +22124,204 @@
   {
     "site": "Radio Kermes",
     "url": "https://www.radiokermes.com/noticias/31846-ziliotto-defendio-el-rol-del-estado-y-llamo-a-la-unidad-de-los-trabajadores",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82950",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82951",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=82952",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/07/adelantados-del-torneo-provincial-victoria-de-costa-brava-en-el-nuevo-pacaembu-y-empate-de-ferro-en-castex/",
+    "title": "Adelantados del Torneo Provincial: Victoria de Costa Brava en el Nuevo Pacaembú y empate de Ferro en Castex",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/07/adios-a-piero-murio-a-los-81-anos-el-iconico-cantautor-de-la-cancion-popular/",
+    "title": "Adiós a Piero: murió a los 81 años el icónico cantautor de la canción popular",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/07/el-banco-de-la-pampa-amplio-beneficios-anuncio-creditos-hipotecarios-y-herramientas-para-pymes/",
+    "title": "El Banco de La Pampa amplió beneficios, anunció créditos hipotecarios y herramientas para pymes",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/07/el-colegio-farmaceutico-de-la-pampa-formalizo-la-creacion-del-departamento-de-farmaceuticos-hospitalarios/",
+    "title": "El Colegio Farmacéutico de La Pampa formalizó la creación del Departamento de Farmacéuticos Hospitalarios",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/07/la-pampa-sera-sede-por-primera-vez-de-una-certificacion-internacional-de-equinoterapia-y-coaching-con-caballos/",
+    "title": "La Pampa será sede por primera vez de una certificación internacional de equinoterapia y coaching con caballos",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/07/torneo-entre-amigos-goles-pasion-y-todos-los-numeros-que-dejo-la-quinta-fecha-en-general-pico/",
+    "title": "Torneo “Entre Amigos”: goles, pasión y todos los números que dejó la quinta fecha en General Pico",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/07/ziliotto-abrio-el-congreso-nacional-de-foeesitra-defendio-un-estado-eficiente-y-destaco-la-conectividad-pampeana/",
+    "title": "Ziliotto abrió el congreso nacional de FOEESITRA: defendió un “Estado eficiente” y destacó la conectividad pampeana",
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/congreso/malvinas-el-gobierno-presiona-darles-mas-poder-las-fuerzas-armadas-y-ofrece-una-bicameral-control-n5427198",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/conurbano/el-regreso-guillermo-montenegro-mar-del-plata-incomoda-la-libertad-avanza-n5427197",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/empresas-negocios/el-mercado-inmobiliario-cordoba-se-enfria-perdio-casi-4000-escrituraciones-un-ano-n5427202",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/judiciales/rosario-el-jury-gaston-salmain-entra-fase-decisiva-y-pone-juego-su-futuro-n5427199",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/opinion/tarifas-electricas-buenos-aires-discutir-el-aumento-no-es-negar-el-servicio-n5427192",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/buenos-aires-buscan-destituir-al-intendente-saavedra-quien-conto-que-es-adicto-recuperacion-n5427194",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-acuerdometro-la-casa-rosada-los-gobernadores-las-24-provincias-rojo-violeta-n5427160",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-pj-le-puso-candado-la-legislatura-cordoba-no-sesionara-que-la-radical-ferrero-pida-licencia-n5427204",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-socialismo-se-planta-defensa-las-paso-pero-pullaro-y-scaglia-desdramatizan-las-diferencias-n5427189",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/encuentro-mujeres-llaryora-la-iglesia-y-la-proxima-sede-abren-una-grieta-la-asamblea-organizadora-n5427177",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/fernando-espinoza-retuvo-la-presidencia-la-federacion-argentina-municipios-n5427191",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/javier-milei-campana-offshore-viaja-eeuu-y-espana-infulas-talisman-global-la-derecha-n5427196",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/tucuman-lisandro-catalan-rescata-un-excandidato-bullrich-pelear-la-intendencia-tafi-viejo-n5427200",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/viene-leon-xiv-mas-cinco-millones-personas-planean-asistir-la-visita-del-papa-n5427182",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/war-room-consultores-y-especialistas-se-reunen-buenos-aires-debatir-estrategias-campana-n5427185",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/07/el-canal-pensamiento-ampliara-cinco-veces-su-capacidad-para-evacuar-agua-de-lluvia/",
+    "title": "El Canal Pensamiento ampliará cinco veces su capacidad para evacuar agua de lluvia",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/07/mas-descuentos-y-nuevas-herramientas-el-blp-refuerza-sus-beneficios/",
+    "title": "Más descuentos y nuevas herramientas: El BLP refuerza sus beneficios",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/07/messi-se-despidio-de-la-seleccion-ya-extrano-vestir-la-celeste-y-blanca/",
+    "title": "Messi se despidió de la Selección: “Ya extraño vestir la celeste y blanca”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/07/reconocieron-a-dos-empleados-legislativos-por-sus-25-anos-de-servicio/",
+    "title": "Reconocieron a dos empleados legislativos por sus 25 años de servicio",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/07/di-napoli-estamos-quintuplicando-la-capacidad-del-canal-pensamiento/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/07/el-blp-volvera-a-otorgar-creditos-hipotecarios-con-fondos-de-la-anses/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/07/murio-piero-a-los-81-anos-uno-de-los-artistas-que-marco-generaciones-en-la-musica-popular/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/07/no-hay-vaca-muerta-en-la-pampa-diputados-analizan-pedir-los-estudios-geologicos-al-gobierno/",
     "title": null,
     "attempts": 0
   }
