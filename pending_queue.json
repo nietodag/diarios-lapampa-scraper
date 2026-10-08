@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/pais/80433/el-reino-unido-ratifico-su-postura-sobre-malvinas-y-respaldo-a-empresas",
     "title": "El Reino Unido ratific&oacute; su postura sobre Malvinas y respald&oacute; a empresas",
-    "attempts": 4
+    "attempts": 5
   },
   {
     "site": "El Diario de La Pampa",
@@ -22562,6 +22562,48 @@
   {
     "site": "Radio Kermes",
     "url": "https://www.radiokermes.com/noticias/31849-financiamiento-universitario-estudiantes-coparon-con-se-reclamo-la-sede-de-educacion",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/07/con-presencia-pampeana-en-la-conduccion-el-consejo-federal-de-zonas-francas-renovo-sus-autoridades/",
+    "title": "Con presencia pampeana en la conducción, el Consejo Federal de Zonas Francas renovó sus autoridades",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/07/estudiantes-agrotecnicos-de-victorica-se-capacitaron-en-buenas-practicas-laborales-y-bienestar-animal/",
+    "title": "Estudiantes agrotécnicos de Victorica se capacitaron en buenas prácticas laborales y bienestar animal",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/07/la-provincia-reactivo-los-nucleos-regionales-de-bibliotecas-populares-con-un-encuentro-en-general-san-martin/",
+    "title": "La Provincia reactivó los Núcleos Regionales de Bibliotecas Populares con un encuentro en General San Martín",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/07/presentaron-la-pena-de-la-diversidad-cultural-en-winifreda-musica-danza-y-el-sorteo-de-una-moto-0-km/",
+    "title": "Presentaron la Peña de la Diversidad Cultural en Winifreda: música, danza y el sorteo de una moto 0 km",
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/una-nube-gris-envuelve-la-argentina-preelectoral-n5427215",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/81380/una-jornada-que-termino-con-baile",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/linea-abierta/81378/mensajes-8-10-2026",
     "title": null,
     "attempts": 0
   }
