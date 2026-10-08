@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/pais/80433/el-reino-unido-ratifico-su-postura-sobre-malvinas-y-respaldo-a-empresas",
     "title": "El Reino Unido ratific&oacute; su postura sobre Malvinas y respald&oacute; a empresas",
-    "attempts": 3
+    "attempts": 4
   },
   {
     "site": "El Diario de La Pampa",
@@ -22322,6 +22322,246 @@
   {
     "site": "Diario Textual",
     "url": "https://diariotextual.com/inicio/index.php/2026/10/07/no-hay-vaca-muerta-en-la-pampa-diputados-analizan-pedir-los-estudios-geologicos-al-gobierno/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/07/abren-tres-convocatorias-publicas-nacionales-para-la-adopcion-de-ninos-en-la-pampa/",
+    "title": "Abren tres convocatorias públicas nacionales para la adopción de niños en La Pampa",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/07/casa-de-piedra-secuestraron-un-auto-con-pedido-de-captura-por-robo-calificado-en-rio-negro/",
+    "title": "Casa de Piedra: secuestraron un auto con pedido de captura por robo calificado en Río Negro",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/07/el-gobierno-provincial-incorporo-la-tarjeta-joven-a-la-plataforma-digital-cipadi/",
+    "title": "El Gobierno provincial incorporó la Tarjeta Joven a la plataforma digital CiPadi",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/07/la-unlpam-pone-sobre-la-mesa-el-uso-de-la-inteligencia-artificial-en-las-aulas-los-estudiantes-la-estan-utilizando-y-los-docentes-tambien/",
+    "title": "La UNLPam pone sobre la mesa el uso de la inteligencia artificial en las aulas: «Los estudiantes la están utilizando y los docentes también»",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/brasil-lula-llama-a-la-movilizacion-popular-de-cara-al-balotaje-202610719330",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/protesta-de-universitarios-en-el-palacio-pizzurno-no-podemos-seguir-esperando-202610718370",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/activaron-salud-en-alerta-para-enfrentar-eventos-climaticos-extremos-202610719580",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/el-blp-lanzo-creditos-hipotecarios-para-viviendas-y-promos-del-dia-de-la-madre-202610718440",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/en-castex-las-luminarias-led-permiten-ahorrar-mas-de-177-millones-al-ano-202610721120",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/ingreso-escolar-2027-confirman-fechas-y-cambios-para-inicial-primaria-y-secundaria-202610720370",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/marita-medina-presentara-su-nuevo-libro-como-si-viniera-el-rio-202610721430",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/mas-de-70-familias-de-lonquimay-recibieron-gallinas-ponedoras-20261071980",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/el-pedido-secreto-de-una-pieza-unica-para-messi-20261072050",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/emitieron-alerta-por-lluvia-tormenta-y-viento-para-la-region-202610719400",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/como-cambio-la-geografia-electoral-brasil-n5427214",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/congreso/diputados-los-bloques-aliados-exigieron-restablecer-la-ley-tierras-salvar-el-dnu-7023-n5427212",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/congreso/rebelion-patricia-bullrich-acuerdos-rechazo-un-pliego-y-demoro-la-asuncion-marquez-la-presidencia-n5427206",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/presupuesto-porteno-el-peronismo-y-lla-polarizaron-el-primer-debate-y-dejaron-al-oficialismo-segundo-plano-n5427207",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/81359/costa-brava-se-tomo-revancha-y-elimino-al-campeon",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/81375/toay-recibira-la-cuarta-fecha-del-cross",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/81376/ferro-y-cultural-argentino-en-la-liga-de-cesto",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/81360/reconocieron-a-dos-empleados-legislativos-por-sus-25-anos-de-servicio",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/81374/roban-mas-de-10-millones-en-una-distribuidora-de-alimentos-en-pico",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/81358/milei-volvera-a-viajar-a-eeuu--nuevas-senales-de-apoyo-a-trump-antes-de-las-elecciones",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/81361/estudiantes-ingresaron-al-palacio-pizzurno-en-reclamo-por-el-financiamiento-universitario",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/81373/el-gobierno-firmo-un-acuerdo-con-eeuu-y-otros-paises-para-frenar-la-produccion-excesiva",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/07/avanza-la-reforma-de-la-ordenanza-que-regula-los-taxis-en-santa-rosa/",
+    "title": "Avanza la reforma de la ordenanza que regula los taxis en Santa Rosa",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/07/camuzzi-explico-que-es-la-tasa-de-seguridad-e-higiene-que-aparece-en-las-facturas/",
+    "title": "Camuzzi explicó qué es la “Tasa de Seguridad e Higiene” que aparece en las facturas",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/07/educacion-confirmo-las-fechas-de-inscripcion-para-inicial-primaria-y-secundaria/",
+    "title": "Educación confirmó las fechas de inscripción para Inicial, Primaria y Secundaria",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/07/entregan-fondos-de-la-ley-de-descentralizacion-en-alvear/",
+    "title": "Entregan fondos de la Ley de Descentralización en Alvear",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/07/estudiantes-ingresaron-a-la-secretaria-de-educacion-y-reclamaron-la-ley-de-financiamiento-universitario/",
+    "title": "Estudiantes ingresaron a la Secretaría de Educación y reclamaron la Ley de Financiamiento Universitario",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/07/la-pampa-negocios-360-avanza-con-12-importadores-de-nueve-paises/",
+    "title": "La Pampa Negocios 360 avanza con 12 importadores de nueve países",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/07/residencias-universitarias-impulsan-que-la-unlpam-cubra-luz-gas-agua-e-internet/",
+    "title": "Residencias Universitarias: Impulsan que la UNLPam cubra luz, gas, agua e internet",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/07/la-asamblea-de-los-rios-reclama-frenar-el-dnu-70-2023-no-a-la-extranjerizacion-de-las-tierras/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/07/la-pampa-negocios-360-80-postulaciones-y-12-compradores-internacionales-confirmados/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/07/se-activo-salud-en-alerta-para-responder-a-eventos-climaticos-extremos/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31835-abrieron-leyes-para-unir",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31847-regulacion-emocional-en-las-aulas-laura-riboyra-presenta-su-libro-aula-interna",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31848-murio-piero",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31849-financiamiento-universitario-estudiantes-coparon-con-se-reclamo-la-sede-de-educacion",
     "title": null,
     "attempts": 0
   }
