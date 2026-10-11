@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/pais/80433/el-reino-unido-ratifico-su-postura-sobre-malvinas-y-respaldo-a-empresas",
     "title": "El Reino Unido ratific&oacute; su postura sobre Malvinas y respald&oacute; a empresas",
-    "attempts": 18
+    "attempts": 19
   },
   {
     "site": "El Diario de La Pampa",
@@ -25497,6 +25497,48 @@
     "site": "Radio Kermes",
     "url": "https://www.radiokermes.com/noticias/31871-sindicato-vial-provincial-competiran-dos-listas",
     "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/10/en-realico-mas-de-un-centenar-de-jovenes-disenaron-soluciones-tecnologicas-para-el-cuidado-de-la-energia/",
+    "title": "En Realicó, más de un centenar de jóvenes diseñaron soluciones tecnológicas para el cuidado de la energía",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/10/pre-federal-de-basquet-independiente-vencio-a-estudiantes-y-quedo-como-unico-lider-del-torneo/",
+    "title": "Pre Federal de básquet: Independiente venció a Estudiantes y quedó como único líder del torneo",
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-desembarco-jorge-brito-santa-fe-n5427294",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-pacto-la-ciudad-cordoba-martin-llaryora-daniel-passerini-y-la-ficha-quinteros-n5427289",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/patagonia-el-viejo-truco-votar-una-receta-que-funciona-n5427291",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/una-camarista-federal-salta-suena-como-candidata-la-corte-suprema-la-venia-gustavo-saenz-n5427070",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/10/river-gano-con-lo-justo-y-estudiantes-de-rio-cuarto-descendio-de-categoria/",
+    "title": "River ganó con lo justo y Estudiantes de Río Cuarto descendió de categoría",
     "attempts": 0
   }
 ]
