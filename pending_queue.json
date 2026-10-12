@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80452/santa-rosa-presento-su-agenda-cultural-y-recreativa-para-el-fin-de-semana",
     "title": "Santa Rosa present&oacute; su agenda cultural y recreativa para el fin de semana",
-    "attempts": 4
+    "attempts": 5
   },
   {
     "site": "El Diario de La Pampa",
@@ -26090,6 +26090,36 @@
   {
     "site": "Radio Kermes",
     "url": "https://www.radiokermes.com/noticias/31875-operan-al-papa-y-puede-estar-en-riesgo-su-visita-al-pais",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83016",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/11/la-llave-quedo-totalmente-abierta-el-analisis-tras-el-empate-de-ferro-en-pico/",
+    "title": "“La llave quedó totalmente abierta”, el análisis tras el empate de Ferro en Pico",
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/81550/tres-que-no-aflojan-en-el-pre-federal",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/81551/los-mejores-del-regional-de-cross-en-toay",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/linea-abierta/81547/mensajes-12-10-2026",
     "title": null,
     "attempts": 0
   }
