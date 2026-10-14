@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80452/santa-rosa-presento-su-agenda-cultural-y-recreativa-para-el-fin-de-semana",
     "title": "Santa Rosa present&oacute; su agenda cultural y recreativa para el fin de semana",
-    "attempts": 16
+    "attempts": 17
   },
   {
     "site": "El Diario de La Pampa",
@@ -28328,6 +28328,348 @@
   {
     "site": "Diario Textual",
     "url": "https://diariotextual.com/inicio/index.php/2026/10/14/miguel-cane-murio-una-mujer-de-65-anos-luego-de-un-choque-contra-un-arbol/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83054",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83055",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83058",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/14/brutal-castigo-en-la-pampa-golpeo-ahorco-y-encerro-a-su-hijo-por-una-nota-escolar-y-le-dieron-7-meses-en-suspenso/",
+    "title": "Brutal castigo en La Pampa: golpeó, ahorcó y encerró a su hijo por una nota escolar y le dieron 7 meses en suspenso",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/14/el-indice-de-vulnerabilidad-social-en-la-pampa-fue-del-53-impulsado-por-los-programas-alimentarios-provinciales/",
+    "title": "El Índice de Vulnerabilidad Social en La Pampa fue del 5,3% impulsado por los programas alimentarios provinciales",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/14/realico-fue-sede-internacional-de-infomatrix-y-robomatrix-con-mas-de-200-jovenes-cientificos/",
+    "title": "Realicó fue sede internacional de Infomatrix y Robomatrix con más de 200 jóvenes científicos",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/14/torneo-provincial-ferro-de-pico-vencio-a-atletico-macachin-y-se-aseguro-el-primer-puesto-de-la-zona-d/",
+    "title": "Torneo Provincial: Ferro de Pico venció a Atlético Macachín y se aseguró el primer puesto de la Zona “D”",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/noche-tranquila-y-una-recuperacion-postoperatoria-normal-para-leon-xiv-2026101418370",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/estaba-condenado-a-16-anos-por-un-homicidio-y-lo-detuvieron-por-robar-un-perfume-2026101418490",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/lla-reafirma-la-ley-de-tierras-de-cristina-kirchner-para-blindar-el-dnu-70-23-de-milei-2026101419190",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/entregaron-kits-de-semillas-a-familias-de-cuatro-localidades-2026101418250",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/se-incendio-un-auto-nuevo-dentro-de-un-garaje-202610141830",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/ziliotto-firmo-convenios-por-mas-de-971-millones-para-obras-hidricas-y-saneamiento-202610142010",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/catriel-convocan-a-comite-de-emergencias-por-crecidas-del-colorado-2026101417550",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/un-chico-de-13-anos-llevo-un-arma-en-su-mochila-a-la-escuela-202610142010",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/un-hombre-sufrio-un-accidente-en-un-buque-pesquero-y-fallecio-mientras-esperaba-el-rescate-2026101418530",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/congreso/ley-tierras-la-libertad-avanza-fijo-limites-los-extranjeros-y-le-allana-el-camino-la-corte-suprema-n5427371",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/congreso/malvinas-maria-ibarzabal-murphy-no-convencio-los-aliados-y-se-postergo-el-proyecto-javier-milei-n5427365",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/conurbano/legislatura-bonaerense-el-pro-quiere-que-bianco-vaya-al-recinto-un-informe-gestion-cada-tres-meses-n5427359",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/despues-echarla-la-quinta-olivos-el-gobierno-cobija-maria-belen-agudiez-el-correo-n5427366",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/gildo-insfran-larga-la-campana-formosa-un-videojuego-donde-pelea-contra-un-leon-motosierra-n5427370",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/javier-milei-y-axel-kicillof-cabeza-cabeza-pisos-y-techos-la-pelea-2027-n5427349",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/judiciales-chaco-piden-el-juicio-politico-tres-magistrados-quedar-afuera-un-aumento-salarial-n5427368",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/la-cgt-cambia-bombos-djs-el-17-octubre-n5427361",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/legislatura-cordoba-la-rosca-del-presupuesto-abre-una-tregua-la-guerra-electoral-el-pj-y-la-ucr-n5427369",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/luis-juez-mando-rodrigo-loredo-estacionarle-el-auto-oficial-y-se-anoto-la-gobernacion-cordoba-n5427372",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/maximiliano-pullaro-pidio-intensificar-la-gestion-santa-fe-cara-2027-es-el-momento-acelerar-n5427377",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/reglas-papa-francisco-la-iniciativa-judicial-que-nacio-los-barrios-y-suma-adhesiones-todo-el-pais-n5427373",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/81698/el-manchester-city-de-enzo-fernandez-perdio-4-2-ante-el-campeon-psg",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/81702/colapinto-pidio-frenar-los-ataques",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/81704/en-santa-rosa-le-venia-pegando-una-paliza-pero-me-confie",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/81695/santa-rosa-renovo-118-metros-de-cloacas-en-villa-del-busto",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/81696/detienen-en-toay-a-un-joven-con-antecedentes",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/81697/bensusan-se-reunio-con-el-ex-ministro-julian-dominguez",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/81705/luciano-di-napoli-se-sumo-a-los-universitarios--nos-vemos-en-la-calle",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/81699/el-gobierno-acordo-con-los-aliados-restituir-limites-a-venta-de-tierras-para-blindar-el-dnu-70",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/81706/el-tesoro-renovo-todo-los-vencimientos-y-no-solto-pesos-al-mercado",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/tecnologia/81700/juegos-legendarios-como-halo-the-simpsons-hit-amp-run-y-pes-6-ya-se-pueden-jugar-gratis-en-linea",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/tecnologia/81701/asi-funciona-la-tecnologia-del-amor-que-entre-pantallas-y-mensajes-construye-o-destruye-relaciones",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/tecnologia/81703/google-reforzo-la-deteccion-de-estafas-en-android-con-un-nuevo-modo-de-inteligencia-artificial",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/14/avanza-la-renovacion-de-autoridades-del-comite-nacional-para-la-prevencion-de-la-tortura/",
+    "title": "Avanza la renovación de autoridades del Comité Nacional para la Prevención de la Tortura",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/14/casi-59-000-empresas-tienen-problemas-para-pagar-sus-deudas-y-crece-la-morosidad/",
+    "title": "Casi 59.000 empresas tienen problemas para pagar sus deudas y crece la morosidad",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/14/colapinto-pidio-que-frenen-los-ataques-de-los-argentinos-en-la-formula-1-no-me-ayudan/",
+    "title": "Colapinto pidió que frenen los ataques de los argentinos en la Fórmula 1: “No me ayudan”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/14/di-napoli-convoco-a-marchar-en-santa-rosa-en-defensa-de-la-universidad-publica/",
+    "title": "Di Nápoli convocó a marchar en Santa Rosa en defensa de la universidad pública",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/14/fortalecen-las-huertas-familiares-con-entrega-de-semillas-y-asesoramiento-tecnico/",
+    "title": "Fortalecen las huertas familiares con entrega de semillas y asesoramiento técnico",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/14/la-pampa-avanza-en-la-adhesion-a-la-ley-de-recetas-digitales/",
+    "title": "La Pampa avanza en la adhesión a la ley de recetas digitales",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/14/piden-reparar-una-escuela-y-garantizar-agua-potable-en-el-oeste-pampeano/",
+    "title": "Piden reparar una escuela y garantizar agua potable en el oeste pampeano",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/14/santa-rosa-realico-y-25-de-mayo-amplian-el-plazo-para-anotarse-a-los-talleres-de-upami/",
+    "title": "Santa Rosa, Realicó y 25 de Mayo: Amplían el plazo para anotarse a los talleres de UPAMI",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/14/ziliotto-firmo-convenios-para-prevenir-inundaciones-y-mejorar-los-desagues/",
+    "title": "Ziliotto firmó convenios para prevenir inundaciones y mejorar los desagües",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/14/caso-del-bebe-de-rancul-ahora-llaman-a-declarar-a-funcionarios-a-la-comision-investigadora/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/14/el-grupo-comodin-presentara-dos-obras-teatrales-en-el-medano-de-pico/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/14/el-teatro-tkq-tendra-una-nueva-muestra-de-match-de-improvisacion/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/14/ley-de-financiamiento-universitario-la-justicia-impuso-una-multa-diaria-a-santilli/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/14/metileo-subastara-16-terrenos-municipales-con-financiacion-de-hasta-12-cuotas-fijas/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/14/trapaglia-reclama-por-la-aplicacion-de-las-recetas-electronicas-de-medicamentos/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/14/ziliotto-firmo-convenios-para-obras-hidricas-por-971-millones-de-pesos-para-municipios/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31902-problemas-para-ravier-lla-de-la-pampa-no-podra-recibir-financiamiento-por-un-ano",
     "title": null,
     "attempts": 0
   }
