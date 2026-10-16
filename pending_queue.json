@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/deportes/80468/sin-apoyo-financiero-hecker-bajo-del-mundial-de-croacia",
     "title": "Sin apoyo financiero, Hecker se baj&oacute; del Mundial de Croacia",
-    "attempts": 5
+    "attempts": 6
   },
   {
     "site": "El Diario de La Pampa",
@@ -29420,6 +29420,30 @@
   {
     "site": "Radio Kermes",
     "url": "https://www.radiokermes.com/noticias/31919-el-documento-completo-del-reclamo-de-las-universidades",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/plaza-congreso-y-representacion-invertida-n5427419",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/81777/cerro-con-un-triunfo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/81778/triunfo-y-punta-del-lobo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/81779/estudiantes-empato-con-flamengo",
     "title": null,
     "attempts": 0
   }
