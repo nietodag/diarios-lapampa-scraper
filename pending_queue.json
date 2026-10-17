@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/deportes/80468/sin-apoyo-financiero-hecker-bajo-del-mundial-de-croacia",
     "title": "Sin apoyo financiero, Hecker se baj&oacute; del Mundial de Croacia",
-    "attempts": 11
+    "attempts": 12
   },
   {
     "site": "El Diario de La Pampa",
@@ -30428,6 +30428,48 @@
   {
     "site": "Radio Kermes",
     "url": "https://www.radiokermes.com/noticias/31933-lanzan-la-tercera-encuesta-nacional-migrante-y-convocan-a-participar-a-personas-de-la-pampa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83083",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83084",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/16/cronograma-de-recoleccion-de-residuos-especiales-en-la-zona-4-de-general-pico/",
+    "title": "Cronograma de recolección de residuos especiales en la Zona 4 de General Pico",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/16/el-superior-tribunal-de-justicia-rechazo-nuevos-pedidos-de-la-familia-de-contencion-de-rancul/",
+    "title": "El Superior Tribunal de Justicia rechazó nuevos pedidos de la familia de contención de Rancul",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/inauguraron-la-diversidad-nos-une-2026101622160",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/trasladan-a-buenos-aires-a-nina-accidentada-en-pico-2026101622100",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/16/ya-estan-disponibles-las-nuevas-lineas-crediticias-del-gobierno-de-la-pampa-para-el-campo/",
     "title": null,
     "attempts": 0
   }
