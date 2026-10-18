@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/pais/80481/la-fragata-libertad-arribo-a-buenos-aires-y-culmino-su-54-viaje-de-instruccion",
     "title": "La fragata Libertad arrib&oacute; a Buenos Aires y culmin&oacute; su 54&ordm; viaje de instrucci&oacute;n",
-    "attempts": 3
+    "attempts": 4
   },
   {
     "site": "Radio Kermes",
@@ -31058,6 +31058,264 @@
   {
     "site": "La Arena",
     "url": "https://www.laarena.com.ar/caldenia/cronica-de-una-excepcion-urbana-20261018600",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83076",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83093",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83096",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/18/le-sustrajeron-el-arma-reglamentaria-a-una-mujer-policia-en-la-pampa-y-debera-pagarla-en-10-cuotas-el-planteo-que-rechazo-el-tribunal-de-cuentas/",
+    "title": "Le sustrajeron el arma reglamentaria a una mujer policía en La Pampa y deberá pagarla en 10 cuotas: el planteo que rechazó el Tribunal de Cuentas",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/18/reto-del-dia-desafia-a-tu-inteligencia-con-este-complicado-reto-matematico-en-7-segundos-6/",
+    "title": "Reto del día: desafía a tu inteligencia con este complicado reto matemático en 7 segundos",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/18/sin-mate-sin-comida-y-sin-celular-frente-al-paciente-la-impronta-de-orden-que-marca-el-pulso-del-hospital-barrio-federal/",
+    "title": "«Sin mate, sin comida y sin celular frente al paciente»: la impronta de orden que marca el pulso del Hospital Barrio Federal",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/18/vuelco-en-calle-300-una-camioneta-termino-de-costado-y-sus-ocupantes-resultaron-ilesos/",
+    "title": "Vuelco en calle 300: una camioneta terminó de costado y sus ocupantes resultaron ilesos",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/caldenia/la-poesia-como-dialogo-con-el-mundo-20261018900",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/el-papa-leon-xiv-reaparecio-tras-su-operacion-por-cancer-de-pulmon-202610189440",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/francia-en-llamas-y-protestas-en-europa-2026101810120",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/tragedia-en-la-india-una-estampida-dejo-17-muertos-y-35-heridos-202610188520",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/comedores-y-merenderos-al-limite-la-demanda-alimentaria-en-los-barrios-es-cada-vez-mayor-202610188430",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/el-pronostico-del-tiempo-para-hoy-en-santa-rosa-202610188520",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/la-campora-estuvimos-donde-teniamos-que-estar-202610180210",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/los-caldenes-llegan-al-opera-202610180210",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/luis-cervellini-presento-su-libro-202610180210",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/congreso/con-practicas-la-casta-javier-milei-gano-gobernabilidad-y-profundizo-la-crisis-del-peronismo-n5427456",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/peronismo-2027-juan-grabois-ya-eligio-n5427455",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/81859/regional-amateur--ferro-gano-y-se-clasifico-a-la-siguiente-instancia",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/81860/provincial--la-barranca-y-all-boys-definen-su-futuro",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/frases-de-la-semana/81862/frases-de-la-semana",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/imagenes-de-la-semana/81861/imagenes-de-la-semana",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/81858/el-stj-rechazo-un-nuevo-intento-de-la-defensa-de-paul-claudio-santander-para-revisar-la-condena",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/81864/motociclista-choco-en-la-avenida-peron--sufrio-un-traumatismo-de-craneo-y-dio-positivo-en-alcoholemia",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/81866/domingo-parcialmente-nublado-y-ventoso-con-una-maxima-de-19-grados-en-santa-rosa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/81868/volco-una-camioneta-en-pico-y-sus-dos-ocupantes-resultaron-ilesos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/81870/la-provincia-destina-55000-millones-de-pesos-a-lineas-crediticias-para-el-sector-productivo-y-el-campo-pampeano",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/mundo/81865/el-papa-leon-xiv-reaparecio-en-el-angelus-tras-la-operacion-por-el-cancer",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/numeros-de-la-semana/81863/numeros-de-la-semana",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/81869/comedores-y-merenderos-al-limite--la-demanda-alimentaria-en-los-barrios-es-cada-vez-mayor",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/videos-de-la-semana/81867/videos-de-la-semana",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/18/axel-kicillof-el-peronismo-va-a-volver-a-gobernar-la-argentina-el-ano-que-viene/",
+    "title": "Axel Kicillof: “El peronismo va a volver a gobernar la Argentina el año que viene”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/18/comedores-y-merenderos-al-limite-advierten-que-la-demanda-alimentaria-es-cada-vez-mayor/",
+    "title": "Comedores y merenderos al límite: advierten que la demanda alimentaria es cada vez mayor",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/18/dibu-martinez-fue-operado-por-una-lesion-en-la-mandibula-en-unas-semanas-nos-vemos/",
+    "title": "‘Dibu’ Martínez fue operado por una lesión en la mandíbula: “En unas semanas nos vemos”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/18/domingo-con-una-maxima-de-19-grados-y-fuertes-rafagas-de-viento/",
+    "title": "Domingo con una máxima de 19 grados y fuertes ráfagas de viento",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/18/el-gobierno-preso-de-su-pronostico-economico-y-bajo-advertencias/",
+    "title": "El Gobierno, preso de su pronóstico económico y bajo advertencias",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/18/el-papa-leon-xiv-reaparecio-tras-su-operacion-por-cancer-de-pulmon-y-agradecio-el-apoyo-de-los-fieles/",
+    "title": "El papa León XIV reapareció tras su operación por cáncer de pulmón y agradeció el apoyo de los fieles",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/18/exitoso-regreso-de-la-expo-rural-de-toay/",
+    "title": "Exitoso regreso de la Expo Rural de Toay",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/18/extienden-periodo-de-inscripcion-para-cubrir-cargo-docente-en-embajador-martini/",
+    "title": "Extienden periodo de inscripción para cubrir cargo docente en Embajador Martini",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/18/la-capsula-del-tiempo-que-se-abrira-en-2042-estara-en-el-parque-lineal-para-celebrar-el-dia-de-la-madre/",
+    "title": "La Cápsula del Tiempo, que se abrirá en 2042, estará en el Parque Lineal para celebrar el Día de la Madre",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/18/el-acto-del-pj-la-unidad-salvadora-y-un-hecho-fundante-para-la-campana-2027/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/18/santa-rosa-invitan-a-dejar-mensajes-en-una-capsula-del-tiempo/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/18/toay-recupero-su-exposicion-rural-despues-de-30-anos/",
     "title": null,
     "attempts": 0
   }
