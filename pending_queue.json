@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/pais/80481/la-fragata-libertad-arribo-a-buenos-aires-y-culmino-su-54-viaje-de-instruccion",
     "title": "La fragata Libertad arrib&oacute; a Buenos Aires y culmin&oacute; su 54&ordm; viaje de instrucci&oacute;n",
-    "attempts": 5
+    "attempts": 6
   },
   {
     "site": "Radio Kermes",
@@ -31509,6 +31509,54 @@
     "site": "Plan B Noticias",
     "url": "https://www.planbnoticias.com.ar/index.php/2026/10/18/un-hombre-resulto-herido-en-una-pelea-familiar/",
     "title": "Un hombre resultó herido en una pelea familiar",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/18/cuando-uno-llega-tarde-es-mas-dificil-todo-despues-las-senales-de-alarma-del-tendon-de-aquiles/",
+    "title": "«Cuando uno llega tarde es más difícil todo después»: las señales de alarma del tendón de Aquiles",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/18/es-inevitable-que-en-breve-tengamos-un-robot-aca-afirmo-el-urologo-pablo-dedola-tras-el-congreso-en-lima/",
+    "title": "«Es inevitable que en breve tengamos un robot acá», afirmó el urólogo Pablo Dédola tras el congreso en Lima",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/18/prorrogan-la-inscripcion-para-el-cargo-directivo-en-el-colegio-secundario-de-embajador-martini/",
+    "title": "Prorrogan la inscripción para el cargo directivo en el Colegio Secundario de Embajador Martini",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/caldenia/digger-pretencioso-y-caotico-202610181500",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/femicidio-de-micaela-garcia-volveran-a-juzgar-a-uno-de-los-acusados-202610181400",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/81881/un-sacerdote-murio-aplastado-por-una-cruz-mientras-daba-misa--que-dijo-minutos-antes",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/81880/las-ventas-por-el-dia-de-la-madre-2026-bajaron-14-en-porciento--interanual",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/18/boca-paredes-evoluciona-contrarreloj-con-la-mira-en-la-copa-sudamericana/",
+    "title": "Boca: Paredes evoluciona contrarreloj con la mira en la Copa Sudamericana",
     "attempts": 0
   }
 ]
