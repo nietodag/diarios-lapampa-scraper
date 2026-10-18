@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/pais/80481/la-fragata-libertad-arribo-a-buenos-aires-y-culmino-su-54-viaje-de-instruccion",
     "title": "La fragata Libertad arrib&oacute; a Buenos Aires y culmin&oacute; su 54&ordm; viaje de instrucci&oacute;n",
-    "attempts": 2
+    "attempts": 3
   },
   {
     "site": "Radio Kermes",
@@ -31052,6 +31052,12 @@
   {
     "site": "LetraP",
     "url": "https://www.letrap.com.ar/region-patagonia/el-dia-despues-la-lealtad-el-futuro-los-peronismos-que-gobiernan-la-patagonia-n5427454",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/caldenia/cronica-de-una-excepcion-urbana-20261018600",
     "title": null,
     "attempts": 0
   }
