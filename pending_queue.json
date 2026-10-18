@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/pais/80481/la-fragata-libertad-arribo-a-buenos-aires-y-culmino-su-54-viaje-de-instruccion",
     "title": "La fragata Libertad arrib&oacute; a Buenos Aires y culmin&oacute; su 54&ordm; viaje de instrucci&oacute;n",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "site": "Radio Kermes",
@@ -30998,6 +30998,60 @@
   {
     "site": "Diario Textual",
     "url": "https://diariotextual.com/inicio/index.php/2026/10/17/el-kirchnerismo-se-movilizo-en-el-dia-de-la-lealtad-estuvimos-donde-teniamos-que-estar/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83095",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/17/dibu-martinez-llevo-tranquilidad-tras-su-operacion-el-mensaje-del-arquero-luego-del-brutal-choque/",
+    "title": "Dibu Martínez llevó tranquilidad tras su operación: el mensaje del arquero luego del brutal choque",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/17/ferro-se-planto-con-autoridad-en-general-villegas-supero-a-atletico-y-sello-su-clasificacion-a-la-siguiente-fase/",
+    "title": "Ferro se plantó con autoridad en General Villegas, superó a Atlético y selló su clasificación a la siguiente fase",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/17/salud-mental-infanto-juvenil-realizaron-una-jornada-ludica-y-comunitaria-en-el-hospital-favaloro-molas/",
+    "title": "Salud mental infanto-juvenil: realizaron una jornada lúdica y comunitaria en el Hospital Favaloro-Molas",
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/opinion/argentina-y-la-disrupcion-la-normalidad-n5427458",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-outsider-del-peronismo-tiempo-descuento-n5427460",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/karina-milei-hace-numeros-y-puntea-un-excel-no-perder-diputados-la-negociacion-los-gobernadores-n5427451",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/martin-llaryora-y-el-negocio-la-distancia-javier-milei-n5427453",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/region-patagonia/el-dia-despues-la-lealtad-el-futuro-los-peronismos-que-gobiernan-la-patagonia-n5427454",
     "title": null,
     "attempts": 0
   }
