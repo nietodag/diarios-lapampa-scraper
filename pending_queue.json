@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/pais/80481/la-fragata-libertad-arribo-a-buenos-aires-y-culmino-su-54-viaje-de-instruccion",
     "title": "La fragata Libertad arrib&oacute; a Buenos Aires y culmin&oacute; su 54&ordm; viaje de instrucci&oacute;n",
-    "attempts": 10
+    "attempts": 11
   },
   {
     "site": "Radio Kermes",
@@ -31958,6 +31958,396 @@
   {
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/linea-abierta/81893/mensajes-19-10-2026",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83104",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83105",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83106",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83107",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/19/el-gobierno-nacional-oficializo-un-plan-de-retiro-voluntario-para-20-mil-empleados-estatales/",
+    "title": "El Gobierno nacional oficializó un plan de retiro voluntario para 20 mil empleados estatales",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/19/el-hospital-barrio-federal-suma-especialidades-pediatria-todos-los-dias-y-traumatologia-oftalmologia-y-kinesiologia-en-tres-o-cuatro-meses/",
+    "title": "El Hospital Barrio Federal suma especialidades: pediatría todos los días y traumatología, oftalmología y kinesiología en tres o cuatro meses",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/19/general-pico-la-fundacion-para-el-desarrollo-regional-entrego-un-credito-para-incorporar-inteligencia-artificial/",
+    "title": "General Pico: la Fundación para el Desarrollo Regional entregó un crédito para incorporar inteligencia artificial",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/19/horoscopo-de-hoy-lunes-19-de-octubre/",
+    "title": "Horóscopo de hoy, lunes 19 de octubre",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/19/ley-de-glaciares-la-pampa-recurrio-a-la-corte-suprema-para-frenar-la-reforma-y-proteger-sus-recursos-hidricos/",
+    "title": "Ley de Glaciares: La Pampa recurrió a la Corte Suprema para frenar la reforma y proteger sus recursos hídricos",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/19/liga-argentina-pico-fbc-tropezo-en-el-debut-ante-deportivo-viedma-y-ya-piensa-en-bahia-blanca/",
+    "title": "Liga Argentina: Pico FBC tropezó en el debut ante Deportivo Viedma y ya piensa en Bahía Blanca",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/19/promueven-la-generacion-distribuida-y-el-uso-de-energias-renovables-en-quemu-quemu/",
+    "title": "Promueven la generación distribuida y el uso de energías renovables en Quemú Quemú",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/19/reto-del-dia-te-animas-a-resolver-esta-cuenta-sin-errores-2/",
+    "title": "Reto del día: ¿Te animás a resolver esta cuenta sin errores?",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/termina-la-fecha-13-del-clausura-partidos-hora-y-tv-20261019870",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/video-boca-llego-a-rio-y-se-viene-el-banderazo-en-copacabana-202610191070",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/sube-la-tension-en-francia-bloquearon-el-museo-del-louvre-y-anticipan-otra-jornada-de-protestas-202610198420",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/milei-no-informara-que-equipamiento-militar-compara-2026101910470",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/dolor-por-la-muerte-de-periodista-gaston-leturia-tenia-52-anos-202610190100",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/gil-dominguez-se-abre-una-ventana-de-oportunidad-para-la-proteccion-de-los-glaciares-202610198590",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/jorge-lezcano-tras-el-17-de-octubre-la-sociedad-nos-esta-mirando-202610199500",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/proponen-usar-en-la-pampa-el-protocolo-pregunta-por-angela-2026101910520",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/robo-adoquines-del-parque-lineal-y-lo-detuvieron-202610198590",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/alerta-meteorologica-por-lluvias-y-nevadas-20261019800",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/anses-quienes-cobran-este-lunes-19-de-octubre-202610198460",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/el-pronostico-del-tiempo-para-hoy-en-santa-rosa-202610197200",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/la-historia-atras-del-video-de-la-mujer-y-su-hijo-jugando-bajo-la-lluvia-2026101910520",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/pronostican-alerta-meteorologica-por-tormentas-fuertes-202610199320",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/el-otro-17-octubre-n5427471",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/javier-milei-abre-la-cumbre-del-oilgas-neuquen-y-le-muestra-al-mundo-el-corazon-su-modelo-n5427439",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-chino-maidana-abre-la-puerta-una-candidatura-el-peronismo-santa-fe-me-quiero-meter-un-poco-mas-n5427472",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-otro-17-octubre-del-peronismo-astillado-al-estallido-europa-n5427473",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/region-patagonia/la-ucr-la-libertad-avanza-y-el-pro-instalaron-el-mojon-del-kilometro-cero-la-alianza-opositora-la-pampa-n5427469",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/entre-pocillos/81902/y-al-que-no-le-gusta-se-jode-se-jode-",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/81900/en-la-pampa-la-cantidad-de-empresas-empleadoras-cayo-un-17-en-porciento--interanual-en-julio",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/81903/castex--buscan-compactar-motos-y-vehiculos-secuestrados-que-no-sean-reclamados",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/81904/rio-colorado--monsalve-pidio-medidas-preventivas-y-recursos-para-25-de-mayo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/81905/detuvieron-a-un-hombre-en-pleno-robo-de-adoquines-en-el-parque-lineal",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/81906/la-cpe-realiza-la-asamblea-ordinaria-el-sabado-31-en-los-pioneros",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/81908/nino-bonivardo-presento-certificados-por-mas-de-3200-horas--se-los-rechazaron",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/81910/turnos-digitales-y-controles-gratuitos-para-prevenir-el-cancer-de-mama-y-cuello-uterino",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/mundo/81909/el-gobierno-de-francia-decreto-toques-de-queda-parciales-tras-la-ola-de-disturbios",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/opinion/81901/la-potencia-de-las-calles-el-toca-y-daca-en-los-palacios-",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/81907/aprobaron-un-nuevo-regimen-de-retiro-voluntario-para-empleados-publicos-nacionales",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/19/ardohain-lo-de-vandalismo-va-a-ser-ley-el-miercoles-a-la-tarde-en-diputados/",
+    "title": "Ardohain: “lo de vandalismo va a ser ley el miércoles a la tarde en Diputados”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/19/cloacas-agua-y-pavimento-donde-habra-cortes-esta-semana/",
+    "title": "Cloacas, agua y pavimento: Dónde habrá cortes esta semana",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/19/dos-jovenes-fueron-hospitalizados-tras-caer-de-una-moto/",
+    "title": "Dos jóvenes fueron hospitalizados tras caer de una moto",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/19/el-gobierno-clasifica-como-secreto-militar-nueva-compra-de-equipamiento/",
+    "title": "El Gobierno clasifica como secreto militar nueva compra de equipamiento",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/19/empleados-publicos-nacionales-el-gobierno-aprobo-un-nuevo-regimen-de-retiro-voluntario/",
+    "title": "Empleados públicos nacionales: El Gobierno aprobó un nuevo régimen de retiro voluntario",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/19/francia-2-400-detenidos-casi-mil-policias-heridos-y-ciudades-devastadas/",
+    "title": "Francia: 2.400 detenidos, casi mil policías heridos y ciudades devastadas",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/19/la-cpe-renovara-parte-de-su-consejo-de-administracion/",
+    "title": "La CPE renovará parte de su Consejo de Administración",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/19/monsalve-acompanara-a-milei-en-su-visita-a-neuquen/",
+    "title": "Monsalve acompañará a Milei en su visita a Neuquén",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/19/pronostican-tormentas-para-los-proximos-dias-en-santa-rosa/",
+    "title": "Pronostican tormentas para los próximos días en Santa Rosa",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/19/robaba-adoquines-en-el-parque-lineal-fue-detenido/",
+    "title": "Robaba adoquines en el Parque Lineal: Fue detenido",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/19/el-diputado-aguilar-propone-una-ley-para-pedir-ayuda-en-bares-y-fiestas-con-una-frase-clave-pregunta-por-angela/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/19/el-endeudamiento-familiar-dejo-fuera-a-150-postulantes-del-programa-llegar-a-casa/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/19/el-gobierno-aprobo-un-nuevo-regimen-de-retiro-voluntario-para-empleados-publicos-nacionales/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/19/el-peronismo-de-la-pampa-pide-crear-un-fondo-para-cubrir-las-cuotas-alimentarias-y-perseguir-las-deudas-de-los-padres/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/19/lo-detuvieron-cuando-se-robaba-adoquines-del-parque-lineal-de-santa-rosa/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/19/no-hay-plata-las-ventas-del-dia-de-la-madre-fueron-flojas-en-santa-rosa/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/19/santilli-con-o-sin-paso-milei-vuelve-a-ganar/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/galerias/31941-la-fiesta-de-la-lealtad-kermesera",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31942-llegar-a-casa-150-postulantes-quedaron-afuera-por-endeudamiento",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31943-ley-de-glaciares-la-pampa-acudio-a-la-corte-suprema-para-frenar-la-reforma",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31944-dia-de-la-madre-2026-las-ventas-volvieron-a-caer-en-medio-de-la-crisis-del-consumo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31946-la-foto-del-17-unidad-incompleta-sucesion-pendiente",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31947-no-dejar-dormir-a-la-corte-suprema-en-la-causa-por-los-glaciares",
     "title": null,
     "attempts": 0
   }
