@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/pais/80481/la-fragata-libertad-arribo-a-buenos-aires-y-culmino-su-54-viaje-de-instruccion",
     "title": "La fragata Libertad arrib&oacute; a Buenos Aires y culmin&oacute; su 54&ordm; viaje de instrucci&oacute;n",
-    "attempts": 9
+    "attempts": 10
   },
   {
     "site": "Radio Kermes",
@@ -31910,6 +31910,54 @@
   {
     "site": "Diario Textual",
     "url": "https://diariotextual.com/inicio/index.php/2026/10/18/carro-quemado-celebro-su-aniversario-y-una-pareja-de-santa-rosa-gano-el-concurso-de-pollo-al-disco/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/18/colision-entre-un-auto-y-una-moto-en-calles-11-y-30-el-motociclista-no-requirio-traslado/",
+    "title": "Colisión entre un auto y una moto en calles 11 y 30: el motociclista no requirió traslado",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/18/dos-jovenes-fueron-hospitalizados-tras-caer-de-una-moto-en-avenida-113-y-115/",
+    "title": "Dos jóvenes fueron hospitalizados tras caer de una moto en avenida 113 y 115",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/18/quini-6-dos-apostadores-se-repartieron-un-pozo-millonario-de-mas-de-2-800-millones/",
+    "title": "Quini 6: dos apostadores se repartieron un pozo millonario de más de $2.800 millones",
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/81895/dolor-por-la-muerte-de-reconocido-periodista",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/81897/derrota-de-pico-en-el-sur-en-el-debut",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/81898/se-despidio-costa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/81899/la-pampeana-subcampeon",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/linea-abierta/81893/mensajes-19-10-2026",
     "title": null,
     "attempts": 0
   }
