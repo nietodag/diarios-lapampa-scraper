@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/pais/80481/la-fragata-libertad-arribo-a-buenos-aires-y-culmino-su-54-viaje-de-instruccion",
     "title": "La fragata Libertad arrib&oacute; a Buenos Aires y culmin&oacute; su 54&ordm; viaje de instrucci&oacute;n",
-    "attempts": 14
+    "attempts": 15
   },
   {
     "site": "Radio Kermes",
@@ -33038,6 +33038,42 @@
   {
     "site": "Radio Kermes",
     "url": "https://www.radiokermes.com/noticias/31956-fuerza-pampa-llama-a-elecciones-internas",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/19/javier-milei-en-vaca-muerta-celebro-el-record-energetico-defendio-el-rigi-y-lanzo-un-fuerte-guino-electoral-para-la-pampa/",
+    "title": "Javier Milei en Vaca Muerta: celebró el récord energético, defendió el RIGI y lanzó un fuerte guiño electoral para La Pampa",
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/rigipalooza-neuquen-milei-pidio-que-florezcan-mil-vaca-muerta-cotillon-violeta-y-fervor-empresario-n5427503",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/81938/boca-busca-dar-el-golpe-en-brasil",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/81939/newells-vencio-a-central-cordoba-",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/81940/colnaghi-correra-en-el-campos-racing",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/81942/cinco-oros-en-el-panam-de-taekwondo",
     "title": null,
     "attempts": 0
   }
