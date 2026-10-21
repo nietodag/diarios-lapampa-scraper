@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80488/realico-inauguro-su-muestra-rural-con-una-fuerte-apuesta-a-la-ganaderia-y-la-genetica-local",
     "title": "Realic&oacute; inaugur&oacute; su muestra rural con una fuerte apuesta a la ganader&iacute;a y la gen&eacute;tica local",
-    "attempts": 4
+    "attempts": 5
   },
   {
     "site": "El Diario de La Pampa",
@@ -34664,6 +34664,234 @@
   {
     "site": "Radio Kermes",
     "url": "https://www.radiokermes.com/noticias/31978-un-joven-riojano-en-situacion-de-calle-pide-trabajo-en-santa-rosa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83152",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83154",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/21/comision-investigadora-de-adopcion-el-subsecretario-de-seguridad-expuso-en-la-legislatura-y-respaldo-el-accionar-policial/",
+    "title": "Comisión investigadora de adopción: el subsecretario de Seguridad expuso en la Legislatura y respaldó el accionar policial",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/21/eduardo-castex-investigan-una-importante-estafa-telefonica-y-demoraron-a-una-pareja-por-robar-placas-en-el-cementerio/",
+    "title": "Eduardo Castex: investigan una importante estafa telefónica y demoraron a una pareja por robar placas en el cementerio",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/21/fuerte-respaldo-a-los-inquilinos-la-justicia-pampeana-confirmo-que-las-inmobiliarias-no-pueden-cobrarles-comision/",
+    "title": "Fuerte respaldo a los inquilinos: la Justicia pampeana confirmó que las inmobiliarias no pueden cobrarles comisión",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/audio/leonardo-santesteban-en-el-aire-de-la-manana-del-21-10-2026102114490",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/andis-detectan-nuevos-sobornos-a-spagnuolo-y-piden-indagar-a-la-suizo-argentina-202610211630",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/diputados-le-dio-media-sancion-a-la-inviolabilidad-de-la-propiedad-privada-2026102116550",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/el-gobierno-de-kicillof-denuncio-a-milei-y-caputo-por-el-desvio-del-fondo-hidrico-202610211600",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/la-actividad-economica-cayo-1-7-en-agosto-y-anoto-la-mayor-contraccion-en-2026-2026102116430",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/murio-saul-blanch-el-primer-cantante-de-rata-blanca-2026102117410",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/alerta-por-tormentas-el-municipio-de-santa-rosa-reitera-recomendaciones-2026102116160",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/catrilo-celebrara-los-96-anos-del-circulo-italiano-con-canto-lirico-musica-y-danza-2026102117150",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/condenaron-a-dos-presos-por-atacar-a-otro-interno-en-la-alcaidia-de-general-pico-2026102117280",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/encuentro-educativo-sobre-mecanizacion-agropecuaria-en-alvear-202610211690",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/usa-el-conflicto-por-el-atuel-como-bandera-politica-contra-mendoza-2026102114240",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/festival-de-cine-diez-dias-con-mas-de-150-peliculas-de-todo-el-mundo-2026102114550",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/congreso/con-ayuda-martin-llaryora-y-larreta-diputados-aprobo-el-proyecto-que-blinda-la-ley-tierras-cfk-n5427573",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/opinion/actualizacion-las-normas-auditoria-interna-gubernamental-controlar-mejor-gobernar-mejor-n5427570",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/opinion/patricia-bullrich-quiere-ser-victoria-villarruel-n5427569",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/aliados-sospechan-que-karina-milei-dilata-los-acuerdos-darle-tiempo-instalacion-sus-candidatos-n5427562",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/buenos-aires-elecciones-concurrentes-paso-y-boleta-papel-el-esquema-electoral-ideal-axel-kicillof-n5427561",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/diego-santilli-hablara-pantalla-la-industria-cordoba-y-llaryora-cruzara-milei-los-impuestos-n5427574",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/discapacidad-up-quiere-apoyar-el-acuerdo-martin-menem-aliados-presionar-la-casa-rosada-n5427554",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-gobierno-santa-fe-apura-la-legislatura-tratar-las-leyes-seguridad-impulsadas-pullaro-n5427553",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/en-brasil-chocan-dos-bloques-movidos-el-afecto-cada-uno-rechazado-la-mitad-del-pais-n5427558",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/la-capital-brasil-el-bastion-favio-bolsonaro-que-encierra-los-secretos-la-resistencia-lula-n5427565",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/mar-del-plata-la-plata-y-lomas-el-triangulo-poder-diego-molea-y-maximiliano-abad-la-justicia-n5427549",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/mariano-gaido-sobreactua-libertarismo-quiere-congelar-las-bancas-del-concejo-deliberante-neuquen-n5427514",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82025/alquileres--el-stj-desoyo-a-la-corte-y-ratifico-que-no-se-cobre-comision-al-inquilino-",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82028/la-unlpam-se-hara-cargo-del-pago-total-de-los-servicios-en-las-residencias-universitarias",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82029/medio-siglo-del-tratado-del-rio-colorado--un-hito-de-la-gestion-del-agua-en-la-argentina",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82030/di-napoli-ingreso-al-top-10-de-intendentes-y-ziliotto-quedo-en-el-puesto-17",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/82026/un-rayo-fulmino-a-cuatro-caballos-de-polo-durante-un-partido-en-san-isidro",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/82027/la-actividad-se-estanco-en-agosto-y-en-el-ultimo-ano-la-economia-cayo-17-en-porciento--segun-el-indec",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/21/diputados-aprobo-el-proyecto-que-restituye-la-ley-de-tierras/",
+    "title": "Diputados aprobó el proyecto que restituye la Ley de Tierras",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/21/dos-presos-fueron-condenados-por-atacar-con-una-faca-a-otro-detenido-en-la-alcaidia-de-pico/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/21/quemu-el-exintendente-alfredo-fernandez-fue-sondeado-por-fuerza-pampa-pero-decidio-crear-su-propio-partido/",
     "title": null,
     "attempts": 0
   }
