@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80488/realico-inauguro-su-muestra-rural-con-una-fuerte-apuesta-a-la-ganaderia-y-la-genetica-local",
     "title": "Realic&oacute; inaugur&oacute; su muestra rural con una fuerte apuesta a la ganader&iacute;a y la gen&eacute;tica local",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "site": "El Diario de La Pampa",
@@ -34095,6 +34095,54 @@
     "site": "Diario Textual",
     "url": "https://diariotextual.com/inicio/index.php/2026/10/20/presupuesto-2027-diputados-piden-incluir-en-el-debate-a-la-comunidad-universitaria/",
     "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/20/boca-conquisto-el-maracana-vencio-a-vasco-da-gama-y-es-finalista-de-la-copa-sudamericana/",
+    "title": "Boca conquistó el Maracaná: venció a Vasco da Gama y es finalista de la Copa Sudamericana",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/20/liga-argentina-pico-fbc-no-pudo-en-bahia-blanca-y-cayo-ante-villa-mitre-en-un-final-cerrado/",
+    "title": "Liga Argentina: Pico FBC no pudo en Bahía Blanca y cayó ante Villa Mitre en un final cerrado",
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/peter-lamelas-bendijo-vaca-muerta-como-motor-del-pais-y-ato-las-futuras-inversiones-la-reeleccion-milei-n5427542",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/81981/argentina-vencio-a-nueva-zelanda-y-mantiene-viva-la-ilusion",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/81997/pico-no-pudo-con-villa-mitre",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/linea-abierta/81986/mensajes-21-10-2026",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/20/boca-le-gano-por-3-1-a-vasco-da-gama-y-es-finalista-de-la-copa-sudamericana/",
+    "title": "Boca le ganó por 3-1 a Vasco Da Gama y es finalista de la Copa Sudamericana",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/21/el-festival-pico-rie-tendra-dos-jornadas-de-circo-y-arte-callejero-en-general-pico/",
+    "title": "El Festival Pico Ríe tendrá dos jornadas de circo y arte callejero en General Pico",
     "attempts": 0
   }
 ]
