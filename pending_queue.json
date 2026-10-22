@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80488/realico-inauguro-su-muestra-rural-con-una-fuerte-apuesta-a-la-ganaderia-y-la-genetica-local",
     "title": "Realic&oacute; inaugur&oacute; su muestra rural con una fuerte apuesta a la ganader&iacute;a y la gen&eacute;tica local",
-    "attempts": 8
+    "attempts": 9
   },
   {
     "site": "El Diario de La Pampa",
@@ -35324,6 +35324,276 @@
   {
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/deportes/82038/ferro-de-pico-golpeo-primero-y-saco-ventaja",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83142",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83150",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83158",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83161",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83162",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/22/alerta-en-el-oeste-pampeano-la-pampa-intimara-a-mendoza-tras-sueltas-intempestivas-de-agua-en-el-rio-atuel/",
+    "title": "Alerta en el oeste pampeano: La Pampa intimará a Mendoza tras sueltas intempestivas de agua en el río Atuel",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/22/bomberos-voluntarios-reclaman-una-deuda-nacional-de-60-mil-millones-nosotros-no-somos-un-gasto-le-ahorramos-dinero-al-estado/",
+    "title": "Bomberos voluntarios reclaman una deuda nacional de 60 mil millones: «Nosotros no somos un gasto, le ahorramos dinero al Estado»",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/22/con-amplia-convocatoria-en-realico-comenzo-la-ronda-regional-de-capacitaciones-para-el-pro-vida/",
+    "title": "Con amplia convocatoria en Realicó, comenzó la ronda regional de capacitaciones para el Pro Vida",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/22/con-lista-de-unidad-concluyo-la-normalizacion-de-la-juventud-peronista-de-la-pampa/",
+    "title": "Con lista de unidad, concluyó la normalización de la Juventud Peronista de La Pampa",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/22/gamezone-responsible-gaming-how-to-play-smart-and-stay-within-your-limits/",
+    "title": "GameZone Responsible Gaming: How to Play Smart and Stay Within Your Limits",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/22/horoscopo-de-hoy-jueves-22-de-octubre/",
+    "title": "Horóscopo de hoy, jueves 22 de octubre",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/audio/mendoza-maneja-el-agua-criminalmente-y-nosotros-somos-el-area-de-sacrificio-202610229220",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/estudiantes-de-visita-202610221260",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/victoria-de-ferro-202610221260",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/diputados-dio-media-sancion-a-la-nueva-ley-de-discapacidad-202610228330",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/encendio-el-auto-para-ir-a-trabajar-y-se-le-prendio-fuego-202610228430",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/alerta-meteorologica-por-tormentas-fuertes-202610228300",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/anses-quienes-cobran-este-jueves-22-de-octubre-202610228500",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/el-pronostico-del-tiempo-para-hoy-en-santa-rosa-202610227260",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/transformacion-digital-una-charla-en-general-pico-mostrara-como-modernizar-los-archivos-202610228510",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/congreso/discapacidad-la-libertad-avanza-cedio-cambios-y-logro-aprobar-un-proyecto-nuevo-apoyo-del-peronismo-n5427585",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/flavio-presidente-eduardo-canciller-n5427581",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/con-ayuda-cordoba-la-libertad-avanza-bloqueo-los-proyectos-refinanciar-deudas-tasas-bajas-n5427587",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/javier-milei-apura-la-cesion-una-propiedad-leandro-zdero-como-gesto-plena-negociacion-las-paso-n5427580",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/presupuesto-porteno-el-fit-se-sumo-la-pelea-el-peronismo-y-jorge-macri-la-agenda-ley-y-orden-n5427576",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/22/boca-tiene-rival-atletico-mineiro-supero-a-montevideo-city-torque-y-es-finalista-de-la-sudamericana/",
+    "title": "Boca tiene rival: Atlético Mineiro superó a Montevideo City Torque y es finalista de la Sudamericana",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/22/con-amplio-consenso-se-aprobo-la-ley-de-fortalecimiento-al-sistema-de-discapacidad/",
+    "title": "Con amplio consenso, se aprobó la Ley de Fortalecimiento al Sistema de Discapacidad",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/22/convocan-a-taller-de-traduccion-poetica-en-la-unlpam/",
+    "title": "Convocan a taller de “traducción poética” en la UNLPam",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/22/datos-oficiales-la-actividad-economica-cayo-17-interanual-en-agosto-y-anoto-la-mayor-contraccion-en-lo-que-va-del-ano/",
+    "title": "Datos oficiales: La actividad económica cayó 1,7% interanual en agosto y anotó la mayor contracción en lo que va del año",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/22/endeudamiento-familiar-diputados-devolvio-a-comisiones-el-proyecto-para-no-tratarlo/",
+    "title": "Endeudamiento familiar: Diputados devolvió a comisiones el proyecto para no tratarlo",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/22/estudiantes-visita-a-flamengo-por-un-lugar-en-la-final-de-la-copa-libertadores/",
+    "title": "Estudiantes visita a Flamengo por un lugar en la final de la Copa Libertadores",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/22/lanzan-campana-nacional-e-internacional-para-exigir-el-juicio-politico-a-milei/",
+    "title": "Lanzan campaña nacional e internacional para exigir el juicio político a Milei",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/22/reunion-en-algarrobo-alarma-en-el-oeste-por-las-sueltas-inconsultas-del-atuel/",
+    "title": "Reunión en Algarrobo: alarma en el oeste por las sueltas inconsultas del Atuel",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/22/tierramia-gano-el-folklorazo-2026/",
+    "title": "Tierramia ganó el “Folklorazo 2026”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/22/volantazo-del-gobierno-diputados-aprobo-el-proyecto-que-restituye-la-ley-de-tierras/",
+    "title": "Volantazo del Gobierno: Diputados aprobó el proyecto que restituye la Ley de Tierras",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/22/consejo-de-la-magistratura-el-peronismo-gano-la-eleccion-de-los-abogados-en-la-pampa-y-lla-salio-ultima/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/22/destacada-actuacion-de-grupo-de-danzas-folkloricas-de-santa-rosa-en-villa-carlos-paz/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/22/en-relmo-se-rompio-el-oficialismo-un-grupo-de-radicales-con-respaldo-del-pj-busca-desplazar-a-vidondo-en-2027/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/22/la-pampa-exporto-us-901-millones-hasta-septiembre-con-fuerte-peso-de-los-productos-primarios/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/22/reunion-de-la-gran-alianza-opositora-en-la-pampa-el-ansioso-y-el-consejero/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31985-en-mendoza-se-gobierna-para-las-multinacionales",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31986-ate-rechazo-las-citaciones-a-trabajadores-de-ninez-para-eso-estan-los-funcionarios",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31987-bebe-de-rancul-la-policia-actuo-como-corresponde",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31988-ustedes-quieren-politizar",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31989-sin-fecha-para-la-paritaria-estatal-los-gremios-esperan-una-nueva-convocatoria",
     "title": null,
     "attempts": 0
   }
