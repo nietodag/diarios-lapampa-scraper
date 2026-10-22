@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80488/realico-inauguro-su-muestra-rural-con-una-fuerte-apuesta-a-la-ganaderia-y-la-genetica-local",
     "title": "Realic&oacute; inaugur&oacute; su muestra rural con una fuerte apuesta a la ganader&iacute;a y la gen&eacute;tica local",
-    "attempts": 11
+    "attempts": 12
   },
   {
     "site": "El Diario de La Pampa",
@@ -36014,6 +36014,282 @@
   {
     "site": "Radio Kermes",
     "url": "https://www.radiokermes.com/noticias/31995-fundacion-ayudandonos-alerto-sobre-el-aumento-de-jovenes-que-buscan-retomar-sus-estudios",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83167",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83168",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83169",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83171",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83173",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83175",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/22/advierten-sobre-una-grave-crisis-en-la-defensoria-publica-de-victorica-y-reclaman-autonomia-funcional/",
+    "title": "Advierten sobre una grave crisis en la Defensoría Pública de Victorica y reclaman autonomía funcional",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/22/caso-del-bebe-de-rancul-declararon-di-napoli-y-perez-dupont-pero-diego-alvarez-interrumpio-su-testimonio/",
+    "title": "Caso del bebé de Rancul: declararon Di Nápoli y Pérez Dupont, pero Diego Álvarez interrumpió su testimonio",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/22/devolvieron-el-banco-sustraido-de-una-vereda-pidieron-disculpas/",
+    "title": "Devolvieron el banco sustraído de una vereda: pidieron disculpas",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/22/hija-de-dos-familias-fallo-en-general-pico-le-otorga-derechos-hereditarios-sobre-su-padre-biologico-a-una-mujer-adoptada-hace-40-anos/",
+    "title": "Hija de dos familias: fallo en General Pico le otorga derechos hereditarios sobre su padre biológico a una mujer adoptada hace 40 años",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/22/jubilados-y-pensionados-pampeanos-tendran-acreditados-sus-haberes-a-partir-de-este-sabado/",
+    "title": "Jubilados y pensionados pampeanos tendrán acreditados sus haberes a partir de este sábado",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/22/marita-mac-allister-activa-el-despliegue-territorial-y-busca-posicionarse-con-el-voto-productivo-de-cara-a-la-interna-opositora/",
+    "title": "Marita Mac Allister activa el despliegue territorial y busca posicionarse con el voto productivo de cara a la interna opositora",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/el-consumo-volvio-a-retroceder-y-mostro-una-fuerte-caida-en-los-principales-rubros-2026102218100",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/condenaron-a-los-autores-de-dos-robos-uno-tenia-libertad-condicional-202610221830",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/una-camioneta-oficial-del-gobierno-volco-cerca-de-realico-2026102218300",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/emitieron-alerta-por-tormenta-para-la-region-2026102219400",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/restringen-circulacion-en-rutas-nacionales-por-las-fuertes-lluvias-2026102219110",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/america/vota-brasil-postales-y-reflexiones-la-ciudad-la-rosca-n5427614",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/congreso/ley-salud-mental-patricia-bullrich-busca-aprobar-la-reforma-las-partidas-que-pide-passalacqua-n5427609",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/conurbano/chapadmalal-el-kirchnerismo-busca-frenar-la-concesion-los-hoteles-anunciada-milei-n5427602",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/conurbano/el-pro-bonaerense-no-se-sube-la-ola-patricia-bullrich-presidenta-n5427608",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-islam-abrio-un-nuevo-frente-conflicto-martin-menem-y-las-fuerzas-del-cielo-n5427599",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/elecciones-concurrentes-o-desdobladas-buenos-aires-un-debate-abierto-el-kicillofismo-n5427604",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/javier-milei-vs-patricia-bullrich-mileismo-critico-o-mileismo-milei-2027-n5427610",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/si-lula-da-silva-gana-vamos-ver-acciones-fuerza-estados-unidos-brasil-n5427612",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82075/marita-mac-allister-recorre-la-provincia-como-candidata",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82076/rivas-pide-por-un-nuevo-edificio-para-el-secundario-de-miguel-riglos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82077/robaron-un-banco-de-una-casa-en-pico-y-quedaron-filmados",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82079/continua-el-plan-de-obras-sobre-el-cauce-pampeano-del-atuel",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82080/volco-una-camioneta-del-gobierno-de-la-pampa-sobre-la-ruta-35-cerca-de-huinca-renanco",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82089/informe-tecnico-de-pampetrol-confirmo-que-vaca-muerta-no-llega-a-la-pampa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/82078/el-pj-busca-abroquelarse-en-una-nueva-cumbre-para-frenar-la-embestida-contra-las-paso",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/82092/termino-el-juicio-por-la-muerte-de-maradona-y-el-fallo-se-conocera-el-22-de-diciembre",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/22/concejo-prorrogaron-hasta-fin-de-ano-la-presentacion-del-presupuesto-2027/",
+    "title": "Concejo: Prorrogaron hasta fin de año la presentación del Presupuesto 2027",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/22/condenaron-a-tres-hombres-por-robos-en-viviendas/",
+    "title": "Condenaron a tres hombres por robos en viviendas",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/22/el-consumo-no-repunta-y-mostro-una-fuerte-caida-en-los-principales-rubros/",
+    "title": "El consumo no repunta y mostró una fuerte caída en los principales rubros",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/22/la-pampa-presente-en-el-foro-provincial-del-deporte-de-buenos-aires/",
+    "title": "La Pampa se hizo presente en el Foro Provincial del Deporte de Buenos Aires",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/22/marita-mac-allister-recorre-la-pampa-se-reunio-con-productores-y-empresarios/",
+    "title": "Marita Mac Allister recorre La Pampa: Se reunió con productores y emprendedores",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/22/milei-sobre-la-economia-argentina-la-foto-es-horrible-pero-la-pelicula-es-la-mejor-de-la-historia/",
+    "title": "Milei sobre la economía argentina: “La foto es horrible, pero la película es la mejor de la historia”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/22/rivas-insiste-en-la-construccion-de-nuevos-edificios-escolares-en-la-pampa/",
+    "title": "Rivas insiste en la construcción de nuevos edificios escolares en La Pampa",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/22/vuelve-castillo-vivo-al-parque-luro/",
+    "title": "Vuelve Castillo Vivo al Parque Luro",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/22/autovia-de-la-ruta-5-ingeniero-propone-cobrar-un-peaje-a-los-camiones-de-vaca-muerta/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/22/la-unlpam-en-general-acha-y-un-cafe-cientifico-de-educacion-financiera-para-jovenes/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/22/temor-por-crecida-del-atuel-el-gobierno-continua-con-la-limpieza-del-cauce/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/22/tres-hombres-fueron-condenados-a-tres-anos-de-carcel-por-distintos-robos/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/22/vaca-muerta-no-esta-en-la-pampa-el-gobierno-difundio-un-informe-tecnico-que-analizo-casi-2-000-pozos/",
     "title": null,
     "attempts": 0
   }
