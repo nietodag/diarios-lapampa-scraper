@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80488/realico-inauguro-su-muestra-rural-con-una-fuerte-apuesta-a-la-ganaderia-y-la-genetica-local",
     "title": "Realic&oacute; inaugur&oacute; su muestra rural con una fuerte apuesta a la ganader&iacute;a y la gen&eacute;tica local",
-    "attempts": 13
+    "attempts": 14
   },
   {
     "site": "El Diario de La Pampa",
@@ -36380,6 +36380,42 @@
   {
     "site": "Diario Textual",
     "url": "https://diariotextual.com/inicio/index.php/2026/10/22/el-gobierno-de-trump-blanqueo-la-preocupacion-de-sus-empresas-por-la-ley-malvinas/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/la-noche-que-brasil-perdio-el-aliento-n5427618",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/axel-kicillof-sergio-massa-y-kirchner-juntos-como-ampliar-un-frente-otras-fuerzas-medio-la-guerra-n5427621",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/linea-abierta/82101/mensajes-23-10-2026",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/22/ziliotto-armar-un-frente-politico-que-ponga-el-foco-de-las-politicas-publicas-en-el-bienestar-del-pueblo/",
+    "title": "Ziliotto: “armar un frente político que ponga el foco de las políticas públicas en el bienestar del pueblo”",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/22/ziliotto-anfitrion-de-una-cumbre-de-massa-kicillof-y-gobernadores-pretendemos-mantener-las-paso/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/31996-ziliotto-anfitrion-y-vocero-de-la-cumbre-peronista-nacional",
     "title": null,
     "attempts": 0
   }
