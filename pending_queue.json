@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/deportes/80572/mac-allister-hablo-del-futuro-de-scaloni",
     "title": "Mac Allister habl&oacute; del futuro de Scaloni",
-    "attempts": 7
+    "attempts": 8
   },
   {
     "site": "El Diario de La Pampa",
@@ -35847,6 +35847,48 @@
     "site": "Radio Kermes",
     "url": "https://www.radiokermes.com/noticias/32018-un-proyecto-propone-acompanar-la-crianza-familiar",
     "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/24/general-pico-fijaron-el-cronograma-de-recoleccion-de-residuos-especiales-para-las-zonas-5-y-6/",
+    "title": "General Pico: fijaron el cronograma de recolección de residuos especiales para las zonas 5 y 6",
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/la-quinta-pata/el-diario-del-lunes-brasil-y-el-resto-america-latina-n5427678",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-rigi-maximiliano-pullaro-n5427672",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/la-guerra-del-hielo-la-pampa-colo-un-amparo-los-glaciares-la-ventana-ambientalista-que-abrio-la-corte-n5427616",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/la-sucesion-ricardo-quintela-un-sector-del-pj-rechaza-la-ley-lemas-y-propone-internas-abiertas-n5427654",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/los-candidatos-las-sombras-la-ciudad-cordoba-n5427664",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/24/laura-paturlanne-se-presento-en-buenos-aires-con-el-espectaculo-mujer-patagonia/",
+    "title": "Laura Paturlanne se presentó en Buenos Aires con el espectáculo “Mujer Patagonia”",
     "attempts": 0
   }
 ]
