@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/deportes/80572/mac-allister-hablo-del-futuro-de-scaloni",
     "title": "Mac Allister habl&oacute; del futuro de Scaloni",
-    "attempts": 8
+    "attempts": 9
   },
   {
     "site": "El Diario de La Pampa",
@@ -35889,6 +35889,12 @@
     "site": "Plan B Noticias",
     "url": "https://www.planbnoticias.com.ar/index.php/2026/10/24/laura-paturlanne-se-presento-en-buenos-aires-con-el-espectaculo-mujer-patagonia/",
     "title": "Laura Paturlanne se presentó en Buenos Aires con el espectáculo “Mujer Patagonia”",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/caldenia/inmigracion-e-identidad-20261025600",
+    "title": null,
     "attempts": 0
   }
 ]
