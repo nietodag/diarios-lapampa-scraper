@@ -1232,7 +1232,9 @@
     "https://www.pampadiario.com/single-post.php?id=83225": 1793033792.27137,
     "https://www.pampadiario.com/single-post.php?id=83228": 1793049767.1714404,
     "https://www.pampadiario.com/single-post.php?id=83227": 1793049767.1714404,
-    "https://www.pampadiario.com/single-post.php?id=83226": 1793049767.1714404
+    "https://www.pampadiario.com/single-post.php?id=83226": 1793049767.1714404,
+    "https://www.pampadiario.com/single-post.php?id=83231": 1793061470.2253497,
+    "https://www.pampadiario.com/single-post.php?id=83230": 1793061470.2253497
   },
   "Info Pico": {
     "https://www.infopico.com/2026/07/18/musica-e-inclusion-una-fundacion-de-la-pampa-organiza-un-show-con-total-accesibilidad-en-buenos-aires/": 1784416721.202942,
@@ -3337,7 +3339,13 @@
     "https://www.infopico.com/2026/10/26/la-fdr-aprobo-su-balance-anual-con-superavit-y-prepara-actividades-por-su-32-aniversario/": 1793049767.1714404,
     "https://www.infopico.com/2026/10/26/trenel-conmemoro-su-120-aniversario-con-un-llamado-a-la-unidad-y-un-homenaje-a-ruben-marin/": 1793049767.1714404,
     "https://www.infopico.com/2026/10/26/varas-antes-del-debut-en-el-larrea-prefiero-seguir-defendiendo-asi-pero-encontrar-claridad-ofensiva/": 1793049767.1714404,
-    "https://www.infopico.com/2026/10/26/colision-entre-una-camioneta-y-una-bicicleta-en-la-esquina-de-9-y-26-dejo-a-una-menor-hospitalizada/": 1793049767.1714404
+    "https://www.infopico.com/2026/10/26/colision-entre-una-camioneta-y-una-bicicleta-en-la-esquina-de-9-y-26-dejo-a-una-menor-hospitalizada/": 1793049767.1714404,
+    "https://www.infopico.com/2026/10/26/juegos-de-la-araucania-gran-arranque-para-la-pampa-con-festejos-en-deportes-colectivos-y-medallas-individuales/": 1793061470.2253497,
+    "https://www.infopico.com/2026/10/26/confirmaron-dos-feriados-nacionales-para-noviembre-cuales-son-las-fechas-y-los-motivos/": 1793061470.2253497,
+    "https://www.infopico.com/2026/10/26/el-municipio-intensifico-los-trabajos-de-limpieza-y-mantenimiento-en-el-barrio-indios-ranqueles/": 1793061470.2253497,
+    "https://www.infopico.com/2026/10/26/tres-proyectos-pampeanos-clasificaron-a-la-final-nacional-del-certamen-emprendimiento-argentino/": 1793061470.2253497,
+    "https://www.infopico.com/2026/10/26/ziliotto-inauguro-el-nuevo-centro-de-salud-de-mauricio-mayer-y-cuestiono-el-ajuste-nacional-no-puedo-castigar-a-un-pueblo-por-como-voto/": 1793061470.2253497,
+    "https://www.infopico.com/2026/10/26/grave-repudio-y-retencion-de-tareas-arbitros-pampeanos-paran-la-actividad-tras-agresiones-en-el-pre-federal-de-basquet/": 1793061470.2253497
   },
   "La Arena": {
     "https://www.laarena.com.ar/deportes/basquet-ferro-igualo-la-serie-ante-all-boys-20267188490": 1784416721.202942,
@@ -10803,7 +10811,22 @@
     "https://www.laarena.com.ar/el-pais/amnistia-internacional-denunciara-a-milei-por-sus-ataques-a-periodistas-2026102616160": 1793049767.1714404,
     "https://www.laarena.com.ar/la-pampa/robaron-una-moto-en-cane-y-la-recuperaron-en-pico-hay-dos-imputados-2026102617520": 1793049767.1714404,
     "https://www.laarena.com.ar/la-region/en-una-competencia-de-pesca-lo-que-faltaron-fueron-las-corvinas-2026102614520": 1793049767.1714404,
-    "https://www.laarena.com.ar/la-pampa/el-municipio-inicio-labores-de-renovacion-y-refaccion-de-juegos-infantiles-de-la-laguna-2026102614140": 1793049767.1714404
+    "https://www.laarena.com.ar/la-pampa/el-municipio-inicio-labores-de-renovacion-y-refaccion-de-juegos-infantiles-de-la-laguna-2026102614140": 1793049767.1714404,
+    "https://www.laarena.com.ar/la-pampa/advierten-que-las-nineces-estan-en-peligro-y-exigen-respuestas-al-estado-202610262000": 1793061470.2253497,
+    "https://www.laarena.com.ar/la-pampa/finalizo-la-formacion-docente-en-educacion-financiera-2026102621320": 1793061470.2253497,
+    "https://www.laarena.com.ar/deportes/el-paris-saint-germain-gano-el-premio-a-mejor-equipo-del-mundo-2026102619510": 1793061470.2253497,
+    "https://www.laarena.com.ar/la-pampa/cerro-la-historica-asociacion-damas-de-beneficencia-de-eduardo-castex-2026102619160": 1793061470.2253497,
+    "https://www.laarena.com.ar/el-mundo/brasil-la-justicia-le-prohibio-salir-del-pais-a-flavio-bolsonaro-2026102618240": 1793061470.2253497,
+    "https://www.laarena.com.ar/el-pais/masacre-de-barracas-pidieron-la-prision-perpetua-para-justo-barrientos-2026102618430": 1793061470.2253497,
+    "https://www.laarena.com.ar/la-region/un-hombre-murio-al-volcar-con-su-automovil-en-un-camino-vecinal-2026102619180": 1793061470.2253497,
+    "https://www.laarena.com.ar/la-pampa/ziliotto-reivindico-el-rol-del-estado-en-la-salud-publica-al-inaugurar-un-centro-en-mauricio-mayer-202610262080": 1793061470.2253497,
+    "https://www.laarena.com.ar/la-region/se-cayo-a-1-800-metros-de-altura-paso-la-noche-y-fue-rescatado-en-helicoptero-202610262160": 1793061470.2253497,
+    "https://www.laarena.com.ar/la-region/emitieron-alerta-por-tormenta-y-nevada-para-la-region-2026102619520": 1793061470.2253497,
+    "https://www.laarena.com.ar/el-pais/massa-el-presidente-milei-tiene-que-reconocer-el-triunfo-de-lula-2026102620440": 1793061470.2253497,
+    "https://www.laarena.com.ar/deportes/estudiantes-cayo-con-union-y-se-aleja-de-la-clasificacion-en-el-clausura-2026102621240": 1793061470.2253497,
+    "https://www.laarena.com.ar/el-pais/realizaran-un-zapatazo-solidario-en-defensa-de-la-produccion-nacional-202610261960": 1793061470.2253497,
+    "https://www.laarena.com.ar/deportes/harry-kane-gano-el-balon-de-oro-2026-202610262000": 1793061470.2253497,
+    "https://www.laarena.com.ar/la-pampa/el-datacenter-de-empatel-cumple-15-anos-como-motor-del-desarrollo-tecnologico-provincial-2026102618550": 1793061470.2253497
   },
   "LetraP": {
     "https://www.letrap.com.ar/politica/santiago-del-estero-el-pro-se-concentra-la-capital-y-la-banda-no-sucumbir-la-avanzada-libertaria-n5425166": 1784416721.202942,
@@ -13000,7 +13023,12 @@
     "https://www.letrap.com.ar/politica/la-historia-fin-la-justicia-rio-negro-volvio-suspender-el-referendum-contra-marcelo-roman-allen-n5427695": 1793049767.1714404,
     "https://www.letrap.com.ar/politica/el-consuelo-javier-milei-la-derrota-bolsonaro-mantener-el-liderazgo-la-derecha-regional-n5427692": 1793049767.1714404,
     "https://www.letrap.com.ar/politica/javier-milei-el-lulazo-farmear-aura-el-balcon-ratificar-el-modelo-economico-frente-al-gabinete-n5427696": 1793049767.1714404,
-    "https://www.letrap.com.ar/politica/axel-kicillof-suma-una-escala-jujuy-lo-recibira-el-gobernador-sadir-n5427694": 1793049767.1714404
+    "https://www.letrap.com.ar/politica/axel-kicillof-suma-una-escala-jujuy-lo-recibira-el-gobernador-sadir-n5427694": 1793049767.1714404,
+    "https://www.letrap.com.ar/congreso/patricia-bullrich-y-martin-menem-abandonan-santilli-y-complican-la-busqueda-votos-suspender-las-paso-n5427703": 1793061470.2253497,
+    "https://www.letrap.com.ar/sergio-torres-pidio-prudencia-la-politica-los-cambios-el-sistema-electoral-2027-n5427713": 1793061470.2253497,
+    "https://www.letrap.com.ar/congreso/malvinas-santiago-caputo-acepta-menem-y-abdala-el-consejo-seguridad-pero-roles-acotados-n5427711": 1793061470.2253497,
+    "https://www.letrap.com.ar/politica/axel-kicillof-toma-nota-del-triunfo-lula-pero-descarta-copiar-una-estrategia-capitalizar-el-resultado-n5427705": 1793061470.2253497,
+    "https://www.letrap.com.ar/america/el-circulo-rojo-brasil-recalcula-convivir-cuatro-anos-mas-lula-da-silva-n5427708": 1793061470.2253497
   },
   "El Diario de La Pampa": {
     "https://www.eldiariodelapampa.com.ar/pais/77403/morosidad-en-alza--se-agrava-el-problema-y-1-de-cada-3-argentinos-con-deuda-no-puede-pagar": 1784416721.202942,
@@ -17207,7 +17235,10 @@
     "https://www.eldiariodelapampa.com.ar/pais/82239/hotesur---los-sauces--la-fiscalia-apunto-a-retornos-entre-los-kirchner-y-empresarios": 1793049767.1714404,
     "https://www.eldiariodelapampa.com.ar/mundo/82237/trump-acuso-de-manipuladas-y-corruptas-las-elecciones-en-brasil-tras-el-triunfo-de-lula": 1793049767.1714404,
     "https://www.eldiariodelapampa.com.ar/la-pampa/82236/entregaron-mas-de-276-millones-en-creditos-a-emprendedores-de-alpachiri-y-parera": 1793049767.1714404,
-    "https://www.eldiariodelapampa.com.ar/la-pampa/82238/condenado-por-robar-en-dos-viviendas-y-usar-una-tarjeta-de-mercado-pago": 1793049767.1714404
+    "https://www.eldiariodelapampa.com.ar/la-pampa/82238/condenado-por-robar-en-dos-viviendas-y-usar-una-tarjeta-de-mercado-pago": 1793049767.1714404,
+    "https://www.eldiariodelapampa.com.ar/la-pampa/82243/ziliotto-inauguro-nuevo-centro-de-salud-y-contrasto-el-rol-del-estado-con-el-ajuste-nacional": 1793061470.2253497,
+    "https://www.eldiariodelapampa.com.ar/la-pampa/82242/el-datacenter-de-empatel-cumplio-15-anos-como-corazon-de-la-conectividad-pampeana": 1793061470.2253497,
+    "https://www.eldiariodelapampa.com.ar/la-pampa/82244/ultima-semana-para-completar-las-inscripciones-escolares-del-ciclo-lectivo-2027": 1793061470.2253497
   },
   "Dos Bases": {
     "https://www.dosbases.com.ar/2019/01/dinosaurios-vivos-el-fiscal-aguero-alerto-sobre-un-boom-de-estafas-a-telefonicas-y-recomienda-que-el-blp-no-permita-a-jubilados-transferencias-de-montos-altos-por-cajero/": 1784416721.202942,
@@ -24839,7 +24870,17 @@
     "https://www.planbnoticias.com.ar/index.php/2026/10/26/se-inicio-la-puesta-en-valor-del-area-de-juegos-infantiles-del-parque-laguna-don-tomas/": 1793049767.1714404,
     "https://www.planbnoticias.com.ar/index.php/2026/10/26/ultima-semana-de-inscripciones-para-el-ingreso-a-inicial-primaria-y-secundaria-en-2027/": 1793049767.1714404,
     "https://www.planbnoticias.com.ar/index.php/2026/10/26/mas-de-120-empresas-confirmaron-su-presencia-en-el-evento-la-pampa-negocios-360/": 1793049767.1714404,
-    "https://www.planbnoticias.com.ar/index.php/2026/10/26/el-papa-leon-xiv-confirmo-su-viaje-a-la-argentina/": 1793049767.1714404
+    "https://www.planbnoticias.com.ar/index.php/2026/10/26/el-papa-leon-xiv-confirmo-su-viaje-a-la-argentina/": 1793049767.1714404,
+    "https://www.planbnoticias.com.ar/index.php/2026/10/26/fopea-pidio-la-intervencion-del-relator-especial-de-la-onu-por-la-escalada-de-agresiones-contra-el-periodismo/": 1793061470.2253497,
+    "https://www.planbnoticias.com.ar/index.php/2026/10/26/ziliotto-inauguro-un-centro-de-salud-en-mauricio-mayer-y-cuestiono-la-discriminacion-del-gobierno-nacional/": 1793061470.2253497,
+    "https://www.planbnoticias.com.ar/index.php/2026/10/26/provincia-confirmo-que-habra-dos-feriados-nacionales-en-noviembre/": 1793061470.2253497,
+    "https://www.planbnoticias.com.ar/index.php/2026/10/26/sindicato-de-viales-gano-el-oficialismo-y-melon-continuara-como-secretario-general/": 1793061470.2253497,
+    "https://www.planbnoticias.com.ar/index.php/2026/10/26/518278/": 1793061470.2253497,
+    "https://www.planbnoticias.com.ar/index.php/2026/10/26/impulsando-el-desarrollo-tecnologico-pampeano-el-datacenter-de-empatel-cumple-15-anos/": 1793061470.2253497,
+    "https://www.planbnoticias.com.ar/index.php/2026/10/26/coirco-cumplio-medio-siglo-en-la-gestion-integral-del-agua/": 1793061470.2253497,
+    "https://www.planbnoticias.com.ar/index.php/2026/10/26/brasil-la-justicia-le-prohibio-salir-del-pais-a-flavio-bolsonaro-tras-la-derrota-electoral/": 1793061470.2253497,
+    "https://www.planbnoticias.com.ar/index.php/2026/10/26/la-pampa-empezo-ganando-en-los-juegos-de-la-araucania/": 1793061470.2253497,
+    "https://www.planbnoticias.com.ar/index.php/2026/10/26/el-riesgo-pais-salto-a-755-puntos-y-las-acciones-argentinas-cayeron-hasta-un-9-en-wall-street/": 1793061470.2253497
   },
   "Infotec Realicó": {
     "https://infotecrealico.com.ar/contenido/86896/la-provincia-no-aprobo-el-informe-final-ambiental-de-el-medanito-y-remitio-un-in": 1784416721.202942,
@@ -28350,7 +28391,13 @@
     "https://diariotextual.com/inicio/index.php/2026/10/26/milei-evito-saludar-a-lula-por-su-triunfo-y-el-gobierno-debate-el-impacto-de-la-eleccion-en-brasil/": 1793033792.27137,
     "https://diariotextual.com/inicio/index.php/2026/10/26/el-gremio-sitraj-advirtio-de-la-grave-situacion-laboral-en-las-defensorias-civiles/": 1793049767.1714404,
     "https://diariotextual.com/inicio/index.php/2026/10/26/el-papa-leon-xiv-confirmo-su-viaje-argentina-alla-vamos/": 1793049767.1714404,
-    "https://diariotextual.com/inicio/index.php/2026/10/26/la-pampa-negocios-360-unas-120-empresas-confirmaron-su-presencia/": 1793049767.1714404
+    "https://diariotextual.com/inicio/index.php/2026/10/26/la-pampa-negocios-360-unas-120-empresas-confirmaron-su-presencia/": 1793049767.1714404,
+    "https://diariotextual.com/inicio/index.php/2026/10/26/ziliotto-inauguro-un-centro-de-salud-en-mayer-y-dijo-que-la-pampa-esta-castigada-por-milei/": 1793061470.2253497,
+    "https://diariotextual.com/inicio/index.php/2026/10/26/tres-emprendimientos-pampeanos-competiran-en-la-final-nacional-de-emprendimiento-argentino-2026/": 1793061470.2253497,
+    "https://diariotextual.com/inicio/index.php/2026/10/26/el-inta-exonero-a-virginia-aparicio-la-investigadora-del-proyecto-que-midio-agroquimicos/": 1793061470.2253497,
+    "https://diariotextual.com/inicio/index.php/2026/10/26/harry-kane-gano-el-balon-de-oro-2026/": 1793061470.2253497,
+    "https://diariotextual.com/inicio/index.php/2026/10/26/la-banda-sinfonica-de-la-pampa-ofrecera-una-gala-dedicada-al-rock/": 1793061470.2253497,
+    "https://diariotextual.com/inicio/index.php/2026/10/26/artesanas-del-oeste-pampeano-se-capacitaron-en-marketing-cultural/": 1793061470.2253497
   },
   "Radio Kermes": {
     "https://www.radiokermes.com/noticias/30889-el-partido-argentina-enfrenta-a-inglaterra-y-busca-la-final-mundial": 1784416721.202942,
@@ -29511,7 +29558,9 @@
     "https://www.radiokermes.com/noticias/32033-los-arbitros-de-basquet-no-dirigiran-tras-las-agresiones-en-all-boys": 1793033792.27137,
     "https://www.radiokermes.com/noticias/32029-reconocimiento-nacional-para-proyectos-educativos-de-la-pampa": 1793033792.27137,
     "https://www.radiokermes.com/noticias/32031-los-frigorificos-trabajan-al-100-pero-se-estan-olvidando-del-trabajador": 1793033792.27137,
-    "https://www.radiokermes.com/noticias/32034-el-desafio-de-sostener-las-luchas-populares-frente-al-avance-de-las-derechas": 1793049767.1714404
+    "https://www.radiokermes.com/noticias/32034-el-desafio-de-sostener-las-luchas-populares-frente-al-avance-de-las-derechas": 1793049767.1714404,
+    "https://www.radiokermes.com/noticias/32035-reclaman-a-provincia-y-municipio-respuestas-frente-a-la-crisis": 1793061470.2253497,
+    "https://www.radiokermes.com/noticias/32036-el-inta-exonero-a-virginia-aparicio-tras-revelar-contaminacion-con-agrotoxicos": 1793061470.2253497
   },
   "En Boca de Todos HD": {
     "https://www.enbocadetodoshd.com.ar/provinciales/2026/7/18/malestar-tension-en-bomberos-voluntarios-de-acha-por-la-conducta-de-un-integrante-120596.html": 1784416721.202942,
