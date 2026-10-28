@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/mundo/80597/trump-en-su-discurso-en-la-onu-amenazo-con-aniquilar-a-iran-y-defendio-su-gestion",
     "title": "Trump, en su discurso en la ONU, amenaz&oacute; con \"aniquilar\" a Ir&aacute;n y defendi&oacute; su gesti&oacute;n",
-    "attempts": 7
+    "attempts": 8
   },
   {
     "site": "El Diario de La Pampa",
@@ -38258,6 +38258,384 @@
   {
     "site": "Radio Kermes",
     "url": "https://www.radiokermes.com/noticias/32052-para-el-fmi-con-el-tiempo-llegara-el-crecimiento-y-el-empleo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83229",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83247",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83255",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83257",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/28/capacitacion-sobre-cipadi-en-general-pico-para-optimizar-tramites-y-servicios-digitales/",
+    "title": "Capacitación sobre CiPadi en General Pico para optimizar trámites y servicios digitales",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/28/confirman-prision-efectiva-para-un-hombre-que-abuso-de-su-sobrina-la-familia-habia-encubierto-al-agresor/",
+    "title": "Confirman prisión efectiva para un hombre que abusó de su sobrina: la familia había encubierto al agresor",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/28/dolor-en-la-seleccion-argentina-fallecio-eulalia-marzetti-la-mama-de-lionel-scaloni/",
+    "title": "Dolor en la Selección Argentina: falleció Eulalia Marzetti, la mamá de Lionel Scaloni",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/28/five-trends-shaping-latam-igaming-in-2027-a-view-from-bsw/",
+    "title": "Five Trends Shaping LATAM iGaming in 2027: A View From BSW",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/28/hay-una-alta-predisposicion-al-trabajo-y-a-la-tarea-docente-calderon-destaco-la-masiva-participacion-en-capacitaciones/",
+    "title": "«Hay una alta predisposición al trabajo y a la tarea docente»: Calderón destacó la masiva participación en capacitaciones",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/28/lalcec-general-pico-presentara-su-almanaque-2027-con-eje-en-la-longevidad-activa/",
+    "title": "LALCEC General Pico presentará su almanaque 2027 con eje en la longevidad activa",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/28/planes-de-ahorro-marin-detallo-el-estado-del-amparo-colectivo-y-la-pelea-por-la-reliquidacion-de-las-cuotas/",
+    "title": "Planes de ahorro: Marín detalló el estado del amparo colectivo y la pelea por la reliquidación de las cuotas",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/28/reto-del-dia-seran-capaces-de-obtener-el-resultado-correcto/",
+    "title": "Reto del día: ¿Serán capaces de obtener el resultado correcto?",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/28/tragico-desenlace-en-corrientes-hallaron-muerta-a-la-docente-nancy-godoy-y-hay-cinco-personas-imputadas/",
+    "title": "Trágico desenlace en Corrientes: hallaron muerta a la docente Nancy Godoy y hay cinco personas imputadas",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/28/viajando-entre-letras-general-pico-propone-una-jornada-de-juegos-y-lectura-en-el-vagon-de-cabildo-xxi/",
+    "title": "“Viajando entre letras”: General Pico propone una jornada de juegos y lectura en el Vagón de Cabildo XXI",
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/america/las-nuevas-derechas-queman-los-puentes-la-democracia-los-bolsonaro-donald-trump-y-javier-milei-al-ataque-n5427758",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/de-san-nicolas-la-casa-rosada-santiago-passaglia-y-manuel-passaglia-se-lanzaron-la-carrera-presidencial-n5427763",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/el-presupuesto-javier-milei-excluye-la-juventud-n5427765",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/con-el-regimen-penal-juvenil-debate-diputados-avanzo-el-traspaso-la-justicia-menores-la-ciudad-n5427755",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-gobierno-ayudo-al-profugo-flavio-bolsonaro-escapar-brasil-n5427757",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-gobierno-donald-trump-le-pidio-la-casa-rosada-que-colaborara-la-fuga-bolsonaro-brasil-n5427761",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-socialismo-estira-ultimo-momento-la-negociacion-la-ucr-las-leyes-seguridad-pullaro-n5427749",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/flavio-bolsonaro-escapo-estados-unidos-argentina-pero-anoche-n5427756",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/gualeguaychu-davico-homenajeo-un-exsenador-k-y-desato-un-terremoto-juntos-n5427751",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/justicia-cordoba-segura-lidera-el-concurso-una-silla-clave-y-la-puja-entra-su-etapa-politica-n5427752",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/la-incognita-lisandro-enrico-2027-seguir-el-gabinete-pullaro-o-volver-medirse-las-urnas-n5427709",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/una-expropiacion-impulsada-ricardo-quintela-termino-una-demanda-millonaria-contra-la-rioja-la-corte-n5427712",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/82326/dolor-en-el-futbol--murio-la-madre-de-lionel-scaloni",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82318/bensusan-destaco-las-inversiones-privadas-en-energia-solar",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82319/explosion-e-incendio-en-un-jardin-maternal-de-santa-rosa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82321/la-ruta-151-y-la-152-entre-los-tramos-mas-criticos-de-las-rutas-del-pais",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82323/bases-federadas-repudio-la-exoneracion-de-una-investigadora-del-inta",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82324/explosion-en-el-jardin--la-comuna-atribuyo-el-hecho-a-una-falla-en-un-calefactor",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82327/exhibio-un-arma-en-la-via-publica-y-fue-detenido",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82328/acuerdan-el-pago-a-fin-de-mes-del-concepto-de-zona-desfavorable-para-auxiliares-de-la-educacion",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/mundo/82322/tragedia-en-espana--al-menos-46-muertos-tras-el-choque-de-dos-trenes",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/82320/fuga-de-flavio-bolsonaro--migraciones-confirmo-que-salio-desde-iguazu",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/82325/flavio-bolsonaro-paso-por-la-argentina-en-un-vuelo-privado-rumbo-a-estados-unidos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/28/ate-consigue-fecha-fija-de-pago-de-zona-desfavorable-para-auxiliares-de-educacion/",
+    "title": "ATE consigue fecha fija de pago de zona desfavorable para auxiliares de educación",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/28/bolsonaro-llego-a-estados-unidos-tras-la-ayuda-de-milei-para-fugarse/",
+    "title": "Bolsonaro llegó a Estados Unidos tras la ayuda de Milei para fugarse",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/28/el-viernes-30-corte-programado-en-el-barrio-aeropuerto/",
+    "title": "El viernes 30, corte programado en el barrio Aeropuerto",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/28/el-viernes-inaugura-el-salon-de-artes-visuales-seccion-artes-del-fuego/",
+    "title": "El viernes inaugura el Salón de Artes Visuales, Sección Artes del Fuego",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/28/hallaron-sin-vida-a-nancy-godoy-la-docente-que-estaba-desaparecida-en-corrientes/",
+    "title": "Hallaron sin vida a Nancy Godoy, la docente que estaba desaparecida en Corrientes",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/28/impulsan-estudio-sobre-percepcion-de-seguridad-en-espacios-publicos-en-pico-y-santa-rosa/",
+    "title": "Impulsan estudio sobre “percepción de seguridad” en espacios públicos en Pico y Santa Rosa",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/28/informe-privado-confirma-recesion-en-el-tercer-trimestre/",
+    "title": "Informe privado confirma recesión en el tercer trimestre",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/28/la-banda-sinfonica-presentara-rock-en-su-gala-de-octubre/",
+    "title": "La Banda Sinfónica presentará “Rock” en su Gala de octubre",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/28/la-municipalidad-distinguio-a-marcelo-millan-como-el-deportista-de-septiembre/",
+    "title": "La Municipalidad distinguió a Marcelo Millán como el Deportista de septiembre",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/28/mas-de-500-agentes-publicos-provinciales-se-capacitaron-en-el-uso-de-gde/",
+    "title": "Más de 500 agentes públicos provinciales se capacitaron en el uso de GDE",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/28/dolor-en-el-futbol-murio-la-madre-de-lionel-scaloni/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/28/la-docencia-universitaria-inicia-este-miercoles-un-paro-de-una-semana-por-la-ley-de-financiamiento/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/28/santa-rosa-exhibio-un-arma-en-la-calle-era-de-juguete-y-termino-demorado/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/28/una-explosion-provoco-graves-destrozos-en-un-jardin-maternal-municipal-de-santa-rosa/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32053-ziliotto-reunio-al-peronismo-pampeano",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32054-las-cooperativas-se-plantaron-a-la-ofensiva-en-el-encuentro-de-general-pico",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32055-juegos-de-la-araucania-la-pampa-sumo-medallas-tras-el-segundo-dia-de-los-juegos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32056-exoneracion-de-virginia-aparicio-esto-es-claramente-una-persecucion",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32057-nuevo-paro-de-la-docencia-universitaria-contra-el-ajuste-de-milei",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32058-violencia-en-las-escuelas-el-malestar-social-tambien-llega-al-aula",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32059-una-explosion-y-un-incendio-provocaron-importantes-danos-en-el-jardin-amiguitos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32060-educacion-sexual-nueva-columna-de-eva-quevedo-en-kermes",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32061-poeteca-recupera-una-entrevista-con-aldo-parfeniuk",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32062-una-charla-sobre-hemingway-por-los-cien-anos-de-su-novela-fiesta",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32063-ley-de-tierras-la-disputa-esta-sobre-territorios-muy-concretos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/opinion/32037-lulazo-la-energia-de-una-remontada-historica",
     "title": null,
     "attempts": 0
   }
