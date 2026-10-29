@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/mundo/80597/trump-en-su-discurso-en-la-onu-amenazo-con-aniquilar-a-iran-y-defendio-su-gestion",
     "title": "Trump, en su discurso en la ONU, amenaz&oacute; con \"aniquilar\" a Ir&aacute;n y defendi&oacute; su gesti&oacute;n",
-    "attempts": 10
+    "attempts": 11
   },
   {
     "site": "El Diario de La Pampa",
@@ -39177,6 +39177,66 @@
     "site": "Radio Kermes",
     "url": "https://www.radiokermes.com/noticias/32065-paro-docente-en-la-provincia-y-en-todo-el-pais",
     "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83272",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83273",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/28/ferro-supero-a-all-boys-y-es-el-unico-representante-pampeano-en-el-torneo-regional-amateur/",
+    "title": "Ferro superó a All Boys y es el único representante pampeano en el Torneo Regional Amateur",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/28/juegos-de-la-araucania-la-pampa-metio-tres-equipos-en-semifinales-y-amplio-su-cosecha-de-medallas/",
+    "title": "Juegos de la Araucanía: La Pampa metió tres equipos en semifinales y amplió su cosecha de medallas",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/28/quini-6-un-apostador-de-buenos-aires-gano-mas-de-1-080-millones-en-la-revancha/",
+    "title": "Quini 6: un apostador de Buenos Aires ganó más de $1.080 millones en La Revancha",
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/tercera-vuelta-brasil-una-nueva-venezuela-n5427796",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/82360/all-boys-le-gano-a-ferro-y-quedo-lider",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/82361/ferro-volvio-a-ganar-y-se-metio-en-semifinales",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/linea-abierta/82364/mensajes-29-10-2026",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/28/araucania-la-pampa-a-semifinales-en-voley-femenino-futbol-femenino-y-basquet-masculino/",
+    "title": "Araucanía: La Pampa a semifinales en vóley femenino, fútbol femenino y básquet masculino",
     "attempts": 0
   }
 ]
