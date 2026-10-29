@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/mundo/80597/trump-en-su-discurso-en-la-onu-amenazo-con-aniquilar-a-iran-y-defendio-su-gestion",
     "title": "Trump, en su discurso en la ONU, amenaz&oacute; con \"aniquilar\" a Ir&aacute;n y defendi&oacute; su gesti&oacute;n",
-    "attempts": 13
+    "attempts": 14
   },
   {
     "site": "El Diario de La Pampa",
@@ -39734,6 +39734,366 @@
   {
     "site": "Radio Kermes",
     "url": "https://www.radiokermes.com/noticias/32074-no-es-ningun-costo-politico-defender-a-los-trabajadores",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83281",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83282",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83283",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83292",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83293",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/29/detuvieron-en-25-de-mayo-a-un-hombre-buscado-por-narcotrafico-y-la-fpa-lo-traslado-a-cordoba/",
+    "title": "Detuvieron en 25 de Mayo a un hombre buscado por narcotráfico y la FPA lo trasladó a Córdoba",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/29/el-dano-empieza-mucho-antes-alertan-por-los-sintomas-silenciosos-del-acv-en-el-dia-mundial-contra-el-accidente-cerebrovascular/",
+    "title": "«El daño empieza mucho antes»: alertan por los síntomas silenciosos del ACV en el Día Mundial contra el accidente cerebrovascular",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/29/general-acha-capacitaron-a-efectivos-policiales-en-accidentologia-vial-y-preservacion-de-escenas/",
+    "title": "General Acha: capacitaron a efectivos policiales en accidentología vial y preservación de escenas",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/29/secuestran-cuatro-motos-por-picadas-y-wheelies-en-general-pico-no-basta-con-que-exista-una-infraccion-de-transito/",
+    "title": "Secuestran cuatro motos por picadas y wheelies en General Pico: «No basta con que exista una infracción de tránsito»",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/29/tragedia-en-espana-hallaron-el-cuerpo-de-agustin-randazzo-el-argentino-que-estaba-desaparecido-tras-el-choque-de-trenes/",
+    "title": "Tragedia en España: hallaron el cuerpo de Agustín Randazzo, el argentino que estaba desaparecido tras el choque de trenes",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/choque-de-trenes-en-espana-aparecio-muerto-el-otro-argentino-desaparecido-202610291880",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/lula-a-macri-recuerdo-con-nostalgia-cuando-las-diferencias-se-solucionaban-de-manera-civilizada-2026102918110",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/murio-patrick-stewart-iconico-actor-de-star-trek-y-x-men-2026102918290",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/la-onu-dijo-que-la-causa-demorara-anos-apuestan-a-que-se-trate-la-cautelar-2026102918520",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/misiones-encontraron-muerta-a-una-pareja-dentro-de-un-auto-202610291930",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/santa-teresa-sumo-4g-y-la-pampa-alcanzo-76-localidades-con-cobertura-movil-2026102917410",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/suspendieron-a-funcionaria-provincial-por-insultar-en-un-partido-de-basquet-2026102919520",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/las-puertas-del-auto-se-cerraron-automaticamente-y-su-bebe-quedo-adentro-2026102918100",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/llega-la-novena-edicion-de-la-fiesta-de-comida-al-disco-a-mar-y-campo-2026102917240",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/congreso/con-respaldo-patricia-bullrich-el-senado-invito-leon-xiv-al-congreso-y-le-pidio-que-reciba-villarruel-n5427826",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/congreso/presionado-patricia-bullrich-diego-santilli-dara-su-informe-el-senado-y-hablara-flavio-bolsonaro-n5427814",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/conurbano/la-libertad-avanza-busca-eliminar-40-leyes-y-revisar-casi-300-registros-bonaerenses-que-duplican-informacion-n5427815",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-pacto-rosario-la-casa-rosada-le-abre-el-juego-del-rigi-pullaro-frigerio-y-llaryora-n5427827",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-pro-se-aleja-mas-la-casa-rosada-los-siete-puntos-que-ponen-riesgo-el-presupuesto-javier-milei-n5427820",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/felipe-sola-no-me-gusta-eso-cristina-o-nada-n5427822",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/javier-milei-teme-que-lo-espien-comprara-detectores-microfonos-y-camaras-ocultas-n5427816",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/martin-perez-destaco-el-fallo-que-permitio-la-fiscalizacion-provincial-el-puerto-ushuaia-n5427821",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/82392/afa-aprobo-el-cambio-de-formato-en-el-torneo-del-futbol-argentino",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/82401/river-se-bajo-de-la-conferencia-previa-al-superclasico",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/espectaculos/82397/murio-patrick-stewart-actor-de-star-trek-y-x-men",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82391/una-funcionaria-provincial-sancionada-por-agredir-a-un-arbitro-de-basquet",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82393/alerta-por-falsos-jardines-maternales-en-santa-rosa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82394/balearon-a-un-sindicalista-en-bahia-blanca--no-se-por-que-me-dispararon",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82396/ziliotto-abrio-el-encuentro-provincial-del-trabajo-pampeano-y-defendio-el-salario-y-el-empleo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82398/santa-teresa-tiene-46-y-la-pampa-alcanzo-las-76-localidades-con-cobertura",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82399/alerta-nacional-por-el-comercio-de-una-leche-para-bebe-falsificada",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82400/hackeo-en-santa-isabel--advierten-que-es-la-tercera-vez-que-les-ocurre",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/82382/santilli-defendio-la-salida-de-flavio-bolsonaro-de-argentina",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/82395/la-fiscalia-desestimo-la-denuncia-por-el-ingreso-de-flavio-bolsonaro-al-pais",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/29/allanamiento-recuperaron-elementos-robados-y-detuvieron-a-un-hombre/",
+    "title": "Allanamiento: Recuperaron elementos robados y detuvieron a un hombre",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/29/aprobaron-el-cambio-de-formato-en-el-torneo-del-futbol-argentino-para-2027/",
+    "title": "Aprobaron el cambio de formato en el torneo del fútbol argentino para 2027",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/29/docentes-se-manifestaron-en-el-obelisco-por-nancy-godoy/",
+    "title": "Docentes se manifestaron en el Obelisco por Nancy Godoy",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/29/entregaron-fondos-para-emprendimientos-y-proyectos-comunitarios-en-la-humada/",
+    "title": "Entregaron fondos para emprendimientos y proyectos comunitarios en La Humada",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/29/hackearon-la-cuenta-del-municipio-de-santa-isabel-y-robaron-el-dinero-de-los-sueldos/",
+    "title": "Hackearon la cuenta del municipio de Santa Isabel y robaron el dinero de los sueldos",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/29/ingreso-el-proyecto-de-c-o-para-exigir-que-se-cumpla-la-normativa-ambiental-en-la-licitacion-de-el-medanito/",
+    "title": "Ingresó el proyecto de C. O. para exigir que se cumpla la normativa ambiental en la licitación de El Medanito",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/29/legislatura-por-unanimidad-se-aprobo-la-sala-de-tres-anos-obligatoria/",
+    "title": "Legislatura: Por unanimidad, se aprobó la sala de tres años obligatoria",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/29/mas-de-70-expositores-en-la-expo-vivero/",
+    "title": "Más de 70 expositores en la Expo Vivero",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/29/nivelan-calles-de-tierra-en-11-barrios-y-ya-limpiaron-el-67-de-los-canales-pluviales/",
+    "title": "Nivelan calles de tierra en 11 barrios y ya limpiaron el 67% de los canales pluviales",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/29/niyamas-y-kumbia-kuatika-llegan-a-el-galpon/",
+    "title": "Niyamas y Kumbia Kuatika llegan a El Galpón",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/29/advierten-por-la-circulacion-de-leche-de-formula-falsificada-para-bebes/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/29/con-santa-teresa-la-pampa-alcanzo-76-localidades-con-cobertura-de-telefonia-celular/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/29/gil-dominguez-acusa-a-milei-de-incumplir-su-propio-dnu-migratorio-por-el-ingreso-de-flavio-bolsonaro/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/29/hackearon-las-cuentas-de-santa-isabel-y-se-llevaron-el-dinero-para-pagar-los-salarios-a-los-municipales/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/29/la-unlpam-informo-los-calendarios-de-inscripcion-de-sus-facultades-para-2027/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/29/marin-fustigo-a-los-opositores-pampeanos-son-estatistas-hasta-catrilo-y-luego-liberales/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/29/relevaron-las-colecciones-paleontologicas-y-arqueologicas-del-museo-cholino-de-25-de-mayo/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/29/ziliotto-en-la-pampa-vamos-a-defender-a-rajatabla-el-salario-de-los-trabajadores/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/29/ziliotto-y-el-obispo-martin-se-reunieron-por-la-visita-del-papa-a-la-argentina-articularemos-acciones/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32064-la-resistencia-es-nuestra-cultura-nuestra-consmovision",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32075-hay-una-clara-discriminacion-desde-la-justicia-y-los-poderes-ejecutivos",
     "title": null,
     "attempts": 0
   }
