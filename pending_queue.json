@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/mundo/80597/trump-en-su-discurso-en-la-onu-amenazo-con-aniquilar-a-iran-y-defendio-su-gestion",
     "title": "Trump, en su discurso en la ONU, amenaz&oacute; con \"aniquilar\" a Ir&aacute;n y defendi&oacute; su gesti&oacute;n",
-    "attempts": 15
+    "attempts": 16
   },
   {
     "site": "El Diario de La Pampa",
@@ -40232,6 +40232,42 @@
   {
     "site": "Diario Textual",
     "url": "https://diariotextual.com/inicio/index.php/2026/10/29/weretilneck-confirmo-que-adelantara-los-comicios-en-rio-negro-y-respaldo-la-eliminacion-de-las-paso/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/el-pastor-detras-del-templo-que-inaugurara-javier-milei-ningun-presidente-hizo-tanto-los-evangelicos-n5427790",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/la-argentina-orbita-torno-al-planeta-lula-n5427828",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/jujuy-la-camara-nacional-electoral-le-dio-una-vida-mas-la-lista-rivarola-y-asoman-las-internas-el-pj-n5427831",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/villa-carlos-paz-el-juego-un-outsider-enciende-las-alarmas-el-plan-reeleccionista-esteban-aviles-n5427735",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/82410/nuevo-compromiso-para-colapinto-en-mexico",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/30/por-un-cheque-la-corte-rechaza-la-apelacion-y-hugo-martinez-deja-por-dos-meses-el-cargo-de-jefe-comunal-de-loventuel/",
     "title": null,
     "attempts": 0
   }
