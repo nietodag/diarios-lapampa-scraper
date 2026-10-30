@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/mundo/80597/trump-en-su-discurso-en-la-onu-amenazo-con-aniquilar-a-iran-y-defendio-su-gestion",
     "title": "Trump, en su discurso en la ONU, amenaz&oacute; con \"aniquilar\" a Ir&aacute;n y defendi&oacute; su gesti&oacute;n",
-    "attempts": 17
+    "attempts": 18
   },
   {
     "site": "El Diario de La Pampa",
@@ -40622,6 +40622,222 @@
   {
     "site": "Radio Kermes",
     "url": "https://www.radiokermes.com/noticias/32089-nacion-no-cumple-con-las-capacitaciones-de-la-ley-lucio-pero-provincia-se-hace-cargo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83264",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83299",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83303",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/30/alerta-en-el-mundo-cripto-binance-sufrio-una-brecha-de-seguridad-con-un-impacto-multimillonario-pero-asegura-que-los-fondos-estan-a-salvo/",
+    "title": "Alerta en el mundo cripto: Binance sufrió una brecha de seguridad con un impacto multimillonario pero asegura que los fondos están a salvo",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/30/la-oposicion-pampeana-avanza-en-la-conformacion-de-un-frente-comun-seis-fuerzas-sellaron-un-nuevo-acuerdo/",
+    "title": "La oposición pampeana avanza en la conformación de un frente común: seis fuerzas sellaron un nuevo acuerdo",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/30/la-pampa-defendio-el-federalismo-y-el-rol-del-estado-en-el-encuentro-agenda-ambiental-latinoamericana-2026/",
+    "title": "La Pampa defendió el federalismo y el rol del Estado en el encuentro Agenda Ambiental Latinoamericana 2026",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/30/la-pampa-reclamo-en-el-cimop-por-el-deterioro-de-las-rutas-nacionales-y-el-financiamiento-de-obras-clave/",
+    "title": "La Pampa reclamó en el CIMOP por el deterioro de las rutas nacionales y el financiamiento de obras clave",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/30/video-impactante-asi-fue-el-fuerte-choque-entre-una-moto-y-un-auto-en-calles-2-y-7/",
+    "title": "Video impactante: así fue el fuerte choque entre una moto y un auto en calles 2 y 7",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/libra-fiscalia-especializada-pide-reabrir-la-causa-y-rever-el-sobreseimiento-de-los-milei-2026103017220",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/chakra-raiz-fue-al-cd-y-reclama-una-solucion-politica-para-seguir-en-el-predio-202610301330",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/denuncia-por-presuntos-maltratos-a-ninos-2026103015250",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/el-ente-del-rio-colorado-emitio-un-informe-tranquilizador-por-el-nino-2026103014370",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/gatica-anuncio-prevenciones-ante-la-posible-crecida-del-atuel-2026103014430",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/la-corte-confirmo-la-inhabilitacion-del-jefe-comunal-de-loventuel-2026103013120",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/policias-le-salvaron-la-vida-a-un-bebe-de-cuatro-meses-2026103013460",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/ponen-en-funcion-pozos-de-agua-potable-en-jacinto-arauz-202610301420",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/todo-listo-para-la-apertura-de-la-segunda-etapa-del-parque-lineal-2026103013380",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/descubren-una-especie-de-dinosaurio-que-media-siete-metros-y-era-carnivoro-2026103013550",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/severo-temporal-de-agua-y-granizo-impacto-en-establecimientos-rurales-2026103014540",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/futbol-y-politica/crisis-union-santa-fe-la-trama-oculta-detras-la-renuncia-miguel-del-sel-la-comision-directiva-n5427857",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-pro-rios-se-alista-retener-bancas-ganar-parana-y-conservar-la-viceintendencia-concordia-n5427846",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/viene-leon-xiv-siete-cada-diez-creen-que-la-visita-del-papa-no-mejorara-el-clima-social-n5427858",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82430/otro-auto-se-llevo-puesto-un-bolardo-en-el-microcentro-santarroseno",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82431/policias-le-salvaron-la-vida-a-un-bebe-de-4-meses-en-santa-rosa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82432/robo-una-moto-intento-esconderse-en-un-pozo-de-dos-metros-y-termino-detenido",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82433/tres-empresas-petroleras-presentaron-propuestas-para-el-area-el-medanito",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82434/la-pampa-participo-del-encuentro-agenda-ambiental-latinoamericana-2026-en-la-plata",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82436/el-mercado-municipal-abre-el-sabado-con-combos-y-ofertas",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/82435/brasil-le-pide-explicaciones-a-argentina-por-la-fuga-de-flavio-bolsonaro",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/30/brasil-le-pide-explicaciones-a-argentina-por-la-fuga-de-flavio-bolsonaro/",
+    "title": "Brasil le pide explicaciones a Argentina por la fuga de Flávio Bolsonaro",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/30/el-sabado-se-inaugura-la-segunda-etapa-del-parque-lineal/",
+    "title": "El sábado se inaugura la segunda etapa del Parque Lineal",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/30/la-charla-que-me-quitaron-con-el-pampa-en-la-plaza-espana-a-43-anos-de-recuperar-la-democracia/",
+    "title": "La charla que me quitaron con “El Pampa” en la plaza España a 43 años de recuperar la democracia",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/30/la-confianza-cuesta-mucho-generarla-pero-se-esta-avanzando-en-el-gran-frente-video/",
+    "title": "“La confianza cuesta mucho generarla, pero se está avanzando en el gran frente” (video)",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/30/caso-libra-una-fiscalia-especializada-en-corrupcion-apelo-los-sobreseimientos-y-afirma-que-hay-senales-de-una-defraudacion/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/30/santa-rosa-inaugura-la-segunda-etapa-del-parque-lineal-con-espectaculos-y-la-apertura-del-carrusel/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/30/tres-empresas-petroleras-se-presentaron-para-quedarse-por-25-anos-con-el-medanito/",
     "title": null,
     "attempts": 0
   }
