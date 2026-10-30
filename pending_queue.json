@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/mundo/80597/trump-en-su-discurso-en-la-onu-amenazo-con-aniquilar-a-iran-y-defendio-su-gestion",
     "title": "Trump, en su discurso en la ONU, amenaz&oacute; con \"aniquilar\" a Ir&aacute;n y defendi&oacute; su gesti&oacute;n",
-    "attempts": 14
+    "attempts": 15
   },
   {
     "site": "El Diario de La Pampa",
@@ -40094,6 +40094,144 @@
   {
     "site": "Radio Kermes",
     "url": "https://www.radiokermes.com/noticias/32075-hay-una-clara-discriminacion-desde-la-justicia-y-los-poderes-ejecutivos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83294",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/29/alerta-global-en-el-mercado-cripto-binance-investiga-un-presunto-megahackeo-que-podria-superar-los-5-000-millones-de-dolares/",
+    "title": "Alerta global en el mercado cripto: Binance investiga un presunto megahackeo que podría superar los 5.000 millones de dólares",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/29/el-ateneo-cultural-presentara-una-noche-de-ritmo-tropical-en-el-viejo-galpon/",
+    "title": "El Ateneo Cultural presentará una noche de ritmo tropical en El Viejo Galpón",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/29/esclarecieron-el-hurto-de-un-telefono-celular-en-rancul-el-sospechoso-confeso-y-el-aparato-fue-recuperado/",
+    "title": "Esclarecieron el hurto de un teléfono celular en Rancul: el sospechoso confesó y el aparato fue recuperado",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/29/juegos-de-la-araucania-la-pampa-es-finalista-en-basquet-masculino-y-futbol-femenino-tras-una-jornada-historica/",
+    "title": "Juegos de la Araucanía: La Pampa es finalista en básquet masculino y fútbol femenino tras una jornada histórica",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/29/tragedia-en-la-ruta-22-hallaron-muerto-al-chofer-de-un-camion-en-el-limite-entre-rio-negro-y-la-pampa/",
+    "title": "Tragedia en la Ruta 22: hallaron muerto al chofer de un camión en el límite entre Río Negro y La Pampa",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/desgracia-con-suerte-un-caniche-cayo-desde-un-quinto-piso-y-sobrevivio-2026102922270",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/axel-kicillof-y-sus-intendentes-quieren-paso-y-reelecciones-como-conseguir-votos-cambiar-la-ley-vidal-n5427836",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-congreso-investigara-el-rol-la-side-y-santiago-caputo-la-fuga-flavio-bolsonaro-n5427838",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/legislatura-portena-el-peronismo-logro-sancionar-dos-proyectos-y-polarizo-milei-pero-lla-no-dio-pelea-n5427830",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/patricia-bullrich-no-pudo-destrabar-el-super-rigi-y-avalo-un-programa-similar-la-ucr-las-pymes-n5427824",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/82403/partida-con-alegrias-para-las-pampeanas",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/82407/se-pone-en-marcha-el-regional-06-de-tenis",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/82408/la-pampa-jugara-dos-finales-en-la-araucania",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82402/la-pampa-volvio-a-reclamar-por-las-rutas-nacionales-y-el-financiamiento-de-obras",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82404/expo-vivero-2026-llega-al-jardin-botanico-de-toay-con-mas-de-70-expositores",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82405/la-humada--alvarez-entrego-mas-de-125-millones-para-emprendimientos-y-programas-sociales",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82406/murio-el-doctor-eduardo-vazquez--medico-forense-y-testigo-clave-del-caso-otero",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/29/detuvieron-en-25-de-mayo-a-un-hombre-buscado-por-narcotrafico/",
+    "title": "Detuvieron en 25 de Mayo a un hombre buscado por narcotráfico",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/29/marin-apunto-a-las-contradicciones-de-la-oposicion-pampeana/",
+    "title": "Marín apuntó a “las contradicciones” de la oposición pampeana",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/29/autopsia-de-nancy-godoy-multiples-lesiones-punzocortantes/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/29/concejo-deliberante-de-pico-aprobo-prorroga-para-la-presentacion-del-presupuesto-2027/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/29/weretilneck-confirmo-que-adelantara-los-comicios-en-rio-negro-y-respaldo-la-eliminacion-de-las-paso/",
     "title": null,
     "attempts": 0
   }
