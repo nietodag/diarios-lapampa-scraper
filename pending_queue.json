@@ -1,303 +1,9 @@
 [
   {
     "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/mundo/80597/trump-en-su-discurso-en-la-onu-amenazo-con-aniquilar-a-iran-y-defendio-su-gestion",
-    "title": "Trump, en su discurso en la ONU, amenaz&oacute; con \"aniquilar\" a Ir&aacute;n y defendi&oacute; su gesti&oacute;n",
-    "attempts": 19
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/pais/80593/el-nino--el-municipio-amplia-capacidad-de-desagote-de-dos-canales",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/pais/80594/andis--la-justicia-confirmo-el-procesamiento-de-diego-spagnuolo-por-las-supuestas-coimas",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/pais/80595/la-iglesia-pidio-evitar-poner-a-leon-xiv-en-uno-u-otro-lado-de-la-grieta",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/pais/80596/ravier-minimizo-tensiones-entre-milei-y-bullrich--en-un-gobierno-liberal-no-somos-manada",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/pais/80598/santa-rosa-amplia-la-capacidad-de-escurrimiento-de-los-canales-ante-el-fenomeno-de-el-nino",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Plan B Noticias",
-    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/22/corrupcion-en-andis-la-justicia-confirmo-el-procesamiento-de-diego-spagnuolo/",
-    "title": "Corrupción en ANDIS: la Justicia confirmó el procesamiento de Diego Spagnuolo",
-    "attempts": 0
-  },
-  {
-    "site": "Plan B Noticias",
-    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/22/identidad-peronista-convoca-al-acto-por-el-dia-de-la-lealtad-la-unidad-es-mucho-mas-que-una-consigna/",
-    "title": "Identidad peronista convoca al acto por el Día de la Lealtad: “la unidad es mucho más que una consigna”",
-    "attempts": 0
-  },
-  {
-    "site": "Plan B Noticias",
-    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/22/mas-de-100-empresas-se-sumaron-al-impulso-de-las-energias-renovables-en-la-pampa/",
-    "title": "Más de 100 empresas se sumaron al impulso de las energías renovables en La Pampa",
-    "attempts": 0
-  },
-  {
-    "site": "Plan B Noticias",
-    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/22/pablo-di-liscia-nuevo-titular-de-la-secretaria-de-discapacidad/",
-    "title": "Pablo Di Liscia, nuevo titular de la Secretaría de Discapacidad",
-    "attempts": 0
-  },
-  {
-    "site": "Plan B Noticias",
-    "url": "https://www.planbnoticias.com.ar/index.php/2026/09/22/te-esperamos-este-martes-y-jueves-en-el-modulo-despensa-con-ofertas-y-promociones/",
-    "title": "Te esperamos este martes y jueves en el Módulo Despensa, con ofertas y promociones",
-    "attempts": 0
-  },
-  {
-    "site": "Diario Textual",
-    "url": "https://diariotextual.com/inicio/index.php/2026/09/22/unas-100-empresas-se-sumaron-al-impulso-de-las-energias-renovables-en-la-pampa/",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/deportes/2026/9/22/a-mis-62-anos-y-con-dolor-en-la-rodilla-corri-los-42-kilometros-en-buenos-aires-la-gente-se-sorprend-117020.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/22/identidad-peronista-convocatoria-provincial-por-el-dia-de-la-lealtad-117021.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/22/mas-de-100-empresas-se-sumaron-al-impulso-de-las-energias-renovables-en-la-pampa-117018.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/22/ruta-226-fuerte-choque-entre-una-hilux-y-un-fiat-uno-dejo-a-un-conductor-pampeano-hospitalizado-117025.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/09/22/general-pico-celebrara-la-estudiantina-en-el-paseo-ferroviario-con-musica-y-deportes/",
-    "title": "General Pico celebrará la Estudiantina en el Paseo Ferroviario con música y deportes",
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/09/22/la-apa-realiza-nuevas-perforaciones-en-dorila-para-reforzar-el-agua-en-general-pico/",
-    "title": "La APA realiza nuevas perforaciones en Dorila para reforzar el agua en General Pico",
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/09/22/reconocimiento-en-el-senado-daniel-kroneberger-entrego-la-distincion-al-merito-turistico-a-bernardo-larroude/",
-    "title": "Reconocimiento en el Senado: Daniel Kroneberger entregó la Distinción al Mérito Turístico a Bernardo Larroudé",
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/09/22/reves-para-las-automotrices-la-justicia-pampeana-ordena-el-pago-directo-a-una-ahorrista-por-mas-de-6-millones-de-pesos/",
-    "title": "Revés para las automotrices: la Justicia pampeana ordena el pago directo a una ahorrista por más de 6 millones de pesos",
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/09/22/un-chico-de-13-anos-fue-empujado-a-un-canal-en-calle-40-tenemos-determinado-quienes-son-los-dos-ninos-que-habrian-intervenido/",
-    "title": "Un chico de 13 años fue empujado a un canal en calle 40: «Tenemos determinado quiénes son los dos niños que habrían intervenido»",
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/deportes/basquet-la-ilusion-de-cuatro-chicos-pampeanos-20269221810",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/deportes/la-comision-de-la-afa-acepto-cambios-para-los-torneos-apertura-y-clausura-del-2027-202692217200",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/deportes/lionel-scaloni-tendria-encaminada-la-renovacion-con-la-seleccion-argentina-20269221890",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/el-mundo/onu-lideres-mundiales-denuncian-agresiones-de-israel-para-sabotear-la-paz-en-palestina-202692217540",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/el-pais/argentina-presento-una-protesta-formal-por-malvinas-en-medio-de-la-asamblea-de-la-onu-20269221810",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/el-pais/danica-cierra-su-planta-de-llavallol-30-trabajadores-en-incertidumbre-202692218190",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/el-pais/ley-de-financiamiento-universitario-la-justicia-intimo-al-gobierno-a-actualizar-salarios-y-becas-202692217300",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/la-pampa/alumnos-de-un-colegio-de-pico-organizan-una-colecta-para-familias-de-chaco-202692219110",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/la-pampa/en-anguil-realizan-tareas-preventivas-ante-la-posible-llegada-de-el-nino-202692216460",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/la-pampa/incendio-de-pastizales-en-la-ruta-1-a-la-altura-de-la-estacion-trili-202692218430",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/la-pampa/provincia-licito-tareas-de-mantenimiento-en-rutas-por-mas-de-3-170-millones-202692218510",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/la-pampa/salud-mental-lanzan-material-de-primera-escucha-y-realizan-capacitacion-202692219240",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/la-region/heroico-rescate-en-la-nieve-de-una-mujer-embarazada-y-su-familia-20269221930",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/la-region/ruta-151-proponen-que-los-funcionarios-recorran-en-sus-autos-las-rutas-que-deben-reparar-202692219370",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/bahia-blanca-la-visita-milei-agito-la-interna-la-libertad-avanza-y-tenso-el-acuerdo-el-pro-n5426793",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/conurbano/la-libertad-avanza-historia-un-portazo-que-cayo-como-una-bomba-la-camara-diputados-bonaerense-n5426800",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/la-liga-intendentes-agenda-agro-junto-wado-pedro-recorrio-la-semana-angus-canuelas-n5426814",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/politica/jorge-brito-2027-emilio-monzo-activa-el-plan-presidencial-y-empieza-el-armado-cordoba-santa-fe-y-mendoza-n5426801",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/politica/la-hoja-ruta-axel-kicillof-el-lanzamiento-provincias-agenda-global-y-pulseada-la-legislatura-n5426796",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/politica/la-trastienda-del-sincericidio-carlos-sadir-un-toma-y-daca-recursos-obras-y-favores-electorales-n5426808",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/politica/lisandro-catalan-viajo-nueva-jersey-y-consiguio-el-apoyo-un-peso-pesado-los-negocios-tucuman-n5426811",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/politica/olivosgate-agudiez-la-funcionaria-karina-milei-desplazada-multiplico-98-su-patrimonio-dos-anos-n5426804",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/politica/pax-armada-la-mesa-politica-karina-milei-y-patricia-bullrich-acordaron-el-siga-siga-n5426802",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/politica/rolando-figueroa-relanza-su-marca-gestion-aires-campana-n5426798",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/politica/un-exlarretista-recomendado-toto-caputo-asumira-al-frente-la-secretaria-discapacidad-n5426797",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/santa-fe/santa-fe-nicolas-ramirez-inauguro-un-local-pensando-2027-un-invitado-condenado-corrupcion-n5426803",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/espectaculos/80600/la-miniserie-argentina-elogiada-por-stephen-king--idea-genial",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/espectaculos/80601/que-se-sabe-de-la-salud-de-mirtha-legrand-tras-su-nueva-internacion",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/espectaculos/80602/una-de-las-peliculas-mas-exitosas-de-brad-pitt-tendra-su-secuela",
-    "title": null,
-    "attempts": 0
+    "title": "Una de las pel&iacute;culas m&aacute;s exitosas de Brad Pitt tendr&aacute; su secuela",
+    "attempts": 1
   },
   {
     "site": "El Diario de La Pampa",
@@ -41120,6 +40826,60 @@
   {
     "site": "Radio Kermes",
     "url": "https://www.radiokermes.com/noticias/32092-chakra-raiz-organizaciones-repudiaron-el-desalojo-y-apuntaron-contra-rojas-y-ziliotto",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/30/reves-judicial-para-una-familia-de-contencion-el-stj-denego-su-pedido-de-adopcion/",
+    "title": "Revés judicial para una familia de contención: el STJ denegó su pedido de adopción",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/30/rige-un-alerta-amarillo-por-tormentas-fuertes-para-gran-parte-de-la-pampa/",
+    "title": "Rige un alerta amarillo por tormentas fuertes para gran parte de La Pampa",
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/82456/se-conoce-al-primer-semifinalista-en-cane",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82443/un-detenido-por-robar-la-bateria-de-un-auto",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82454/todo-listo-para-la-inauguracion-de-la-segunda-etapa-del-parque-lineal-en-santa-rosa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82455/una-botella-al-mar-con-destino-a-2042--que-dira-la-santa-rosa-del-futuro-cuandoabra-nuestra-capsula-del-tiempo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/10/30/robo-una-bateria-de-un-auto-y-lo-detuvieron-tras-un-allanamiento/",
+    "title": "Robó una batería de un auto y lo detuvieron tras un allanamiento",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/30/el-smn-emitio-una-alerta-amarilla-por-tormentas-para-la-pampa/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/10/31/la-pampa-creo-un-organismo-provincial-para-coordinar-la-ablacion-y-el-trasplante-de-organos/",
     "title": null,
     "attempts": 0
   }
