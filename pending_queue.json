@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/espectaculos/80602/una-de-las-peliculas-mas-exitosas-de-brad-pitt-tendra-su-secuela",
     "title": "Una de las pel&iacute;culas m&aacute;s exitosas de Brad Pitt tendr&aacute; su secuela",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "site": "El Diario de La Pampa",
@@ -40880,6 +40880,42 @@
   {
     "site": "Diario Textual",
     "url": "https://diariotextual.com/inicio/index.php/2026/10/31/la-pampa-creo-un-organismo-provincial-para-coordinar-la-ablacion-y-el-trasplante-de-organos/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83307",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83316",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/10/31/multas-millonarias-en-la-pampa-por-caza-ilegal-infractores-deberan-pagar-hasta-5-6-millones/",
+    "title": "Multas millonarias en La Pampa por caza ilegal: infractores deberán pagar hasta $5.6 millones",
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32093-la-pampa-cerro-la-araucania-con-37-medallas-y-dos-subcampeonatos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32094-el-medanito-tres-empresas-buscan-quedarse-con-el-yacimiento",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32095-alertan-por-el-aumento-de-femicidios-y-la-desproteccion-estatal",
     "title": null,
     "attempts": 0
   }
