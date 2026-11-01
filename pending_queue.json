@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/espectaculos/80602/una-de-las-peliculas-mas-exitosas-de-brad-pitt-tendra-su-secuela",
     "title": "Una de las pel&iacute;culas m&aacute;s exitosas de Brad Pitt tendr&aacute; su secuela",
-    "attempts": 6
+    "attempts": 7
   },
   {
     "site": "El Diario de La Pampa",
@@ -41630,6 +41630,42 @@
   {
     "site": "Diario Textual",
     "url": "https://diariotextual.com/inicio/index.php/2026/10/31/murio-un-motociclista-de-62-anos-en-un-choque-con-una-bicicleta-en-general-pico/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/angel-rossi-el-jugador-inesperado-cordoba-rumbo-2027-n5427797",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-pj-jujuy-despues-kicillof-la-resurreccion-rivarola-la-cruzada-moises-y-un-mar-esquirlas-n5427876",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/maximiliano-pullaro-el-socialismo-y-una-sociedad-el-divan-n5427877",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/patagonia-bendita-milei-volvio-su-tierra-prometida-y-energizo-nadia-marquez-las-puertas-2027-n5427787",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/82486/derrota-de-yancaqueo-en-uruguay",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/videos-de-la-semana/82484/videos-de-la-semana",
     "title": null,
     "attempts": 0
   }
