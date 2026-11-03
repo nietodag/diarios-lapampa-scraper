@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/espectaculos/80602/una-de-las-peliculas-mas-exitosas-de-brad-pitt-tendra-su-secuela",
     "title": "Una de las pel&iacute;culas m&aacute;s exitosas de Brad Pitt tendr&aacute; su secuela",
-    "attempts": 14
+    "attempts": 15
   },
   {
     "site": "El Diario de La Pampa",
@@ -43088,6 +43088,18 @@
   {
     "site": "Radio Kermes",
     "url": "https://www.radiokermes.com/noticias/32122-presupuesto-el-gobierno-atiende-demandas-de-las-defensorias",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/milei-tendra-garante-2027-n5427920",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/linea-abierta/82554/mensajes-3-11-2026",
     "title": null,
     "attempts": 0
   }
