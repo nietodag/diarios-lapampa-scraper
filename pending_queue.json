@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80622/alberto-cortez-tendra-su-museo-en-rancul",
     "title": "Alberto Cortez tendr&aacute; su museo en Rancul",
-    "attempts": 3
+    "attempts": 4
   },
   {
     "site": "El Diario de La Pampa",
@@ -44132,6 +44132,60 @@
   {
     "site": "Diario Textual",
     "url": "https://diariotextual.com/inicio/index.php/2026/11/04/ley-impositiva-2027-menos-impuestos-para-acceder-a-la-vivienda-y-simplificacion-tributaria-para-pequenos-contribuyentes/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83390",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83394",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83396",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/es-la-economia-otra-vez-n5427994",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/05/precarizacion-laboral-el-65-de-los-conductores-de-apps-las-usa-para-complementar-ingresos/",
+    "title": "Precarización laboral: El 65% de los conductores de apps las usa para complementar ingresos",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/05/river-visita-a-aldosivi-con-la-intencion-de-terminar-entre-los-primeros-de-la-zona-b/",
+    "title": "River visita a Aldosivi, con la intención de terminar entre los primeros de la Zona B",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/05/autorizan-a-agentes-publicos-para-asistir-a-actividades-del-papa-leon-xiv-en-buenos-aires-o-cordoba/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/05/el-nombre-tambien-juega-como-se-construye-laidentidad-de-un-videojuego/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/05/se-suspenderan-las-internas-abiertas-en-la-pampa-si-se-caen-las-paso/",
     "title": null,
     "attempts": 0
   }
