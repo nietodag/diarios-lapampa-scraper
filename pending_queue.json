@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80622/alberto-cortez-tendra-su-museo-en-rancul",
     "title": "Alberto Cortez tendr&aacute; su museo en Rancul",
-    "attempts": 4
+    "attempts": 5
   },
   {
     "site": "El Diario de La Pampa",
@@ -44186,6 +44186,336 @@
   {
     "site": "Diario Textual",
     "url": "https://diariotextual.com/inicio/index.php/2026/11/05/se-suspenderan-las-internas-abiertas-en-la-pampa-si-se-caen-las-paso/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83403",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83404",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83405",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83408",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/05/abigail-paez-una-de-las-asesinas-de-lucio-dupuy-sufrio-un-nuevo-reves-judicial-por-su-pedido-de-salidas-anticipadas/",
+    "title": "Abigail Páez, una de las asesinas de Lucio Dupuy, sufrió un nuevo revés judicial por su pedido de salidas anticipadas",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/05/cuando-las-rutas-estan-destrozadas-aumenta-el-costo-logistico-y-deja-a-las-empresas-fuera-de-competencia-afirmo-ziliotto/",
+    "title": "“Cuando las rutas están destrozadas, aumenta el costo logístico y deja a las empresas fuera de competencia” afirmó Ziliotto",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/05/culpable-declaran-responsable-a-un-hombre-por-abusar-sexualmente-de-su-hijastra-en-santa-rosa/",
+    "title": "Culpable: declaran responsable a un hombre por abusar sexualmente de su hijastra en Santa Rosa",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/05/empatel-entrego-equipamiento-para-completar-la-red-de-fibra-optica-en-cuchillo-co/",
+    "title": "EMPATEL entregó equipamiento para completar la red de fibra óptica en Cuchillo Có",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/05/en-buenos-aires-ziliotto-convoco-a-mas-de-480-empresarios-a-invertir-en-la-pampa-y-remarco-la-sinergia-publico-privada/",
+    "title": "En Buenos Aires, Ziliotto convocó a más de 480 empresarios a invertir en La Pampa y remarcó la sinergia público-privada",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/05/estudiantes-secundarios-presenciaron-un-juicio-oral-en-general-pico-en-el-marco-del-programa-educacion-justicia/",
+    "title": "Estudiantes secundarios presenciaron un juicio oral en General Pico en el marco del programa Educación + Justicia",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/05/horoscopo-de-hoy-jueves-5-de-noviembre/",
+    "title": "Horóscopo de hoy, jueves 5 de noviembre",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/05/la-pampa-negocios-360-ziliotto-presento-las-oportunidades-de-inversion-provincial-ante-mas-de-480-empresarios-en-buenos-aires/",
+    "title": "La Pampa Negocios 360: Ziliotto presentó las oportunidades de inversión provincial ante más de 480 empresarios en Buenos Aires",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/05/reto-del-dia-se-animan-a-resolverla-sin-calculadora-2/",
+    "title": "Reto del día: ¿Se animan a resolverla sin calculadora?",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/05/terremoto-politico-en-paraguay-renuncio-el-presidente-santiago-pena-acorralado-por-el-escandalo-del-ueno-bank/",
+    "title": "Terremoto político en Paraguay: renunció el presidente Santiago Peña acorralado por el escándalo del Ueno Bank",
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/archivos-que-matan-los-elogios-santiago-pena-al-modelo-javier-milei-el-foro-llao-llao-n5428004",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-gobierno-cordoba-invierte-mas-6-millones-dolares-recibir-leon-xiv-n5427992",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-presupuesto-rosario-romero-inversion-asfalto-y-agua-potable-la-mira-la-reeleccion-parana-n5427995",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/escandalo-ueno-la-cpac-el-foro-ultra-donde-javier-milei-elogio-el-modelo-paraguay-n5428003",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/javier-milei-espana-gelido-saludo-el-dictador-pedro-sanchez-y-ataque-al-socialismo-fascista-n5427997",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/la-leccion-donald-trump-es-el-metro-cuadro-n5427998",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/santa-fe-la-ucr-y-el-socialismo-enderezan-el-dialogo-destrabar-las-leyes-seguridad-que-pide-pullaro-n5427991",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/tras-los-coqueteos-milei-y-saenz-emilia-orozco-elige-un-perfil-bajisimo-y-cornejo-pasa-al-frente-salta-n5427981",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/tierra-del-fuego-harrington-cierra-una-larga-batalla-judicial-apostar-al-desarrollo-turistico-tolhuin-n5427897",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/05/barrios-populares-de-la-pampa-reclamaron-obras-y-servicios-ante-la-legislatura/",
+    "title": "Barrios populares de La Pampa reclamaron obras y servicios ante la Legislatura",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/05/bgh-desvincula-250-trabajadores-en-tierra-del-fuego/",
+    "title": "BGH desvincula 250 trabajadores en Tierra del Fuego",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/05/de-paseo-por-espana-milei-arremetio-contra-el-socialismo/",
+    "title": "De paseo por España, Milei arremetió contra el socialismo",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/05/estudiantes-secundarios-asistieron-a-un-debate-oral-en-general-pico/",
+    "title": "Estudiantes secundarios asistieron a un debate oral en General Pico",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/05/lo-condenaron-a-tres-anos-de-prision-por-cinco-hechos-cuatro-en-poco-mas-de-48-horas/",
+    "title": "Lo condenaron a tres años de prisión por cinco hechos, cuatro en poco más de 48 horas",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/05/santa-rosa-aprobo-una-ordenanza-para-prevenir-el-consumo-de-vapeadores/",
+    "title": "Santa Rosa aprobó una ordenanza para prevenir el consumo de vapeadores",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/05/santiago-pena-renuncio-a-la-presidencia-de-paraguay-por-el-escandalo-del-ueno-bank/",
+    "title": "Santiago Peña renunció a la Presidencia de Paraguay por el escándalo del Ueno Bank",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/05/ziliotto-el-sector-privado-necesita-reglas-de-juego-claras-y-un-estado-que-ayude-a-minimizar-los-riesgos-de-inversion/",
+    "title": "Ziliotto: “El sector privado necesita reglas de juego claras y un Estado que ayude a minimizar los riesgos de inversión”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/05/ziliotto-invito-a-invertir-en-la-pampa-somos-una-provincia-seria-previsible-solvente-y-amigable/",
+    "title": "Ziliotto invitó a invertir en La Pampa: “Somos una provincia seria, previsible, solvente y amigable”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/05/ziliotto-presenta-las-oportunidades-de-la-pampa-ante-mas-de-400-representantes-del-sector-empresarial/",
+    "title": "Ziliotto presenta las oportunidades de La Pampa ante más de 400 representantes del sector empresarial",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/05/cayo-el-presidente-de-paraguay-acorralado-presento-la-renuncia/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/05/formalizan-al-policia-acusado-de-golpear-a-una-chica-frente-a-la-catedral-de-santa-rosa/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/05/iorio-y-pampa-un-homenaje-al-legado-del-heavy-metal-argentino-en-pico/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/05/la-pampa-negocios-360-el-gobierno-saca-a-la-venta-1800-hectareas-de-tierras-fiscales-para-produccion-agricola-bajo-riego/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/05/la-policia-pampeana-desplegara-un-operativo-especial-de-seguridad-por-la-visita-del-papa-leon-xiv/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/05/matzkin-admitio-diferencias-entre-bullrich-y-el-resto-de-los-libertarios-ella-va-a-ser-presidenta-despues-de-milei/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/05/milei-arremetio-contra-el-socialismo-frente-a-pedro-sanchez-y-renovo-el-reclamo-por-malvinas/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/05/santa-rosa-aprobo-una-ordenanza-para-prevenir-el-consumo-de-vapeadores/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/05/ziliotto-invito-a-invertir-en-la-pampa-somos-una-provincia-seria-previsible-solvente-y-amigable/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32151-acusan-de-maltrato-al-presidente-de-la-unidad-basica-zona-centro",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32152-paritarias-rurales-uatre-denuncia-trabas-del-gobierno-para-conseguir-mejores-salarios",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32153-denuncia-formal-contra-enacom-por-las-deudas-con-medios-comunitarios",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32154-cine-y-debate-en-la-unlpam-para-visibilizar-las-experiencias-intersex",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32155-lonquimay-se-prepara-para-la-fiesta-de-la-tradicion",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32156-fuerza-pampa-esta-hacia-el-lado-del-peronismo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32157-feito-destaco-el-trabajo-de-ziliotto-frente-al-contexto-nacional",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32158-memorias-maricas-pampeanas-repudio-el-ataque-a-mujeres-trans",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32159-la-unlpam-financiara-cuatro-proyectos-culturales-comunitarios",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32160-murio-elsa-pavon-una-de-las-fundadores-de-abuelas",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32161-barrios-populares-reclamaron-servicios-y-mejoras-en-la-legislatura",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32162-ziliotto-invito-a-invertir-somos-una-provincia-seria-y-amigable",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32164-cayo-en-paraguay-el-presidente-modelo-de-milei",
     "title": null,
     "attempts": 0
   }
