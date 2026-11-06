@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80622/alberto-cortez-tendra-su-museo-en-rancul",
     "title": "Alberto Cortez tendr&aacute; su museo en Rancul",
-    "attempts": 9
+    "attempts": 10
   },
   {
     "site": "El Diario de La Pampa",
@@ -45458,6 +45458,264 @@
   {
     "site": "Radio Kermes",
     "url": "https://www.radiokermes.com/noticias/32177-joshua-riccardo-del-golf-en-santa-rosa-a-competir-en-espana-e-inglaterra",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83418",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83423",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83424",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83425",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83429",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/06/cronograma-para-sacar-residuos-especiales-en-las-zonas-3-y-7-de-general-pico/",
+    "title": "Cronograma para sacar residuos especiales en las zonas 3 y 7 de General Pico",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/06/general-pico-como-funcionaran-los-servicios-publicos-durante-el-fin-de-semana-largo/",
+    "title": "General Pico: cómo funcionarán los servicios públicos durante el fin de semana largo",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/06/general-pico-prepara-una-nueva-edicion-de-expo-verde-junto-al-primer-festival-del-mate-y-la-tradicion/",
+    "title": "General Pico prepara una nueva edición de Expo Verde junto al primer Festival del Mate y la Tradición",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/06/general-pico-se-realizaron-69-castraciones-gratuitas-de-animales-de-compania-en-barrio-este/",
+    "title": "General Pico: se realizaron 69 castraciones gratuitas de animales de compañía en barrio Este",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/06/la-justicia-rechazo-la-prescripcion-y-formalizo-una-investigacion-por-un-abuso-sexual-ocurrido-hace-15-anos-en-victorica/",
+    "title": "La Justicia rechazó la prescripción y formalizó una investigación por un abuso sexual ocurrido hace 15 años en Victorica",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/06/no-tenemos-interprete-de-lengua-de-senas-es-una-falencia-insostenible-la-fundacion-lsa-cierra-el-ano-con-una-pollada-solidaria/",
+    "title": "«No tenemos intérprete de lengua de señas, es una falencia insostenible»: la Fundación LSA cierra el año con una pollada solidaria",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/06/se-jubila-hugo-diaz-ziliotto-acepto-la-renuncia-del-presidente-del-superior-tribunal-de-justicia/",
+    "title": "Se jubila Hugo Díaz: Ziliotto aceptó la renuncia del presidente del Superior Tribunal de Justicia",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/06/un-incendio-provoco-importantes-danos-materiales-en-una-vivienda-de-general-pico/",
+    "title": "Un incendio provocó importantes daños materiales en una vivienda de General Pico",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/el-congreso-paraguayo-destituyo-a-santiago-pena-de-su-cargo-202611619100",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/el-papa-leon-xiv-llego-a-uruguay-su-primer-destino-en-la-gira-de-sudamerica-202611617360",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/cerro-historica-papelera-de-tornquist-160-personas-se-quedaron-sin-empleo-202611618160",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/la-caida-de-los-bonos-presiona-al-riesgo-pais-y-supera-los-930-puntos-202611617300",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/leon-xiv-visitar-argentina-es-un-homenaje-a-francisco-202611618400",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/el-ente-del-rio-colorado-interviene-espacios-verdes-de-la-escuela-179-202611615150",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/hugo-diaz-se-jubila-y-renuncia-a-la-presidencia-del-stj-202611618140",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/la-misa-del-papa-leon-se-transmitira-en-la-plaza-san-martin-202611614130",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/noelia-guzman-lo-de-hoy-recuerda-a-aquel-entonces-202611614460",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/reconocidos-profesionales-ofrecieron-taller-sobre-aforo-de-compuertas-202611615100",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/repararon-legajos-de-34-trabajadores-municipales-prescindidos-por-la-dictadura-202611614260",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/dos-amigas-hicieron-camitas-para-perros-que-viven-en-una-terminal-20261161800",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/estudiantes-recaudan-fondos-para-poder-viajar-a-un-encuentro-de-naciones-unidas-202611618470",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-region/multan-a-un-conductor-por-comer-guiso-mientras-manejaba-202611614550",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/congreso/patricia-bullrich-presiona-milei-pide-la-ley-ludopatia-y-prepara-una-cumbre-su-tropa-del-senado-n5428054",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/opinion/javier-milei-escuchara-la-predica-social-leon-xiv-n5427885",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/opinion/la-llegada-leon-xiv-somos-todos-argentinos-n5428029",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/opinion/leon-xiv-y-el-coraje-construir-concordia-n5428048",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/axel-kicillof-destina-casi-us-17-millones-al-operativo-bonaerense-la-visita-leon-xiv-n5428034",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/la-cgt-le-llevara-leon-xiv-un-documento-criticas-al-gobierno-y-prepara-medidas-fuerza-su-visita-n5428046",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/la-rebeldia-bullrich-derrama-la-pampa-y-matzkin-asoma-la-cabeza-el-armado-opositor-n5428033",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/martin-llaryora-activa-el-territorio-el-sur-cordoba-y-fija-objetivos-el-departamento-san-justo-n5428043",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/santa-fe-detuvieron-un-empresario-montar-un-complot-atentar-contra-pullaro-n5428050",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/tras-el-favor-judicial-javier-milei-llamo-adorni-pero-la-casa-rosada-no-creen-que-regrese-la-politica-n5428055",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/religiones/mas-alla-tolkien-el-plan-cinco-puntos-del-papa-leon-xiv-n5428062",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/06/dandole-forma-a-la-alianza-el-frente-opositor-tuvo-su-tercera-reunion-en-la-sede-del-pro/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/06/general-acha-la-policia-secuestro-cocaina-y-un-arma-de-fuego/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/06/presupuesto-2027-el-sitraj-advirtio-que-no-se-resuelve-la-demanda-de-la-defensorias-publicas/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/06/renuncio-el-juez-hugo-diaz-el-presidente-del-stj/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/06/rigi-ravier-cuestiono-a-la-pampa-y-desde-casa-de-gobierno-lo-acusaron-de-mentir/",
     "title": null,
     "attempts": 0
   }
