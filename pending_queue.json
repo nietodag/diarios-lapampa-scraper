@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80622/alberto-cortez-tendra-su-museo-en-rancul",
     "title": "Alberto Cortez tendr&aacute; su museo en Rancul",
-    "attempts": 7
+    "attempts": 8
   },
   {
     "site": "El Diario de La Pampa",
@@ -45069,6 +45069,66 @@
     "site": "Diario Textual",
     "url": "https://diariotextual.com/inicio/index.php/2026/11/05/municipio-de-pico-realizo-69-castraciones-gratuitas-en-barrio-este/",
     "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83417",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/legislatura-bonaerense-el-senado-aprobo-la-empresa-estatal-medicamentos-kicillof-n5428025",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/numero-redondo-complicidad-celebrada-n5428032",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/juicio-urribarri-rios-viajes-rolex-y-gastos-exoticos-la-acusacion-enriquecimiento-ilicito-n5428017",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/82708/murio-alan-jones-un-historico-de-la-f1",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82710/el-sistema-de-salud-pampeano-bajo-la-presion-constante-de-pacientes-de-otras-provincias",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/06/avanza-la-integracion-del-comite-contra-la-tortura/",
+    "title": "Avanza la integración del Comité contra la Tortura",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/06/en-alianza-con-la-uocra-la-cta-a-lanzo-una-campana-digital-para-promover-los-derechos-laborales/",
+    "title": "En alianza con la Uocra, la CTA-A lanzó una campaña digital para promover los derechos laborales",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/06/los-bancos-estaran-cerrados-durante-cinco-dias-seguidos/",
+    "title": "Los bancos estarán cerrados durante cinco días seguidos",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/06/pena-asegura-que-ejercera-su-derecho-a-la-defensa-en-el-juicio-politico-en-su-contra/",
+    "title": "Peña asegura que ejercerá su derecho a la defensa en el juicio político en su contra",
     "attempts": 0
   }
 ]
