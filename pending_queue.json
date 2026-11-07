@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80622/alberto-cortez-tendra-su-museo-en-rancul",
     "title": "Alberto Cortez tendr&aacute; su museo en Rancul",
-    "attempts": 14
+    "attempts": 15
   },
   {
     "site": "El Diario de La Pampa",
@@ -46281,6 +46281,264 @@
     "site": "Plan B Noticias",
     "url": "https://www.planbnoticias.com.ar/index.php/2026/11/07/motociclista-lesionado-tras-choque-con-un-auto/",
     "title": "Motociclista lesionado tras choque con un auto",
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83427",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83441",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/07/adamo-servicios-de-calidad-fue-uno-de-los-ejes-de-trabajo-desde-que-me-toco-iniciar-en-la-secretaria/",
+    "title": "Adamo: «Servicios de calidad fue uno de los ejes de trabajo desde que me tocó iniciar en la Secretaría»",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/07/alumnos-de-escuelas-rurales-pampeanas-participaron-de-talleres-deportivos-y-recreativos-en-santa-rosa/",
+    "title": "Alumnos de escuelas rurales pampeanas participaron de talleres deportivos y recreativos en Santa Rosa",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/07/fuerte-choque-entre-una-camioneta-y-una-moto-en-calles-115-y-22-una-mujer-fue-hospitalizada/",
+    "title": "Fuerte choque entre una camioneta y una moto en calles 115 y 22: una mujer fue hospitalizada",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/07/grave-choque-en-calles-108-y-31-un-motociclista-convulsiono-tras-el-impacto-y-fue-hospitalizado-junto-al-ciclista/",
+    "title": "Grave choque en calles 108 y 31: un motociclista convulsionó tras el impacto y fue hospitalizado junto al ciclista",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/07/inauguran-una-nueva-edicion-del-salon-de-pintura-ciudad-de-general-pico-en-medano/",
+    "title": "Inauguran una nueva edición del Salón de Pintura “Ciudad de General Pico” en MEDANO",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/boca-le-gano-agonicamente-a-defensa-y-justicia-y-se-consagro-campeon-de-la-liga-202611719410",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/franco-colapinto-quedo-eliminado-en-la-q1-del-gp-de-brasil-20261171710",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/independiente-rivadavia-empato-el-clasico-ante-gimnasia-de-mendoza-sobre-la-hora-202611718250",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/hay-que-despertar-de-nuestras-inercias-y-abogar-por-el-bien-comun-202611718340",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/miles-de-manifestantes-volvieron-a-marchar-en-francia-y-hubo-represion-policial-202611718420",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/miles-de-personas-participan-de-la-marcha-del-orgullo-fuertes-criticas-a-milei-202611719100",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/amenazaron-a-un-joven-y-le-robaron-el-celular-hay-un-imputado-202611718110",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/avanzan-las-obras-para-reducir-los-anegamientos-en-el-oeste-de-general-pico-202611717490",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/detuvieron-a-un-joven-por-el-robo-a-una-despensa-202611716460",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/lonquimay-inauguro-el-mastil-mas-alto-de-la-provincia-en-el-acceso-montero-202611716250",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/los-historiadores-del-norte-pampeano-presentan-su-libro-anual-en-dorila-20261171920",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/provincia-firmo-convenio-con-incucai-que-beneficiara-a-pampeanos-que-esperan-un-trasplante-202611717250",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/toay-recuerda-a-malvinas-con-un-cartel-que-marca-la-distancia-hasta-las-islas-202611718340",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/un-concurrido-tercer-encuentro-regional-pro-vida-en-anguil-20261171820",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/la-fiebre-el-papa-leon-xiv-una-espuma-que-tapa-el-retroceso-del-catolicismo-la-region-n5428079",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/82786/colapinto-no-paso-la-q1-y-largara-17-en-interlagos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/espectaculos/82789/un-medio-britanico-confirmo-quien-sera-el-proximo-james-bond",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82783/recuperaron-un-celular-que-habia-sido-robado",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82785/un-detenido-por-robar-en-una-despensa",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82787/senasa-decomiso-casi-2500-kilos-de-mercaderia-frutihorticola-en-25-de-mayo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82788/la-pampa-firmo-convenio-con-incucai-que-beneficiara-a-pampeanos-que-esperan-un-trasplante",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/mundo/82794/leon-xiv--hay-que-despertar-de-nuestras-inercias-y-abogar-por-el-bien-comun",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/82782/caputo-propuso-eliminar-sellos-y-abrio-una-disputa-con-los-gobernadores-por-los-impuestos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/82784/el-congreso-de-eeuu-podria-poner-limites-a-una-nueva-ayuda-financiera-para-milei",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/tecnologia/82790/microsoft-no-utilizara-servidores-de-oracle--sus-chips-nvidia-no-cumplen-exigencias-de-la-ia",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/tecnologia/82791/se-necesitan-850000-toneladas-de-cobre-al-ano-para-construir-infraestructura-electrica-para-ia",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/tecnologia/82792/el-proximo-iphone-tendria-un-boton-menos--apple-prepara-el-acceso-directo-mas-conocido",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/turismo/82793/el-turismo-interno-crece-y-la-conectividad-desde-las-provincias-abre-nuevas-oportunidades",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/07/boca-se-consagro-campeon-de-la-liga-profesional-de-futbol/",
+    "title": "Boca se consagró campeón de la Liga Profesional de Fútbol",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/07/cinco-muertos-y-12-heridos-en-un-tiroteo-en-cracovia-polonia/",
+    "title": "Cinco muertos y 12 heridos en un tiroteo en Cracovia, Polonia",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/07/fin-de-la-era-netanyahu-herzog-encarga-a-gadi-eizenkot-la-formacion-de-gobierno/",
+    "title": "Fin de la era Netanyahu: Herzog encarga a Gadi Eizenkot la formación de gobierno",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/07/incendio-cerca-de-la-estancia-la-malvina/",
+    "title": "Incendio cerca de la Estancia La Malvina",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/07/paraguay-imputaron-al-ex-presidente-santiago-pena-y-la-fiscalia-solicito-la-prision-preventiva/",
+    "title": "Paraguay: imputaron al ex presidente Santiago Peña y la fiscalía solicitó la prisión preventiva",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/07/siniestro-de-transito-en-centro-de-chile-deja-al-menos-12-fallecidos-y-15-heridos/",
+    "title": "Siniestro de tránsito en centro de Chile deja al menos 12 fallecidos y 15 heridos",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/07/polonia-seis-muertos-en-un-tiroteo-en-la-plaza-principal-del-mercado-de-cracovia/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/07/un-convenio-con-el-incucai-busca-aumentar-los-donantes-de-organos-en-la-pampa/",
+    "title": null,
     "attempts": 0
   }
 ]
