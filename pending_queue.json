@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80622/alberto-cortez-tendra-su-museo-en-rancul",
     "title": "Alberto Cortez tendr&aacute; su museo en Rancul",
-    "attempts": 15
+    "attempts": 16
   },
   {
     "site": "El Diario de La Pampa",
@@ -46538,6 +46538,144 @@
   {
     "site": "Diario Textual",
     "url": "https://diariotextual.com/inicio/index.php/2026/11/07/un-convenio-con-el-incucai-busca-aumentar-los-donantes-de-organos-en-la-pampa/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/07/general-pico-inauguro-dos-modernas-pistas-de-patinaje-en-el-paseo-ferroviario/",
+    "title": "General Pico inauguró dos modernas pistas de patinaje en el paseo ferroviario",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/07/salud-en-alerta-mas-de-300-agentes-sanitarios-se-capacitaron-en-la-pampa-ante-emergencias-climaticas/",
+    "title": "Salud en Alerta: más de 300 agentes sanitarios se capacitaron en La Pampa ante emergencias climáticas",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/07/vuelve-a-conectarse-el-norte-pampeano-autorizan-un-nuevo-servicio-de-transporte-de-pasajeros-entre-general-pico-e-ingeniero-luiggi/",
+    "title": "Vuelve a conectarse el norte pampeano: autorizan un nuevo servicio de transporte de pasajeros entre General Pico e Ingeniero Luiggi",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/colapinto-gano-dos-lugares-y-largara-decimoquinto-el-gp-de-brasil-202611721490",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/el-insolito-festejo-de-rosario-central-antes-de-tiempo-202611720110",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/paredes-tras-ser-campeon-con-boca-sone-toda-mi-vida-con-esto-202611720450",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/el-papa-advirtio-sobre-el-avance-de-la-secularizacion-y-la-creciente-indiferencia-religiosa-202611721140",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/la-pampa-da-certezas-empresarios-resaltaron-la-previsibilidad-para-invertir-202611720570",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/una-pareja-de-santa-rosa-gano-el-certamen-de-la-torta-frita-en-lonquimay-20261172010",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/82796/el-insolito-festejo-de-rosario-central-antes-de-tiempo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/82797/argentinos-perdio-con-huracan-y-quedo-sin-chances",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/82799/santa-rosa-se-tino-de-azul-y-oro-tras-la-victoria-agonica-en-la-bombonera",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/82800/un-asado-para-repensar-el-futbol-pampeano",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82798/avanza-la-obra-de-desagues-pluviales-en-la-zona-oeste-de-general-pico",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/82795/la-marcha-del-orgullo-reunio-a-miles-de-personas-en-caba-con-musica-y-reclamos-politicos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/07/colapinto-festejo-junto-a-bizarrap-la-consagracion-de-boca/",
+    "title": "Colapinto festejó junto a Bizarrap la consagración de Boca",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/07/en-nombre-de-milei-prometio-matar-a-todos-los-putos-de-argentina-video/",
+    "title": "En nombre de Milei prometió “matar a todos los putos de Argentina” (video)",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/07/insolito-festejo-de-rosario-central-antes-del-gol-de-valencia/",
+    "title": "Insólito festejo de Rosario Central antes del gol de Valencia",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/07/boca-le-gano-de-manera-agonica-a-defensa-y-justicia-y-se-consagro-campeon-de-liga/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/07/la-pampa-da-certezas-empresarios-destacaron-la-previsibilidad-para-invertir-y-producir/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32173-anuncian-alivio-impositivo-con-criticas-a-la-oposicion",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32178-boca-campeon-a-lo-boca-lo-gano-en-el-ultimo-minuto",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32179-orgullo-al-poder-odio-al-carajo",
     "title": null,
     "attempts": 0
   }
