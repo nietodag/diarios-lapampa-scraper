@@ -1411,7 +1411,10 @@
     "https://www.pampadiario.com/single-post.php?id=83452": 1794179940.3976843,
     "https://www.pampadiario.com/single-post.php?id=83451": 1794179940.3976843,
     "https://www.pampadiario.com/single-post.php?id=83450": 1794179940.3976843,
-    "https://www.pampadiario.com/single-post.php?id=83453": 1794192285.0395837
+    "https://www.pampadiario.com/single-post.php?id=83453": 1794192285.0395837,
+    "https://www.pampadiario.com/single-post.php?id=83391": 1794219848.9361398,
+    "https://www.pampadiario.com/single-post.php?id=83456": 1794219848.9361398,
+    "https://www.pampadiario.com/single-post.php?id=83454": 1794219848.9361398
   },
   "Info Pico": {
     "https://www.infopico.com/2026/07/18/musica-e-inclusion-una-fundacion-de-la-pampa-organiza-un-show-con-total-accesibilidad-en-buenos-aires/": 1784416721.202942,
@@ -3817,7 +3820,8 @@
     "https://www.infopico.com/2026/11/08/torneo-provincial-costa-brava-logro-una-historica-goleada-en-santa-rosa-y-acaricia-la-final-mientras-que-racing-y-winifreda-no-se-sacaron-ventajas/": 1794192285.0395837,
     "https://www.infopico.com/2026/11/08/ferro-de-pico-goleo-3-a-0-a-huracan-de-ingeniero-white-y-saco-una-importante-ventaja-en-el-coloso/": 1794192285.0395837,
     "https://www.infopico.com/2026/11/08/el-hospital-favaloro-suma-una-unidad-de-procuracion-de-organos-y-tejidos-tras-un-convenio-con-el-incucai/": 1794192285.0395837,
-    "https://www.infopico.com/2026/11/08/piden-una-cadena-de-oracion-por-joel-felix-el-joven-que-permanece-en-terapia-intensiva-tras-el-siniestro-en-108-y-31/": 1794192285.0395837
+    "https://www.infopico.com/2026/11/08/piden-una-cadena-de-oracion-por-joel-felix-el-joven-que-permanece-en-terapia-intensiva-tras-el-siniestro-en-108-y-31/": 1794192285.0395837,
+    "https://www.infopico.com/2026/11/09/golpe-a-la-suerte-en-el-quini-6-un-unico-apostador-gano-mas-de-1-852-millones/": 1794219848.9361398
   },
   "La Arena": {
     "https://www.laarena.com.ar/deportes/basquet-ferro-igualo-la-serie-ante-all-boys-20267188490": 1784416721.202942,
@@ -12235,7 +12239,31 @@
     "https://www.laarena.com.ar/el-pais/ante-milei-el-papa-leon-xiv-pidio-dialogo-y-una-economia-al-servicio-de-las-personas-202611820160": 1794192285.0395837,
     "https://www.laarena.com.ar/el-pais/hay-que-escuchar-a-leon-xiv-abrirse-un-poco-y-que-el-gobierno-nacional-tambien-lo-haga-202611821330": 1794192285.0395837,
     "https://www.laarena.com.ar/la-pampa/cortes-de-calles-en-santa-rosa-por-obras-y-por-la-celebracion-del-papa-leon-xiv-20261182190": 1794192285.0395837,
-    "https://www.laarena.com.ar/el-mundo/la-iglesia-catolica-de-paraguay-exige-devolver-fondos-tras-fraude-de-ueno-bank-20261182130": 1794192285.0395837
+    "https://www.laarena.com.ar/el-mundo/la-iglesia-catolica-de-paraguay-exige-devolver-fondos-tras-fraude-de-ueno-bank-20261182130": 1794192285.0395837,
+    "https://www.laarena.com.ar/la-pampa/la-cosegu-suma-nueva-cisterna-20261190110": 1794219848.9361398,
+    "https://www.laarena.com.ar/la-pampa/hallan-en-cane-a-un-hombre-buscado-20261190110": 1794219848.9361398,
+    "https://www.laarena.com.ar/deportes/sarmiento-suena-con-el-ascenso-20261190120": 1794219848.9361398,
+    "https://www.laarena.com.ar/deportes/villa-mengelle-y-pampero-a-la-final-20261190120": 1794219848.9361398,
+    "https://www.laarena.com.ar/la-pampa/acha-tendra-su-mercado-artesanal-20261190110": 1794219848.9361398,
+    "https://www.laarena.com.ar/la-pampa/buscan-a-otro-hombre-por-el-abuso-a-una-adolescente-2026119030": 1794219848.9361398,
+    "https://www.laarena.com.ar/deportes/todo-igualado-en-castex-20261190120": 1794219848.9361398,
+    "https://www.laarena.com.ar/deportes/los-juegos-que-convocan-a-toda-la-pampa-2026119030": 1794219848.9361398,
+    "https://www.laarena.com.ar/la-pampa/recuperamos-un-edificio-que-es-historico-para-abramo-20261190110": 1794219848.9361398,
+    "https://www.laarena.com.ar/deportes/norris-se-impuso-en-brasil-20261190120": 1794219848.9361398,
+    "https://www.laarena.com.ar/la-pampa/un-motociclista-esta-grave-tras-un-choque-con-ciclista-2026119030": 1794219848.9361398,
+    "https://www.laarena.com.ar/deportes/historica-goleada-de-costa-a-all-boys-2026119030": 1794219848.9361398,
+    "https://www.laarena.com.ar/la-pampa/el-patentamiento-de-autos-0km-cayo-8-4-durante-octubre-2026119030": 1794219848.9361398,
+    "https://www.laarena.com.ar/la-pampa/invitan-a-un-conversatorio-20261190110": 1794219848.9361398,
+    "https://www.laarena.com.ar/deportes/festejo-del-italiano-marco-bezzecchi-20261190120": 1794219848.9361398,
+    "https://www.laarena.com.ar/opinion/el-estado-frente-a-la-urgencia-vial-20261190120": 1794219848.9361398,
+    "https://www.laarena.com.ar/deportes/lpf-cruces-definidos-20261190120": 1794219848.9361398,
+    "https://www.laarena.com.ar/deportes/triunfo-de-ferro-por-el-regional-20261190120": 1794219848.9361398,
+    "https://www.laarena.com.ar/la-pampa/repudian-la-exoneracion-de-aparicio-20261190110": 1794219848.9361398,
+    "https://www.laarena.com.ar/la-pampa/el-pais-que-recibe-al-papa-caida-de-salarios-y-despidos-20261190110": 1794219848.9361398,
+    "https://www.laarena.com.ar/la-pampa/marita-mac-allister-reclaman-soluciones-20261190110": 1794219848.9361398,
+    "https://www.laarena.com.ar/la-pampa/las-ventas-bajaron-un-1-6-2026119030": 1794219848.9361398,
+    "https://www.laarena.com.ar/la-pampa/ipav-sortea-esta-semana-100-casas-en-santa-rosa-2026119030": 1794219848.9361398,
+    "https://www.laarena.com.ar/el-pais/el-papa-reclamo-una-economia-al-servicio-de-la-gente-2026119030": 1794219848.9361398
   },
   "LetraP": {
     "https://www.letrap.com.ar/politica/santiago-del-estero-el-pro-se-concentra-la-capital-y-la-banda-no-sucumbir-la-avanzada-libertaria-n5425166": 1784416721.202942,
@@ -14742,7 +14770,11 @@
     "https://www.letrap.com.ar/politica/las-mejores-fotos-leon-xiv-su-historica-visita-al-pais-n5428085": 1794179940.3976843,
     "https://www.letrap.com.ar/politica/el-peronismo-la-nata-contra-el-twitter-y-puntitas-pie-n5428087": 1794179940.3976843,
     "https://www.letrap.com.ar/politica/javier-milei-recibio-leon-xiv-trato-distante-una-casa-rosada-blindada-n5428086": 1794192285.0395837,
-    "https://www.letrap.com.ar/politica/el-diario-leon-xiv-cronica-un-sermonazo-anunciado-y-la-cintura-javier-milei-n5428088": 1794192285.0395837
+    "https://www.letrap.com.ar/politica/el-diario-leon-xiv-cronica-un-sermonazo-anunciado-y-la-cintura-javier-milei-n5428088": 1794192285.0395837,
+    "https://www.letrap.com.ar/politica/leon-xiv-pone-cordoba-los-ojos-del-mundo-y-llaryora-y-el-obispo-rossi-exprimen-su-nueva-sintonia-n5428084": 1794219848.9361398,
+    "https://www.letrap.com.ar/politica/un-intendente-la-ucr-amigo-verna-va-otra-reeleccion-y-rompe-la-paz-la-libertad-avanza-n5427798": 1794219848.9361398,
+    "https://www.letrap.com.ar/politica/abel-sanchez-torres-hace-equilibrio-la-justicia-cordoba-la-espera-nuevos-vientos-politicos-n5428080": 1794219848.9361398,
+    "https://www.letrap.com.ar/politica/jujuy-carlos-sadir-enfrenta-tres-obstaculos-conseguir-el-endeudamiento-la-legislatura-n5428089": 1794219848.9361398
   },
   "El Diario de La Pampa": {
     "https://www.eldiariodelapampa.com.ar/pais/77403/morosidad-en-alza--se-agrava-el-problema-y-1-de-cada-3-argentinos-con-deuda-no-puede-pagar": 1784416721.202942,
@@ -19455,7 +19487,8 @@
     "https://www.eldiariodelapampa.com.ar/deportes/82835/coppo-y-tapie-en-el-cierre-del-regional-de-cross": 1794192285.0395837,
     "https://www.eldiariodelapampa.com.ar/deportes/82836/ampugnani-gano-en-baron": 1794192285.0395837,
     "https://www.eldiariodelapampa.com.ar/deportes/82837/villa-mengelle-y-pampero-en-la-definicion": 1794192285.0395837,
-    "https://www.eldiariodelapampa.com.ar/deportes/82834/un-paso-gigante-de-ferro-de-pico": 1794192285.0395837
+    "https://www.eldiariodelapampa.com.ar/deportes/82834/un-paso-gigante-de-ferro-de-pico": 1794192285.0395837,
+    "https://www.eldiariodelapampa.com.ar/linea-abierta/82839/mensajes-9-11-2026": 1794219848.9361398
   },
   "Dos Bases": {
     "https://www.dosbases.com.ar/2019/01/dinosaurios-vivos-el-fiscal-aguero-alerto-sobre-un-boom-de-estafas-a-telefonicas-y-recomienda-que-el-blp-no-permita-a-jubilados-transferencias-de-montos-altos-por-cajero/": 1784416721.202942,
