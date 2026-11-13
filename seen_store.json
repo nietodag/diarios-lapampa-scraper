@@ -1472,7 +1472,10 @@
     "https://www.pampadiario.com/single-post.php?id=83531": 1794591357.0048072,
     "https://www.pampadiario.com/single-post.php?id=83529": 1794591357.0048072,
     "https://www.pampadiario.com/single-post.php?id=83530": 1794591357.0048072,
-    "https://www.pampadiario.com/single-post.php?id=83523": 1794591357.0048072
+    "https://www.pampadiario.com/single-post.php?id=83523": 1794591357.0048072,
+    "https://www.pampadiario.com/single-post.php?id=83533": 1794610225.6996584,
+    "https://www.pampadiario.com/single-post.php?id=83532": 1794610225.6996584,
+    "https://www.pampadiario.com/single-post.php?id=83527": 1794610225.6996584
   },
   "Info Pico": {
     "https://www.infopico.com/2026/07/18/musica-e-inclusion-una-fundacion-de-la-pampa-organiza-un-show-con-total-accesibilidad-en-buenos-aires/": 1784416721.202942,
@@ -3982,7 +3985,12 @@
     "https://www.infopico.com/2026/11/13/el-smn-elevo-a-naranja-el-alerta-por-tormentas-fuertes-y-severas-en-gran-parte-de-la-pampa/": 1794591357.0048072,
     "https://www.infopico.com/2026/11/13/la-corte-suprema-declaro-abstracto-el-amparo-ambiental-de-la-pampa-por-la-obra-portezuelo-del-viento/": 1794591357.0048072,
     "https://www.infopico.com/2026/11/13/reto-del-dia-sos-un-crack-con-los-numeros-o-te-gana-la-calculadora-3/": 1794591357.0048072,
-    "https://www.infopico.com/2026/11/13/capacitaron-a-agentes-del-estado-provincial-sobre-el-acto-administrativo-y-su-revision-judicial/": 1794591357.0048072
+    "https://www.infopico.com/2026/11/13/capacitaron-a-agentes-del-estado-provincial-sobre-el-acto-administrativo-y-su-revision-judicial/": 1794591357.0048072,
+    "https://www.infopico.com/2026/11/13/el-gobierno-nacional-habilito-la-concesion-de-rutas-por-peaje-cuales-son-las-vias-afectadas-en-la-pampa/": 1794610225.6996584,
+    "https://www.infopico.com/2026/11/13/cuaderno-calculadora-y-memoria-el-sistema-con-el-que-todavia-funcionan-muchos-comercios-y-lo-que-les-cuesta/": 1794610225.6996584,
+    "https://www.infopico.com/2026/11/13/despiste-y-vuelco-de-una-camioneta-en-la-ruta-provincial-1-cerca-de-quemu-quemu/": 1794610225.6996584,
+    "https://www.infopico.com/2026/11/13/el-coloso-de-barrio-talleres-cumple-43-anos-historia-y-orgullo-del-deporte-pampeano/": 1794610225.6996584,
+    "https://www.infopico.com/2026/11/13/cronograma-para-sacar-residuos-especiales-en-la-zona-4-de-general-pico/": 1794610225.6996584
   },
   "La Arena": {
     "https://www.laarena.com.ar/deportes/basquet-ferro-igualo-la-serie-ante-all-boys-20267188490": 1784416721.202942,
@@ -12745,7 +12753,20 @@
     "https://www.laarena.com.ar/la-pampa/nacion-dispuso-la-concesion-por-peaje-en-cinco-rutas-nacionales-de-la-pampa-2026111311130": 1794591357.0048072,
     "https://www.laarena.com.ar/la-region/el-pronostico-del-tiempo-para-hoy-en-santa-rosa-202611137280": 1794591357.0048072,
     "https://www.laarena.com.ar/la-pampa/el-registro-de-maquinaria-agricola-de-realico-cerrara-el-30-de-noviembre-202611131450": 1794591357.0048072,
-    "https://www.laarena.com.ar/la-pampa/las-empresas-que-no-compren-la-energia-a-las-cooperativas-perderan-beneficios-fiscales-2026111313420": 1794591357.0048072
+    "https://www.laarena.com.ar/la-pampa/las-empresas-que-no-compren-la-energia-a-las-cooperativas-perderan-beneficios-fiscales-2026111313420": 1794591357.0048072,
+    "https://www.laarena.com.ar/la-provincia/el-frente-opositor-volvio-a-reunirse-esta-vez-en-la-ucr-2026111319170": 1794610225.6996584,
+    "https://www.laarena.com.ar/el-pais/explosion-en-remedios-de-escalada-un-muerto-dos-desaparecidos-y-siete-heridos-graves-2026111317440": 1794610225.6996584,
+    "https://www.laarena.com.ar/la-pampa/ya-tiene-fecha-la-licitacion-para-la-obra-de-cloacas-para-el-barrio-lowo-che-2026111319410": 1794610225.6996584,
+    "https://www.laarena.com.ar/el-mundo/la-faa-suspendio-todos-los-vuelos-de-salida-en-estados-unidos-por-razones-de-seguridad-2026111319300": 1794610225.6996584,
+    "https://www.laarena.com.ar/la-pampa/temporal-en-santa-rosa-se-intervinieron-170-arboles-en-distintos-barrios-2026111317290": 1794610225.6996584,
+    "https://www.laarena.com.ar/la-pampa/la-cpe-informo-que-gran-parte-de-los-servicios-caidos-por-la-tormenta-fueron-restablecidos-202611131580": 1794610225.6996584,
+    "https://www.laarena.com.ar/el-mundo/paraguay-amplian-imputacion-contra-pena-por-caso-ueno-bank-e-incluyen-asociacion-criminal-202611131820": 1794610225.6996584,
+    "https://www.laarena.com.ar/el-pais/se-perdieron-mas-de-7-500-puestos-formales-en-agosto-2026111318140": 1794610225.6996584,
+    "https://www.laarena.com.ar/el-mundo/que-alegria-volver-a-chiclayo-leon-xiv-oficia-misa-ante-mas-de-un-millon-de-fieles-2026111318390": 1794610225.6996584,
+    "https://www.laarena.com.ar/la-pampa/recien-hoy-estamos-en-condiciones-de-dar-agua-al-pueblo-y-al-sindicato-2026111314510": 1794610225.6996584,
+    "https://www.laarena.com.ar/la-region/entre-las-albahacas-y-las-cascadas-se-esconde-un-pueblo-de-300-habitantes-2026111314510": 1794610225.6996584,
+    "https://www.laarena.com.ar/la-pampa/el-sistema-de-salud-de-la-pampa-es-de-los-mejores-del-pais-2026111318520": 1794610225.6996584,
+    "https://www.laarena.com.ar/el-pais/carne-los-argentinos-comen-6-kilos-menos-que-hace-un-ano-y-crecen-las-exportaciones-202611131740": 1794610225.6996584
   },
   "LetraP": {
     "https://www.letrap.com.ar/politica/santiago-del-estero-el-pro-se-concentra-la-capital-y-la-banda-no-sucumbir-la-avanzada-libertaria-n5425166": 1784416721.202942,
@@ -15345,7 +15366,14 @@
     "https://www.letrap.com.ar/politica/santa-fe-el-intendente-radical-viotti-va-la-reeleccion-rafaela-y-endurece-su-discurso-n5428156": 1794591357.0048072,
     "https://www.letrap.com.ar/politica/chubut-glinski-primerea-y-le-presenta-al-pj-un-plan-gobierno-2027-n5428194": 1794591357.0048072,
     "https://www.letrap.com.ar/la-cgt-se-suma-la-batalla-cultural-un-festival-politica-debates-y-musica-n5428163": 1794591357.0048072,
-    "https://www.letrap.com.ar/politica/entre-rios-las-fuerzas-del-cielo-le-robaron-una-concejal-al-pj-y-armaron-un-interbloque-juntos-n5428187": 1794591357.0048072
+    "https://www.letrap.com.ar/politica/entre-rios-las-fuerzas-del-cielo-le-robaron-una-concejal-al-pj-y-armaron-un-interbloque-juntos-n5428187": 1794591357.0048072,
+    "https://www.letrap.com.ar/politica/axel-kicillof-libera-mas-200-pliegos-judiciales-pero-deja-la-corte-fuera-la-rosca-fin-ano-n5428206": 1794610225.6996584,
+    "https://www.letrap.com.ar/politica/raul-jalil-se-une-grobocopatel-un-proyecto-trasladar-personal-estatal-al-sector-privado-n5428185": 1794610225.6996584,
+    "https://www.letrap.com.ar/politica/buenos-aires-fondos-los-municipios-y-reelecciones-las-claves-la-discusion-el-presupuesto-n5428199": 1794610225.6996584,
+    "https://www.letrap.com.ar/politica/suspension-paso-lento-patricia-bullrich-hace-la-suya-y-los-menem-piden-votos-dar-garantias-n5428201": 1794610225.6996584,
+    "https://www.letrap.com.ar/las-mujeres-del-peronismo-juntas-un-homenaje-eva-peron-n5428211": 1794610225.6996584,
+    "https://www.letrap.com.ar/conurbano/para-la-ucr-leon-xiv-trazo-la-agenda-que-viene-convivencia-dialogo-y-la-politica-al-servicio-la-gente-n5428204": 1794610225.6996584,
+    "https://www.letrap.com.ar/las-razones-del-mpn-bajarse-las-elecciones-neuquen-tiempo-recursos-y-derrotas-n5428196": 1794610225.6996584
   },
   "El Diario de La Pampa": {
     "https://www.eldiariodelapampa.com.ar/pais/77403/morosidad-en-alza--se-agrava-el-problema-y-1-de-cada-3-argentinos-con-deuda-no-puede-pagar": 1784416721.202942,
@@ -20267,7 +20295,21 @@
     "https://www.eldiariodelapampa.com.ar/la-pampa/83071/jugaban-a-los-videojuegos-escucharon-ruidos-y-corrieron-a-piedrazos-a-un-hombre": 1794591357.0048072,
     "https://www.eldiariodelapampa.com.ar/la-pampa/83065/reprograman-el-festival-pico-cumple": 1794591357.0048072,
     "https://www.eldiariodelapampa.com.ar/la-pampa/83060/el-frente-opositor-se-reune-este-viernes-en-el-comite-de-la-ucr": 1794591357.0048072,
-    "https://www.eldiariodelapampa.com.ar/la-pampa/83079/anguil-catrilo-y-ataliva-roca-sin-telecomunicaciones": 1794591357.0048072
+    "https://www.eldiariodelapampa.com.ar/la-pampa/83079/anguil-catrilo-y-ataliva-roca-sin-telecomunicaciones": 1794591357.0048072,
+    "https://www.eldiariodelapampa.com.ar/pais/83091/los-salarios-registrados-aumentaron-19-en-porciento--en-septiembre-y-empataron-con-la-inflacion": 1794610225.6996584,
+    "https://www.eldiariodelapampa.com.ar/pais/83095/rechazaron-los-recursos-de-maximo-y-florencia-kirchner-para-frenar-la-ejecucion-del-decomiso": 1794610225.6996584,
+    "https://www.eldiariodelapampa.com.ar/pais/83093/explosion-en-remedios-de-escalada--un-muerto-dos-desaparecidos-y-siete-heridos-graves": 1794610225.6996584,
+    "https://www.eldiariodelapampa.com.ar/deportes/83087/manchester-united-confirmo-a-pochettino-como-su-nuevo-dt": 1794610225.6996584,
+    "https://www.eldiariodelapampa.com.ar/pais/83092/creditos-hipotecarios--amplian-las-opciones-para-acceder-a-prestamos-para-vivienda": 1794610225.6996584,
+    "https://www.eldiariodelapampa.com.ar/la-pampa/83089/el-concejo-deliberante-aprobo-tarifas-y-una-aplicacion-para-el-servicio-de-taxis": 1794610225.6996584,
+    "https://www.eldiariodelapampa.com.ar/pais/83083/hotesur-los-sauces--la-uif-apunto-a-cristina-kirchner-como-jefa-de-una-asociacion-ilicita": 1794610225.6996584,
+    "https://www.eldiariodelapampa.com.ar/mundo/83094/estados-unidos-suspendio-los-despegues-en-todo-el-pais-por-problemas-de-seguridad-aerea": 1794610225.6996584,
+    "https://www.eldiariodelapampa.com.ar/deportes/83088/argentina-ante-uruguay-en-el-primer-test-post-messi": 1794610225.6996584,
+    "https://www.eldiariodelapampa.com.ar/pais/83084/en-agosto-se-perdieron-mas-de-13000-puestos-de-trabajo-registrados": 1794610225.6996584,
+    "https://www.eldiariodelapampa.com.ar/pais/83082/milei-converso-con-el-nuevo-presidente-de-paraguay--tiene-un-socio-un-aliado-y-un-amigo": 1794610225.6996584,
+    "https://www.eldiariodelapampa.com.ar/la-pampa/83090/tras-el-temporal-siguen-los-trabajos-municipales-de-despeje-en-distintos-barrios-de-santa-rosa": 1794610225.6996584,
+    "https://www.eldiariodelapampa.com.ar/pais/83086/aprueban-dos-nuevos-rigi-para-el-tratamiento-de-liquidos-de-gas-natural": 1794610225.6996584,
+    "https://www.eldiariodelapampa.com.ar/pais/83085/el-consumo-privado-cayo-01-en-porciento--interanual-en-octubre-y-acumula-un-retroceso-de-13-en-porciento--en-el-ano": 1794610225.6996584
   },
   "Dos Bases": {
     "https://www.dosbases.com.ar/2019/01/dinosaurios-vivos-el-fiscal-aguero-alerto-sobre-un-boom-de-estafas-a-telefonicas-y-recomienda-que-el-blp-no-permita-a-jubilados-transferencias-de-montos-altos-por-cajero/": 1784416721.202942,
@@ -28319,7 +28361,14 @@
     "https://www.planbnoticias.com.ar/index.php/2026/11/13/tormenta-25-cuadrillas-municipales-trabajan-en-la-ciudad-tras-las-rafagas-de-100-kilometros-por-hora/": 1794591357.0048072,
     "https://www.planbnoticias.com.ar/index.php/2026/11/13/como-quedo-la-ciudad-despues-de-la-tormenta-el-detalle-de-danos-reportados-por-el-ministerio-de-seguridad/": 1794591357.0048072,
     "https://www.planbnoticias.com.ar/index.php/2026/11/13/escucharon-ruidos-en-el-patio-persiguieron-al-intruso-le-arrojaron-piedras-y-termino-herido/": 1794591357.0048072,
-    "https://www.planbnoticias.com.ar/index.php/2026/11/13/explosion-e-incendio-en-remedios-de-escalada-al-menos-20-heridos-cinco-de-gravedad/": 1794591357.0048072
+    "https://www.planbnoticias.com.ar/index.php/2026/11/13/explosion-e-incendio-en-remedios-de-escalada-al-menos-20-heridos-cinco-de-gravedad/": 1794591357.0048072,
+    "https://www.planbnoticias.com.ar/index.php/2026/11/13/despiste-y-vuelco-de-una-camioneta-en-la-ruta-provincial-1/": 1794610225.6996584,
+    "https://www.planbnoticias.com.ar/index.php/2026/11/13/milei-converso-con-el-nuevo-presidente-de-paraguay-tiene-un-socio-un-aliado-y-un-amigo/": 1794610225.6996584,
+    "https://www.planbnoticias.com.ar/index.php/2026/11/13/sin-heridos-ni-evacuados-continua-el-operativo-para-reparar-los-danos-de-la-tormenta/": 1794610225.6996584,
+    "https://www.planbnoticias.com.ar/index.php/2026/11/13/la-cpe-normalizo-el-servicio-electrico-en-santa-rosa/": 1794610225.6996584,
+    "https://www.planbnoticias.com.ar/index.php/2026/11/13/el-penon-del-oeste-va-por-su-cuarta-edicion-en-el-club-argentino/": 1794610225.6996584,
+    "https://www.planbnoticias.com.ar/index.php/2026/11/13/rulli-sera-el-capitan-de-la-seleccion-argentina-ante-uruguay/": 1794610225.6996584,
+    "https://www.planbnoticias.com.ar/index.php/2026/11/13/la-china-suarez-demandaria-a-wanda-por-amenazas/": 1794610225.6996584
   },
   "Infotec Realicó": {
     "https://infotecrealico.com.ar/contenido/86896/la-provincia-no-aprobo-el-informe-final-ambiental-de-el-medanito-y-remitio-un-in": 1784416721.202942,
@@ -32095,7 +32144,13 @@
     "https://diariotextual.com/inicio/index.php/2026/11/13/diputados-del-peronismo-retiran-articulo-que-daba-aumento-al-tdec-y-que-habia-hecho-crujir-el-frente-opositor/": 1794591357.0048072,
     "https://diariotextual.com/inicio/index.php/2026/11/13/cortes-en-la-red-electrica-y-de-fibra-optica-en-santa-rosa-y-toay-lentamente-se-reponen-los-servicios/": 1794591357.0048072,
     "https://diariotextual.com/inicio/index.php/2026/11/13/ruben-funes-en-barrio-matadero-hay-barrios-donde-el-asfalto-no-alcanza-ni-al-25/": 1794591357.0048072,
-    "https://diariotextual.com/inicio/index.php/2026/11/13/voladuras-de-techos-arboles-caidos-danos-en-autos-y-cortes-de-luz-el-reporte-de-los-principales-danos-de-la-tormenta-en-santa-rosa/": 1794591357.0048072
+    "https://diariotextual.com/inicio/index.php/2026/11/13/voladuras-de-techos-arboles-caidos-danos-en-autos-y-cortes-de-luz-el-reporte-de-los-principales-danos-de-la-tormenta-en-santa-rosa/": 1794591357.0048072,
+    "https://diariotextual.com/inicio/index.php/2026/11/13/el-frente-opositor-presenta-sus-principios-republicanos-en-medio-de-los-cruces-verbales-y-las-tensiones-internas/": 1794610225.6996584,
+    "https://diariotextual.com/inicio/index.php/2026/11/13/contra-noviembre-de-2023-se-destruyeron-386-232-empleos-formales/": 1794610225.6996584,
+    "https://diariotextual.com/inicio/index.php/2026/11/13/el-relato-de-una-pampeana-en-la-armada-se-necesita-querer-lo-que-uno-hace/": 1794610225.6996584,
+    "https://diariotextual.com/inicio/index.php/2026/11/13/temporal-en-santa-rosa-el-municipio-informo-que-no-hubo-heridos-ni-evacuados/": 1794610225.6996584,
+    "https://diariotextual.com/inicio/index.php/2026/11/13/una-explosion-por-un-cano-de-gas-provoco-un-incendio-en-lanus-hay-al-menos-un-muerto-y-30-heridos/": 1794610225.6996584,
+    "https://diariotextual.com/inicio/index.php/2026/11/13/la-pampa-mejora-en-lengua-en-primaria-y-niveles-satisfactorios-en-matematica/": 1794610225.6996584
   },
   "Radio Kermes": {
     "https://www.radiokermes.com/noticias/30889-el-partido-argentina-enfrenta-a-inglaterra-y-busca-la-final-mundial": 1784416721.202942,
@@ -33469,7 +33524,8 @@
     "https://www.radiokermes.com/noticias/32250-los-mirasoles-un-nuevo-centro-de-dia-para-personas-con-discapacidad-abre-las-admisiones": 1794591357.0048072,
     "https://www.radiokermes.com/noticias/32240-despidos-en-la-puma-el-gremio-ira-a-la-justicia-y-denuncia-presiones-sobre-los-trabajadores": 1794591357.0048072,
     "https://www.radiokermes.com/noticias/32251-agenda-cultural-kermesera-301": 1794591357.0048072,
-    "https://www.radiokermes.com/noticias/32241-fiorani-a-los-empresarios-nunca-se-acordaron-de-darle-una-moneda-mas-al-trabajador": 1794591357.0048072
+    "https://www.radiokermes.com/noticias/32241-fiorani-a-los-empresarios-nunca-se-acordaron-de-darle-una-moneda-mas-al-trabajador": 1794591357.0048072,
+    "https://www.radiokermes.com/noticias/32253-se-normalizan-los-servicios-despues-de-la-tormenta": 1794610225.6996584
   },
   "En Boca de Todos HD": {
     "https://www.enbocadetodoshd.com.ar/provinciales/2026/7/18/malestar-tension-en-bomberos-voluntarios-de-acha-por-la-conducta-de-un-integrante-120596.html": 1784416721.202942,
