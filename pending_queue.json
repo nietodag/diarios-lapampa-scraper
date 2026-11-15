@@ -3,7 +3,7 @@
     "site": "Radio Kermes",
     "url": "https://www.radiokermes.com/noticias/31719-murio-nelson-nicoletti-periodista-peronista-victima-del-terrorismo-de-estado",
     "title": "Murió Nelson Nicoletti, periodista, peronista, víctima del terrorismo de Estado",
-    "attempts": 3
+    "attempts": 4
   },
   {
     "site": "En Boca de Todos HD",
@@ -47762,6 +47762,258 @@
   {
     "site": "Diario Textual",
     "url": "https://diariotextual.com/inicio/index.php/2026/11/14/ziliotto-espera-una-definicion-sobre-las-paso-antes-de-decidir-cuando-se-votara-en-la-pampa/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83546",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/14/abren-el-llamado-a-licitacion-para-la-concesion-de-un-local-comercial-en-la-terminal-de-omnibus-de-general-pico/",
+    "title": "Abren el llamado a licitación para la concesión de un local comercial en la Terminal de Ómnibus de General Pico",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/14/la-historica-banda-baron-b-celebra-27-anos-de-trayectoria-con-un-show-en-la-taberna/",
+    "title": "La histórica banda Baron-B celebra 27 años de trayectoria con un show en La Taberna",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/14/pico-rugby-va-por-otra-final-que-los-chicos-vuelvan-al-club-satisface-mas-que-ganar-un-campeonato/",
+    "title": "Pico Rugby va por otra final: «que los chicos vuelvan al club satisface más que ganar un campeonato»",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/14/principio-de-incendio-en-un-automovil-la-rapida-recomendacion-de-bomberos-evito-danos-mayores/",
+    "title": "Principio de incendio en un automóvil: la rápida recomendación de Bomberos evitó daños mayores",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/14/proyectan-un-complejo-hotelero-en-puente-dique-con-respaldo-del-ente-provincial-del-rio-colorado/",
+    "title": "Proyectan un complejo hotelero en Puente Dique con respaldo del Ente Provincial del Río Colorado",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/14/utelpa-pide-una-suma-compensatoria-para-cerrar-el-ano-no-es-un-bono-es-la-perdida-salarial/",
+    "title": "Utelpa pide una suma compensatoria para cerrar el año: «No es un bono, es la pérdida salarial»",
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/deportes/boca-goleo-a-banfield-y-es-finalista-de-la-copa-argentina-2026111420520",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/la-union-europea-insta-a-israel-a-reabrir-los-cruces-de-gaza-y-permitir-ayuda-humanitaria-2026111418440",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-mundo/padres-se-olvidaron-a-su-hijo-de-7-anos-a-bordo-de-un-avion-2026111420260",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/dos-acrobatas-cordobeses-fueron-detenidos-por-el-ice-en-estados-unidos-2026111417510",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/el-pais/una-mujer-murio-tras-ser-arrastrada-por-una-correntada-en-medio-de-un-temporal-202611141910",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/alertan-por-intentos-de-estafas-invocando-al-ministerio-de-salud-2026111418290",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/allanamientos-por-abigeato-secuestran-armas-y-750-kilos-de-carne-sin-control-sanitario-2026111417390",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/carlos-souto-presentara-su-nuevo-libro-una-vision-sobre-la-pampa-y-su-gente-202611141840",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/catrilo-la-oposicion-le-pide-al-ejecutivo-la-presentacion-del-presupuesto-2027-2026111419210",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/finalizaron-una-obra-de-desagues-en-alta-italia-202611141810",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/intronati-anuncio-la-construccion-de-darsenas-sobre-la-ruta-102-en-los-accesos-a-castex-202611142050",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/mac-allister-solicito-apoyo-al-municipio-para-organizar-un-torneo-de-futbol-infantil-2026111419320",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/quemu-quemu-se-realizo-la-segunda-jornada-de-vacunacion-antirrabica-2026111420420",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "La Arena",
+    "url": "https://www.laarena.com.ar/la-pampa/recuperaron-un-auto-robado-2026111418380",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/ciencia/83143/cambios-en-el-estilo-de-vida-pueden-reducir-hasta-60-en-porciento--el-riesgo-de-diabetes-tipo-2",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/ciencia/83144/starship-regreso-con-exito-a-starbase-y-spacex-concreto-una-recuperacion-historica",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/83146/dante-arpigiani-gano-el-sabatino",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/83137/se-incendio-una-casilla-rural-en-la-ruta-provincial-102",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/83138/el-polo-cientifico-tecnologico-de-general-pico-recibio-a-667-visitantes-en-2026",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/83139/gobierno-y-empresa-privada-impulsan-proyecto-de-complejo-hotelero-en-puente-dique",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/83140/secuestran-armas-y-750-kilos-de-carne-sin-control-sanitario",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/83142/alerta-por-estafas-telefonicas-y-de-whatsapp-en-nombre-del-ministerio-de-salud",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/83141/unos-65-millones-de-argentinos-mejoraron-sus-condiciones-de-vida-y-48-millones-empeoraron",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/pais/83145/milei-volvio-a-hablar-del-2027--para-los-que-dudan-si-voy-por-la-reeleccion",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/14/boca-le-gano-a-banfield-y-se-metio-en-la-final-de-la-copa-argentina/",
+    "title": "Boca le ganó a Banfield y se metió en la final de la Copa Argentina",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/14/el-ministerio-de-salud-alerto-por-intentos-de-estafa-en-su-nombre/",
+    "title": "El Ministerio de Salud alertó por intentos de estafa en su nombre",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/14/finalizaron-obra-de-desagues-en-alta-italia/",
+    "title": "Finalizaron obra de desagües en Alta Italia",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/14/golpe-al-abigeato-secuestraron-armas-y-750-kilos-de-carne-sin-control-sanitario/",
+    "title": "Golpe al abigeato: secuestraron armas y 750 kilos de carne sin control sanitario",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/14/la-seleccion-volvio-a-entrenarse-y-este-lunes-habla-scaloni/",
+    "title": "La Selección volvió a entrenarse y este lunes habla Scaloni",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/14/lenta-normalizacion-de-los-vuelos-en-estados-unidos-tras-una-falla-en-la-red-de-comunicaciones/",
+    "title": "Lenta normalización de los vuelos en Estados Unidos tras una falla en la red de comunicaciones",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/14/se-incendio-una-casilla-rural-sobre-la-ruta-102-a-pocos-kilometros-de-general-pico/",
+    "title": "Se incendió una casilla rural sobre la Ruta 102 a pocos kilómetros de General Pico",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/14/unos-padres-se-olvidaron-a-su-hijo-de-7-anos-a-bordo-de-un-avion-en-brasil/",
+    "title": "Unos padres se olvidaron a su hijo de 7 años a bordo de un avión en Brasil",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/14/abigeato-secuestran-armas-y-750-kilos-de-carne-de-vacunos-caballos-y-burros-sin-control-sanitario/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/14/alerta-por-intentos-de-estafas-invocando-al-ministerio-de-salud-provincial/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32260-gabriela-borrelli-brindara-una-charla-abierta-sobre-la-obra-de-olga-orozco",
     "title": null,
     "attempts": 0
   }
