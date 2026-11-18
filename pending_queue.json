@@ -3,7 +3,7 @@
     "site": "Radio Kermes",
     "url": "https://www.radiokermes.com/noticias/31719-murio-nelson-nicoletti-periodista-peronista-victima-del-terrorismo-de-estado",
     "title": "Murió Nelson Nicoletti, periodista, peronista, víctima del terrorismo de Estado",
-    "attempts": 15
+    "attempts": 16
   },
   {
     "site": "En Boca de Todos HD",
@@ -50145,6 +50145,120 @@
     "site": "Radio Kermes",
     "url": "https://www.radiokermes.com/noticias/32294-el-peronismo-pampeano-con-maximo-kirchner-en-telen",
     "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83586",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83590",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83598",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/18/con-massa-y-el-respaldo-de-cristina-kirchner-el-peronismo-mostro-una-fuerte-foto-de-unidad-que-profundiza-la-interna-con-kicillof/",
+    "title": "Con Massa y el respaldo de Cristina Kirchner, el peronismo mostró una fuerte foto de unidad que profundiza la interna con Kicillof",
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/la-politica-maxima-tension-n5428307",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/83283/docentes-a-cargo-de-tutorias-del-programa-iniciar-recibiran-honorarios",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/83284/presentaron-2001-rastros-de-historia-y-politica",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/83285/comenzo-el-programa-de-fortalecimiento-de-mediadores-de-lectura",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/83286/intensifican-el-monitoreo-del-rio-colorado",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/83287/concluyo-un-masivo-ciclo-formativo-docente",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/83288/estudiantes-de-duval-interesados-en-la-gestion-del-agua",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/linea-abierta/83282/mensajes-19-11-2026",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/18/el-miercoles-asumen-234-delegados-y-directivos-de-upcn-la-pampa/",
+    "title": "Este miércoles asumen 234 delegados y directivos de UPCN",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/18/la-intersindical-pide-recomposicion-trimestral-y-el-pago-de-un-bono-de-fin-de-ano/",
+    "title": "La Intersindical pide recomposición trimestral y el pago de un bono de fin de año",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/18/la-seleccion-argentina-se-floreo-y-goleo-a-costa-rica-por-7-0-en-el-ultimo-amistoso-del-ano/",
+    "title": "La Selección argentina se floreó y goleó a Costa Rica por 7-0 en el último amistoso del año",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/18/mas-de-30-horas-de-falla-de-la-red-link-no-se-puede-usar-el-home-banking/",
+    "title": "Más de 30 horas de falla de la red Link: no se puede usar el Home Banking",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/18/opinion-globos-de-ensayo-fantasias-y-reivindicacion/",
+    "title": "OPINIÓN: Globos de ensayo, fantasías y reivindicación",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/18/se-dilata-la-firma-del-dictamen-de-la-reforma-electoral-en-el-senado/",
+    "title": "Se dilata la firma del dictamen de la Reforma Electoral en el Senado",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/18/sesiona-diputados-y-el-oficialismo-busca-aprobar-la-ley-malvinas-y-la-reforma-del-banco-central/",
+    "title": "Sesiona Diputados y el oficialismo busca aprobar la “Ley Malvinas” y la reforma del Banco Central",
     "attempts": 0
   }
 ]
