@@ -1,159 +1,9 @@
 [
   {
-    "site": "Radio Kermes",
-    "url": "https://www.radiokermes.com/noticias/31719-murio-nelson-nicoletti-periodista-peronista-victima-del-terrorismo-de-estado",
-    "title": "Murió Nelson Nicoletti, periodista, peronista, víctima del terrorismo de Estado",
-    "attempts": 19
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/deportes/2026/9/25/paulina-barreiro-gano-el-oro-en-canotaje-k4-500-metros-en-los-juegos-suramericanos-video-117151.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/locales/2026/9/25/se-viene-la-fiesta-mercantil-este-domingo-quedaron-agotadas-las-tarjetas-se-vendieron-1300-la-vamos--117171.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/mi-barrio/2026/9/25/quevilac-cajon-de-pollo-a-71000-y-si-llevas-dos-69000-cu-117172.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/25/el-dolar-encadeno-su-tercera-alza-consecutiva-117177.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/nacionales/2026/9/25/ellos-cobran-13-palos-pero-festejan-que-para-las-familias-aumentan-el-gas-al-100-video-117166.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/opinion/2026/9/25/martin-balsa-durisimo-con-la-senadora-pampeana-victoria-huala-y-el-senador-kroneberger-traicionaron--117167.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/9/25/robaron-una-caja-fuerte-con-18-millones-usd-1400-y-objetos-de-valor-la-policia-recupero-parte-del-bo-117164.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/policiales/2026/9/25/urgente-general-pico-allanamiento-en-calle-19-entre-4-y-6-video-117176.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "En Boca de Todos HD",
-    "url": "https://www.enbocadetodoshd.com.ar/provinciales/2026/9/25/altolaguirre-estamos-dando-una-solucion-a-familias-que-hace-anos-no-pueden-disponer-plenamente-de-su-117145.html",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Pampa Diario",
-    "url": "https://www.pampadiario.com/single-post.php?id=82793",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Pampa Diario",
-    "url": "https://www.pampadiario.com/single-post.php?id=82794",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Pampa Diario",
-    "url": "https://www.pampadiario.com/single-post.php?id=82796",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Pampa Diario",
-    "url": "https://www.pampadiario.com/single-post.php?id=82797",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/09/25/especialistas-analizaron-el-nuevo-regimen-penal-juvenil-y-la-adecuacion-de-la-justicia-pampeana/",
-    "title": "Especialistas analizaron el nuevo Régimen Penal Juvenil y la adecuación de la justicia pampeana",
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/09/25/reves-para-la-provincia-la-justicia-anula-millonaria-multa-contra-una-app-de-delivery/",
-    "title": "Revés para la provincia: la Justicia anula millonaria multa contra una app de delivery",
-    "attempts": 0
-  },
-  {
-    "site": "Info Pico",
-    "url": "https://www.infopico.com/2026/09/25/tragedia-en-la-zona-rural-de-mauricio-mayer-un-joven-de-22-anos-murio-tras-caer-de-un-carro/",
-    "title": "Tragedia en la zona rural de Mauricio Mayer: un joven de 22 años murió tras caer de un carro",
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/el-pais/sindicato-de-viales-denuncia-que-el-gobierno-retiene-mas-de-1-billon-de-las-rutas-202692520210",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/la-pampa/feria-provincial-del-libro-habra-talleres-de-lectura-y-escritura-gratuitos-202692519410",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/la-pampa/importante-incendio-en-deposito-de-un-supermercado-en-pico-202692519440",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "La Arena",
-    "url": "https://www.laarena.com.ar/la-pampa/tragico-accidente-en-la-zona-rural-de-mayer-murio-un-joven-al-caer-de-un-carro-202692519470",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/congreso/endeudamiento-la-libertad-avanza-negocia-aliados-una-mayoria-imponer-su-proyecto-n5426914",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "LetraP",
-    "url": "https://www.letrap.com.ar/politica/mauricio-macri-ensayo-jujuy-la-formula-del-pro-criticas-milei-y-alianzas-distrito-n5426917",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/deportes/80780/rechazaron-la-apelacion-de-velez",
-    "title": null,
-    "attempts": 0
-  },
-  {
-    "site": "El Diario de La Pampa",
-    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80781/viajaban-con-varios-chicos-y-salieron-ilesos-tras-un-choque-en-santa-rosa",
-    "title": null,
-    "attempts": 0
-  },
-  {
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80782/nos-quedara-su-integridad-como-persona",
-    "title": null,
-    "attempts": 0
+    "title": "Ziliotto: \"Nos quedar&aacute; su integridad como persona\"",
+    "attempts": 1
   },
   {
     "site": "El Diario de La Pampa",
@@ -50943,6 +50793,324 @@
     "site": "Plan B Noticias",
     "url": "https://www.planbnoticias.com.ar/index.php/2026/11/18/bisterfeld-e-intronatti-defendieron-el-proyecto-de-peajes-en-la-legislatura/",
     "title": "Bisterfeld e Intronatti defendieron el proyecto de peajes en la Legislatura",
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83502",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83611",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83612",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83614",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83615",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83616",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83617",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/19/filiacion-en-la-pampa-la-justicia-rechazo-el-reclamo-tras-una-exhumacion-y-dos-pruebas-de-adn-negativas/",
+    "title": "Filiación en La Pampa: la Justicia rechazó el reclamo tras una exhumación y dos pruebas de ADN negativas",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/19/forte-sobre-la-app-municipal-para-taxis-es-un-gasto-muy-elevado-para-algo-que-quizas-no-viene-a-solucionar-absolutamente-nada/",
+    "title": "Forte, sobre la app municipal para taxis: «Es un gasto muy elevado para algo que quizás no viene a solucionar absolutamente nada»",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/19/haberes-de-noviembre-jubilados-y-pensionados-de-la-pampa-podran-disponer-de-sus-fondos-desde-este-sabado/",
+    "title": "Haberes de noviembre: jubilados y pensionados de La Pampa podrán disponer de sus fondos desde este sábado",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/19/lanzaron-en-santa-rosa-un-programa-de-fortalecimiento-para-mediadores-de-lectura/",
+    "title": "Lanzaron en Santa Rosa un programa de fortalecimiento para mediadores de lectura",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/19/marull-alerto-por-el-presupuesto-universitario-2027-realmente-va-a-ser-un-ano-dificil/",
+    "title": "Marull alertó por el presupuesto universitario 2027: «Realmente va a ser un año difícil»",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/19/paritarias-estatales-el-gobierno-propuso-un-aumento-del-4-en-octubre-y-clausula-gatillo-para-ganarle-a-la-inflacion/",
+    "title": "Paritarias estatales: el Gobierno propuso un aumento del 4 % en noviembre y cláusula gatillo para ganarle a la inflación",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/19/santa-rosa-recibe-la-etapa-definitoria-de-los-juegos-deportivos-pampeanos-con-jovenes-de-toda-la-provincia/",
+    "title": "Santa Rosa recibe la etapa definitoria de los Juegos Deportivos Pampeanos con jóvenes de toda la provincia",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/19/vialidad-provincial-ejecuta-obras-preventivas-en-las-rutas-14-y-104-ante-la-crecida-del-rio-atuel/",
+    "title": "Vialidad Provincial ejecuta obras preventivas en las rutas 14 y 104 ante la crecida del río Atuel",
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/congreso/con-un-guino-patricia-bullrich-el-pj-forzo-el-debate-la-ley-ludopatia-y-presiona-javier-milei-n5428352",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/jaime-mendez-mueve-su-partido-vecinal-san-miguel-mas-presencia-la-calle-n5428344",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/juntos-somos-rio-negro-mueve-el-equipo-y-weretilneck-sigue-escondiendo-la-fecha-las-elecciones-n5428351",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/la-advertencia-lula-da-silva-al-peronismo-despues-ganar-hay-que-gobernar-n5428343",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/que-tiene-la-cabeza-natalia-la-sota-n5428349",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/rogelio-frigerio-apunta-mejorar-las-rutas-rios-una-inversion-15000-millones-n5428350",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/salta-juan-manuel-urtubey-se-anota-volver-la-gobernacion-la-mano-del-peronismo-n5428342",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/19/50marzos-estudiantes-de-la-unlpam-presentaron-una-revista-para-mantener-viva-la-memoria-colectiva/",
+    "title": "“50Marzos”: estudiantes de la UNLPam presentaron una revista para mantener viva la memoria colectiva",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/19/controles-publicos-el-tribunal-de-cuentas-visito-entidades-de-general-pico/",
+    "title": "Controles públicos: el Tribunal de Cuentas visitó entidades de General Pico",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/19/el-indice-de-confianza-del-consumidor-cayo-127-en-noviembre/",
+    "title": "El Índice de Confianza del Consumidor cayó 1,27% en noviembre",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/19/el-programa-llegar-a-casa-y-el-sueno-de-la-casa-propia-sin-esta-ayuda-no-podria-haber-construido/",
+    "title": "“Sin esta ayuda, no podría haber construido”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/19/la-unlpam-se-solidarizo-con-la-investigadora-virginia-aparicio-exonerada-por-el-inta/",
+    "title": "La UNLPam se solidarizó con la investigadora Virginia Aparicio, exonerada por el INTA",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/19/paritaria-provincial-el-gobierno-mejoro-la-propuesta-y-volveran-a-reunirse-el-15-de-diciembre/",
+    "title": "Paritaria provincial: gremios estatales aceptaron la nueva propuesta",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/19/peronistas-mirando-al-norte/",
+    "title": "Peronistas mirando al Norte",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/19/reconocieron-a-militantes-peronistas-en-la-ub-de-colonia-escalante/",
+    "title": "Reconocieron a militantes peronistas en la UB de Colonia Escalante",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/19/se-cobro-lo-del-sindico-de-pampetrol-la-revancha-de-tierno-contra-el-pro-en-portales-nacionales/",
+    "title": "Se cobró lo del síndico de Pampetrol: la revancha de Tierno contra el PRO, en portales nacionales",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/19/ziliotto-entrego-creditos-del-programa-llegar-a-casa-por-mas-de-454-millones-de-pesos/",
+    "title": "Ziliotto entregó créditos del programa “Llegar a Casa” por más de 454 millones de pesos",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/19/50marzos-estudiantes-de-la-unlpam-presentaron-una-revista-para-mantener-viva-la-memoria-colectiva/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/19/alerta-por-tormentas-fuertes-para-esta-noche-en-la-pampa/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/19/cientificos-argentinos-desarrollaron-una-remera-inteligente-que-mide-senales-del-cuerpo-en-tiempo-real/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/19/la-ucr-insiste-con-que-el-municipio-de-santa-rosa-publique-las-rto-de-todos-sus-vehiculos/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/19/llenar-el-changuito-en-la-pampa-cuesta-1-014-685-la-provincia-esta-entre-las-seis-mas-caras-del-pais/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/19/luiggi-la-oposicion-cuestiono-los-cambios-en-el-gabinete-municipal-y-puso-en-duda-el-achicamiento-del-estado/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/19/paritarias-con-los-estatales-se-retoman-las-negociaciones-y-el-gobierno-hace-una-nueva-propuesta/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/19/presentan-las-mascaras-de-alannah-un-libro-de-poesia-sobre-la-identidad/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/19/sibert-respaldo-la-candidatura-de-marita-mac-allister-y-hablo-de-la-continuidad-de-su-gestion-en-san-martin/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/19/sorprendio-a-un-ladron-en-su-casa-forcejeo-y-lo-encerro-hasta-que-llego-la-policia/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/19/ziliotto-entrego-creditos-del-llegar-a-casa-por-454-millones-de-pesos/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/19/ziliotto-hace-numeros-bono/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32311-marull-en-un-pais-normal-tendria-que-aplicarse-la-ley",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32312-apani-en-la-legislatura",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32313-reconoceran-economicamente-las-tutorias-docentes-del-programa-iniciar",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32314-peaje-a-vaca-muerta-la-experiencia-arranca-en-la-ruta-20-y-tambien-pagaran-los-autos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32315-santa-rosa-se-prepara-para-la-octava-marcha-del-orgullo",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32316-memoria-y-testimonios-estudiantes-presentaron-50marzos",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32317-ocho-deportistas-pampeanos-competiran-en-el-nacional-de-taekwondo-en-jujuy",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32318-carmen-vuelve-al-teatro-atp-con-sus-dos-ultimas-funciones-del-ano",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Radio Kermes",
+    "url": "https://www.radiokermes.com/noticias/32319-acuerdo-en-la-paritaria-entre-el-gobierno-y-los-gremios",
+    "title": null,
     "attempts": 0
   }
 ]
