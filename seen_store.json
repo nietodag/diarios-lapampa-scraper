@@ -1539,7 +1539,12 @@
     "https://www.pampadiario.com/single-post.php?id=83603": 1795028489.6520283,
     "https://www.pampadiario.com/single-post.php?id=83605": 1795028489.6520283,
     "https://www.pampadiario.com/single-post.php?id=83604": 1795028489.6520283,
-    "https://www.pampadiario.com/single-post.php?id=83606": 1795028489.6520283
+    "https://www.pampadiario.com/single-post.php?id=83606": 1795028489.6520283,
+    "https://www.pampadiario.com/single-post.php?id=83607": 1795077635.5649004,
+    "https://www.pampadiario.com/single-post.php?id=83610": 1795077635.5649004,
+    "https://www.pampadiario.com/single-post.php?id=83613": 1795077635.5649004,
+    "https://www.pampadiario.com/single-post.php?id=83593": 1795077635.5649004,
+    "https://www.pampadiario.com/single-post.php?id=83608": 1795077635.5649004
   },
   "Info Pico": {
     "https://www.infopico.com/2026/07/18/musica-e-inclusion-una-fundacion-de-la-pampa-organiza-un-show-con-total-accesibilidad-en-buenos-aires/": 1784416721.202942,
@@ -4156,7 +4161,8 @@
     "https://www.infopico.com/2026/11/18/avanza-en-comisiones-el-proyecto-de-peaje-en-rutas-pampeanas-y-se-debate-la-ley-de-bienestar-animal/": 1795050246.7545483,
     "https://www.infopico.com/2026/11/18/la-provincia-abrio-la-inscripcion-para-seis-cursos-virtuales-y-gratuitos-destinados-a-jovenes-pampeanos/": 1795050246.7545483,
     "https://www.infopico.com/2026/11/18/general-pico-una-mujer-y-un-menor-fueron-hospitalizados-tras-ser-chocados-por-una-moto-que-se-dio-a-la-fuga/": 1795050246.7545483,
-    "https://www.infopico.com/2026/11/18/una-motociclista-resulto-lesionada-tras-colisionar-con-una-camioneta-en-calles-21-y-20/": 1795050246.7545483
+    "https://www.infopico.com/2026/11/18/una-motociclista-resulto-lesionada-tras-colisionar-con-una-camioneta-en-calles-21-y-20/": 1795050246.7545483,
+    "https://www.infopico.com/2026/11/19/quini-6-un-apostador-acerto-todos-los-numeros-en-la-segunda-y-se-llevo-mas-de-3-200-millones/": 1795077635.5649004
   },
   "La Arena": {
     "https://www.laarena.com.ar/deportes/basquet-ferro-igualo-la-serie-ante-all-boys-20267188490": 1784416721.202942,
@@ -13297,7 +13303,33 @@
     "https://www.laarena.com.ar/la-pampa/rebolledo-acepto-que-hay-irregularidades-en-rendiciones-2026111819400": 1795050246.7545483,
     "https://www.laarena.com.ar/la-region/emitieron-alerta-por-tormentas-con-lluvia-abundante-posible-granizo-y-viento-para-la-region-2026111819370": 1795050246.7545483,
     "https://www.laarena.com.ar/el-pais/argentina-se-abstuvo-de-condenar-la-violencia-contra-mujeres-y-ninas-en-la-onu-2026111818110": 1795050246.7545483,
-    "https://www.laarena.com.ar/la-region/descubrieron-una-nueva-especie-de-escarabajo-y-lo-bautizaron-en-honor-al-indio-solari-202611182130": 1795050246.7545483
+    "https://www.laarena.com.ar/la-region/descubrieron-una-nueva-especie-de-escarabajo-y-lo-bautizaron-en-honor-al-indio-solari-202611182130": 1795050246.7545483,
+    "https://www.laarena.com.ar/el-pais/los-grobo-presento-tres-opciones-de-pago-202611190540": 1795077635.5649004,
+    "https://www.laarena.com.ar/el-pais/el-dolar-sigue-en-alza-y-logro-nuevo-record-nominal-202611190410": 1795077635.5649004,
+    "https://www.laarena.com.ar/el-pais/se-cayo-una-sesion-impulsada-por-lla-202611190540": 1795077635.5649004,
+    "https://www.laarena.com.ar/deportes/lema-en-la-prelista-de-basquet-202611190530": 1795077635.5649004,
+    "https://www.laarena.com.ar/el-pais/paso-el-gobierno-logro-el-dictamen-para-suspenderlas-202611190480": 1795077635.5649004,
+    "https://www.laarena.com.ar/el-pais/alperovich-condena-firme-y-pena-reducida-202611190540": 1795077635.5649004,
+    "https://www.laarena.com.ar/la-pampa/el-acto-fue-encabezado-por-el-secretario-general-nacional-de-upcn-y-secretario-adjunto-de-la-confederacion-general-del-trabajo-cgt-andres-rodriguez-y-el-secretario-general-de-upcn-la-pampa-jorge-lezcano-202611190410": 1795077635.5649004,
+    "https://www.laarena.com.ar/la-pampa/unidad-en-telen-ziliotto-maximo-y-un-mensaje-de-verna-202611190410": 1795077635.5649004,
+    "https://www.laarena.com.ar/la-pampa/si-no-me-levantaba-me-mataba-202611190410": 1795077635.5649004,
+    "https://www.laarena.com.ar/la-pampa/bajo-caudal-del-colorado-202611190530": 1795077635.5649004,
+    "https://www.laarena.com.ar/deportes/otro-fin-de-semana-a-puro-deporte-202611190530": 1795077635.5649004,
+    "https://www.laarena.com.ar/la-pampa/apani-pidio-politicas-publicas-202611190530": 1795077635.5649004,
+    "https://www.laarena.com.ar/opinion/justicia-segun-la-cara-o-billetera-202611190530": 1795077635.5649004,
+    "https://www.laarena.com.ar/deportes/triunfo-de-ferrero-pagella-202611190530": 1795077635.5649004,
+    "https://www.laarena.com.ar/la-pampa/la-militancia-se-reunio-en-bernasconi-202611190530": 1795077635.5649004,
+    "https://www.laarena.com.ar/la-pampa/convocan-a-una-marcha-del-orgullo-en-santa-rosa-202611190410": 1795077635.5649004,
+    "https://www.laarena.com.ar/el-pais/pension-por-viudez-fallo-a-favor-de-cfk-202611190540": 1795077635.5649004,
+    "https://www.laarena.com.ar/la-pampa/alvarez-entrego-creditos-en-eduardo-castex-202611190530": 1795077635.5649004,
+    "https://www.laarena.com.ar/la-pampa/los-recursos-no-son-suficientes-202611190410": 1795077635.5649004,
+    "https://www.laarena.com.ar/el-pais/perpetua-al-autor-del-triple-lesbicidio-202611190540": 1795077635.5649004,
+    "https://www.laarena.com.ar/la-region/buscan-a-un-hombre-que-habria-caido-a-un-canal-de-riego-202611182250": 1795077635.5649004,
+    "https://www.laarena.com.ar/el-pais/se-fue-leon-xiv-y-milei-volvio-a-la-carga-contra-la-justicia-social-202611190540": 1795077635.5649004,
+    "https://www.laarena.com.ar/la-pampa/toay-denuncian-a-rojas-por-no-mantener-calles-202611190530": 1795077635.5649004,
+    "https://www.laarena.com.ar/deportes/ferro-rompe-el-silencio-202611190530": 1795077635.5649004,
+    "https://www.laarena.com.ar/la-region/rescataron-a-un-hombre-de-83-anos-que-cayo-a-un-canal-pluvial-2026111817120": 1795077635.5649004,
+    "https://www.laarena.com.ar/la-pampa/el-siniestro-en-ruta-5-renovo-reclamos-por-mas-seguridad-202611190410": 1795077635.5649004
   },
   "LetraP": {
     "https://www.letrap.com.ar/politica/santiago-del-estero-el-pro-se-concentra-la-capital-y-la-banda-no-sucumbir-la-avanzada-libertaria-n5425166": 1784416721.202942,
@@ -16007,7 +16039,8 @@
     "https://www.letrap.com.ar/congreso/consejo-la-magistratura-bullrich-no-logro-imponer-sus-candidatos-y-avalo-un-lugar-mas-el-peronismo-n5428336": 1795050246.7545483,
     "https://www.letrap.com.ar/politica/la-fallida-sesion-diputados-revivio-la-interna-santiago-caputo-y-los-menem-n5428328": 1795050246.7545483,
     "https://www.letrap.com.ar/politica/patricia-bullrich-se-sube-las-negociaciones-colectoras-militara-la-suspension-las-paso-n5428319": 1795050246.7545483,
-    "https://www.letrap.com.ar/politica/encuesta-seis-cada-diez-personas-jamas-votarian-javier-milei-n5428302": 1795050246.7545483
+    "https://www.letrap.com.ar/politica/encuesta-seis-cada-diez-personas-jamas-votarian-javier-milei-n5428302": 1795050246.7545483,
+    "https://www.letrap.com.ar/lula-le-habla-al-peronismo-que-quiere-gobernar-n5428340": 1795077635.5649004
   },
   "El Diario de La Pampa": {
     "https://www.eldiariodelapampa.com.ar/pais/77403/morosidad-en-alza--se-agrava-el-problema-y-1-de-cada-3-argentinos-con-deuda-no-puede-pagar": 1784416721.202942,
@@ -21142,7 +21175,9 @@
     "https://www.eldiariodelapampa.com.ar/la-pampa/83326/guatrache-alcanzo-el-69-en-porciento--de-luminarias-led-en-su-alumbrado-publico": 1795050246.7545483,
     "https://www.eldiariodelapampa.com.ar/la-pampa/83312/una-tumba-abierta-dos-adn-negativos-y-una-identidad-sin-resolver": 1795050246.7545483,
     "https://www.eldiariodelapampa.com.ar/la-pampa/83327/jubilaciones-en-la-pampa--los-haberes-de-noviembre-a-disposicion-desde-las-00-del-sabado-21": 1795050246.7545483,
-    "https://www.eldiariodelapampa.com.ar/pais/83324/milei-dijo-que-fue-para-el-kirchnerismo-su-mensaje-contra-los-que-quieren-hundir-el-barco": 1795050246.7545483
+    "https://www.eldiariodelapampa.com.ar/pais/83324/milei-dijo-que-fue-para-el-kirchnerismo-su-mensaje-contra-los-que-quieren-hundir-el-barco": 1795050246.7545483,
+    "https://www.eldiariodelapampa.com.ar/deportes/83330/leo-lema-entre-los-convocados-de-la-seleccion": 1795077635.5649004,
+    "https://www.eldiariodelapampa.com.ar/linea-abierta/83332/mensajes-19-11-2026": 1795077635.5649004
   },
   "Dos Bases": {
     "https://www.dosbases.com.ar/2019/01/dinosaurios-vivos-el-fiscal-aguero-alerto-sobre-un-boom-de-estafas-a-telefonicas-y-recomienda-que-el-blp-no-permita-a-jubilados-transferencias-de-montos-altos-por-cajero/": 1784416721.202942,
@@ -29325,7 +29360,8 @@
     "https://www.planbnoticias.com.ar/index.php/2026/11/18/sorprendio-a-un-hombre-dentro-de-su-casa-y-lo-retuvo-hasta-la-llegada-de-la-policia/": 1795050246.7545483,
     "https://www.planbnoticias.com.ar/index.php/2026/11/18/el-sitraj-pidio-mejorar-la-oferta-salarial-y-lanzo-reclamos-en-las-defensorias-civiles/": 1795050246.7545483,
     "https://www.planbnoticias.com.ar/index.php/2026/11/18/guatrache-ya-cuenta-con-el-69-de-su-alumbrado-publico-con-tecnologia-led/": 1795050246.7545483,
-    "https://www.planbnoticias.com.ar/index.php/2026/11/18/vuelve-la-galponera-con-una-nueva-noche-de-folklore-en-la-rural/": 1795050246.7545483
+    "https://www.planbnoticias.com.ar/index.php/2026/11/18/vuelve-la-galponera-con-una-nueva-noche-de-folklore-en-la-rural/": 1795050246.7545483,
+    "https://www.planbnoticias.com.ar/index.php/2026/11/18/bisterfeld-e-intronatti-defendieron-el-proyecto-de-peajes-en-la-legislatura/": 1795077635.5649004
   },
   "Infotec Realicó": {
     "https://infotecrealico.com.ar/contenido/86896/la-provincia-no-aprobo-el-informe-final-ambiental-de-el-medanito-y-remitio-un-in": 1784416721.202942,
