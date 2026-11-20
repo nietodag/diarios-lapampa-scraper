@@ -1557,7 +1557,8 @@
     "https://www.pampadiario.com/single-post.php?id=83620": 1795132087.3866892,
     "https://www.pampadiario.com/single-post.php?id=83626": 1795132087.3866892,
     "https://www.pampadiario.com/single-post.php?id=83591": 1795132087.3866892,
-    "https://www.pampadiario.com/single-post.php?id=83622": 1795132087.3866892
+    "https://www.pampadiario.com/single-post.php?id=83622": 1795132087.3866892,
+    "https://www.pampadiario.com/single-post.php?id=83628": 1795148593.353503
   },
   "Info Pico": {
     "https://www.infopico.com/2026/07/18/musica-e-inclusion-una-fundacion-de-la-pampa-organiza-un-show-con-total-accesibilidad-en-buenos-aires/": 1784416721.202942,
@@ -4191,7 +4192,10 @@
     "https://www.infopico.com/2026/11/19/enfermeria-en-la-pampa-290-egresados-y-el-fin-de-los-estudiantes-viajeros-en-general-pico/": 1795132087.3866892,
     "https://www.infopico.com/2026/11/19/choque-entre-dos-motos-en-circunvalacion-y-calle-13-un-conductor-fue-hospitalizado/": 1795132087.3866892,
     "https://www.infopico.com/2026/11/19/guatrache-alcanzo-el-69-de-alumbrado-publico-led-tras-una-nueva-entrega-provincial/": 1795132087.3866892,
-    "https://www.infopico.com/2026/11/19/ziliotto-entrego-creditos-del-programa-llegar-a-casa-por-mas-de-454-millones-y-ratifico-la-construccion-de-400-viviendas/": 1795132087.3866892
+    "https://www.infopico.com/2026/11/19/ziliotto-entrego-creditos-del-programa-llegar-a-casa-por-mas-de-454-millones-y-ratifico-la-construccion-de-400-viviendas/": 1795132087.3866892,
+    "https://www.infopico.com/2026/11/19/un-hombre-fue-herido-con-un-arma-blanca-en-la-via-publica/": 1795148593.353503,
+    "https://www.infopico.com/2026/11/19/convocatoria-abierta-en-general-pico-para-participar-de-la-propuesta-museo-urbano/": 1795148593.353503,
+    "https://www.infopico.com/2026/11/19/la-municipalidad-de-general-pico-llevo-adelante-una-jornada-integral-de-limpieza-en-barrio-norte/": 1795148593.353503
   },
   "La Arena": {
     "https://www.laarena.com.ar/deportes/basquet-ferro-igualo-la-serie-ante-all-boys-20267188490": 1784416721.202942,
@@ -13399,7 +13403,38 @@
     "https://www.laarena.com.ar/la-region/emitieron-alerta-amarilla-por-tormentas-para-la-region-2026111918360": 1795132087.3866892,
     "https://www.laarena.com.ar/la-pampa/robo-una-mochila-de-un-comercio-y-lo-detuvieron-2026111917490": 1795132087.3866892,
     "https://www.laarena.com.ar/la-pampa/chinche-molle-presenta-pasionaria-su-primer-album-de-estudio-2026111920240": 1795132087.3866892,
-    "https://www.laarena.com.ar/la-pampa/viara-rechazo-el-presupuesto-2027-y-reclamo-por-sala-de-rayos-en-pico-2026111917120": 1795132087.3866892
+    "https://www.laarena.com.ar/la-pampa/viara-rechazo-el-presupuesto-2027-y-reclamo-por-sala-de-rayos-en-pico-2026111917120": 1795132087.3866892,
+    "https://www.laarena.com.ar/deportes/derrota-de-argentina-202611200130": 1795148593.353503,
+    "https://www.laarena.com.ar/la-pampa/presentan-hoy-el-libro-sobre-el-resonado-caso-de-rufino-otero-20261120040": 1795148593.353503,
+    "https://www.laarena.com.ar/la-pampa/retuvo-a-un-ladron-dentro-de-su-casa-202611200120": 1795148593.353503,
+    "https://www.laarena.com.ar/la-pampa/el-palomar-reabrio-sus-puertas-20261120040": 1795148593.353503,
+    "https://www.laarena.com.ar/la-pampa/importante-distincion-al-escritor-omar-lobos-en-rusia-20261120040": 1795148593.353503,
+    "https://www.laarena.com.ar/la-pampa/chinche-molle-presenta-pasionaria-202611200120": 1795148593.353503,
+    "https://www.laarena.com.ar/el-mundo/historica-cumbre-trilateral-en-china-202611200120": 1795148593.353503,
+    "https://www.laarena.com.ar/opinion/el-aire-de-este-tiempo-202611200120": 1795148593.353503,
+    "https://www.laarena.com.ar/la-pampa/alta-al-nino-accidentado-en-la-ruta-5-202611200120": 1795148593.353503,
+    "https://www.laarena.com.ar/la-pampa/robo-una-mochila-de-un-comercio-20261120040": 1795148593.353503,
+    "https://www.laarena.com.ar/la-pampa/la-unlpam-se-solidarizo-con-investigadora-exonerada-202611200120": 1795148593.353503,
+    "https://www.laarena.com.ar/deportes/velez-se-mide-ante-belgrano-202611200130": 1795148593.353503,
+    "https://www.laarena.com.ar/la-pampa/inversiones-que-permiten-prevenir-problemas-202611200120": 1795148593.353503,
+    "https://www.laarena.com.ar/el-pais/el-riesgo-pais-volvio-a-superar-los-900-puntos-20261120040": 1795148593.353503,
+    "https://www.laarena.com.ar/la-pampa/intento-robar-una-bicicleta-con-un-arma-blanca-202611200120": 1795148593.353503,
+    "https://www.laarena.com.ar/la-region/mar-del-plata-la-campagnola-cerro-planta-2026111921150": 1795148593.353503,
+    "https://www.laarena.com.ar/la-region/conmovio-a-todos-una-nina-elabora-facturas-y-las-vende-para-pagar-su-tratamiento-medico-2026111921260": 1795148593.353503,
+    "https://www.laarena.com.ar/la-pampa/entregaron-84-creditos-a-emprendedores-de-santa-rosa-2026111920510": 1795148593.353503,
+    "https://www.laarena.com.ar/la-pampa/celebraron-el-dia-nacional-de-la-enfermeria-2026111921550": 1795148593.353503,
+    "https://www.laarena.com.ar/el-mundo/groenlandia-aprobaron-acuerdo-que-amplia-acceso-militar-de-ee-uu-202611200120": 1795148593.353503,
+    "https://www.laarena.com.ar/la-pampa/salas-de-3-anos-es-fundamental-por-el-contexto-social-actual-20261120040": 1795148593.353503,
+    "https://www.laarena.com.ar/la-pampa/ziliotto-entrego-creditos-llegar-a-casa-202611200120": 1795148593.353503,
+    "https://www.laarena.com.ar/la-pampa/entregaron-84-creditos-a-emprendedores-de-santa-rosa-202611200120": 1795148593.353503,
+    "https://www.laarena.com.ar/la-pampa/estatales-4-en-noviembre-y-clausula-gatillo-en-enero-20261120040": 1795148593.353503,
+    "https://www.laarena.com.ar/la-pampa/este-viernes-vuelve-la-pena-la-galponera-2026111921410": 1795148593.353503,
+    "https://www.laarena.com.ar/deportes/colapinto-corre-en-las-vegas-202611200130": 1795148593.353503,
+    "https://www.laarena.com.ar/opinion/tradicion-en-chapalco-202611200120": 1795148593.353503,
+    "https://www.laarena.com.ar/la-pampa/con-deficit-cero-diputados-aprobo-el-presupuesto-2027-20261120040": 1795148593.353503,
+    "https://www.laarena.com.ar/deportes/boca-suena-con-millones-202611200130": 1795148593.353503,
+    "https://www.laarena.com.ar/deportes/all-boys-y-el-rojo-abren-la-gran-final-202611200130": 1795148593.353503,
+    "https://www.laarena.com.ar/deportes/velocidad-y-adrenalina-en-dos-ruedas-202611200130": 1795148593.353503
   },
   "LetraP": {
     "https://www.letrap.com.ar/politica/santiago-del-estero-el-pro-se-concentra-la-capital-y-la-banda-no-sucumbir-la-avanzada-libertaria-n5425166": 1784416721.202942,
@@ -16131,7 +16166,10 @@
     "https://www.letrap.com.ar/politica/las-paso-siguen-firmes-la-ciudad-buenos-aires-un-movimiento-que-tensiona-propios-y-aliados-n5428358": 1795132087.3866892,
     "https://www.letrap.com.ar/sociedad/fundar-reunio-mas-250-referentes-la-politica-y-el-sector-privado-su-brindis-fin-ano-n5428380": 1795132087.3866892,
     "https://www.letrap.com.ar/politica/rosario-aleart-se-corto-solo-un-proyecto-encarcelar-cuidacoches-y-complica-su-relacion-el-bloque-n5428367": 1795132087.3866892,
-    "https://www.letrap.com.ar/congreso/consejo-la-magistratura-karina-milei-le-gana-el-duelo-patricia-bulrich-e-impone-nadia-marquez-n5428366": 1795132087.3866892
+    "https://www.letrap.com.ar/congreso/consejo-la-magistratura-karina-milei-le-gana-el-duelo-patricia-bulrich-e-impone-nadia-marquez-n5428366": 1795132087.3866892,
+    "https://www.letrap.com.ar/politica/la-magistratura-portena-revive-el-juicio-las-juntas-gil-lavedra-convivira-un-defensor-represores-n5428378": 1795148593.353503,
+    "https://www.letrap.com.ar/congreso/propiedad-privada-la-libertad-avanza-sanciono-el-proyecto-sturzenegger-y-le-sumo-la-ley-tierras-cfk-n5428383": 1795148593.353503,
+    "https://www.letrap.com.ar/congreso/limite-donald-trump-el-congreso-ratifico-el-tratado-patentes-proteccion-los-laboratorios-locales-n5428382": 1795148593.353503
   },
   "El Diario de La Pampa": {
     "https://www.eldiariodelapampa.com.ar/pais/77403/morosidad-en-alza--se-agrava-el-problema-y-1-de-cada-3-argentinos-con-deuda-no-puede-pagar": 1784416721.202942,
@@ -21317,7 +21355,13 @@
     "https://www.eldiariodelapampa.com.ar/pais/83368/una-encuesta-midio-la-desaprobacion-al-gobierno-de-milei-y-el-malestar-por-la-economia": 1795132087.3866892,
     "https://www.eldiariodelapampa.com.ar/pais/83374/el-senado-tratara-la-prorroga-del-estatuto-del-periodista-profesional": 1795132087.3866892,
     "https://www.eldiariodelapampa.com.ar/pais/83383/villarruel-volvio-a-diferenciarse-del-gobierno--sin-industria-no-hay-trabajo": 1795132087.3866892,
-    "https://www.eldiariodelapampa.com.ar/pais/83380/dura-critica-de-las-prepagas-al-fallo-judicial-que-frena-aumentos--estan-matando-al-sistema": 1795132087.3866892
+    "https://www.eldiariodelapampa.com.ar/pais/83380/dura-critica-de-las-prepagas-al-fallo-judicial-que-frena-aumentos--estan-matando-al-sistema": 1795132087.3866892,
+    "https://www.eldiariodelapampa.com.ar/la-pampa/83385/nacion-finalmente-pagaria-la-deuda-con-los-bomberos-voluntarios": 1795148593.353503,
+    "https://www.eldiariodelapampa.com.ar/deportes/83406/all-boys---sportivo-independiente-capitulo-i": 1795148593.353503,
+    "https://www.eldiariodelapampa.com.ar/la-pampa/83384/besga--cada-cuota-que-ustedes-pagan-vuelve-a-circular-y-le-abre-la-puerta-a-otra-persona": 1795148593.353503,
+    "https://www.eldiariodelapampa.com.ar/deportes/83405/victorica-una-fiesta-con-acento-pampeano": 1795148593.353503,
+    "https://www.eldiariodelapampa.com.ar/linea-abierta/83399/mensajes-20-11-2026": 1795148593.353503,
+    "https://www.eldiariodelapampa.com.ar/deportes/83403/cierre-para-una-intensa-temporada": 1795148593.353503
   },
   "Dos Bases": {
     "https://www.dosbases.com.ar/2019/01/dinosaurios-vivos-el-fiscal-aguero-alerto-sobre-un-boom-de-estafas-a-telefonicas-y-recomienda-que-el-blp-no-permita-a-jubilados-transferencias-de-montos-altos-por-cajero/": 1784416721.202942,
@@ -29521,7 +29565,11 @@
     "https://www.planbnoticias.com.ar/index.php/2026/11/19/villarruel-volvio-a-diferenciarse-del-gobierno-sin-industria-no-hay-trabajo/": 1795132087.3866892,
     "https://www.planbnoticias.com.ar/index.php/2026/11/19/la-coparticipacion-municipal-crecera-un-4685-en-2027-proyectan-distribuir-184-112-millones/": 1795132087.3866892,
     "https://www.planbnoticias.com.ar/index.php/2026/11/19/lo-identificaron-por-el-robo-de-una-mochila-y-quedo-detenido-por-otras-causas-judiciales/": 1795132087.3866892,
-    "https://www.planbnoticias.com.ar/index.php/2026/11/19/la-corte-determino-que-las-prepagas-deberan-pedirle-autorizacion-al-gobierno-antes-de-aplicar-un-aumento/": 1795132087.3866892
+    "https://www.planbnoticias.com.ar/index.php/2026/11/19/la-corte-determino-que-las-prepagas-deberan-pedirle-autorizacion-al-gobierno-antes-de-aplicar-un-aumento/": 1795132087.3866892,
+    "https://www.planbnoticias.com.ar/index.php/2026/11/19/altolaguirre-sobre-el-presupuesto-menos-recursos-para-producir-y-mas-gastos-para-sostener-el-estado/": 1795148593.353503,
+    "https://www.planbnoticias.com.ar/index.php/2026/11/19/senado-se-aprobo-por-unanimidad-una-ley-permanente-de-discapacidad-que-mantiene-los-beneficios-de-la-emergencia/": 1795148593.353503,
+    "https://www.planbnoticias.com.ar/index.php/2026/11/19/reabre-el-paseo-gastronomico-del-parque-lineal-con-19-foodtrucks-y-musica-en-vivo/": 1795148593.353503,
+    "https://www.planbnoticias.com.ar/index.php/2026/11/19/como-hace-44-anos-la-pampa-volvera-a-tener-un-presupuesto-sin-deficit-fiscal/": 1795148593.353503
   },
   "Infotec Realicó": {
     "https://infotecrealico.com.ar/contenido/86896/la-provincia-no-aprobo-el-informe-final-ambiental-de-el-medanito-y-remitio-un-in": 1784416721.202942,
@@ -33389,7 +33437,12 @@
     "https://diariotextual.com/inicio/index.php/2026/11/19/el-coral-ciudad-santa-rosa-celebra-40-anos-con-un-espectaculo-en-el-teatro-espanol/": 1795132087.3866892,
     "https://diariotextual.com/inicio/index.php/2026/11/19/santa-rosa-provincia-entrego-creditos-a-84-emprendedores/": 1795132087.3866892,
     "https://diariotextual.com/inicio/index.php/2026/11/19/ziliotto-festejo-la-aprobacion-del-presupuesto-2027-somos-la-unica-garantia-de-continuidad-de-un-modelo-de-provincia/": 1795132087.3866892,
-    "https://diariotextual.com/inicio/index.php/2026/11/19/dictaran-un-seminario-de-actuacion-para-adolescentes-en-santa-rosa/": 1795132087.3866892
+    "https://diariotextual.com/inicio/index.php/2026/11/19/dictaran-un-seminario-de-actuacion-para-adolescentes-en-santa-rosa/": 1795132087.3866892,
+    "https://diariotextual.com/inicio/index.php/2026/11/19/no-convoca-para-un-paro-pero-la-cgt-llamara-a-un-cese-de-actividades-de-dos-horas/": 1795148593.353503,
+    "https://diariotextual.com/inicio/index.php/2026/11/19/controles-publicos-el-tribunal-de-cuentas-visito-entidades-de-general-pico/": 1795148593.353503,
+    "https://diariotextual.com/inicio/index.php/2026/11/19/diputada-del-pro-justifico-su-rechazo-al-presupuesto-provincial/": 1795148593.353503,
+    "https://diariotextual.com/inicio/index.php/2026/11/19/teatro-el-5to-mandamiento-suma-nuevas-funciones-en-el-palomar/": 1795148593.353503,
+    "https://diariotextual.com/inicio/index.php/2026/11/19/el-senado-aprobo-por-unanimidad-la-ley-permanente-de-discapacidad/": 1795148593.353503
   },
   "Radio Kermes": {
     "https://www.radiokermes.com/noticias/30889-el-partido-argentina-enfrenta-a-inglaterra-y-busca-la-final-mundial": 1784416721.202942,

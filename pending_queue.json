@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80782/nos-quedara-su-integridad-como-persona",
     "title": "Ziliotto: \"Nos quedar&aacute; su integridad como persona\"",
-    "attempts": 2
+    "attempts": 3
   },
   {
     "site": "El Diario de La Pampa",
@@ -51374,6 +51374,138 @@
   {
     "site": "Radio Kermes",
     "url": "https://www.radiokermes.com/noticias/32320-se-aprobo-el-presupuesto-y-ziliotto-reivindica-la-continuidad-del-modelo-de-provincia",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83628",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/19/convocatoria-abierta-en-general-pico-para-participar-de-la-propuesta-museo-urbano/",
+    "title": "Convocatoria abierta en General Pico para participar de la propuesta “Museo Urbano”",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/19/la-municipalidad-de-general-pico-llevo-adelante-una-jornada-integral-de-limpieza-en-barrio-norte/",
+    "title": "La Municipalidad de General Pico llevó adelante una jornada integral de limpieza en barrio Norte",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/19/un-hombre-fue-herido-con-un-arma-blanca-en-la-via-publica/",
+    "title": "Un hombre fue herido con un arma blanca en la vía pública",
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/congreso/limite-donald-trump-el-congreso-ratifico-el-tratado-patentes-proteccion-los-laboratorios-locales-n5428382",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/congreso/propiedad-privada-la-libertad-avanza-sanciono-el-proyecto-sturzenegger-y-le-sumo-la-ley-tierras-cfk-n5428383",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/la-magistratura-portena-revive-el-juicio-las-juntas-gil-lavedra-convivira-un-defensor-represores-n5428378",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/83403/cierre-para-una-intensa-temporada",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/83405/victorica-una-fiesta-con-acento-pampeano",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/83406/all-boys---sportivo-independiente-capitulo-i",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/83384/besga--cada-cuota-que-ustedes-pagan-vuelve-a-circular-y-le-abre-la-puerta-a-otra-persona",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/la-pampa/83385/nacion-finalmente-pagaria-la-deuda-con-los-bomberos-voluntarios",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/linea-abierta/83399/mensajes-20-11-2026",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/19/altolaguirre-sobre-el-presupuesto-menos-recursos-para-producir-y-mas-gastos-para-sostener-el-estado/",
+    "title": "Altolaguirre sobre el Presupuesto: “Menos recursos para producir y más gastos para sostener el Estado”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/19/como-hace-44-anos-la-pampa-volvera-a-tener-un-presupuesto-sin-deficit-fiscal/",
+    "title": "“Como hace 44 años, La Pampa volverá a tener un presupuesto sin déficit fiscal”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/19/reabre-el-paseo-gastronomico-del-parque-lineal-con-19-foodtrucks-y-musica-en-vivo/",
+    "title": "Reabre el Paseo Gastronómico del Parque Lineal con 19 foodtrucks y música en vivo",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/19/senado-se-aprobo-por-unanimidad-una-ley-permanente-de-discapacidad-que-mantiene-los-beneficios-de-la-emergencia/",
+    "title": "Senado: Se aprobó una ley permanente de discapacidad que mantiene los beneficios de la emergencia",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/19/controles-publicos-el-tribunal-de-cuentas-visito-entidades-de-general-pico/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/19/diputada-del-pro-justifico-su-rechazo-al-presupuesto-provincial/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/19/el-senado-aprobo-por-unanimidad-la-ley-permanente-de-discapacidad/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/19/no-convoca-para-un-paro-pero-la-cgt-llamara-a-un-cese-de-actividades-de-dos-horas/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/19/teatro-el-5to-mandamiento-suma-nuevas-funciones-en-el-palomar/",
     "title": null,
     "attempts": 0
   }
