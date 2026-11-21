@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80782/nos-quedara-su-integridad-como-persona",
     "title": "Ziliotto: \"Nos quedar&aacute; su integridad como persona\"",
-    "attempts": 7
+    "attempts": 8
   },
   {
     "site": "El Diario de La Pampa",
@@ -52340,6 +52340,240 @@
   {
     "site": "Diario Textual",
     "url": "https://diariotextual.com/inicio/index.php/2026/11/21/franco-colapinto-largara-noveno-en-el-gp-de-las-vegas/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83576",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83639",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Pampa Diario",
+    "url": "https://www.pampadiario.com/single-post.php?id=83645",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/21/con-presencia-de-referentes-nacionales-la-juventud-de-la-libertad-avanza-realizo-su-congreso-federal-en-la-pampa/",
+    "title": "Con presencia de referentes nacionales, la Juventud de La Libertad Avanza realizó su Congreso Federal en La Pampa",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/21/cronograma-de-recoleccion-de-residuos-especiales-para-las-zonas-5-y-6-en-general-pico/",
+    "title": "Cronograma de recolección de residuos especiales para las zonas 5 y 6 en General Pico",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/21/el-bono-viene-a-traer-un-paliativo-la-intersindical-cerro-la-paritaria-y-define-el-extra-de-fin-de-ano-el-15-de-diciembre/",
+    "title": "«El bono viene a traer un paliativo»: la Intersindical cerró la paritaria y define el extra de fin de año el 15 de diciembre",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/21/fuerte-choque-en-calles-304-y-311-una-motociclista-fue-hospitalizada-tras-ser-arrastrada-por-una-camioneta/",
+    "title": "Fuerte choque en calles 304 y 311: una motociclista fue hospitalizada tras ser arrastrada por una camioneta",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/21/general-pico-mira-como-funcionaran-los-servicios-publicos-durante-el-fin-de-semana-largo/",
+    "title": "General Pico:  Mirá cómo funcionarán los servicios públicos durante el fin de semana largo",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/21/kroneberger-destaco-los-acuerdos-en-el-senado-para-renovar-el-comite-nacional-para-la-prevencion-de-la-tortura/",
+    "title": "Kroneberger destacó los acuerdos en el Senado para renovar el Comité Nacional para la Prevención de la Tortura",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/21/presentaron-memorias-del-bosque-olvidado-el-film-que-rescata-la-riqueza-y-los-desafios-del-caldenal-pampeano/",
+    "title": "Presentaron “Memorias del bosque olvidado”, el film que rescata la riqueza y los desafíos del caldenal pampeano",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/21/pronostico-palmeiras-vs-flamengo-partido-por-el-brasileirao/",
+    "title": "Pronóstico Palmeiras vs Flamengo, partido por el Brasileirão",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/21/siniestro-fatal-en-la-ruta-1-fiscalia-identifico-al-motociclista-fallecido/",
+    "title": "Siniestro fatal en la Ruta 1: Fiscalía identificó al motociclista fallecido",
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/21/telebingo-extraordinario-y-boom-del-juego-online-ya-recauda-un-40-mas-que-todos-los-otros-juegos-juntos/",
+    "title": "Telebingo extraordinario y boom del juego online: «ya recauda un 40% más que todos los otros juegos juntos»",
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/conurbano/diciembre-super-accion-la-legislatura-bonaerense-n5428407",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/el-peronismo-neuquen-puso-fecha-definir-su-estrategia-electoral-rumbo-al-14-febrero-n5428397",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/felipe-michlig-descarta-las-paso-la-vicegobernacion-y-agita-la-formula-pullaro-scaglia-santa-fe-n5428389",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/hay-plata-el-incaa-javier-milei-contratara-un-curso-capacitacion-liderazgo-su-conduccion-n5428330",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/jalil-ya-aviso-que-catamarca-elegira-gobernador-octubre-pero-saadi-intenta-convencerlo-votar-marzo-n5428379",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/la-pelea-el-voto-evangelico-jujuy-el-radicalismo-busca-recuperar-terreno-el-crecimiento-lla-n5428406",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/la-ucr-rebelde-rios-arma-un-acto-storani-y-le-hace-un-guino-al-kicillofismo-n5428384",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/los-tres-cierres-ano-javier-milei-presentacion-libro-congreso-partidario-y-cumbre-la-juventud-n5428394",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/quienes-asoman-el-semillero-la-libertad-avanza-la-pelea-la-ciudad-buenos-aires-n5428363",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/quienes-asoman-el-semillero-la-ucr-la-pelea-la-ciudad-buenos-aires-n5428399",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/salven-al-pj-acuerdo-kicillof-maximo-kirchner-asumio-la-presidencia-del-congreso-partidario-n5428427",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/san-francisco-la-ucr-cruzo-bernarte-seguridad-y-padrones-truchos-y-el-pj-denuncia-campana-sucia-n5428333",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/un-terreno-lazaro-baez-santa-cruz-termino-manos-un-juez-designado-claudio-vidal-n5428269",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/21/boca-y-mineiro-juegan-la-final-de-la-copa-sudamericana/",
+    "title": "Boca y Mineiro juegan la final de la Copa Sudamericana",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/21/canticos-contra-el-pinguino-los-soldados-del-leon-y-la-bandera-de-ravier-gobernador/",
+    "title": "Cánticos contra “el pingüino”, “los soldados del león” y la bandera de Ravier Gobernador",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/21/el-paseo-gastronomico-del-parque-lineal-reabrio-con-19-foodtrucks/",
+    "title": "El Paseo Gastronómico del Parque Lineal reabrió con 19 foodtrucks",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/21/el-peronismo-esta-vivo-porque-su-militancia-sigue-de-pie/",
+    "title": "“El peronismo está vivo porque su militancia sigue de pie”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/21/era-milei-cerraron-mas-de-53-000-kioscos-de-barrio-y-la-caida-de-ventas-es-historica/",
+    "title": "Era Milei: Cerraron más de 53.000 kioscos de barrio y la caída de ventas es histórica",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/21/explosion-en-remedios-de-escalada-confirmaron-las-muertes-de-dos-operarios-de-la-empresa-tercerizada/",
+    "title": "Explosión en Remedios de Escalada: confirmaron las muertes de dos operarios de la empresa tercerizada",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/21/opinion-salir-del-sillon/",
+    "title": "OPINIÓN: Salir del sillón",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/21/peretti-no-hay-concentracion-de-tierra-sin-violencia-que-la-sostenga/",
+    "title": "Peretti: “No hay concentración de tierra sin violencia que la sostenga”",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/21/recuperan-una-moto-robada-en-santa-rosa/",
+    "title": "Recuperan una moto robada en Santa Rosa",
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/21/tres-muertos-en-un-choque-seguido-de-incendio-en-panamericana/",
+    "title": "Tres muertos en un choque seguido de incendio en Panamericana,",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/21/el-paseo-gastronomico-del-parque-lineal-tuvo-su-reapertura-al-atardecer-con-dj-y-los-sabores-de-19-foodtrucks/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/21/ley-de-glaciares-ongs-ambientalistas-le-apuntan-al-juez-baric-por-dejarlos-afuera-de-la-demanda/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/21/por-que-el-riesgo-pais-supero-los-1-000-puntos-economistas-explican-causas-y-consecuencias/",
     "title": null,
     "attempts": 0
   }
