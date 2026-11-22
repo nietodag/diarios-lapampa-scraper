@@ -3,7 +3,7 @@
     "site": "El Diario de La Pampa",
     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/80782/nos-quedara-su-integridad-como-persona",
     "title": "Ziliotto: \"Nos quedar&aacute; su integridad como persona\"",
-    "attempts": 10
+    "attempts": 11
   },
   {
     "site": "El Diario de La Pampa",
@@ -52880,6 +52880,66 @@
   {
     "site": "Diario Textual",
     "url": "https://diariotextual.com/inicio/index.php/2026/11/21/boca-dio-catedra-vencio-2-0-a-atletico-mineiro-y-se-consagro-campeon-de-la-copa-sudamericana/",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Info Pico",
+    "url": "https://www.infopico.com/2026/11/21/liga-argentina-de-basquet-pico-fbc-se-hizo-fuerte-en-el-parque-angel-larrea-y-vencio-a-union-de-mar-del-plata/",
+    "title": "Liga Argentina de Básquet: Pico FBC se hizo fuerte en el Parque Ángel Larrea y venció a Unión de Mar del Plata",
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/la-quinta-pata/la-guerra-las-paso-desnuda-javier-milei-y-al-peronismo-n5428409",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-regreso-gerardo-morales-vuelve-jujuy-diciembre-un-mano-mano-decisivo-carlos-sadir-n5428417",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/el-riesgo-javier-milei-cordoba-n5428423",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/las-paso-unidos-y-la-camara-baja-como-territorio-disputa-la-ucr-y-el-socialismo-n5428390",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "LetraP",
+    "url": "https://www.letrap.com.ar/politica/un-verano-politico-chubut-n5428425",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/83483/francisco-labriola-oro-en-caba",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/deportes/83484/victoria-de-pico-football",
+    "title": null,
+    "attempts": 0
+  },
+  {
+    "site": "Plan B Noticias",
+    "url": "https://www.planbnoticias.com.ar/index.php/2026/11/22/paredes-sufrio-un-desmayo-tras-la-consagracion-de-boca-en-la-copa-sudamericana/",
+    "title": "Paredes sufrió un desmayo tras la consagración de Boca en la Copa Sudamericana",
+    "attempts": 0
+  },
+  {
+    "site": "Diario Textual",
+    "url": "https://diariotextual.com/inicio/index.php/2026/11/22/colapinto-termino-6-en-un-sorprendente-gp-de-las-vegas-de-f1-que-gano-max-verstappen/",
     "title": null,
     "attempts": 0
   }
